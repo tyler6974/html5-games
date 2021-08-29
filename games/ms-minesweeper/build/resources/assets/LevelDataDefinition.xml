@@ -1,0 +1,1142 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameTypes>
+  <Regular>
+    <Mode id="CLASSIC">
+      <Difficulty id="Easy">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="BoardWidth" min="9"/>
+        <Param id="BoardHeight" min="9"/>
+        <Param id="BombCount" min="10"/>
+        <Param id="RestrictLives" min="1"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Medium">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="40"/>
+        <Param id="RestrictLives" min="1"/>
+      
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="2000"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="400"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="24"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="250"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Hard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="BoardWidth" min="30"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="99"/>
+        <Param id="RestrictLives" min="1"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="1250"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="6000"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="1200"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="80"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="1250"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+    </Mode>
+    <Mode id="PATH_FINDER">
+      <Difficulty id="Hard">
+        <Param id="Seed" min="0"/>
+        <Param id="Level" min="0"/>
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="BoardWidth" min="50"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="150"/>
+        <Param id="Chests" min="10"/>
+        <Param id="Gates" min="2"/>
+        <Param id="Turns" min="10"/>
+        <Param id="Heuristic" min="0"/>
+        <Param id="DiagonalsAllowed" min="1"/>
+        <Param id="ShowElements" min="0"/>
+        <Param id="Treasures" min="1"/>
+        <Param id="Visibility" min="2"/>
+        <Param id="ShowCorners" min="0"/>
+        <Param id="RestrictLives" min="1"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+    </Mode>
+  </Regular>
+
+  <Dailychallenge>
+    <Mode id="DAILY_CHALLENGE_CLASSIC">
+      <Difficulty id="Easy">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        
+        
+        <Param id="BoardWidth" min="10" max="12" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="12" toEven="1"/>
+
+        <Param id="BombDensity" min="12346"/>
+
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Medium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+
+
+        <Param id="BoardWidth" min="10" max="12" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="12" toEven="1"/>
+
+        <Param id="BombDensity" min="12346"/>
+
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Hard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Expert">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="22625"/>
+
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedEasy">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="200"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="10" max="12" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="12" toEven="1"/>
+
+        <Param id="BombDensity" min="12346"/>
+
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedMedium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="200"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="10" max="12" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="12" toEven="1"/>
+
+        <Param id="BombDensity" min="12346"/>
+
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedHard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="500"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedExpert">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="500"/>
+         <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="22625"/>
+
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+    </Mode>
+    <Mode id="DAILY_CHALLENGE_TAPS">
+      <Difficulty id="Easy">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="10" max="12" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="12" toEven="1"/>
+
+        <Param id="BombDensity" min="12346"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="2"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="10" max="10"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Medium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16" max="20" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="15625"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Hard">
+        <Param id="LevelIterations" min="3"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="10"/>
+        
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Expert">
+        <Param id="LevelIterations" min="3"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="22625"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedEasy">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="200"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="10" max="12" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="12" toEven="1"/>
+
+        <Param id="BombDensity" min="12346"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="10" max="10"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedMedium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="320"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16" max="20" toEven="1"/>
+        <Param id="BoardHeight" min="10" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="15625"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedHard">
+        <Param id="LevelIterations" min="3"/>
+        <Param id="LevelTime" min="500"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="UncoverTilesTarget" min="10"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedExpert">
+        <Param id="LevelIterations" min="3"/>
+        <Param id="LevelTime" min="500"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="22625"/>
+
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="1"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="1"/>
+        
+        <Param id="UncoverTilesTarget" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>      
+    </Mode>
+
+    <Mode id="DAILY_CHALLENGE_FLAGGED">
+      <Difficulty id="Easy">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="10"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="0"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Medium">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="9"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="1"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Hard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="8"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="2"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Expert">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="8"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="2"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedEasy">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="180"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="10"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="0"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedMedium">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="180"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="9"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="1"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedHard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="180"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="8"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="2"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedExpert">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="180"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="100"/>
+        <Param id="RestrictFlags" min="10"/>
+        <Param id="PartiallyOpeningForPlaceFlag" min="8"/>
+        <Param id="PartiallyOpeningForPlaceNontrivialFlag" min="2"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictDigs" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>      
+    </Mode>
+
+    <Mode id="DAILY_CHALLENGE_TRIGGER_BOMBS">
+      <Difficulty id="Easy"> 
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="12"/>
+        <Param id="BoardHeight" min="10"/>
+        <Param id="BombCount" min="15"/>
+        <Param id="TriggersBombsCount" min="15"/>
+        <Param id="RestrictDigs" min="18"/>
+        
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+        
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Medium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="40"/>
+        <Param id="TriggersBombsCount" min="40"/>
+        <Param id="RestrictDigs" min="44"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Hard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="30"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="93"/>
+        <Param id="TriggersBombsCount" min="93"/>
+        <Param id="RestrictDigs" min="99"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Expert">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="30"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="106"/>
+        <Param id="TriggersBombsCount" min="106"/>
+        <Param id="RestrictDigs" min="109"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedEasy">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="180"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="12"/>
+        <Param id="BoardHeight" min="10"/>
+        <Param id="BombCount" min="15"/>
+        <Param id="TriggersBombsCount" min="15"/>
+        <Param id="RestrictDigs" min="18"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+        
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedMedium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="180"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="16"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="40"/>
+        <Param id="TriggersBombsCount" min="40"/>
+        <Param id="RestrictDigs" min="44"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedHard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="250"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="30"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="93"/>
+        <Param id="TriggersBombsCount" min="93"/>
+        <Param id="RestrictDigs" min="99"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedExpert">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="250"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="30"/>
+        <Param id="BoardHeight" min="16"/>
+        <Param id="BombCount" min="106"/>
+        <Param id="TriggersBombsCount" min="106"/>
+        <Param id="RestrictDigs" min="109"/>
+
+        <Param id="RestrictLives" min="1"/>
+        <Param id="RestrictFlags" min="0"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="PartiallyOpening" min="20"/>
+        <Param id="PartiallyOpeningEmptyRestrictCount" min="0"/>
+        <Param id="PartiallyOpeningEmptyRequireCount" min="0"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+    </Mode>
+
+    <Mode id="DAILY_CHALLENGE_TREASURE">
+      <Difficulty id="Easy">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="15625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Medium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="15625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Hard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="Expert">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedEasy">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="200"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="15625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+
+      </Difficulty>
+      <Difficulty id="TimedMedium">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="240"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="15625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="4"/>
+        <Param id="LevelShape" min="2"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedHard">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="320"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+      <Difficulty id="TimedExpert">
+        <Param id="LevelIterations" min="2"/>
+        <Param id="LevelTime" min="320"/>
+        <Param id="ContinueIterationTime" min="1"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+
+        <Param id="BombDensity" min="20625"/>
+
+        <Param id="TreasureCount" min="1"/>
+        <Param id="RestrictLives" min="6"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="PartiallyOpening" min="15"/>
+
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+    </Mode>
+
+    <Mode id="DAILY_CHALLENGE_UNCOVER_TILES">
+      <Difficulty id="Easy">
+        <Param id="LevelIterations" min="1"/>
+        <Param id="LevelTime" min="0"/>
+        <Param id="UncoverTilesTarget" min="205" max="227"/>
+        <Param id="BoardWidth" min="24" max="30" toEven="1"/>
+        <Param id="BoardHeight" min="12" max="16" toEven="1"/>
+        <Param id="BombDensity" min="20625"/>
+        <Param id="RestrictLives" min="3"/>
+        <Param id="LevelShape" min="2"/>
+        <Param id="SCORE_CORRECT_MARK_MINE" min="1"/>
+        <Param id="SCORE_INCORRECT_MARK_MINE_PENALTY" min="-1"/>
+        <Param id="SCORE_WIN_BONUS" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR1" min="500"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR2" min="100"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR3" min="2"/>
+        <Param id="SCORE_TIMEBONUSMODIFICATOR4" min="50"/>
+        <Param id="SCORE_KOEF_NONFLAGGED" min="15"/>
+        <Param id="SCORE_KOEF_NONDOUBLE" min="15"/>
+      </Difficulty>
+    </Mode>    
+  </Dailychallenge>
+
+</GameTypes>

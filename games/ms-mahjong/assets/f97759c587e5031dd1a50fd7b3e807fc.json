@@ -1,0 +1,236 @@
+{"frames": [
+
+{
+	"filename": "coins_01.png",
+	"frame": {"x":351,"y":1400,"w":61,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":57,"w":61,"h":57},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_02.png",
+	"frame": {"x":209,"y":1400,"w":140,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":38,"w":140,"h":96},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_03.png",
+	"frame": {"x":1,"y":1365,"w":206,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":16,"w":206,"h":137},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_04.png",
+	"frame": {"x":262,"y":613,"w":245,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":245,"h":177},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_05.png",
+	"frame": {"x":264,"y":278,"w":246,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":246,"h":177},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_06.png",
+	"frame": {"x":243,"y":1222,"w":237,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":237,"h":176},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_07.png",
+	"frame": {"x":267,"y":1,"w":242,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":5,"w":242,"h":149},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_08.png",
+	"frame": {"x":260,"y":792,"w":245,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":7,"w":245,"h":152},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_09.png",
+	"frame": {"x":263,"y":457,"w":247,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":8,"w":247,"h":154},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_10.png",
+	"frame": {"x":259,"y":946,"w":251,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":13,"w":251,"h":150},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_11.png",
+	"frame": {"x":1,"y":996,"w":254,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":14,"w":254,"h":150},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_12.png",
+	"frame": {"x":1,"y":846,"w":256,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":16,"w":256,"h":148},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_13.png",
+	"frame": {"x":1,"y":694,"w":257,"h":150},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":18,"w":257,"h":150},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_14.png",
+	"frame": {"x":1,"y":546,"w":259,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":21,"w":259,"h":146},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_15.png",
+	"frame": {"x":1,"y":399,"w":260,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":23,"w":260,"h":145},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_16.png",
+	"frame": {"x":1,"y":253,"w":261,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":27,"w":261,"h":144},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_17.png",
+	"frame": {"x":1,"y":125,"w":263,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":47,"w":263,"h":126},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_18.png",
+	"frame": {"x":1,"y":1,"w":264,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":51,"w":264,"h":122},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_19.png",
+	"frame": {"x":257,"y":1098,"w":252,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":52,"w":252,"h":122},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_20.png",
+	"frame": {"x":266,"y":152,"w":240,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":53,"w":240,"h":124},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_21.png",
+	"frame": {"x":1,"y":1148,"w":240,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":55,"w":240,"h":108},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_22.png",
+	"frame": {"x":1,"y":1258,"w":235,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":61,"w":235,"h":105},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_23.png",
+	"frame": {"x":507,"y":792,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_24.png",
+	"frame": {"x":507,"y":792,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_25.png",
+	"frame": {"x":507,"y":792,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_26.png",
+	"frame": {"x":507,"y":792,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_27.png",
+	"frame": {"x":507,"y":792,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":265,"h":177}
+},
+{
+	"filename": "coins_28.png",
+	"frame": {"x":507,"y":792,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":265,"h":177}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coin-landing.png",
+	"format": "RGBA8888",
+	"size": {"w":511,"h":1503},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4b642b7e015e67a309893e6b2c7e6fa1:a996f3d14404932fb58d996334278f52:99aa60f4766e0af01c20d91ff5b37b65$"
+}
+}

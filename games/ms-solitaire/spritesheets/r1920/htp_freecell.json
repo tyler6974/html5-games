@@ -1,0 +1,164 @@
+{"frames": {
+
+"FreeCell/Control_1.jpg":
+{
+	"frame": {"x":644,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Control_2.jpg":
+{
+	"frame": {"x":966,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Control_3.jpg":
+{
+	"frame": {"x":1288,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Control_4.jpg":
+{
+	"frame": {"x":1610,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Control_5.jpg":
+{
+	"frame": {"x":2,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Control_6.jpg":
+{
+	"frame": {"x":2,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Goal_1.jpg":
+{
+	"frame": {"x":2,"y":2,"w":640,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
+	"sourceSize": {"w":640,"h":320}
+},
+"FreeCell/Goal_2.jpg":
+{
+	"frame": {"x":2,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Goal_3.jpg":
+{
+	"frame": {"x":2,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Goal_4.jpg":
+{
+	"frame": {"x":2,"y":1612,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Goal_5.jpg":
+{
+	"frame": {"x":324,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Goal_6.jpg":
+{
+	"frame": {"x":324,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Goal_7.jpg":
+{
+	"frame": {"x":324,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/keyboard1.jpg":
+{
+	"frame": {"x":1290,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/keyboard2.jpg":
+{
+	"frame": {"x":1612,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Tips_1.jpg":
+{
+	"frame": {"x":324,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Tips_2.jpg":
+{
+	"frame": {"x":324,"y":1612,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Tips_3.jpg":
+{
+	"frame": {"x":646,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"FreeCell/Tips_4.jpg":
+{
+	"frame": {"x":968,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "htp_freecell.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f3a5e4f168842b9b9576e84012ebface:1360f9eca4259a4a0c3a4abee41605aa:e76bd1db0da520e59f5606cad751c97a$"
+}
+}

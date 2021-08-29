@@ -1,0 +1,132 @@
+{"frames": [
+
+{
+	"filename": "green-park-background.jpg",
+	"frame": {"x":1,"y":1,"w":1128,"h":1399},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1128,"h":1399},
+	"sourceSize": {"w":1128,"h":1399}
+},
+{
+	"filename": "green-park-gate-arch.png",
+	"frame": {"x":665,"y":1778,"w":260,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":260,"h":124},
+	"sourceSize": {"w":260,"h":126}
+},
+{
+	"filename": "green-park-gate.png",
+	"frame": {"x":381,"y":1781,"w":136,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":93},
+	"sourceSize": {"w":136,"h":93}
+},
+{
+	"filename": "green-park-patch-0.png",
+	"frame": {"x":252,"y":1781,"w":127,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":94},
+	"sourceSize": {"w":127,"h":94}
+},
+{
+	"filename": "green-park-patch-1.png",
+	"frame": {"x":1037,"y":1730,"w":90,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":126},
+	"sourceSize": {"w":90,"h":126}
+},
+{
+	"filename": "green-park-patch-2.png",
+	"frame": {"x":625,"y":1524,"w":235,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":235,"h":252},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "green-park-patch-3.png",
+	"frame": {"x":131,"y":1782,"w":119,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":119,"h":112},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "green-park-patch-4.png",
+	"frame": {"x":388,"y":1524,"w":235,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":235,"h":253},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "green-park-patch-5.png",
+	"frame": {"x":927,"y":1730,"w":108,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":108,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "green-park-patch-6.png",
+	"frame": {"x":1,"y":1524,"w":164,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":164,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "green-park-patch-7.png",
+	"frame": {"x":167,"y":1524,"w":219,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":219,"h":255},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "green-park-patch-8.png",
+	"frame": {"x":862,"y":1524,"w":253,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":25,"w":253,"h":204},
+	"sourceSize": {"w":256,"h":256}
+},
+{
+	"filename": "green-park-patch-9.png",
+	"frame": {"x":1,"y":1782,"w":128,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":128,"h":119},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "green-park-top-overlay.png",
+	"frame": {"x":1,"y":1402,"w":1128,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1128,"h":120},
+	"sourceSize": {"w":1128,"h":120}
+},
+{
+	"filename": "green-park-transition.png",
+	"frame": {"x":519,"y":1779,"w":144,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":65},
+	"sourceSize": {"w":144,"h":65}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "green-park.png",
+	"format": "RGBA8888",
+	"size": {"w":1130,"h":1903},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:97be98a8aa9e8a8903044d919665b4d1:752fefe5c8f830e0235e53093b686439:1a4b949f4d73af557f39bc8db592b74b$"
+}
+}

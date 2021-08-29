@@ -1,0 +1,292 @@
+{"frames": [
+
+{
+	"filename": "coin-progress_01.png",
+	"frame": {"x":1824,"y":1,"w":81,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":93,"w":81,"h":72},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_02.png",
+	"frame": {"x":1736,"y":922,"w":221,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":51,"w":221,"h":166},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_03.png",
+	"frame": {"x":1,"y":1,"w":356,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":356,"h":269},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_04.png",
+	"frame": {"x":1,"y":272,"w":356,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":356,"h":269},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_05.png",
+	"frame": {"x":730,"y":260,"w":341,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":1,"w":341,"h":266},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_06.png",
+	"frame": {"x":1737,"y":728,"w":240,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":47,"w":240,"h":192},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_07.png",
+	"frame": {"x":1737,"y":509,"w":269,"h":217},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":40,"w":269,"h":217},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_08.png",
+	"frame": {"x":1720,"y":1090,"w":284,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":42,"w":284,"h":220},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_09.png",
+	"frame": {"x":1395,"y":1006,"w":323,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":38,"w":323,"h":244},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_10.png",
+	"frame": {"x":1410,"y":760,"w":324,"h":244},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":37,"w":324,"h":244},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_11.png",
+	"frame": {"x":1410,"y":509,"w":325,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":34,"w":325,"h":249},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_12.png",
+	"frame": {"x":1440,"y":260,"w":326,"h":247},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":35,"w":326,"h":247},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_13.png",
+	"frame": {"x":1047,"y":1054,"w":332,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":30,"w":332,"h":251},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_14.png",
+	"frame": {"x":1073,"y":389,"w":335,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":29,"w":335,"h":252},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_15.png",
+	"frame": {"x":730,"y":528,"w":341,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":28,"w":341,"h":253},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_16.png",
+	"frame": {"x":710,"y":783,"w":344,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":27,"w":344,"h":256},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_17.png",
+	"frame": {"x":359,"y":987,"w":346,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":26,"w":346,"h":260},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_18.png",
+	"frame": {"x":359,"y":724,"w":349,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":26,"w":349,"h":261},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_19.png",
+	"frame": {"x":1,"y":1070,"w":352,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":25,"w":352,"h":260},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_20.png",
+	"frame": {"x":1,"y":543,"w":355,"h":262},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":25,"w":355,"h":262},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_21.png",
+	"frame": {"x":1,"y":807,"w":356,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":26,"w":356,"h":261},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_22.png",
+	"frame": {"x":1461,"y":1,"w":361,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":26,"w":361,"h":257},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_23.png",
+	"frame": {"x":1096,"y":1,"w":363,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":27,"w":363,"h":256},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_24.png",
+	"frame": {"x":359,"y":261,"w":365,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":28,"w":365,"h":257},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_25.png",
+	"frame": {"x":359,"y":1,"w":366,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":29,"w":366,"h":258},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_26.png",
+	"frame": {"x":727,"y":1,"w":367,"h":257},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":30,"w":367,"h":257},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_27.png",
+	"frame": {"x":359,"y":520,"w":369,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":369,"h":202},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_28.png",
+	"frame": {"x":1073,"y":643,"w":335,"h":203},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":34,"w":335,"h":203},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_29.png",
+	"frame": {"x":1056,"y":848,"w":337,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":37,"w":337,"h":204},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_30.png",
+	"frame": {"x":707,"y":1041,"w":338,"h":204},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":40,"w":338,"h":204},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_31.png",
+	"frame": {"x":355,"y":1249,"w":341,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":96,"w":341,"h":125},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_32.png",
+	"frame": {"x":1096,"y":259,"w":342,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":96,"w":342,"h":128},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_33.png",
+	"frame": {"x":1,"y":1332,"w":25,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":97,"w":25,"h":12},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_34.png",
+	"frame": {"x":710,"y":724,"w":3,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":327,"y":99,"w":3,"h":5},
+	"sourceSize": {"w":375,"h":287}
+},
+{
+	"filename": "coin-progress_35.png",
+	"frame": {"x":1073,"y":260,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":375,"h":287}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "coin-progress.png",
+	"format": "RGBA8888",
+	"size": {"w":2007,"h":1375},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cb2839428a24db4747da9c5f998041b2:c03e285c2e80d8f6246a0659dac401b8:5af10b8518a7fefb193ac1764c720d0a$"
+}
+}

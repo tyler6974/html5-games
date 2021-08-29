@@ -1,0 +1,1066 @@
+{"frames": {
+
+"game_mode_tile_icons/icon_tile_freecell.png":
+{
+	"frame": {"x":333,"y":1421,"w":258,"h":263},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":263},
+	"sourceSize": {"w":258,"h":263}
+},
+"game_mode_tile_icons/icon_tile_klondike.png":
+{
+	"frame": {"x":333,"y":1686,"w":258,"h":263},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":263},
+	"sourceSize": {"w":258,"h":263}
+},
+"game_mode_tile_icons/icon_tile_pyramid.png":
+{
+	"frame": {"x":593,"y":1694,"w":258,"h":263},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":263},
+	"sourceSize": {"w":258,"h":263}
+},
+"game_mode_tile_icons/icon_tile_spider.png":
+{
+	"frame": {"x":664,"y":738,"w":258,"h":263},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":263},
+	"sourceSize": {"w":258,"h":263}
+},
+"game_mode_tile_icons/icon_tile_tripeaks.png":
+{
+	"frame": {"x":924,"y":738,"w":258,"h":263},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":258,"h":263},
+	"sourceSize": {"w":258,"h":263}
+},
+"mainmenu/awards_and_achievements.png":
+{
+	"frame": {"x":831,"y":1,"w":701,"h":337},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":701,"h":337},
+	"sourceSize": {"w":701,"h":337}
+},
+"mainmenu/frame_theme_highlight.png":
+{
+	"frame": {"x":593,"y":1421,"w":244,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":271},
+	"sourceSize": {"w":244,"h":271}
+},
+"mainmenu/icon_more.png":
+{
+	"frame": {"x":344,"y":1951,"w":105,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":41},
+	"sourceSize": {"w":105,"h":41}
+},
+"mainmenu/icon_stats_dailychallenge.png":
+{
+	"frame": {"x":1643,"y":1968,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/icon_stats_freecell.png":
+{
+	"frame": {"x":1707,"y":1968,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/icon_stats_klondike.png":
+{
+	"frame": {"x":264,"y":1842,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/icon_stats_pyramid.png":
+{
+	"frame": {"x":1963,"y":836,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/icon_stats_spider.png":
+{
+	"frame": {"x":821,"y":1959,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/icon_stats_starclub.png":
+{
+	"frame": {"x":885,"y":1949,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/icon_stats_tripeaks.png":
+{
+	"frame": {"x":949,"y":1949,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"mainmenu/main_dc_sticky.png":
+{
+	"frame": {"x":1,"y":1776,"w":261,"h":253},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":253},
+	"sourceSize": {"w":261,"h":253}
+},
+"mainmenu/shadow_stretch.png":
+{
+	"frame": {"x":2017,"y":167,"w":13,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":14},
+	"sourceSize": {"w":14,"h":14}
+},
+"mainmenu/themes_menu_background.png":
+{
+	"frame": {"x":1534,"y":307,"w":344,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":344,"h":124},
+	"sourceSize": {"w":344,"h":124}
+},
+"mainmenu/tile-header-background.png":
+{
+	"frame": {"x":831,"y":496,"w":442,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":68},
+	"sourceSize": {"w":443,"h":68}
+},
+"mainmenu/tile_aquarium.png":
+{
+	"frame": {"x":665,"y":1003,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tile_autumn.png":
+{
+	"frame": {"x":1301,"y":1262,"w":228,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":256},
+	"sourceSize": {"w":228,"h":256}
+},
+"mainmenu/tile_beach.png":
+{
+	"frame": {"x":896,"y":1003,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tile_classic.png":
+{
+	"frame": {"x":839,"y":1262,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tile_classic_freecell.png":
+{
+	"frame": {"x":1534,"y":1,"w":330,"h":304},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":304},
+	"sourceSize": {"w":330,"h":304}
+},
+"mainmenu/tile_classic_klondike.png":
+{
+	"frame": {"x":1,"y":1164,"w":330,"h":304},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":304},
+	"sourceSize": {"w":330,"h":304}
+},
+"mainmenu/tile_classic_pyramid.png":
+{
+	"frame": {"x":1,"y":1470,"w":330,"h":304},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":304},
+	"sourceSize": {"w":330,"h":304}
+},
+"mainmenu/tile_classic_spider.png":
+{
+	"frame": {"x":332,"y":809,"w":330,"h":304},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":304},
+	"sourceSize": {"w":330,"h":304}
+},
+"mainmenu/tile_classic_tripeaks.png":
+{
+	"frame": {"x":333,"y":1115,"w":330,"h":304},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":330,"h":304},
+	"sourceSize": {"w":330,"h":304}
+},
+"mainmenu/tile_dailychallenge.png":
+{
+	"frame": {"x":1,"y":1,"w":828,"h":247},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":828,"h":247},
+	"sourceSize": {"w":828,"h":247}
+},
+"mainmenu/tile_fable.png":
+{
+	"frame": {"x":853,"y":1690,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tile_icon_freecell.png":
+{
+	"frame": {"x":451,"y":1951,"w":80,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":64},
+	"sourceSize": {"w":80,"h":64}
+},
+"mainmenu/tile_icon_klondike.png":
+{
+	"frame": {"x":620,"y":671,"w":80,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":64},
+	"sourceSize": {"w":80,"h":64}
+},
+"mainmenu/tile_icon_pyramid.png":
+{
+	"frame": {"x":702,"y":671,"w":80,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":64},
+	"sourceSize": {"w":80,"h":64}
+},
+"mainmenu/tile_icon_spider.png":
+{
+	"frame": {"x":586,"y":1959,"w":80,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":64},
+	"sourceSize": {"w":80,"h":64}
+},
+"mainmenu/tile_icon_tripeaks.png":
+{
+	"frame": {"x":668,"y":1959,"w":80,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":64},
+	"sourceSize": {"w":80,"h":64}
+},
+"mainmenu/tile_jumbo.png":
+{
+	"frame": {"x":1127,"y":1003,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tile_metro.png":
+{
+	"frame": {"x":1070,"y":1262,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tile_starclub.png":
+{
+	"frame": {"x":1,"y":250,"w":828,"h":247},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":828,"h":247},
+	"sourceSize": {"w":828,"h":247}
+},
+"mainmenu/tile_western.png":
+{
+	"frame": {"x":1084,"y":1688,"w":229,"h":257},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":257},
+	"sourceSize": {"w":229,"h":257}
+},
+"mainmenu/tileasset_starclub_colorbox.png":
+{
+	"frame": {"x":1595,"y":1177,"w":38,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":39},
+	"sourceSize": {"w":38,"h":39}
+},
+"mainmenu/tileasset_starclub_newcollection.png":
+{
+	"frame": {"x":1275,"y":496,"w":202,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":202},
+	"sourceSize": {"w":202,"h":202}
+},
+"mainmenu/tileasset_starclub_star.png":
+{
+	"frame": {"x":1595,"y":1222,"w":39,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":37},
+	"sourceSize": {"w":39,"h":37}
+},
+"mainmenu/tileassets_daily_bronze.png":
+{
+	"frame": {"x":1937,"y":1606,"w":84,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":88},
+	"sourceSize": {"w":84,"h":88}
+},
+"mainmenu/tileassets_daily_diamond.png":
+{
+	"frame": {"x":1937,"y":1516,"w":85,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":88},
+	"sourceSize": {"w":85,"h":88}
+},
+"mainmenu/tileassets_daily_gold.png":
+{
+	"frame": {"x":1912,"y":1797,"w":84,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":88},
+	"sourceSize": {"w":84,"h":88}
+},
+"mainmenu/tileassets_daily_silver.png":
+{
+	"frame": {"x":1901,"y":1887,"w":84,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":87},
+	"sourceSize": {"w":84,"h":87}
+},
+"sidebar/arrow-down.png":
+{
+	"frame": {"x":620,"y":649,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"sidebar/arrow-over.png":
+{
+	"frame": {"x":1315,"y":1687,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"sidebar/arrow-up.png":
+{
+	"frame": {"x":1337,"y":1687,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"star_club/crown.png":
+{
+	"frame": {"x":1372,"y":1520,"w":183,"h":187},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":183,"h":187},
+	"sourceSize": {"w":188,"h":189}
+},
+"star_club/fue1.png":
+{
+	"frame": {"x":1,"y":499,"w":646,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":646,"h":148},
+	"sourceSize": {"w":680,"h":160}
+},
+"star_club/fue2.png":
+{
+	"frame": {"x":1,"y":649,"w":617,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":2,"w":617,"h":158},
+	"sourceSize": {"w":680,"h":160}
+},
+"star_club/fue3.png":
+{
+	"frame": {"x":831,"y":340,"w":640,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":4,"w":640,"h":154},
+	"sourceSize": {"w":680,"h":160}
+},
+"star_club/rect_SC_locked.png":
+{
+	"frame": {"x":1,"y":809,"w":329,"h":353},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":353},
+	"sourceSize": {"w":329,"h":353}
+},
+"star_club/rect_SC_title.png":
+{
+	"frame": {"x":839,"y":566,"w":329,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":329,"h":49},
+	"sourceSize": {"w":329,"h":49}
+},
+"star_club/SC_challenge_diff_star.png":
+{
+	"frame": {"x":1827,"y":1668,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+"star_club/SC_challenge_lock.png":
+{
+	"frame": {"x":1473,"y":340,"w":57,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":77},
+	"sourceSize": {"w":57,"h":77}
+},
+"star_club/SC_star_icon.png":
+{
+	"frame": {"x":1142,"y":655,"w":26,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":31},
+	"sourceSize": {"w":26,"h":31}
+},
+"star_club/sc_tile_info_rect.png":
+{
+	"frame": {"x":829,"y":655,"w":311,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":81},
+	"sourceSize": {"w":311,"h":81}
+},
+"star_club/sc_tile_info_star.png":
+{
+	"frame": {"x":815,"y":1262,"w":22,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":26},
+	"sourceSize": {"w":22,"h":26}
+},
+"star_club/star_topbar_balance.png":
+{
+	"frame": {"x":1557,"y":1652,"w":29,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":34},
+	"sourceSize": {"w":29,"h":34}
+},
+"star_club/stars-bursting/star-bursting-187x170_01.png":
+{
+	"frame": {"x":1654,"y":598,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_02.png":
+{
+	"frame": {"x":1513,"y":1177,"w":80,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":42,"w":80,"h":82},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_03.png":
+{
+	"frame": {"x":1170,"y":566,"w":100,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":31,"w":100,"h":103},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_04.png":
+{
+	"frame": {"x":1666,"y":1848,"w":116,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":24,"w":116,"h":118},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_05.png":
+{
+	"frame": {"x":1352,"y":700,"w":124,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":20,"w":124,"h":126},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_06.png":
+{
+	"frame": {"x":1352,"y":828,"w":124,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":23,"w":124,"h":126},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_07.png":
+{
+	"frame": {"x":1804,"y":932,"w":137,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":15,"w":137,"h":140},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_08.png":
+{
+	"frame": {"x":1809,"y":775,"w":152,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":7,"w":152,"h":155},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_09.png":
+{
+	"frame": {"x":1209,"y":1521,"w":161,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":3,"w":161,"h":164},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_10.png":
+{
+	"frame": {"x":1495,"y":1709,"w":169,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":169,"h":170},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_11.png":
+{
+	"frame": {"x":1654,"y":603,"w":172,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":172,"h":170},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_12.png":
+{
+	"frame": {"x":1866,"y":1,"w":163,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":3,"w":163,"h":164},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_13.png":
+{
+	"frame": {"x":1646,"y":775,"w":161,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":7,"w":161,"h":155},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_14.png":
+{
+	"frame": {"x":1880,"y":307,"w":150,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":13,"w":150,"h":142},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_15.png":
+{
+	"frame": {"x":1866,"y":167,"w":149,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":13,"w":149,"h":138},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_16.png":
+{
+	"frame": {"x":1358,"y":1117,"w":153,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":11,"w":153,"h":142},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_17.png":
+{
+	"frame": {"x":1184,"y":853,"w":158,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":12,"w":158,"h":144},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_18.png":
+{
+	"frame": {"x":1315,"y":1880,"w":162,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":162,"h":147},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_19.png":
+{
+	"frame": {"x":1184,"y":700,"w":166,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":9,"w":166,"h":151},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_20.png":
+{
+	"frame": {"x":1828,"y":614,"w":170,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":170,"h":155},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_21.png":
+{
+	"frame": {"x":1479,"y":598,"w":173,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":173,"h":158},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_22.png":
+{
+	"frame": {"x":1843,"y":451,"w":177,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":177,"h":161},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_23.png":
+{
+	"frame": {"x":1026,"y":1521,"w":181,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":181,"h":165},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_24.png":
+{
+	"frame": {"x":1479,"y":433,"w":183,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":183,"h":163},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_25.png":
+{
+	"frame": {"x":839,"y":1521,"w":185,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":185,"h":167},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_26.png":
+{
+	"frame": {"x":1664,"y":433,"w":177,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":1,"w":177,"h":168},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_27.png":
+{
+	"frame": {"x":649,"y":499,"w":178,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":178,"h":170},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_28.png":
+{
+	"frame": {"x":665,"y":1262,"w":148,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":148,"h":157},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_29.png":
+{
+	"frame": {"x":1358,"y":956,"w":134,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":134,"h":159},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-bursting/star-bursting-187x170_30.png":
+{
+	"frame": {"x":1531,"y":1261,"w":135,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":28,"w":135,"h":132},
+	"sourceSize": {"w":187,"h":170}
+},
+"star_club/stars-rotating/star-rotating_01.png":
+{
+	"frame": {"x":1703,"y":1470,"w":118,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":118,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_02.png":
+{
+	"frame": {"x":1513,"y":1051,"w":122,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_03.png":
+{
+	"frame": {"x":1703,"y":1596,"w":122,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_04.png":
+{
+	"frame": {"x":1666,"y":1722,"w":122,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_05.png":
+{
+	"frame": {"x":1790,"y":1722,"w":120,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":120,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_06.png":
+{
+	"frame": {"x":1784,"y":1848,"w":115,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":115,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_07.png":
+{
+	"frame": {"x":1792,"y":1078,"w":110,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":110,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_08.png":
+{
+	"frame": {"x":1808,"y":1204,"w":110,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":110,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/stars-rotating/star-rotating_09.png":
+{
+	"frame": {"x":1904,"y":1074,"w":114,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":114,"h":124},
+	"sourceSize": {"w":122,"h":124}
+},
+"star_club/tile_SC-challenge_toprect.png":
+{
+	"frame": {"x":829,"y":617,"w":328,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":328,"h":36},
+	"sourceSize": {"w":328,"h":36}
+},
+"unlock_animation/unlocking-animation_01.png":
+{
+	"frame": {"x":1963,"y":771,"w":48,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":42,"w":48,"h":63},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_02.png":
+{
+	"frame": {"x":533,"y":1951,"w":51,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":42,"w":51,"h":63},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_03.png":
+{
+	"frame": {"x":264,"y":1776,"w":61,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":41,"w":61,"h":64},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_04.png":
+{
+	"frame": {"x":750,"y":1959,"w":69,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":37,"w":69,"h":69},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_05.png":
+{
+	"frame": {"x":264,"y":1951,"w":78,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":32,"w":78,"h":79},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_06.png":
+{
+	"frame": {"x":1943,"y":932,"w":84,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":29,"w":84,"h":85},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_07.png":
+{
+	"frame": {"x":1933,"y":1422,"w":91,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":25,"w":91,"h":92},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_08.png":
+{
+	"frame": {"x":1912,"y":1696,"w":98,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":22,"w":98,"h":99},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_09.png":
+{
+	"frame": {"x":1920,"y":1200,"w":108,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":17,"w":108,"h":109},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_10.png":
+{
+	"frame": {"x":1823,"y":1446,"w":108,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":17,"w":108,"h":109},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_11.png":
+{
+	"frame": {"x":1827,"y":1557,"w":108,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":17,"w":108,"h":109},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_12.png":
+{
+	"frame": {"x":1924,"y":1311,"w":106,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":19,"w":106,"h":109},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_13.png":
+{
+	"frame": {"x":1808,"y":1330,"w":114,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":19,"w":114,"h":114},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_14.png":
+{
+	"frame": {"x":1668,"y":1349,"w":124,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":19,"w":124,"h":119},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_15.png":
+{
+	"frame": {"x":1531,"y":1395,"w":131,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":19,"w":131,"h":123},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_16.png":
+{
+	"frame": {"x":1668,"y":1222,"w":138,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":138,"h":125},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_17.png":
+{
+	"frame": {"x":1557,"y":1520,"w":144,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":18,"w":144,"h":130},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_18.png":
+{
+	"frame": {"x":1494,"y":911,"w":148,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":12,"w":148,"h":138},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_19.png":
+{
+	"frame": {"x":1637,"y":1078,"w":153,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":10,"w":153,"h":142},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_20.png":
+{
+	"frame": {"x":1644,"y":932,"w":158,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":158,"h":144},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_21.png":
+{
+	"frame": {"x":1479,"y":1881,"w":162,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":10,"w":162,"h":147},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_22.png":
+{
+	"frame": {"x":1478,"y":758,"w":166,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":8,"w":166,"h":151},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_23.png":
+{
+	"frame": {"x":1828,"y":614,"w":170,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":170,"h":155},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_24.png":
+{
+	"frame": {"x":1479,"y":598,"w":173,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":173,"h":158},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_25.png":
+{
+	"frame": {"x":1843,"y":451,"w":177,"h":161},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":177,"h":161},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_26.png":
+{
+	"frame": {"x":1026,"y":1521,"w":181,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":181,"h":165},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_27.png":
+{
+	"frame": {"x":1479,"y":433,"w":183,"h":163},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":183,"h":163},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_28.png":
+{
+	"frame": {"x":839,"y":1521,"w":185,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":167},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_29.png":
+{
+	"frame": {"x":1664,"y":433,"w":177,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":0,"w":177,"h":168},
+	"sourceSize": {"w":187,"h":169}
+},
+"unlock_animation/unlocking-animation_30.png":
+{
+	"frame": {"x":1315,"y":1709,"w":178,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":178,"h":169},
+	"sourceSize": {"w":187,"h":169}
+}},
+"animations": {
+	"star_club/fue": ["star_club/fue1.png","star_club/fue2.png","star_club/fue3.png"],
+	"star_club/stars-bursting/star-bursting-187x170": ["star_club/stars-bursting/star-bursting-187x170_01.png","star_club/stars-bursting/star-bursting-187x170_02.png","star_club/stars-bursting/star-bursting-187x170_03.png","star_club/stars-bursting/star-bursting-187x170_04.png","star_club/stars-bursting/star-bursting-187x170_05.png","star_club/stars-bursting/star-bursting-187x170_06.png","star_club/stars-bursting/star-bursting-187x170_07.png","star_club/stars-bursting/star-bursting-187x170_08.png","star_club/stars-bursting/star-bursting-187x170_09.png","star_club/stars-bursting/star-bursting-187x170_10.png","star_club/stars-bursting/star-bursting-187x170_11.png","star_club/stars-bursting/star-bursting-187x170_12.png","star_club/stars-bursting/star-bursting-187x170_13.png","star_club/stars-bursting/star-bursting-187x170_14.png","star_club/stars-bursting/star-bursting-187x170_15.png","star_club/stars-bursting/star-bursting-187x170_16.png","star_club/stars-bursting/star-bursting-187x170_17.png","star_club/stars-bursting/star-bursting-187x170_18.png","star_club/stars-bursting/star-bursting-187x170_19.png","star_club/stars-bursting/star-bursting-187x170_20.png","star_club/stars-bursting/star-bursting-187x170_21.png","star_club/stars-bursting/star-bursting-187x170_22.png","star_club/stars-bursting/star-bursting-187x170_23.png","star_club/stars-bursting/star-bursting-187x170_24.png","star_club/stars-bursting/star-bursting-187x170_25.png","star_club/stars-bursting/star-bursting-187x170_26.png","star_club/stars-bursting/star-bursting-187x170_27.png","star_club/stars-bursting/star-bursting-187x170_28.png","star_club/stars-bursting/star-bursting-187x170_29.png","star_club/stars-bursting/star-bursting-187x170_30.png"],
+	"star_club/stars-rotating/star-rotating": ["star_club/stars-rotating/star-rotating_01.png","star_club/stars-rotating/star-rotating_02.png","star_club/stars-rotating/star-rotating_03.png","star_club/stars-rotating/star-rotating_04.png","star_club/stars-rotating/star-rotating_05.png","star_club/stars-rotating/star-rotating_06.png","star_club/stars-rotating/star-rotating_07.png","star_club/stars-rotating/star-rotating_08.png","star_club/stars-rotating/star-rotating_09.png"],
+	"unlock_animation/unlocking-animation": ["unlock_animation/unlocking-animation_01.png","unlock_animation/unlocking-animation_02.png","unlock_animation/unlocking-animation_03.png","unlock_animation/unlocking-animation_04.png","unlock_animation/unlocking-animation_05.png","unlock_animation/unlocking-animation_06.png","unlock_animation/unlocking-animation_07.png","unlock_animation/unlocking-animation_08.png","unlock_animation/unlocking-animation_09.png","unlock_animation/unlocking-animation_10.png","unlock_animation/unlocking-animation_11.png","unlock_animation/unlocking-animation_12.png","unlock_animation/unlocking-animation_13.png","unlock_animation/unlocking-animation_14.png","unlock_animation/unlocking-animation_15.png","unlock_animation/unlocking-animation_16.png","unlock_animation/unlocking-animation_17.png","unlock_animation/unlocking-animation_18.png","unlock_animation/unlocking-animation_19.png","unlock_animation/unlocking-animation_20.png","unlock_animation/unlocking-animation_21.png","unlock_animation/unlocking-animation_22.png","unlock_animation/unlocking-animation_23.png","unlock_animation/unlocking-animation_24.png","unlock_animation/unlocking-animation_25.png","unlock_animation/unlocking-animation_26.png","unlock_animation/unlocking-animation_27.png","unlock_animation/unlocking-animation_28.png","unlock_animation/unlocking-animation_29.png","unlock_animation/unlocking-animation_30.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "menu.png",
+	"format": "RGBA8888",
+	"size": {"w":2031,"h":2031},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:07f3d3ba8b6d70baffe13410ea9644a4:825191b52fff5ccc437fbccff68e2bdb:a29dc0b7c0d557c729be68685c668c9c$"
+}
+}

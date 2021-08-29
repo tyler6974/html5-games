@@ -1,0 +1,246 @@
+{
+  "credits": [
+    {
+      "dep": "Production",
+      "list": [
+        {
+          "n":"Paul Jensen",
+          "p":"Studio Manager, Microsoft Casual Games"
+        },
+        {
+          "n":"Derek Dutilly",
+          "p":"Principal Lead Producer"
+        },
+        {
+          "n":"Jason Barnes",
+          "p":"Lead Producer"
+        },
+        {
+          "n":"Roger Faso",
+          "p":"Producer"
+        }
+      ]
+    },
+    {
+      "dep": "Design",
+      "list": [
+        {
+          "n":"Kevin Lambert",
+          "p":"Design Director"
+        },
+        {
+          "n":"Shawn Conard",
+          "p":"Designer"
+        }
+      ]
+    },
+    {
+      "dep": "Development",
+      "list": [
+        {
+          "n":"Will Frost",
+          "p":"Principal Software Engineer Lead"
+        },
+        {
+          "n":"Jason McCullough",
+          "p":"Principal Software Engineer"
+        }
+      ]
+    },
+    {
+      "dep": "Management",
+      "list": [
+        {
+          "n":"Matt Booty",
+          "p":"CVP, Microsoft Studios"
+        },
+        {
+          "n":"Phil Spencer",
+          "p":"EVP, Gaming"
+        }
+      ]
+    },
+    {
+      "dep": "Business Development",
+      "list": [
+        {
+          "n":"Andre Sevigny, Director, Monetization",
+          "p":""
+        },
+        {
+          "n":"Werner Baron, Senior Business Analytics Specialist",
+          "p":""
+        },
+        {
+          "n":"Andrew Bailey, Advertising Operations Program Manager",
+          "p":""
+        },
+        {
+          "n":"Kate Severud, Advertising Operations Program Manager",
+          "p":""
+        }
+      ]
+    },
+    {
+      "dep": "Microsoft Studios Quality",
+      "list": [
+        {
+          "n":"Kevin Verboort, Senior Quality Lead",
+          "p":""
+        },
+        {
+          "n":"Xhavar Strothers, Quality Engineer",
+          "p":""
+        },
+        {
+          "n":"Jawara Hayden, Quality Analyst II",
+          "p":""
+        },
+        {
+          "n":"Alyssa Liu, Quality Analyst",
+          "p":""
+        }
+      ]
+    },
+    {
+      "dep": "Experis Test Phoenix",
+      "list": [
+        {
+          "n":"Emily Lovering, Test Lead",
+          "p":""
+        },
+        {
+          "n":"Amber DeGiso, Software Test Engineer",
+          "p":""
+        },
+        {
+          "n":"Olivia Chu, Software Test Engineer",
+          "p":""
+        },
+        {
+          "n":"Erin Sears, Software Test Engineer",
+          "p":""
+        },
+        {
+          "n":"Kelly Wintheiser, Software Test Engineer",
+          "p":""
+        },
+        {
+          "n":"Santiago Quinio, Data Software Test Engineer",
+          "p":""
+        },
+        {
+          "n":"Darby Turner, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Eric Saxon, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Jessica Armstrong, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Kaitlyn Covey, Test Associate",
+          "p":""
+        }
+      ]
+    },
+    {
+      "dep": "Experis Test Phoenix",
+      "list": [
+        {
+          "n":"Eric Olsen, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Shannon Fairbanks, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Nick Suprik, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Triston Buckner, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Kenji Washington, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Joseph Thompson, Test Associate",
+          "p":""
+        },
+        {
+          "n":"Robin Allen, Test Associate",
+          "p":""
+        }
+      ]
+    },
+    {
+      "dep": "Arkadium",
+      "list": [
+        {
+          "n":"Anton Roodik",
+          "p":"Senior Software Engineer"
+        },
+        {
+          "n":"Ilya Kulikov",
+          "p":"Senior Software Engineer"
+        },
+        {
+          "n":"Andrey Yatsenko",
+          "p":"Software Engineer"
+        },
+        {
+          "n":"Denis Gusarov",
+          "p":"Senior Web Developer"
+        },
+        {
+          "n":"Alexander Porechnov",
+          "p":"Director of Interactive Design"
+        },
+        {
+          "n":"Angelina Fursova",
+          "p":"Visual Designer"
+        },
+        {
+          "n":"Vitalii Ozerov",
+          "p":"QA Manager"
+        },
+        {
+          "n":"Victor Khomyak",
+          "p":"QA Engineer"
+        },
+        {
+          "n":"Mariya Matashchuk",
+          "p":"Senior Project Manager"
+        },
+        {
+          "n":"Evgeniy Savchenko",
+          "p":"Senior DevOps Engineer"
+        }
+      ]
+    },
+    {
+      "dep": "Arkadium",
+      "list": [
+        {
+          "n":"David Or",
+          "p":"Director of Product Engineering"
+        },
+        {
+          "n":"Sarah Sung",
+          "p":"VP of Account Management"
+        },
+        {
+          "n":"Tom Rassweiler",
+          "p":"VP of Product"
+        }
+      ]
+    }
+  ]
+}

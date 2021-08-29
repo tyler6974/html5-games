@@ -1,0 +1,184 @@
+{
+  "teams": [
+    {
+      "teamTitle": "Production",
+      "people": [
+        "Paul Jensen, Studio Manager, Microsoft Casual Games",
+        "Derek Dutilly, Principal Lead Producer",
+        "Jason Barnes, Lead Producer",
+        "Michael Bilodeau, Producer"
+      ]
+    },
+    {
+      "teamTitle": "Design",
+      "people": [
+        "Kevin Lambert, Design Director",
+        "Ethan Pasternack, Designer",
+        "Shawn Conard (TEKsystems Inc), Designer",
+        "Clay Williamson (Randstad), Designer"
+      ]
+    },
+    {
+      "teamTitle": "Development",
+      "people": [
+        "Will Frost, Principal Software Engineer Lead",
+        "Jason McCullough, Principal Software Engineer"
+      ]
+    },
+    {
+      "teamTitle": "Management",
+      "people": [
+        "Shannon Loftis, GM, Microsoft Studios Publishing",
+        "Matt Booty, CVP, Microsoft Studios",
+        "Phil Spencer, EVP, Gaming"
+      ]
+    },
+    {
+      "teamTitle": "Business Development",
+      "people": [
+        "Andre Sevigny, Director, Monetization",
+        "Werner Baron, Senior Business Analytics Specialist",
+        "Andrew Bailey, Advertising Operations Program Manager",
+        "Kate Severud, Advertising Operations Program Manager"
+      ]
+    },
+    {
+      "teamTitle": "Business Management",
+      "people": [
+        "Julie DiRamio, Director, Business Operations",
+        "David Hopley, Business Development Manager ",
+        "Michael Schauble, Business Development Manager, Games"
+      ]
+    },
+    {
+      "teamTitle": "Legal",
+      "people": [
+        "Nick Morgan, Senior Attorney",
+        "Christi Davisson, Attorney",
+        "Carla Woo, Senior Paralegal"
+      ]
+    },
+    {
+      "teamTitle": "Localization",
+      "people": [
+        "Vrunda Petwe (Lionbridge Game Services), Localization Project Manager",
+        "Mike Su (Experis), Localization Project Manager",
+        "Brett Moses (Lionbridge Game Services), International Project Engineer",
+        "Chad Long, Senior Localization Engineering Lead",
+        "Lionbridge Game Services, Translation and Testing Team"
+      ]
+    },
+    {
+      "teamTitle": "Publishing Support",
+      "people": [
+        "Jim Pekola, Release Manager",
+        "Kevin Carberry (Insight Global Inc), Release Manager",
+        "Jordan Forbes, Release Manager"
+      ]
+    },
+    {
+      "teamTitle": "Community Management",
+      "people": [
+        "Shaun Kiedrowski (Metaverse Mod Squad Inc), Community Manager"
+      ]
+    },
+    {
+      "teamTitle": "User Acquisition",
+      "people": [
+        "Alley Shinder, User Acquisition Specialist"
+      ]
+    },
+    {
+      "teamTitle": "Microsoft Studios Quality",
+      "people": [
+        "Michael McCormack, Senior Software Engineer Lead",
+        "Bex Bradley, Software Engineer II",
+        "Xhavar Strothers (Experis), Test Lead",
+        "Cody Thayer (Experis), Software Test Engineer",
+        "Jonathan Gage (Experis), Software Test Engineer",
+        "Michael Leslie (Experis), Software Test Engineer"
+      ]
+    },
+    {
+      "teamTitle": "Experis Test Portland",
+      "people": [
+        "Gavin Kennedy, Game testing Services Director",
+        "Chris Cromwell, Sr. Test Manager",
+        "Lyndon Moore, SDET Lead",
+        "David Eddy, Test Lead",
+        "Emily Lovering, Software Test Engineer",
+        "Josh Hurley, Software Test Engineer",
+        "Ali Davis Donatelli, Test Associate",
+        "Charles Hulfish, Test Associate",
+        "David Hirsch, Test Associate",
+        "Erick Diaz, Test Associate",
+        "Jean-Luke Parshall, Test Associate",
+        "Jon Worthington, Test Associate",
+        "Leah Fandiño, Test Associate",
+        "Michelle Hartnett, Test Associate",
+        "Niko Taitano, Test Associate",
+        "Sawyer Piwetz, Test Associate"
+      ]
+    },
+    {
+      "teamTitle": "Experis Test Phoenix",
+      "people": [
+        "Muthuvalli Chockalingam, Test Lead",
+        "Jason Torres, Software Test Engineer",
+        "Kyle Leeson, Software Test Engineer",
+        "Jack Wilson, Software Test Engineer",
+        "Claire McKillip, Test Associate",
+        "Jonathan Lee, Test Associate",
+        "Olivia Chu, Test Associate",
+        "Robin Lopez, Test Associate"
+      ]
+    },
+    {
+      "teamTitle": "Special Thanks",
+      "people": [
+        "Jason Cahill",
+        "John Thornton",
+        "Aaron Greenberg",
+        "Bill Colburn",
+        "Daland David",
+        "Jeff Nelson",
+        "Jimmy Bischoff",
+        "David Boker",
+        "Ray Derryberry",
+        "Scott Dell’Osso",
+        "Scott Henson",
+        "Tony Harlich",
+        "Yasmine Nelson",
+        "Tina Lin",
+        "Makiko O’Brien",
+        "Winter Downs",
+        "Carlos Lopez",
+        "Theodore Lankford",
+        "Zak Belisle",
+        "Studios Quality Shield Lab",
+        "Aaron Brindell (Experis)",
+        "Aaron Ingram (Experis)",
+        "Andrew O’Keefe (Experis)",
+        "Pali Bobby (Experis)",
+        "Carol Stearns (Experis)",
+        "Erica Davis (Experis)",
+        "Frank Criscione (Experis)",
+        "Jake Gomez (Experis)",
+        "Jake Staudt (Experis)",
+        "Joanna Montoya (Experis)",
+        "Joshua Bone-Christian (Experis)",
+        "Justin Leveque (Experis)",
+        "Julie Loucks (Experis)",
+        "Kurt Valet (Experis)",
+        "Larae N Matthews (Experis)",
+        "Lev Kouliachov (Experis)",
+        "Mark Harrington (Experis)",
+        "Mark Medlock (Experis)",
+        "Mark Spenik (Experis)",
+        "Paul Gradwohl (Experis)",
+        "Stephen VanWambeck (Experis)",
+        "Timmy Stanford (Experis)"
+      ]
+    }
+  ]
+}

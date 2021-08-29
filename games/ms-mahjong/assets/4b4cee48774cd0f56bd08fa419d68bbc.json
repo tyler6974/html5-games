@@ -1,0 +1,548 @@
+{"frames": [
+
+{
+	"filename": "animation/jellyfish/jellyfish1.png",
+	"frame": {"x":669,"y":879,"w":89,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":175},
+	"sourceSize": {"w":89,"h":175}
+},
+{
+	"filename": "animation/jellyfish/jellyfish2.png",
+	"frame": {"x":760,"y":879,"w":79,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":170},
+	"sourceSize": {"w":79,"h":170}
+},
+{
+	"filename": "animation/jellyfish/jellyfish3.png",
+	"frame": {"x":592,"y":333,"w":93,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":160},
+	"sourceSize": {"w":93,"h":160}
+},
+{
+	"filename": "animation/jellyfish/jellyfish4.png",
+	"frame": {"x":595,"y":179,"w":96,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":152},
+	"sourceSize": {"w":96,"h":152}
+},
+{
+	"filename": "animation/jellyfish/jellyfish5.png",
+	"frame": {"x":132,"y":949,"w":111,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":148},
+	"sourceSize": {"w":111,"h":148}
+},
+{
+	"filename": "animation/jellyfish/jellyfish6.png",
+	"frame": {"x":1,"y":949,"w":129,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":148},
+	"sourceSize": {"w":129,"h":148}
+},
+{
+	"filename": "animation/jellyfish/jellyfish7.png",
+	"frame": {"x":841,"y":879,"w":129,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":151},
+	"sourceSize": {"w":129,"h":151}
+},
+{
+	"filename": "animation/jellyfish/jellyfish8.png",
+	"frame": {"x":841,"y":879,"w":129,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":151},
+	"sourceSize": {"w":129,"h":151}
+},
+{
+	"filename": "animation/jellyfish/jellyfish9.png",
+	"frame": {"x":1,"y":949,"w":129,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":148},
+	"sourceSize": {"w":129,"h":148}
+},
+{
+	"filename": "animation/jellyfish/jellyfish10.png",
+	"frame": {"x":132,"y":949,"w":111,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":148},
+	"sourceSize": {"w":111,"h":148}
+},
+{
+	"filename": "animation/jellyfish/jellyfish11.png",
+	"frame": {"x":595,"y":179,"w":96,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":152},
+	"sourceSize": {"w":96,"h":152}
+},
+{
+	"filename": "animation/jellyfish/jellyfish12.png",
+	"frame": {"x":592,"y":333,"w":93,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":160},
+	"sourceSize": {"w":93,"h":160}
+},
+{
+	"filename": "animation/jellyfish/jellyfish13.png",
+	"frame": {"x":760,"y":879,"w":79,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":170},
+	"sourceSize": {"w":79,"h":170}
+},
+{
+	"filename": "animation/jellyfish/jellyfish14.png",
+	"frame": {"x":669,"y":879,"w":89,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":175},
+	"sourceSize": {"w":89,"h":175}
+},
+{
+	"filename": "animation/jellyfish/jellyfish15.png",
+	"frame": {"x":669,"y":879,"w":89,"h":175},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":175},
+	"sourceSize": {"w":89,"h":175}
+},
+{
+	"filename": "animation/manta/manta1.png",
+	"frame": {"x":687,"y":350,"w":171,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":132},
+	"sourceSize": {"w":171,"h":132}
+},
+{
+	"filename": "animation/manta/manta2.png",
+	"frame": {"x":245,"y":949,"w":176,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":131},
+	"sourceSize": {"w":176,"h":131}
+},
+{
+	"filename": "animation/manta/manta3.png",
+	"frame": {"x":739,"y":750,"w":182,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":127},
+	"sourceSize": {"w":182,"h":127}
+},
+{
+	"filename": "animation/manta/manta4.png",
+	"frame": {"x":390,"y":590,"w":187,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":123},
+	"sourceSize": {"w":187,"h":123}
+},
+{
+	"filename": "animation/manta/manta5.png",
+	"frame": {"x":390,"y":364,"w":193,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":114},
+	"sourceSize": {"w":193,"h":114}
+},
+{
+	"filename": "animation/manta/manta6.png",
+	"frame": {"x":693,"y":246,"w":198,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":102},
+	"sourceSize": {"w":198,"h":102}
+},
+{
+	"filename": "animation/manta/manta7.png",
+	"frame": {"x":390,"y":179,"w":203,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":87},
+	"sourceSize": {"w":203,"h":87}
+},
+{
+	"filename": "animation/manta/manta8.png",
+	"frame": {"x":703,"y":1,"w":205,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":77},
+	"sourceSize": {"w":205,"h":77}
+},
+{
+	"filename": "animation/manta/manta9.png",
+	"frame": {"x":703,"y":80,"w":205,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":76},
+	"sourceSize": {"w":205,"h":76}
+},
+{
+	"filename": "animation/manta/manta10.png",
+	"frame": {"x":703,"y":158,"w":204,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":86},
+	"sourceSize": {"w":204,"h":86}
+},
+{
+	"filename": "animation/manta/manta11.png",
+	"frame": {"x":390,"y":268,"w":200,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":94},
+	"sourceSize": {"w":200,"h":94}
+},
+{
+	"filename": "animation/manta/manta12.png",
+	"frame": {"x":390,"y":480,"w":189,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":108},
+	"sourceSize": {"w":189,"h":108}
+},
+{
+	"filename": "animation/manta/manta13.png",
+	"frame": {"x":739,"y":641,"w":185,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":107},
+	"sourceSize": {"w":185,"h":107}
+},
+{
+	"filename": "animation/manta/manta14.png",
+	"frame": {"x":739,"y":641,"w":185,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":107},
+	"sourceSize": {"w":185,"h":107}
+},
+{
+	"filename": "animation/manta/manta16.png",
+	"frame": {"x":739,"y":641,"w":185,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":107},
+	"sourceSize": {"w":185,"h":107}
+},
+{
+	"filename": "animation/manta/manta17.png",
+	"frame": {"x":390,"y":480,"w":189,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":108},
+	"sourceSize": {"w":189,"h":108}
+},
+{
+	"filename": "animation/manta/manta18.png",
+	"frame": {"x":390,"y":268,"w":200,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":94},
+	"sourceSize": {"w":200,"h":94}
+},
+{
+	"filename": "animation/manta/manta19.png",
+	"frame": {"x":703,"y":158,"w":204,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":86},
+	"sourceSize": {"w":204,"h":86}
+},
+{
+	"filename": "animation/manta/manta20.png",
+	"frame": {"x":703,"y":80,"w":205,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":76},
+	"sourceSize": {"w":205,"h":76}
+},
+{
+	"filename": "animation/manta/manta21.png",
+	"frame": {"x":703,"y":1,"w":205,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":77},
+	"sourceSize": {"w":205,"h":77}
+},
+{
+	"filename": "animation/manta/manta22.png",
+	"frame": {"x":390,"y":179,"w":203,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":87},
+	"sourceSize": {"w":203,"h":87}
+},
+{
+	"filename": "animation/manta/manta23.png",
+	"frame": {"x":693,"y":246,"w":198,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":198,"h":102},
+	"sourceSize": {"w":198,"h":102}
+},
+{
+	"filename": "animation/manta/manta24.png",
+	"frame": {"x":390,"y":364,"w":193,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":114},
+	"sourceSize": {"w":193,"h":114}
+},
+{
+	"filename": "animation/manta/manta25.png",
+	"frame": {"x":390,"y":590,"w":187,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":123},
+	"sourceSize": {"w":187,"h":123}
+},
+{
+	"filename": "animation/manta/manta26.png",
+	"frame": {"x":739,"y":750,"w":182,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":127},
+	"sourceSize": {"w":182,"h":127}
+},
+{
+	"filename": "animation/manta/manta27.png",
+	"frame": {"x":245,"y":949,"w":176,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":131},
+	"sourceSize": {"w":176,"h":131}
+},
+{
+	"filename": "animation/manta/manta28.png",
+	"frame": {"x":687,"y":350,"w":171,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":171,"h":132},
+	"sourceSize": {"w":171,"h":132}
+},
+{
+	"filename": "animation/seahorse/seahorse0.png",
+	"frame": {"x":910,"y":1,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse1.png",
+	"frame": {"x":909,"y":186,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse2.png",
+	"frame": {"x":329,"y":764,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse3.png",
+	"frame": {"x":411,"y":715,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse4.png",
+	"frame": {"x":423,"y":900,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse5.png",
+	"frame": {"x":493,"y":715,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse6.png",
+	"frame": {"x":505,"y":900,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse7.png",
+	"frame": {"x":575,"y":715,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse8.png",
+	"frame": {"x":587,"y":900,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse9.png",
+	"frame": {"x":657,"y":641,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse10.png",
+	"frame": {"x":1,"y":764,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse11.png",
+	"frame": {"x":83,"y":764,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse12.png",
+	"frame": {"x":165,"y":764,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/seahorse/seahorse13.png",
+	"frame": {"x":247,"y":764,"w":80,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":12,"w":80,"h":183},
+	"sourceSize": {"w":119,"h":233}
+},
+{
+	"filename": "animation/shark/shark1.png",
+	"frame": {"x":1,"y":326,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark2.png",
+	"frame": {"x":1,"y":472,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark3.png",
+	"frame": {"x":1,"y":179,"w":387,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":145},
+	"sourceSize": {"w":387,"h":145}
+},
+{
+	"filename": "animation/shark/shark4.png",
+	"frame": {"x":581,"y":495,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark5.png",
+	"frame": {"x":1,"y":618,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark6.png",
+	"frame": {"x":1,"y":618,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark7.png",
+	"frame": {"x":581,"y":495,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark8.png",
+	"frame": {"x":1,"y":179,"w":387,"h":145},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":145},
+	"sourceSize": {"w":387,"h":145}
+},
+{
+	"filename": "animation/shark/shark9.png",
+	"frame": {"x":1,"y":472,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "animation/shark/shark10.png",
+	"frame": {"x":1,"y":326,"w":387,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":144},
+	"sourceSize": {"w":387,"h":144}
+},
+{
+	"filename": "water-reflection.png",
+	"frame": {"x":1,"y":1,"w":700,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":176},
+	"sourceSize": {"w":700,"h":176}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "theme2-background.png",
+	"format": "RGBA8888",
+	"size": {"w":991,"h":1098},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9397a291569ef513f5d7c1c71258f390:deb778ffbb6818b2690850aa34ee103a:8d0b9d29dc5a10fca40fdf430e939393$"
+}
+}

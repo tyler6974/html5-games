@@ -1,0 +1,20 @@
+{"frames": {
+
+"dailychallenge_bg/background.jpg":
+{
+	"frame": {"x":0,"y":0,"w":2048,"h":1157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1157},
+	"sourceSize": {"w":2048,"h":1157}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dailychallenge_bg.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":1157},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:df41f5c5abf692216d24ae79dcdc986f:8a3b814a528381391382f120e01d68f9:001bb0b8cdc5ec9f6d4408f393044973$"
+}
+}

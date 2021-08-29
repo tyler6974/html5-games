@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+   <font>
+       <info aa='1' size='80' smooth='1' stretchH='100' bold='0' padding='0,0,0,0' spacing='0,0' charset='' italic='0' unicode='0' face='segoe2_large_digit'/>
+       <common scaleW='192' packed='0' pages='1' lineHeight='107' scaleH='192' base='87'/>
+       <pages>
+            <page id='0' file='segoe2_large_digit.png'/>
+       </pages>
+        <chars count='11'>
+            <char xadvance='22' x='86' chnl='0' yoffset='87' y='126' xoffset='0' id='32' page='0' height='0' width='0'/>
+            <char xadvance='44' x='2' chnl='0' yoffset='29' y='126' xoffset='4' id='48' page='0' height='60' width='40'/>
+            <char xadvance='44' x='166' chnl='0' yoffset='29' y='2' xoffset='9' id='49' page='0' height='60' width='22'/>
+            <char xadvance='44' x='46' chnl='0' yoffset='29' y='64' xoffset='5' id='50' page='0' height='60' width='38'/>
+            <char xadvance='44' x='46' chnl='0' yoffset='29' y='126' xoffset='5' id='51' page='0' height='60' width='36'/>
+            <char xadvance='44' x='2' chnl='0' yoffset='29' y='2' xoffset='1' id='52' page='0' height='60' width='42'/>
+            <char xadvance='44' x='86' chnl='0' yoffset='29' y='64' xoffset='7' id='53' page='0' height='60' width='34'/>
+            <char xadvance='44' x='126' chnl='0' yoffset='29' y='2' xoffset='5' id='54' page='0' height='60' width='38'/>
+            <char xadvance='44' x='86' chnl='0' yoffset='29' y='2' xoffset='4' id='55' page='0' height='60' width='38'/>
+            <char xadvance='44' x='2' chnl='0' yoffset='29' y='64' xoffset='4' id='56' page='0' height='60' width='40'/>
+            <char xadvance='44' x='46' chnl='0' yoffset='29' y='2' xoffset='4' id='57' page='0' height='60' width='38'/>
+       </chars>
+       <kernings count="0">
+       </kernings>
+kernings count=0
+   </font>

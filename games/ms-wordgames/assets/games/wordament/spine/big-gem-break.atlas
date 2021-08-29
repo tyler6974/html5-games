@@ -1,0 +1,76 @@
+
+big-gem-break.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 862, 355
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 249, 294
+  size: 219, 216
+  orig: 219, 216
+  offset: 0, 0
+  index: -1
+images/3 2
+  rotate: true
+  xy: 249, 134
+  size: 158, 164
+  orig: 158, 164
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 470, 294
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: false
+  xy: 688, 294
+  size: 172, 216
+  orig: 172, 216
+  offset: 0, 0
+  index: -1
+images/6
+  rotate: true
+  xy: 2, 2
+  size: 126, 181
+  orig: 126, 181
+  offset: 0, 0
+  index: -1
+images/Screen-Shot-2018-10-26-at-1.59.44-PM
+  rotate: true
+  xy: 415, 222
+  size: 70, 243
+  orig: 70, 243
+  offset: 0, 0
+  index: -1
+images/b
+  rotate: true
+  xy: 558, 113
+  size: 107, 92
+  orig: 107, 92
+  offset: 0, 0
+  index: -1
+images/sparcle1
+  rotate: false
+  xy: 415, 110
+  size: 141, 110
+  orig: 141, 110
+  offset: 0, 0
+  index: -1
+images/sprkls2
+  rotate: false
+  xy: 2, 130
+  size: 245, 380
+  orig: 245, 380
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+{"frames": {
+
+"fable_bg/background.jpg":
+{
+	"frame": {"x":0,"y":0,"w":2048,"h":1156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1156},
+	"sourceSize": {"w":2048,"h":1156}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fable_bg.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":1156},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:84dd6010a54a04e98cea884b17ddab4c:c85abd8f75be1990c7a91af575b0d234:fd9c3e98539caf11f4592e538fb237d4$"
+}
+}

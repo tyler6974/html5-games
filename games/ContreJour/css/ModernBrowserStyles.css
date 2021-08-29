@@ -1,0 +1,63 @@
+/* v1.6.3 */
+
+@font-face {
+    font-family: 'SF Pro Text';
+    src: url('../fonts/SFProText-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+}
+
+img
+{
+   margin: 0px 5px 0px 5px; 
+}
+
+p
+{
+    text-align:center;
+}
+
+#ieLogo
+{
+    margin-bottom: 57px;
+    z-index: -1;
+}
+
+#container
+{
+    width: 100%;
+    position: fixed;
+    left: 0;
+    z-index: 0;
+}
+
+#background
+{
+    position:absolute;
+    height:560px;
+    width:660px;
+    margin-left: -345px;
+    margin-top: 125px;
+    top:50%;
+    left:50%;
+    z-index: -1;
+}
+
+#message
+{
+    position:relative;
+    margin: 25px auto 0 auto;
+}
+
+.text
+{
+    position:relative;
+    font-family: 'SF Pro Text';
+    font-size: 26.35px;
+    color: #9FBACE;
+    height: 30px;
+    width: 800px;
+    margin: 0px auto 0 auto;
+}

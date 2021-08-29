@@ -1,0 +1,132 @@
+{"frames": {
+
+"TriPeaks/Control_1.jpg":
+{
+	"frame": {"x":644,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Control_2.jpg":
+{
+	"frame": {"x":2,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Control_3.jpg":
+{
+	"frame": {"x":324,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Goal_1.jpg":
+{
+	"frame": {"x":2,"y":2,"w":640,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
+	"sourceSize": {"w":640,"h":320}
+},
+"TriPeaks/Goal_2.jpg":
+{
+	"frame": {"x":646,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Goal_3.jpg":
+{
+	"frame": {"x":2,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Goal_4.jpg":
+{
+	"frame": {"x":324,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Goal_5.jpg":
+{
+	"frame": {"x":646,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Goal_6.jpg":
+{
+	"frame": {"x":2,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/InGame_Controls.jpg":
+{
+	"frame": {"x":324,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/keyboard1.jpg":
+{
+	"frame": {"x":324,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/keyboard2.jpg":
+{
+	"frame": {"x":646,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Tips_1.jpg":
+{
+	"frame": {"x":646,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Tips_2.jpg":
+{
+	"frame": {"x":2,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"TriPeaks/Tips_3.jpg":
+{
+	"frame": {"x":2,"y":1612,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "htp_tripeaks.jpg",
+	"format": "RGB888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:17d2c5da97d6880e3ebfd55ac8f4d91d:565ac4f7709583d2f8840027af76b854:c132073ce1022768610f9468ec1d0049$"
+}
+}

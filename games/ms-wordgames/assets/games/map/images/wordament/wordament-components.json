@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "bonus-level-unlocked-back",
+	"frame": {"x":1358,"y":131,"w":130,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":130,"h":127},
+	"sourceSize": {"w":131,"h":131}
+},
+{
+	"filename": "chest-big-closed",
+	"frame": {"x":1357,"y":1,"w":136,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":59,"w":136,"h":128},
+	"sourceSize": {"w":205,"h":205}
+},
+{
+	"filename": "chest-big-open",
+	"frame": {"x":1203,"y":1,"w":152,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":23,"w":152,"h":164},
+	"sourceSize": {"w":205,"h":205}
+},
+{
+	"filename": "chest-small-closed",
+	"frame": {"x":1495,"y":1,"w":83,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":34,"w":83,"h":86},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "chest-small-open",
+	"frame": {"x":1490,"y":170,"w":91,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":11,"w":91,"h":109},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "level-locked-bkg",
+	"frame": {"x":1203,"y":167,"w":153,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":153,"h":146},
+	"sourceSize": {"w":163,"h":163}
+},
+{
+	"filename": "level-locked",
+	"frame": {"x":1495,"y":89,"w":80,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":80,"h":79},
+	"sourceSize": {"w":87,"h":87}
+},
+{
+	"filename": "level-unlocked-back",
+	"frame": {"x":1358,"y":260,"w":78,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":78,"h":77},
+	"sourceSize": {"w":78,"h":78}
+},
+{
+	"filename": "wordament-footer-top-overlay",
+	"frame": {"x":1,"y":243,"w":1200,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":111},
+	"sourceSize": {"w":1200,"h":112}
+},
+{
+	"filename": "wordament-footer",
+	"frame": {"x":1,"y":1,"w":1200,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":240},
+	"sourceSize": {"w":1200,"h":240}
+},
+{
+	"filename": "wordament-gate-star",
+	"frame": {"x":1438,"y":281,"w":56,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":56},
+	"sourceSize": {"w":56,"h":56}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wordament-components.png",
+	"format": "RGBA8888",
+	"size": {"w":1582,"h":355},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0207818fdd93780c00b9bf86ad4148ea:10844b6bc43d6e951e35ec9374667256:17b21fdde5703d5b2c00359c2e312a4c$"
+}
+}

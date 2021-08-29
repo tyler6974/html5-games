@@ -1,0 +1,545 @@
+{"frames": {
+
+"coin_particles/coin_particles_01.png":
+{
+	"frame": {"x":582,"y":842,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_02.png":
+{
+	"frame": {"x":195,"y":891,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_03.png":
+{
+	"frame": {"x":1603,"y":469,"w":192,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":146},
+	"sourceSize": {"w":192,"h":146}
+},
+"coin_particles/coin_particles_04.png":
+{
+	"frame": {"x":388,"y":891,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_05.png":
+{
+	"frame": {"x":775,"y":842,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_06.png":
+{
+	"frame": {"x":1366,"y":518,"w":191,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":147},
+	"sourceSize": {"w":191,"h":147}
+},
+"coin_particles/coin_particles_07.png":
+{
+	"frame": {"x":196,"y":742,"w":191,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":147},
+	"sourceSize": {"w":191,"h":147}
+},
+"coin_particles/coin_particles_08.png":
+{
+	"frame": {"x":1840,"y":342,"w":192,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":147},
+	"sourceSize": {"w":192,"h":147}
+},
+"coin_particles/coin_particles_09.png":
+{
+	"frame": {"x":2,"y":890,"w":191,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":147},
+	"sourceSize": {"w":191,"h":147}
+},
+"coin_particles/coin_particles_10.png":
+{
+	"frame": {"x":389,"y":742,"w":191,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":147},
+	"sourceSize": {"w":191,"h":147}
+},
+"coin_particles/coin_particles_11.png":
+{
+	"frame": {"x":968,"y":842,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_12.png":
+{
+	"frame": {"x":1161,"y":842,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_13.png":
+{
+	"frame": {"x":1797,"y":491,"w":192,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":146},
+	"sourceSize": {"w":192,"h":146}
+},
+"coin_particles/coin_particles_14.png":
+{
+	"frame": {"x":1354,"y":934,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_15.png":
+{
+	"frame": {"x":1547,"y":934,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_16.png":
+{
+	"frame": {"x":1840,"y":1022,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_17.png":
+{
+	"frame": {"x":581,"y":990,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_18.png":
+{
+	"frame": {"x":2,"y":742,"w":192,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":146},
+	"sourceSize": {"w":192,"h":146}
+},
+"coin_particles/coin_particles_19.png":
+{
+	"frame": {"x":2,"y":1039,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"coin_particles/coin_particles_20.png":
+{
+	"frame": {"x":195,"y":1039,"w":191,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":146},
+	"sourceSize": {"w":191,"h":146}
+},
+"dailychallenge/awards-perfect-badge.png":
+{
+	"frame": {"x":1623,"y":71,"w":418,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":72},
+	"sourceSize": {"w":418,"h":72}
+},
+"dailychallenge/AwardsScreen_BronzeBadge_4.png":
+{
+	"frame": {"x":1406,"y":32,"w":215,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":160},
+	"sourceSize": {"w":215,"h":160}
+},
+"dailychallenge/AwardsScreen_DiamondBadge_4.png":
+{
+	"frame": {"x":1623,"y":145,"w":215,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":160},
+	"sourceSize": {"w":215,"h":160}
+},
+"dailychallenge/AwardsScreen_GoldBadge_4.png":
+{
+	"frame": {"x":1406,"y":194,"w":215,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":160},
+	"sourceSize": {"w":215,"h":160}
+},
+"dailychallenge/AwardsScreen_NoBadges_4.png":
+{
+	"frame": {"x":1623,"y":307,"w":215,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":160},
+	"sourceSize": {"w":215,"h":160}
+},
+"dailychallenge/AwardsScreen_SilverBadge_4.png":
+{
+	"frame": {"x":1386,"y":356,"w":215,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":160},
+	"sourceSize": {"w":215,"h":160}
+},
+"dailychallenge/BronzeBadgeEarned.png":
+{
+	"frame": {"x":724,"y":32,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/challenge-complete-checkmark.png":
+{
+	"frame": {"x":1623,"y":32,"w":37,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":36},
+	"sourceSize": {"w":37,"h":36}
+},
+"dailychallenge/challenge-perfect-complete.png":
+{
+	"frame": {"x":2016,"y":33,"w":26,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":36},
+	"sourceSize": {"w":26,"h":36}
+},
+"dailychallenge/challenge_diff_star.png":
+{
+	"frame": {"x":2016,"y":2,"w":28,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":29},
+	"sourceSize": {"w":28,"h":29}
+},
+"dailychallenge/coin flip solitiare.png":
+{
+	"frame": {"x":1366,"y":834,"w":490,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":490,"h":98},
+	"sourceSize": {"w":490,"h":98}
+},
+"dailychallenge/coin-flip-solitiare_01.png":
+{
+	"frame": {"x":582,"y":742,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"dailychallenge/coin-flip-solitiare_02.png":
+{
+	"frame": {"x":1740,"y":934,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"dailychallenge/coin-flip-solitiare_03.png":
+{
+	"frame": {"x":1740,"y":1034,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"dailychallenge/coin-flip-solitiare_04.png":
+{
+	"frame": {"x":894,"y":990,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"dailychallenge/coin-flip-solitiare_05.png":
+{
+	"frame": {"x":994,"y":990,"w":98,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":98},
+	"sourceSize": {"w":98,"h":98}
+},
+"dailychallenge/CompletedAllChallenges_1_Solitaire.png":
+{
+	"frame": {"x":724,"y":194,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/CompletedAllChallenges_2.png":
+{
+	"frame": {"x":2,"y":256,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/DC_Calendar_Checkmark.png":
+{
+	"frame": {"x":1662,"y":32,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+"dailychallenge/DC_goal_meter_empty.png":
+{
+	"frame": {"x":2,"y":2,"w":1731,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1731,"h":28},
+	"sourceSize": {"w":1731,"h":28}
+},
+"dailychallenge/DC_goal_meter_fill.png":
+{
+	"frame": {"x":2034,"y":342,"w":9,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":20},
+	"sourceSize": {"w":9,"h":20}
+},
+"dailychallenge/DC_goal_meter_fill_endcap.png":
+{
+	"frame": {"x":684,"y":335,"w":18,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":20},
+	"sourceSize": {"w":18,"h":20}
+},
+"dailychallenge/DC_goal_meter_master.png":
+{
+	"frame": {"x":774,"y":990,"w":118,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":99},
+	"sourceSize": {"w":118,"h":99}
+},
+"dailychallenge/DC_goal_meter_medalnest.png":
+{
+	"frame": {"x":1094,"y":990,"w":80,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":108},
+	"sourceSize": {"w":80,"h":108}
+},
+"dailychallenge/DC_goal_meter_playerpip.png":
+{
+	"frame": {"x":1699,"y":32,"w":31,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":30},
+	"sourceSize": {"w":31,"h":30}
+},
+"dailychallenge/DiamondBadgeEarned.png":
+{
+	"frame": {"x":704,"y":356,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/fue1.png":
+{
+	"frame": {"x":2,"y":580,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/fue2.png":
+{
+	"frame": {"x":2,"y":32,"w":720,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":222},
+	"sourceSize": {"w":720,"h":222}
+},
+"dailychallenge/fue3.jpg":
+{
+	"frame": {"x":684,"y":680,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/glow.png":
+{
+	"frame": {"x":388,"y":1039,"w":121,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":121},
+	"sourceSize": {"w":121,"h":121}
+},
+"dailychallenge/GoldBadgeEarned.png":
+{
+	"frame": {"x":2,"y":418,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/PerfectEarned.jpg":
+{
+	"frame": {"x":684,"y":518,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/ribbon_DC.png":
+{
+	"frame": {"x":1858,"y":834,"w":128,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":186},
+	"sourceSize": {"w":128,"h":186}
+},
+"dailychallenge/ribbonicon.png":
+{
+	"frame": {"x":684,"y":256,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+"dailychallenge/SilverBadgeEarned.png":
+{
+	"frame": {"x":1366,"y":672,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+"dailychallenge/Solitaire-CoinImageProgressMeter.png":
+{
+	"frame": {"x":684,"y":293,"w":32,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":40},
+	"sourceSize": {"w":32,"h":40}
+},
+"dailychallenge/tabicon_calendar.png":
+{
+	"frame": {"x":1620,"y":617,"w":56,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":41},
+	"sourceSize": {"w":56,"h":41}
+},
+"dailychallenge/tabicon_day.png":
+{
+	"frame": {"x":1559,"y":617,"w":59,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":48},
+	"sourceSize": {"w":59,"h":48}
+},
+"dailychallenge/tabicon_freecell_badge.png":
+{
+	"frame": {"x":1988,"y":834,"w":45,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":57},
+	"sourceSize": {"w":45,"h":57}
+},
+"dailychallenge/tabicon_klondike_award.png":
+{
+	"frame": {"x":1735,"y":2,"w":279,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":61},
+	"sourceSize": {"w":279,"h":61}
+},
+"dailychallenge/tabicon_klondike_badge.png":
+{
+	"frame": {"x":1991,"y":491,"w":47,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":61},
+	"sourceSize": {"w":47,"h":61}
+},
+"dailychallenge/tabicon_master.png":
+{
+	"frame": {"x":1678,"y":617,"w":61,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":40},
+	"sourceSize": {"w":61,"h":40}
+},
+"dailychallenge/tabicon_pyramid_badge.png":
+{
+	"frame": {"x":1991,"y":554,"w":46,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":57},
+	"sourceSize": {"w":46,"h":57}
+},
+"dailychallenge/tabicon_spider_badge.png":
+{
+	"frame": {"x":1991,"y":613,"w":46,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":57},
+	"sourceSize": {"w":46,"h":57}
+},
+"dailychallenge/tabicon_tripeaks_badge.png":
+{
+	"frame": {"x":1988,"y":893,"w":45,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":57},
+	"sourceSize": {"w":45,"h":57}
+},
+"glow.png":
+{
+	"frame": {"x":1840,"y":145,"w":202,"h":195},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":202,"h":195},
+	"sourceSize": {"w":202,"h":195}
+}},
+"animations": {
+	"coin_particles/coin_particles": ["coin_particles/coin_particles_01.png","coin_particles/coin_particles_02.png","coin_particles/coin_particles_03.png","coin_particles/coin_particles_04.png","coin_particles/coin_particles_05.png","coin_particles/coin_particles_06.png","coin_particles/coin_particles_07.png","coin_particles/coin_particles_08.png","coin_particles/coin_particles_09.png","coin_particles/coin_particles_10.png","coin_particles/coin_particles_11.png","coin_particles/coin_particles_12.png","coin_particles/coin_particles_13.png","coin_particles/coin_particles_14.png","coin_particles/coin_particles_15.png","coin_particles/coin_particles_16.png","coin_particles/coin_particles_17.png","coin_particles/coin_particles_18.png","coin_particles/coin_particles_19.png","coin_particles/coin_particles_20.png"],
+	"dailychallenge/coin-flip-solitiare": ["dailychallenge/coin-flip-solitiare_01.png","dailychallenge/coin-flip-solitiare_02.png","dailychallenge/coin-flip-solitiare_03.png","dailychallenge/coin-flip-solitiare_04.png","dailychallenge/coin-flip-solitiare_05.png"],
+	"dailychallenge/fue": ["dailychallenge/fue1.png","dailychallenge/fue2.png","dailychallenge/fue3.jpg"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dc_menu.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:863153632f196fa7e13626cc6b86c77f:6244c7b91979679591cc70d79179b0e1:de3d4a0c44615b8bf388fb5130f97dd3$"
+}
+}

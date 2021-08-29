@@ -1,0 +1,104 @@
+
+end-gate.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/green1
+  rotate: true
+  xy: 431, 71
+  size: 55, 117
+  orig: 55, 117
+  offset: 0, 0
+  index: -1
+images/green11
+  rotate: true
+  xy: 550, 71
+  size: 55, 117
+  orig: 55, 117
+  offset: 0, 0
+  index: -1
+images/green2
+  rotate: true
+  xy: 150, 71
+  size: 55, 131
+  orig: 55, 131
+  offset: 0, 0
+  index: -1
+images/green22
+  rotate: true
+  xy: 150, 14
+  size: 55, 131
+  orig: 55, 131
+  offset: 0, 0
+  index: -1
+images/green3
+  rotate: true
+  xy: 2, 71
+  size: 55, 146
+  orig: 55, 146
+  offset: 0, 0
+  index: -1
+images/green33
+  rotate: true
+  xy: 2, 14
+  size: 55, 146
+  orig: 55, 146
+  offset: 0, 0
+  index: -1
+images/green33iu44imej
+  rotate: true
+  xy: 283, 96
+  size: 30, 146
+  orig: 30, 146
+  offset: 0, 0
+  index: -1
+images/green3iu4imej
+  rotate: true
+  xy: 283, 64
+  size: 30, 146
+  orig: 30, 146
+  offset: 0, 0
+  index: -1
+images/green4
+  rotate: true
+  xy: 2, 2
+  size: 10, 145
+  orig: 10, 145
+  offset: 0, 0
+  index: -1
+images/green44
+  rotate: true
+  xy: 149, 2
+  size: 10, 145
+  orig: 10, 145
+  offset: 0, 0
+  index: -1
+images/green5
+  rotate: true
+  xy: 669, 115
+  size: 11, 139
+  orig: 11, 139
+  offset: 0, 0
+  index: -1
+images/green55
+  rotate: true
+  xy: 669, 102
+  size: 11, 139
+  orig: 11, 139
+  offset: 0, 0
+  index: -1
+images/green6
+  rotate: true
+  xy: 283, 33
+  size: 29, 138
+  orig: 29, 138
+  offset: 0, 0
+  index: -1
+images/green66
+  rotate: true
+  xy: 296, 2
+  size: 29, 138
+  orig: 29, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+/* 
+ Localizable.strings
+ contreJour
+ 
+ Created by Maksym Hryniv on 27.01.12.
+ Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+ */
+"TOTAL" = "Total: %d";
+"FONT" = "TektonPro-BoldCond.otf"; 
+"FONT_WIDE" = "TektonPro-Bold.otf";
+"FONT_CHAPTER" = "handofsean";
+
+
+"ENJOYING_THE_GAME" = "Enjoying the game?\nPlease rate it.";
+
+"RATE" = "Rate";
+
+"NOT_NOW" = "Not Now";
+
+"NO_THANKS" = "No Thanks";
+
+"BEST_SCORE" = "Best score: %d";
+
+"ENERGY_BONUS" = "Lights bonus: %d";
+
+"TIME_BONUS" = "Time bonus: %d";
+
+"STARS_AND_SCORE_LITE" = "%d/%d";
+
+"STARS_AND_SCORE" = "%d/%d     Score: %d";
+
+"LEVEL" = "Level %d-%d";
+
+"DIRECTED_BY" = "Directed by";
+
+"MAKSYM_HRYNIV" = "Maksym Hryniv";
+
+"MIHAI_MAKSYM" = "Mihai Tymoshenko\nAndriy Shvyrov\nMaksym Hryniv";
+
+"MIHAI_TYMOSHENKO" = "Mihai Tymoshenko";
+
+"ANDRIY_SHVUREV" = "Andriy Shvyrov";
+
+"DAVID_LEON" = "David Ari Leon";
+
+"IHOR_PRYSHLIAK" = "Ihor Pryshliak";
+
+"SFX_BY" = "SFX by";
+
+"GRAPHICS_BY" = "Graphics by";
+
+"MUSIC_BY" = "Music by";
+
+"CONGRATULATIONS" = "Congratulations!\nYou have finished the game!";
+
+"NOT_THE_END" = "But it's not the end.\nMore levels are coming soon with the updates";
+
+"CREDITS" = "Credits";
+
+"PRODUCER" = "Producer";
+
+"ASSOCIATE_PRODUCER" = "Associate Producer";
+
+"TOM_KINNINBUGRH" = "Tom Kinniburgh";
+
+"BETA_TESTERS" = "Beta Testers";
+
+"BETA_TESTERS_NAMES_1" = "Silent Genius, Nick Manfre,";
+"BETA_TESTERS_NAMES_2" = "Kieran Byrne, Wei Cheng Wu,";
+"BETA_TESTERS_NAMES_3" = "Kevin Homick, Jacob Anderson,";
+"BETA_TESTERS_NAMES_4" = "Ruslan Salmanov, Andrey Gubin";
+
+
+"EVERYTHING_ELSE" = "Everything Else";
+
+"COMPOSER" = "Composer";
+
+"SFX" = "SFX";
+
+"IDEA" = "Idea by";
+
+"ANTON_MYKHAYLETS" = "Anton Mykhaylets";
+
+"PHYSICS_ENGINE" = "Physics Engine";
+
+"BOX2D" = "Box2D";
+
+"GRAPHICS_ENGINE" = "Graphics Engine";
+
+"STARS" = "...";
+
+"COCOS2D" = "Cocos2D for iPhone";
+
+"CHAPTER_COMPLETE_DESCRIPTION_0" = "Complete the first chapter";
+"CHAPTER_COMPLETE_DESCRIPTION_1" = "Complete the second chapter";
+"CHAPTER_COMPLETE_DESCRIPTION_2" = "Complete the third chapter";
+"CHAPTER_COMPLETE_DESCRIPTION_3" = "Complete the fourth chapter";
+"CHAPTER_COMPLETE_DESCRIPTION_4" = "Complete the fifth chapter";
+
+"CHAPTER_PERFECT_DESCRIPTION_0" = "Get three lights in all levels of chapter 1";
+"CHAPTER_PERFECT_DESCRIPTION_1" = "Get three lights in all levels of chapter 2";
+"CHAPTER_PERFECT_DESCRIPTION_2" = "Get three lights in all levels of chapter 3";
+"CHAPTER_PERFECT_DESCRIPTION_3" = "Get three lights in all levels of chapter 4";
+"CHAPTER_PERFECT_DESCRIPTION_4" = "Get three lights in all levels of chapter 5";
+
+"COLLECT_90_LIGHTS" = "Collect 90 lights";
+"COLLECT_180_LIGHTS" = "Collect 180 lights";
+"COLLECT_240_LIGHTS" = "Collect 240 lights";
+"COLLECT_300_LIGHTS" = "Collect 300 lights";
+
+"LITTLE_PRINCE" = "Save the Rose";
+
+"SPEEDY_DESCRIPTION" = "Reach speed 500 pixels per second on the ground";
+
+"MIGHTY_BIRD_DESCRIPTION" = "Reach speed 1000 pixels per second in the air";
+
+"OUT_OF_SCREEN_DESCRIPTION" = "Fall out of screen 50 times";
+
+"ACUPUNCTURE_DESCRIPTION" = "Prick yourself on spikes 50 times";
+
+"FEED_MONSTERS_DESCRIPTION" = "Be eaten 50 times";
+
+"SPIDER_DESCRIPTION" = "Link 6 tentacles at the time";
+
+"SNOT_EYE_HIT_DESCRIPTION" = "Hit tentacles in the eye 200 times";
+
+"RUSH_HOUR_DESCRIPTION" = "Complete any level in 5 seconds";
+
+"BLOCKS_DESTROY_DESCRIPTION" = "Destroy 20 blocks";
+
+"SPRING_SHOT_DESCRIPTION" = "Launch yourself 100 times from a cannon flower";
+
+"TRAMPOLINE_SHOT_DESCRIPTION" = "Launch yourself 100 times from a slingshot";
+
+"I_CAN_FLY_DESCRIPTION" = "Stay in the air for 5 seconds";
+
+"FAST_PERFECT_DESCRIPTION" = "Complete any level with 3 lights in 10 seconds";
+
+
+"USE_HEADPHONES" = "Use headphones\n for the best audio experience";
+
+
+"COMPLETE_TEXT_0" = "Completed!";
+"COMPLETE_TEXT_1" = "Good!";
+"COMPLETE_TEXT_2" = "Great!";
+"COMPLETE_TEXT_3" = "Perfect!";
+
+
+
+
+
+
+"GRAPHIC_ARTISTS"="Graphic Artists";
+
+
+"CHAPTER1" = "chapter 1\nMonsters";
+"CHAPTER2" = "chapter 2\nthe Night";
+"CHAPTER3" = "chapter 5\nMachine";
+"CHAPTER4" = "chapter 3\nMoonlight";
+"CHAPTER5" = "chapter 4\nNew Friend";
+
+
+"SLIDE_FINGER"="slide your finger\nto modify the ground";
+"STRIPES_DONT_STRETCH"="stripes don't stretch";
+"BLACK_SPRINGY"="black ones\nare springy";
+"TAP_THE_EYE"="tap the eye to\nrelease";
+"PULL_THE_TENTACLE"="pull the tentacle\nto link it";
+"PULL_THE_SLINGSHOT"="pull the slingshot";
+"YOU_CAN_SKIP"="you can skip any level";
+"BY_PRESSING_THE"="by pressing the";
+"BUTTON_FROM_THE_MENU"="button from the menu";
+"DRAG_TO_ROTATE"="drag\nto rotate";
+"IF_YOU_NEED_RETRY"="if you need to retry\npress here";
+"TENTACLES_CAN_BE_MOVED"="some tentacles can be moved";
+"IT_S_PORTAL"="it's a portal";
+"IT_S_PORTAL_2"="it's a portal 2";
+"YOU_CAN_PINCH"="you can pinch-to-zoom";
+"USE_MULTITOUCH"="use multitouch";
+"YOU_CAN_ATTACH"="you can attach more\nthan one tentacle";
+"COLLECT_AS_MANY"="collect as many lights\nas you can";
+"PULL_THE_BRIDGE"="drag to pull\nthe bridge";
+"REMOVE_THE_BRIDGE"="tap the eye to\nremove the bridge";
+"AMIE_HINT"="Meet Amie! Link her tail \n to Petit and watch them fly."
+
+
+"IMPROVED_RESULT"="Improved\nResult!";
+
+"YOU_TRIED_HARD" = "You tried hard. But sometimes it's not enough...\nYou need to go back and get more lights.";
+
+"YOU_DID_IT" = "You tried hard. And you did it!\n\nWe hope you enjoyed your journey to the world of\nContre Jour.";
+
+"BY_MAKSYM_HRYNIV" = "Maksym Hryniv";
+
+"INSPIRED_BY" = "Inspired by\n\"The Little Prince\"";
+
+"MORE_MUSIC" = "Get More Music";
+
+"GET_SOUNDTRACKS" = "Get Contre Jour\nSoundtrack";
+
+"GET_INGAME_MUSIC" = "Get In-Game\nMusic";
+
+
+"DOWNLOAD_ON" = "Download on";
+
+"NETWORK_ERROR" = "Network error";
+
+"CANNOT_CONNECT" = "Cannot connect to the Internet.\nPlease check your Internet connection.";
+
+"CLOSE" = "Close";
+
+"EXPERIENCE_THE_SOUNDTRACK" = "Experience the surreal and tranquil music of Contre Jour\nwith the full Original Soundtrack";
+
+"PREVIEW_THE_TRACKS"="Preview the tracks";
+
+
+
+/*  Stuff added for HTML5 game only - need this localized to all languages */
+  
+"PERFORMANCE_WARNING" = "<p>Bummer... this device is running slowly<br/>so your game experience may be poor.</p>";
+
+"PERFORMANCE_WARNING_IPAD" = "<p>The version of Contre Jour in the App Store<br/>will run much better on your iPad.</p>";
+
+"TERMS_CONDITIONS" = "Terms & Conditions";
+
+"PRIVACY" = "Privacy";
+
+"BEHIND_SCENES" = "Behind the\nScenes";
+
+"LOADING" = "Loading";
+
+"PLANET_LOCK_TEXT" = "Bummer, this amazing world requires multi-touch and can only be played using Internet Explorer 10 on a touch-enabled Windows 8 device.";
+
+"UPGRADE_OS" = "Petit is sad because he cannot play in your browser.\nUse Windows 8 and Internet Explorer 10 to see Petit at his best!";
+
+"UPGRADE_BROWSER" = "Petit rolls at his best in the latest and greatest version of Internet Explorer.”;
+
+"GET_IT_NOW" = "Get it now!";
+
+"LEARN_MORE" = "Learn More";
+
+"WORLD_PICKER_MULTI_TOUCH" = "This world requires a multi-touch\nbrowser. Touch all three blue\nlights at once to unlock.";
+
+"BEHIND_THE_SCENES_LINK" = "BehindTheScenes.html";
+
+"BEHIND_THE_SCENES" = "Behind the Scenes";
+
+"LANGUAGE" = "English";
+
+"SITE_LANGUAGE" = "Language: %d";
+
+"SLIDE_MOUSE"="slide your mouse\nto modify the ground";
+
+"FACEBOOK_SHARE_MESSAGE" = "Contre Jour is now on the web with a beautiful multi-touch world for IE10 users.  Play it now at http://www.contrejour.ie!";
+
+"TWITTER_SHARE_MESSAGE" = "Check out Contre Jour, a #HTML5 game w/ touch gameplay. Best experienced w/ #IE10!";
+
+"FINAL_SCORE_SHARE" = "Share your final score on Facebook";
+
+"FACEBOOK_SCORE_SHARE_MESSAGE" = "I just beat Contre Jour with a final score of %d. Play it now at http://www.contrejour.ie!";
+
+"SHARE" = "share";
+
+"CLARITY" = "Clarity Consulting, Inc";
+
+"CLARITY_NAMES_1" = "Jerry Brunning, Erik Klimczak,";
+
+"CLARITY_NAMES_2" = "Nathan Gonzalez, Ryan Skurkis,";
+
+"CLARITY_NAMES_3" = "Akin Owolabi, Levi Beaver, Ryan Mott";
+
+"HTML5_VERSION_DEV" = "HTML5 Development";
+
+"HTML5_VERSION_SPONSOR" = "HTML5 Sponsor";
+
+"HTML5_SPONSOR" = "Microsoft Internet Explorer Team";
+
+"MEET_PETIT" = "Meet Petit";
+
+"GET_MORE" = "get more";
+
+"CARD_SEND_VALENTINE"="Send a Contre Jour Valentine!";
+"CARD_CELEBRATE_FRIENDSHIP"="Celebrate friendship...";
+"CARD_SEND_MESSAGE"="Send a personalized message to someone important in your life and invite them to experience Contre Jour...";
+"CARD_WRITE_A_NOTE"="Write a note to someone";
+"CARD_OR_SHARE_THIS"="Or, share this one...";
+"CARD_TO"="To";
+"CARD_MESSAGE"="Message";
+"CARD_SIGNED"="Signed";
+"CARD_CANCEL"="Cancel";
+"CARD_PREVIEW"="Preview";
+"CARD_DONE"="Done";
+"CARD_TO_PROMPT"="To Name";
+"CARD_MESSAGE_PROMPT"="Your message goes here!";
+"CARD_LOVE_ME"="Love, Me";
+"CARD_WAY_TO_GO"="Way to go!";
+"CARD_COPY_LINK"="Copy this link to send your personalized greeting and brighten your friend's day!";
+"CARD_USE_CTRL"="Use Ctrl-C to copy to your clipboard.";
+"CARD_NOT_QUITE_RIGHT"="Not quite right?";
+"CARD_CHANGE_SOMETHING"="Change something.";
+"CARD_SPRITE"="card-sprite-EN.png";

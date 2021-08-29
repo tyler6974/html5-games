@@ -1,0 +1,20 @@
+{"frames": {
+
+"western_bg/background.jpg":
+{
+	"frame": {"x":0,"y":0,"w":2048,"h":1157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1157},
+	"sourceSize": {"w":2048,"h":1157}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "western_bg.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":1157},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:21fa3deed713aae07d92f8d1cf1e3030:b8640d4d4d01478cce32f524a312a55c:ac7953ae2faad151573fd851562919f5$"
+}
+}

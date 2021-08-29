@@ -1,0 +1,20 @@
+{"frames": {
+
+"autumn_bg/background.jpg":
+{
+	"frame": {"x":0,"y":0,"w":2048,"h":1156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1156},
+	"sourceSize": {"w":2048,"h":1156}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "autumn_bg.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":1156},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cf39dcc2c359e0c5706f4e5c1537312f:7e0f3950c5e04e58e1d089a49d955fd4:411a306ea9054d24cf7bf2f95fc0b445$"
+}
+}

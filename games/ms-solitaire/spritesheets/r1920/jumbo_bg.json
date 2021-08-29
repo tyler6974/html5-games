@@ -1,0 +1,20 @@
+{"frames": {
+
+"jumbo_bg/background.jpg":
+{
+	"frame": {"x":2,"y":2,"w":2048,"h":1157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1157},
+	"sourceSize": {"w":2048,"h":1157}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jumbo_bg.png",
+	"format": "RGBA8888",
+	"size": {"w":2052,"h":1161},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1884a56e3d708ff4e8b112e2fcc3e6c1:50c46423752d552374867cec8d34b863:3e1d56020abff6269b9f7b8e37575bc7$"
+}
+}

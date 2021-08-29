@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "MahjongUpperLeftImage.png",
+	"frame": {"x":1,"y":128,"w":690,"h":633},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":690,"h":633},
+	"sourceSize": {"w":1230,"h":691}
+},
+{
+	"filename": "Microsoft_Mahjong.png",
+	"frame": {"x":1,"y":1,"w":794,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":794,"h":125},
+	"sourceSize": {"w":794,"h":125}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "splash.png",
+	"format": "RGBA8888",
+	"size": {"w":796,"h":762},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d50d4d141ff57c9347532e751d8fbf06:2194a00dc1a24ee9ea14757188aa8825:17912d807795a397b5ccd2ab39a16cd0$"
+}
+}

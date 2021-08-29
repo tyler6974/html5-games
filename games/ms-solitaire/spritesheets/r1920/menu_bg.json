@@ -1,0 +1,20 @@
+{"frames": {
+
+"win10_MS_bg.png":
+{
+	"frame": {"x":0,"y":0,"w":1920,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":1080},
+	"sourceSize": {"w":1920,"h":1080}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "menu_bg.jpg",
+	"format": "RGB888",
+	"size": {"w":1920,"h":1080},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:38d4e68c94c8822ce1b725872c54e864:3bfbbec7e2bd9abf220d865dd72a6c68:053c876a500555bf8826435a69cb9dfd$"
+}
+}

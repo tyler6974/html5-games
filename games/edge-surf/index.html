@@ -1,0 +1,130 @@
+<!doctype html>
+<html dir="ltr" lang="en">
+   <head>
+      <meta charset="utf-8">
+      <script src="js/base-error-reporting.js"></script><script src="js/surf-error-reporting.js"></script><script src="js/assert.js"></script><script src="js/promise_resolver.js"></script><script src="js/cr.js"></script><script src="js/parse_html_subset.js"></script><script src="js/load_time_data.js"></script><script src="js/util.js"></script><script src="js/strings.js"></script>
+      <link href="css/interface.css" rel="stylesheet" media="all"/>
+   </head>
+   <body>
+      <div id="game-bg" class="full-size"></div>
+      <div id="game-water" class="full-size"></div>
+      <canvas id="game-canvas" class="full-size"></canvas>
+      <div id="game-tint" class="full-size"></div>
+      <div id="game-ui" class="full-size"></div>
+      <div style="display:none" id="preload"><img src="images/ambient64.png" id="ambient64"/> <img src="images/docks64.png" id="docks64"/> <img src="images/effects128.png" id="effects128"/> <img src="images/enemy128.png" id="enemy128"/> <img src="images/interact64.png" id="interact64"/> <img src="images/interface24.png" id="interface24"/> <img src="images/island1280.png" id="island1280"/> <img src="images/objects32.png" id="objects32"/> <img src="images/objects64.png" id="objects64"/> <img src="images/player64.png" id="player64"/> <img src="images/ripple96.png" id="ripple96"/> <img src="images/sandbar256.png" id="sandbar256"/> <img src="images/slowdown64.png" id="slowdown64"/> <img src="images/surfboard64.png" id="surfboard64"/> <img src="images/surfer64.png" id="surfer64"/> <img src="images/water256.png" id="water256"/></div>
+      <div id="hamburger-container"></div>
+      <div id="modal-root"></div>
+      <script defer="defer" src="js/lib_react.chunk.js"></script><script defer="defer" src="js/lib_common.chunk.js"></script><script defer="defer" src="js/surf.bundle.js"></script>
+   </body>
+</html>
+<template id="icon-king-template">
+   <svg class="icon-king" width="16px" height="16px" viewBox="0 0 16 16">
+      <path class="icon-fill" d="M10.58,8.62L14,4.5v10H2v-10l3.48,4.11L8,4.5L10.58,8.62z"/>
+      <circle class="icon-fill" cx="2" cy="2.5" r="1"/>
+      <circle class="icon-fill" cx="8" cy="2.5" r="1"/>
+      <circle class="icon-fill" cx="14" cy="2.5" r="1"/>
+   </svg>
+</template>
+<template id="icon-arrow-left-template">
+   <svg class="icon-arrow-left" width="32px" height="32px" viewBox="0 0 16 16">
+      <polyline class="icon-stroke" points="10.5,1 3.5,8 10.5,15"/>
+   </svg>
+</template>
+<template id="icon-arrow-right-template">
+   <svg class="icon-arrow-right" width="32px" height="32px" viewBox="0 0 16 16">
+      <polyline class="icon-stroke" points="5.5,1 12.5,8 5.5,15"/>
+   </svg>
+</template>
+<template id="icon-key-left-template">
+   <svg class="icon-key-left" width="32px" height="32px" viewBox="0 0 16 16">
+      <polyline class="icon-stroke" style="stroke-width:1.5;" points="7.93,12.24 3.69,8 7.93,3.76"/>
+      <line class="icon-stroke" style="stroke-width:1.5;" x1="3.69" y1="8" x2="12.93" y2="8"/>
+   </svg>
+</template>
+<template id="icon-key-right-template">
+   <svg class="icon-key-right" width="32px" height="32px" viewBox="0 0 16 16">
+      <polyline class="icon-stroke" style="stroke-width:1.5;" points="8.07,12.24 12.31,8 8.07,3.76"/>
+      <line class="icon-stroke" style="stroke-width:1.5;" x1="12.31" y1="8" x2="3.07" y2="8"/>
+   </svg>
+</template>
+<template id="icon-dpad-left-template">
+   <svg class="icon-dpad-left" width="32px" height="32px" viewBox="0 0 16 16">
+      <polygon class="icon-stroke" style="stroke-width:1.5;" points="4.75,6.25 8.25,6.25 8.25,2.75 11.75,2.75 11.75,6.25 15.25,6.25 15.25,9.75 11.75,9.75 11.75,13.25 8.25,13.25 8.25,9.75 4.75,9.75"/>
+      <polygon class="icon-fill" points="2.5,5.5 0,8 2.5,10.5"/>
+   </svg>
+</template>
+<template id="icon-dpad-right-template">
+   <svg class="icon-dpad-right" width="32px" height="32px" viewBox="0 0 16 16">
+      <polygon class="icon-stroke" style="stroke-width:1.5;" points="11.25,6.25 7.75,6.25 7.75,2.75 4.25,2.75 4.25,6.25 0.75,6.25 0.75,9.75 4.25,9.75 4.25,13.25 7.75,13.25 7.75,9.75 11.25,9.75"/>
+      <polygon class="icon-fill" points="13.5,5.5 16,8 13.5,10.5"/>
+   </svg>
+</template>
+<template id="icon-xbox-a-template">
+   <svg class="icon-xbox-a" width="32px" height="32px" viewBox="0 0 16 16">
+      <path class="icon-fill" d="M11.45,11.5H9.74l-0.5-1.56H6.75L6.25,11.5H4.55l2.55-7h1.87L11.45,11.5z M8.88,8.73L8.12,6.38C8.07,6.2,8.03,5.99,8.01,5.75H7.97C7.95,5.95,7.91,6.16,7.85,6.36L7.08,8.73H8.88z"/>
+      <circle class="icon-stroke" style="" cx="8" cy="8" r="7.5"/>
+   </svg>
+</template>
+<template id="icon-xbox-rt-template">
+   <svg class="icon-xbox-rt" width="32px" height="32px" viewBox="0 0 16 16">
+      <path class="icon-stroke" d="M1.75,1.42C1.14,2.29,0.04,8.35,1.99,11.68s5.33,3.83,7.67,3.83s4.83-0.01,5.38-1.28c0.53-1.22-2.01-3.41-2.01-7.54s2.09-4.67,0.75-5.87C13.44,0.51,11.24,0.5,7.95,0.5S2.36,0.55,1.75,1.42z"/>
+      <path class="icon-fill" d="M7.83,9.95H6.56L5.8,8.69c-0.06-0.1-0.11-0.18-0.16-0.26C5.59,8.36,5.53,8.29,5.48,8.24C5.43,8.19,5.37,8.15,5.31,8.12C5.25,8.09,5.19,8.07,5.12,8.07h-0.3v1.88h-1.1v-4.9h1.75c1.19,0,1.78,0.44,1.78,1.33c0,0.17-0.03,0.33-0.08,0.47C7.12,7,7.05,7.13,6.95,7.25s-0.21,0.22-0.35,0.3S6.32,7.7,6.15,7.75v0.01C6.23,7.78,6.3,7.82,6.37,7.87c0.07,0.05,0.13,0.11,0.2,0.18s0.12,0.14,0.18,0.22C6.8,8.35,6.86,8.43,6.91,8.5L7.83,9.95z M4.82,5.88v1.36H5.3c0.24,0,0.43-0.07,0.57-0.21C6.02,6.9,6.09,6.72,6.09,6.52c0-0.43-0.26-0.64-0.77-0.64H4.82z"/>
+      <path class="icon-fill" d="M11.59,5.95h-1.4v4H9.09v-4H7.69v-0.9h3.9V5.95z"/>
+   </svg>
+</template>
+<template id="icon-ps-x-template">
+   <svg class="icon-ps-x" width="32px" height="32px" viewBox="0 0 16 16">
+      <circle class="icon-stroke" cx="8" cy="8" r="7.5"/>
+      <path class="icon-stroke" style="stroke-width:1.5;" d="M4.5,4.5l7,7L4.5,4.5z"/>
+      <path class="icon-stroke" style="stroke-width:1.5;" d="M11.5,4.5l-7,7L11.5,4.5z"/>
+   </svg>
+</template>
+<template id="icon-ps-r2-template">
+   <svg class="icon-ps-r2" width="32px" height="32px" viewBox="0 0 16 16">
+      <path class="icon-stroke" d="M1.75,1.42C1.14,2.29,0.04,8.35,1.99,11.68s5.33,3.83,7.67,3.83s4.83-0.01,5.38-1.28c0.53-1.22-2.01-3.41-2.01-7.54s2.09-4.67,0.75-5.87C13.44,0.51,11.24,0.5,7.95,0.5S2.36,0.55,1.75,1.42z"/>
+      <path class="icon-fill" d="M7.83,9.95H6.56L5.8,8.69c-0.06-0.1-0.11-0.18-0.16-0.26C5.59,8.36,5.53,8.29,5.48,8.24C5.43,8.19,5.37,8.15,5.31,8.12C5.25,8.09,5.19,8.07,5.12,8.07h-0.3v1.88h-1.1v-4.9h1.75c1.19,0,1.78,0.44,1.78,1.33c0,0.17-0.03,0.33-0.08,0.47C7.12,7,7.05,7.13,6.95,7.25s-0.21,0.22-0.35,0.3S6.32,7.7,6.15,7.75v0.01C6.23,7.78,6.3,7.82,6.37,7.87c0.07,0.05,0.13,0.11,0.2,0.18s0.12,0.14,0.18,0.22C6.8,8.35,6.86,8.43,6.91,8.5L7.83,9.95z M4.82,5.88v1.36H5.3c0.24,0,0.43-0.07,0.57-0.21C6.02,6.9,6.09,6.72,6.09,6.52c0-0.43-0.26-0.64-0.77-0.64H4.82z"/>
+      <path class="icon-fill" d="M9.2,9.06h2.08v0.9H8.01V9.58c0-0.25,0.04-0.48,0.13-0.67c0.08-0.2,0.19-0.38,0.32-0.54c0.13-0.16,0.27-0.3,0.42-0.42c0.15-0.12,0.3-0.23,0.43-0.33c0.14-0.1,0.27-0.2,0.38-0.29s0.2-0.19,0.27-0.28c0.07-0.09,0.13-0.19,0.17-0.28c0.04-0.09,0.05-0.2,0.05-0.3c0-0.21-0.06-0.37-0.18-0.48C9.88,5.88,9.7,5.83,9.46,5.83c-0.42,0-0.82,0.17-1.21,0.5V5.38c0.43-0.28,0.91-0.41,1.44-0.41c0.25,0,0.47,0.03,0.67,0.1c0.2,0.06,0.36,0.16,0.5,0.28s0.24,0.27,0.31,0.44c0.07,0.17,0.11,0.36,0.11,0.58c0,0.23-0.03,0.43-0.1,0.6S11.01,7.3,10.9,7.44s-0.25,0.27-0.4,0.4c-0.15,0.12-0.31,0.23-0.47,0.35C9.92,8.26,9.82,8.33,9.72,8.41c-0.1,0.08-0.19,0.15-0.27,0.23C9.37,8.71,9.31,8.78,9.26,8.85C9.22,8.92,9.2,8.99,9.2,9.06z"/>
+   </svg>
+</template>
+<template id="icon-inputs-keyboard-template">
+   <svg class="icon-keyboard" width="32px" height="32px" viewBox="0 0 16 16">
+      <rect class="icon-fill" x="2.5" y="4.5" width="1" height="1"/>
+      <rect class="icon-fill" x="2.5" y="6.5" width="2" height="1"/>
+      <rect class="icon-fill" x="2.5" y="8.5" width="2" height="1"/>
+      <rect class="icon-fill" x="4.5" y="4.5" width="1" height="1"/>
+      <rect class="icon-fill" x="5.5" y="6.5" width="1" height="1"/>
+      <rect class="icon-fill" x="5.5" y="8.5" width="5" height="1"/>
+      <rect class="icon-fill" x="6.5" y="4.5" width="1" height="1"/>
+      <rect class="icon-fill" x="7.5" y="6.5" width="1" height="1"/>
+      <rect class="icon-fill" x="8.5" y="4.5" width="1" height="1"/>
+      <rect class="icon-fill" x="9.5" y="6.5" width="1" height="1"/>
+      <rect class="icon-fill" x="10.5" y="4.5" width="1" height="1"/>
+      <rect class="icon-fill" x="11.5" y="6.5" width="2" height="1"/>
+      <rect class="icon-fill" x="11.5" y="8.5" width="2" height="1"/>
+      <rect class="icon-fill" x="12.5" y="4.5" width="1" height="1"/>
+      <rect class="icon-fill" x="1" y="3" class="icon-stroke" style="" width="14" height="8" rx="0.5"/>
+   </svg>
+</template>
+<template id="icon-inputs-touch-template">
+   <svg class="icon-touch" width="32px" height="32px" viewBox="0 0 16 16">
+      <path class="icon-stroke" style="stroke-linejoin:round;" d="M5.95,6.33C4.8,5.91,3.97,4.8,3.97,3.5c0-1.66,1.34-3,3-3s3,1.34,3,3c0,1.31-0.84,2.43-2.02,2.84"/>
+      <path class="icon-stroke" style="stroke-linejoin:round;" d="M13.95,8.5c0-0.55-0.45-1-1-1c-0.55,0-1,0.45-1,1V9.8l0-1.79c0-0.55-0.45-1-1-1c-0.55,0-1,0.45-1,1v1V7.5c0-0.55-0.45-1-1-1c-0.55,0-1,0.45-1,1v1c0,0,0-4.72,0-5c0-0.55-0.45-1-1-1c-0.55,0-1,0.45-1,1v7.02C5.08,9.7,4.31,8.95,4.16,8.8c-0.39-0.39-1.02-0.39-1.41,0c-0.39,0.39-0.39,1.02,0,1.41c0.25,0.25,4,4,4,4s1.31,1.29,3.21,1.29c2.21,0,4-1.79,4-4c0,0,0,0,0,0l0,0V8.5z"/>
+   </svg>
+</template>
+<template id="icon-inputs-mouse-template">
+   <svg class="icon-mouse" width="32px" height="32px" viewBox="0 0 16 16">
+      <path class="icon-stroke" d="M8,15.5L8,15.5c-2.76,0-5-2.24-5-5v-7c0-1.66,1.34-3,3-3h4c1.66,0,3,1.34,3,3v7C13,13.27,10.76,15.5,8,15.5z"/>
+      <line class="icon-stroke" style="" x1="8" y1="0.5" x2="8" y2="6"/>
+   </svg>
+</template>
+<template id="icon-inputs-controller-template">
+   <svg class="icon-controller" width="32px" height="32px" viewBox="0 0 16 16">
+      <path class="icon-stroke" style="stroke-linejoin:round;" d="M15.2,8.27c-0.4-1.48-1.68-4.27-1.8-4.43c-0.13-0.16-0.45-0.33-0.45-0.33l0.04-0.48c-0.44-0.3-2.03-0.59-2.61-0.52L9.57,3H6.43l-0.8-0.49C5.04,2.44,3.45,2.73,3.01,3.03l0.04,0.48c0,0-0.32,0.17-0.45,0.33C2.47,3.99,1.19,6.79,0.8,8.27c-0.39,1.45-0.33,2.44-0.19,3.01s0.84,1.22,1.47,1.22c0.45,0,2.16-2.41,2.95-2.76C5.85,9.36,6.06,9.48,8,9.48s2.15-0.12,2.97,0.25c0.78,0.35,2.5,2.76,2.95,2.76c0.63,0,1.33-0.65,1.47-1.22S15.59,9.72,15.2,8.27z"/>
+      <circle class="icon-fill" cx="8" cy="5" r="0.5"/>
+   </svg>
+</template>
+<template id="icon-button-key-select-template"><span class="info-button-key"></span> <span class="info-button-key"></span></template>
+<template id="icon-button-icon-select-template"><span class="info-button-icon"></span> <span class="info-button-icon"></span></template>
+<template id="icon-button-keytext-action-template"><span class="info-button-keytext"></span></template>
+<template id="icon-button-text-action-template"><span class="info-button-text"></span></template>
+<template id="icon-button-icon-action-template"><span class="info-button-icon"></span></template>

@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="css/ModernBrowserStyles.css" rel="stylesheet" />
+    <script>
+        /*
+         * Copyright 2010, John Resig
+         * Dual licensed under the MIT or GPL Version 2 licenses.
+         * http://jquery.org/license
+         */
+        var DOMContentLoaded
+        if (document.addEventListener) {
+            DOMContentLoaded = function () {
+                document.removeEventListener("DOMContentLoaded", DOMContentLoaded, false);
+                init();
+            };
+        } else if (document.attachEvent) {
+            DOMContentLoaded = function () {
+                if (document.readyState === "complete") {
+                    document.detachEvent("onreadystatechange", DOMContentLoaded);
+                    init();
+                }
+            };
+        }
+
+        if (document.addEventListener) {
+            document.addEventListener("DOMContentLoaded", DOMContentLoaded, false);
+        } else if (document.attachEvent) {
+            document.attachEvent("onreadystatechange", DOMContentLoaded);
+        }
+
+        function init() {
+
+            function doClick() {
+                var img = new Image();
+                img.src = 'http://view.atdmt.com/action/SMG_MRTINX_SITE_CJ_DL';
+                meteor.tracking.track_conversion('63e3041e-d303-48f8-b0ae-c12a34ebd1de', { 'name': 'hp_8_dwnld' });
+                _gaq.push(['_trackEvent', 'Link', 'Download IE']);
+                window.open('http://windows.microsoft.com/ie', '_blank');
+            };
+
+            var logo = document.getElementById('ieLogo');
+            if (document.addEventListener) {
+                logo.addEventListener('click', doClick);
+            }
+            else {
+                logo.attachEvent('onclick', doClick);
+            }
+        };
+    </script>
+    <script id="meteorInitScript" type="text/javascript" src="http://static.meteorsolutions.com/metsol.js"></script> 
+    <script id="meteorTrackScript" type="text/javascript">
+        meteor.tracking.track('63e3041e-d303-48f8-b0ae-c12a34ebd1de', { 'url_storage_source': 'hash', 'query_string_tag_key': ['mtag', 'source', 'src', 'utm_source', 'CR_CC', 'cr_cc'] });
+        meteor.orion.init();
+        meteor.sharing.configure('63e3041e-d303-48f8-b0ae-c12a34ebd1de', { 'url': 'www.contrejour.ie', 'title': 'Check out Contre Jour, a brand new HTML5 game w/ unreal touch gameplay. Best experienced w/ IE10!' });
+    </script>
+    <script id="googleScript" type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-34746566-1']);
+        _gaq.push(['_setDomainName', 'contrejour.ie']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+</head>
+<body style="background-color:black;">
+    <div id="container">
+        <p id="message" class="text">Petit roule comme jamais dans la version la plus récente d'Internet Explorer.</p>
+        <div id="background">
+            <img id="Img2" src="img/Upgrade-petite.png" />
+            <img id="ieLogo" style="cursor: pointer" src="img/Upgrade-IEbtn.png" />    
+        </div>
+    </div>
+</body>
+</html>

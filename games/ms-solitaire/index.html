@@ -1,0 +1,663 @@
+<!DOCTYPE HTML>
+<!-- // Copyright (C) Microsoft Corporation. All rights reserved.
+-->
+<html>
+<head>
+    <title>Microsoft Solitaire Collection</title>
+
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta id="viewport" name="viewport"
+          content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script src="js/jquery.min.js" type="text/javascript"></script>    
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+            -webkit-tap-highlight-color: transparent;
+            -ms-content-zooming: none;
+        }
+
+        html, body {
+            overflow: hidden;
+            background: transparent;
+        }
+
+        body {
+            touch-action: none;
+            -ms-touch-action: none;
+        }
+
+        #container {
+            position: absolute;
+        }
+
+        #highScoreEntry {
+            z-index: 10000;
+            position: absolute;
+            display: none;
+            border: none;
+            padding: 0 0 0 5px;
+        }
+
+        #highScoreEntry:focus {
+            outline: none;
+        }
+
+        .contentOverlay, #news {
+            background: #02365E;
+            color: white;
+            width: 540px;
+            -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            padding: 0;
+            overflow: auto;
+        }
+
+        @media only screen and (max-width: 1440px) {
+            .contentOverlay {
+                -webkit-transform: translate(-50%, -50%) scale(0.85);
+                -moz-transform: translate(-50%, -50%) scale(0.85);
+                transform: translate(-50%, -50%) scale(0.85);
+            }
+
+            #closeCredits {
+                border: 1px white solid;
+            }
+        }
+
+        @media only screen and (max-width: 960px) {
+            .contentOverlay {
+                -webkit-transform: translate(-50%, -50%) scale(0.7);
+                -moz-transform: translate(-50%, -50%) scale(0.7);
+                transform: translate(-50%, -50%) scale(0.7);
+            }
+
+            #closeCredits {
+                border: 2px white solid;
+            }
+        }
+
+        @media only screen and (max-width: 480px) {
+            .contentOverlay {
+                -webkit-transform: translate(-50%, -50%) scale(0.5);
+                -moz-transform: translate(-50%, -50%) scale(0.5);
+                transform: translate(-50%, -50%) scale(0.5);
+            }
+
+            #closeCredits {
+                border: 3px white solid;
+            }
+        }
+
+        .contentOverlayHeader, #newsheader {
+            color: white;
+            font: 0.6em 'Segoe UI', Segoe;
+            background: #02365E url(static/img/btn_news.png) no-repeat 17px 17px;
+            padding: 30px 30px 30px 100px;
+        }
+
+        #newsimage img {
+            display: block;
+            width: 100%;
+        }
+
+        #newsdate {
+            display: block;
+            color: white;
+            font: 1em 'Segoe UI', Segoe;
+            margin: 5px 10px;
+        }
+
+        #newsfooter {
+            /*height: 80px;*/
+            background: #02365E url(static/img/news_motd_bkbar.png) no-repeat 0 0;
+            padding: 20px 0;
+        }
+
+        .contentOverlayFooter {
+            /*height: 80px;*/
+            background-color: #02365E;
+            padding: 20px 0;
+        }
+
+        .contentOverlayCloseButton, #closenews {
+            width: 100px;
+            padding: 10px;
+            text-align: center;
+            color: white;
+            background-color: transparent;
+            border: 1px white solid;
+            font: 1em 'Segoe UI', Segoe;
+            margin: 0 auto;
+        }
+
+        .contentOverlayCloseButton:hover, #closenews:hover {
+            background-color: white;
+            color: #02365E;
+            border-color: #02365E;
+            cursor: pointer;
+        }
+
+        #htmlBoxOverlay {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        iframe {
+            display: block;
+
+        }
+
+        .contentOverlay {
+            background: transparent url(static/img/backgroundTile.png) repeat 0 0;
+        }
+
+        #credits .contentOverlayHeader {
+            background: #02365E url(static/img/credits/credits.png) no-repeat 17px 17px;
+            padding: 19px 20px 20px 54px;
+        }
+
+        .creditsContent {
+            height: 360px;
+            background: rgba(0, 0, 0, 0.3);
+            overflow: scroll;
+            overflow-x: hidden;
+            padding: 20px 0 0 0;
+            margin: 10px;
+        }
+
+        .creditsContent h2, .creditsContent h3, .creditsContent ul, .creditsContent p, .creditsContent .imgDiv {
+            font: 0.7em 'Segoe UI', Segoe;
+            padding: 0 20px 20px 20px;
+        }
+
+        .creditsContent h3 {
+            font-size: 1.25em;
+            padding-bottom: 10px
+        }
+
+        .creditsContent ul {
+            list-style: none;
+        }
+
+        a, a:visited, a:link, a:active {
+            color: #fff;
+            text-decoration: none;
+            padding: 0;
+        }
+
+        .noscript {
+            color: #fff;
+            text-align: center;
+            margin-top: 200px;
+            font: 0.9em 'Segoe UI', Segoe;
+        }
+
+        .noscript a {
+            text-decoration: underline;
+        }
+
+        ::-webkit-scrollbar {
+            -webkit-appearance: none;
+            width: 7px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 4px;
+            background-color: rgba(0, 0, 0, .5);
+            -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+        }
+
+        .overlayWrapper {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+
+        #preLoader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: black;
+        }
+
+        #preLoader.loaded {
+            background: transparent;
+        }
+
+        #msftLogo {
+            background: transparent url(static/img/credits/MicrosoftLogo.png) no-repeat 0 0;
+            width: 376px;
+            height: 100px;
+        }
+
+        #ahLogo {
+            background: transparent url(static/img/credits/ah_logo.png) no-repeat 0 0;
+            width: 200px;
+            height: 200px;
+        }
+
+        #dcLogo {
+            background: transparent url(static/img/credits/logo-horiz-tight.png) no-repeat 0 0;
+            width: 343px;
+            margin-left: 19px;
+            height: 124px;
+        }
+
+        @-webkit-keyframes helloH {
+            from {
+                background-position-x: 0px;
+            }
+            to {
+                background-position-x: -1307px;
+            }
+        }
+
+        @-moz-keyframes helloH {
+            from {
+                background-position-x: 0px;
+            }
+            to {
+                background-position-x: -1307px;
+            }
+        }
+
+        @keyframes helloH {
+            from {
+                background-position-x: 0px;
+            }
+            to {
+                background-position-x: -1307px;
+            }
+        }
+
+        @-webkit-keyframes helloV {
+            from {
+                background-position-y: 0px;
+            }
+            to {
+                background-position-y: -170px;
+            }
+        }
+
+        @-moz-keyframes helloV {
+            from {
+                background-position-y: 0px;
+            }
+            to {
+                background-position-y: -170px;
+            }
+        }
+
+        @keyframes helloV {
+            from {
+                background-position-y: 0px;
+            }
+            to {
+                background-position-y: -170px;
+            }
+        }
+
+        .hiWrapper {
+            -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 85px;
+            height: 85px;
+        }
+
+        .hi {
+            -webkit-transform: scale(0.5, 0.5);
+            transform: scale(0.5, 0.5);
+
+            width: 85px;
+            height: 85px;
+
+            background: url("spritesheets/r1920/cssloading.png") no-repeat;
+            margin: 0 auto;
+
+            -webkit-animation: helloH 1s steps(15) infinite, helloV 2s steps(2) infinite;
+            -moz-animation: helloH 1s steps(15) infinite, helloV 2s steps(2) infinite;
+            -animation: helloH 1s steps(15) infinite, helloV 2s steps(2) infinite;
+        }
+    </style>
+
+    <script type="text/javascript" src="js/MSC.js"></script>
+</head>
+<body>
+<noscript>
+    <div class="noscript">You must enable JavaScript in your browser settings in order to play this game.</div>
+</noscript>
+<div id="errorScreen" class="noscript" style="display: none"></div>
+<div id="container">
+    <div id="preLoader">
+        <div class="hiWrapper">
+            <div class="hi"></div>
+        </div>
+    </div>
+</div>
+
+<input type="text" id="highScoreEntry" value="enter a value" maxlength="10"/>
+<div id="htmlBoxOverlay" style="display: none"></div>
+<div class="overlayWrapper" id="overlayContentWrapper" style="display: none">
+    <div id="news" style="display: none">
+        <div id="newsheader">
+            <h1>News for Microsoft Solitaire Collection</h1>
+        </div>
+        <div id="newsimage">
+            <img src="Fablenews.png"
+                 alt="News Header"/>
+        </div>
+        <div id="newsdate">
+        </div>
+        <div id="newscontent">
+            <iframe id="newsframe" width="540" height="200" scrolling="auto" frameborder="0"></iframe>
+        </div>
+        <div id="newsfooter">
+            <div id="closenews">
+                Close
+            </div>
+        </div>
+    </div>
+    <div id="credits" class="contentOverlay" style="display: none">
+        <div class="contentOverlayHeader">
+            <h1>{{creditsLabel}}</h1>
+        </div>
+        <div class="creditsContent">
+            <div id="msftLogo" class="imgDiv">
+            </div>
+            <h3>{{productionLabel}}</h3>
+            <ul>
+                <li>Paul Jensen, Studio Manager, Microsoft Casual Games</li>
+                <li>Derek Dutilly, Principal Lead Producer</li>
+                <li>Jason Barnes, Lead Producer</li>
+                <li>Michael Bilodeau, Producer</li>
+            </ul>
+            <h3>{{designLabel}}</h3>
+            <ul>
+                <li>Kevin Lambert, Design Director</li>
+                <li>Ethan Pasternack, Designer</li>
+                <li>Shawn Conard (TEKsystems Inc), Designer</li>
+                <li>Clay Williamson (Randstad), Designer</li>
+            </ul>
+            <h3>{{developmentLabel}}</h3>
+            <ul>
+                <li>Will Frost, Principal Software Engineer Lead</li>
+                <li>Jason McCullough, Principal Software Engineer</li>
+            </ul>
+            <h3>{{managementLabel}}</h3>
+            <ul>
+                <li>Shannon Loftis, GM, Microsoft Studios Publishing</li>
+                <li>Matt Booty, CVP, Microsoft Studios</li>
+                <li>Phil Spencer, EVP, Gaming</li>
+            </ul>
+            <h3>{{businessManagementLabel}}</h3>
+            <ul>
+                <li>Julie DiRamio, Director, Business Operations</li>
+                <li>David Hopley, Business Development Manager</li>
+                <li>Michael Schauble, Business Development Manager, Games</li>
+            </ul>
+            <h3>{{businessDevelopmentLabel}}</h3>
+            <ul>
+                <li>Andre Sevigny, Director, Monetization</li>
+                <li>Werner Baron, Senior Business Analytics Specialist</li>
+                <li>Andrew Bailey, Advertising Operations Program Manager</li>
+                <li>Kate Severud, Advertising Operations Program Manager</li>
+            </ul>
+            <h3>{{legalLabel}}</h3>
+            <ul>
+                <li>Nick Morgan, Senior Attorney</li>
+                <li>Christi Davisson, Attorney</li>
+                <li>Carla Woo, Senior Paralegal</li>
+            </ul>
+            <h3>{{localizationLabel}}</h3>
+            <ul>
+                <li>Vrunda Petwe (Lionbridge Game Services), Localization Project Manager</li>
+                <li>Mike Su (Experis), Localization Project Manager</li>
+                <li>Brett Moses (Lionbridge Game Services), International Project Engineer</li>
+                <li>Chad Long, Senior Localization Engineering Lead</li>
+                <li>Lionbridge Game Services, Translation and Testing Team</li>
+            </ul>
+            <h3>{{publishingSupportLabel}}</h3>
+            <ul>
+                <li>Jim Pekola, Release Manager</li>
+                <li>Kevin Carberry (Insight Global Inc), Release Manager</li>
+                <li>Jordan Forbes, Release Manager</li>
+            </ul>
+            <h3>{{communityManagement}}</h3>
+            <ul>
+                <li>Shaun Kiedrowski (Metaverse Mod Squad Inc), Community Manager</li>
+            </ul>
+            <h3>{{userAcquisitionLabel}}</h3>
+            <ul>
+                <li>Alley Shinder, User Acquisition Specialist</li>
+            </ul>
+            <h3>{{microsoftStudiosQualityLabel}}</h3>
+            <ul>
+                <li>Michael McCormack, Senior Software Engineer Lead</li>
+                <li>Bex Bradley, Software Engineer II</li>
+                <li>Xhavar Strothers (Experis), Test Lead</li>
+                <li>Cody Thayer (Experis), Software Test Engineer</li>
+                <li>Jonathan Gage (Experis), Software Test Engineer</li>
+                <li>Michael Leslie (Experis), Software Test Engineer</li>
+            </ul>
+            <h3>{{experisPortlandLabel}}</h3>
+            <ul>
+                <li>Gavin Kennedy, Game testing Services Director</li>
+                <li>Chris Cromwell, Sr. Test Manager</li>
+                <li>Lyndon Moore, SDET Lead</li>
+                <li>David Eddy, Test Lead</li>
+                <li>Emily Lovering, Software Test Engineer</li>
+                <li>Josh Hurley, Software Test Engineer</li>
+                <li>Ali Davis Donatelli, Test Associate</li>
+                <li>Charles Hulfish, Test Associate</li>
+                <li>David Hirsch, Test Associate</li>
+                <li>Erick Diaz, Test Associate</li>
+                <li>Jean-Luke Parshall, Test Associate</li>
+                <li>Jon Worthington, Test Associate</li>
+                <li>Leah Fandiño, Test Associate</li>
+                <li>Michelle Hartnett, Test Associate</li>
+                <li>Niko Taitano, Test Associate</li>
+                <li>Sawyer Piwetz, Test Associate</li>
+            </ul>
+            <h3>{{experisPhoenix}}</h3>
+            <ul>
+                <li>Muthuvalli Chockalingam, Test Lead</li>
+                <li>Michael Wade, Test Lead</li>
+                <li>Amber DeGiso, Software Test Engineer</li>
+                <li>Jason Torres, Software Test Engineer</li>
+                <li>Kyle Leeson, Software Test Engineer</li>
+                <li>Jack Wilson, Software Test Engineer</li>
+                <li>Allison Lendborg, Test Associate</li>
+                <li>Beth Hicks, Test Associate</li>
+                <li>Claire McKillip, Test Associate</li>
+                <li>Darby Turner, Test Associate</li>
+                <li>Jessica Armstrong, Test Associate</li>
+                <li>Jonathan Lee, Test Associate</li>
+                <li>Olivia Chu, Test Associate</li>
+                <li>Robin Lopez, Test Associate</li>
+                <li>Shane Weaver, Test Associate</li>
+            </ul>
+            <h3>{{specialThanksLabel}}</h3>
+            <ul>
+                <li>Jason Cahill</li>
+                <li>John Thornton</li>
+                <li>Aaron Greenberg</li>
+                <li>Bill Colburn</li>
+                <li>Daland David</li>
+                <li>Jeff Nelson</li>
+                <li>Jimmy Bischoff</li>
+                <li>David Boker</li>
+                <li>Ray Derryberry</li>
+                <li>Scott Dell’Osso</li>
+                <li>Scott Henson</li>
+                <li>Tony Harlich</li>
+                <li>Yasmine Nelson</li>
+                <li>Tina Lin</li>
+                <li>Makiko O’Brien</li>
+                <li>Winter Downs</li>
+                <li>Carlos Lopez</li>
+                <li>Theodore Lankford</li>
+                <li>Zak Belisle</li>
+                <li>Studios Quality Shield Lab</li>
+                <li>Aaron Brindell (Experis)</li>
+                <li>Aaron Ingram (Experis)</li>
+                <li>Andrew O’Keefe (Experis)</li>
+                <li>Pali Bobby (Experis)</li>
+                <li>Carol Stearns (Experis)</li>
+                <li>Erica Davis (Experis)</li>
+                <li>Frank Criscione (Experis)</li>
+                <li>Jake Gomez (Experis)</li>
+                <li>Jake Staudt (Experis)</li>
+                <li>Joanna Montoya (Experis)</li>
+                <li>Joshua Bone-Christian (Experis)</li>
+                <li>Justin Leveque (Experis)</li>
+                <li>Julie Loucks (Experis)</li>
+                <li>Kurt Valet (Experis)</li>
+                <li>Larae N Matthews (Experis)</li>
+                <li>Lev Kouliachov (Experis)</li>
+                <li>Mark Harrington (Experis)</li>
+                <li>Mark Medlock (Experis)</li>
+                <li>Mark Spenik (Experis)</li>
+                <li>Paul Gradwohl (Experis)</li>
+                <li>Stephen VanWambeck (Experis)</li>
+                <li>Timmy Stanford (Experis)</li>
+            </ul>
+            <h2>
+                <hr/>
+            </h2>
+            <div id="dcLogo" class="imgDiv">
+            </div>
+            <h3>{{productionLabel}}</h3>
+            <ul>
+                <li>David Fox</li>
+                <li>Arbak Martirosyan</li>
+            </ul>
+            <h3>{{developmentLabel}}</h3>
+            <ul>
+                <li>Hovsep Hovhannisyan</li>
+                <li>Areg Petrosyan</li>
+                <li>Levon Asatryan</li>
+            </ul>
+        </div>
+        <div class="contentOverlayFooter">
+            <div class="contentOverlayCloseButton" id="closeCredits">
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+
+    function are_cookies_enabled() {
+        var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+
+        if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled) {
+            document.cookie = "testcookie";
+            cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false;
+        }
+        return (cookieEnabled);
+    }
+
+    if (!are_cookies_enabled()) {
+        var errorScreen = document.getElementById("errorScreen");
+        var gameContainer = document.getElementById("container");
+
+        errorScreen.innerHTML = "You must enable cookies in your browser settings in order to play this game."
+        errorScreen.style.display = "block";
+        gameContainer.style.display = "none";
+    }
+
+    if (document.documentMode && document.documentMode <= 9) {
+        var errorScreen = document.getElementById("errorScreen");
+        var gameContainer = document.getElementById("container");
+
+        errorScreen.innerHTML = "Your browser is out of date or you're running in IE Enterprise mode. <br /> You must " +
+            "<a href='http://windows.microsoft.com/en-us/internet-explorer/download-ie'>upgrade your browser</a> or " +
+            "<a href='https://msdn.microsoft.com/en-us/library/Dn640688.aspx'>disable IE Enterprise mode</a> " +
+            "in your browser settings in order to play this game."
+        errorScreen.style.display = "block";
+        gameContainer.style.display = "none";
+    }
+
+    function ping() {
+        var ajaxRequest = new window.XMLHttpRequest();
+
+        ajaxRequest.onload = function () {
+            if (!window.AHGameLoaded) {
+                setTimeout(ping, 5000);
+            }
+        };
+
+        ajaxRequest.onerror = function () {
+            var errorScreen = document.getElementById("errorScreen");
+            var gameContainer = document.getElementById("container");
+
+            errorScreen.innerHTML = "Lost network connection. Please check your Internet settings and try again."
+            errorScreen.style.display = "block";
+            gameContainer.style.display = "none";
+        };
+
+        ajaxRequest.open('GET', "static/img/ping.png", true);
+        ajaxRequest.send();
+    }
+
+    ping();
+</script>
+
+<div id="VxPDivId"></div>
+<script type="text/javascript">
+    var totalTouches = 0;
+
+    function updateTouches(isTouchEnd) {
+        if (isTouchEnd) {
+            if (totalTouches > 0) {
+                totalTouches--;
+            }
+        } else {
+            totalTouches++;
+        }
+
+        //      console.log('totalTouches: ', totalTouches);
+        return totalTouches;
+    }
+
+    document.documentElement.addEventListener('touchstart', function (event) {
+        // prevent pinch zoom or any other multi-touch gestures
+        //if(event.touches.length > 1 || updateTouches(false) > 1) {
+        if (event.touches.length > 1) {
+            event.preventDefault();
+        }
+    });
+
+    window.addEventListener('click', function (event) {
+        window.focus();
+    });
+
+    /*    document.documentElement.addEventListener('touchend', function(event){
+     console.log('touch end doc');
+     updateTouches(true);
+     });*/
+
+</script>
+
+</body>
+</html>

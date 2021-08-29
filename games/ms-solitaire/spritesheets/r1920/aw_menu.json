@@ -1,0 +1,68 @@
+{"frames": {
+
+"awards/Awards-bkg.png":
+{
+	"frame": {"x":2,"y":2,"w":418,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":224},
+	"sourceSize": {"w":418,"h":224}
+},
+"awards/Awards-year-bkg.png":
+{
+	"frame": {"x":2,"y":228,"w":271,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":271,"h":224},
+	"sourceSize": {"w":271,"h":224}
+},
+"awards/badges_bronze.png":
+{
+	"frame": {"x":275,"y":228,"w":341,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":341,"h":125},
+	"sourceSize": {"w":341,"h":125}
+},
+"awards/badges_diamond.png":
+{
+	"frame": {"x":275,"y":355,"w":341,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":341,"h":125},
+	"sourceSize": {"w":341,"h":125}
+},
+"awards/badges_gold.png":
+{
+	"frame": {"x":618,"y":255,"w":338,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":338,"h":125},
+	"sourceSize": {"w":341,"h":125}
+},
+"awards/badges_none.png":
+{
+	"frame": {"x":618,"y":129,"w":339,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":339,"h":124},
+	"sourceSize": {"w":341,"h":125}
+},
+"awards/badges_silver.png":
+{
+	"frame": {"x":618,"y":2,"w":341,"h":125},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":341,"h":125},
+	"sourceSize": {"w":341,"h":125}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "aw_menu.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8edb82a5ef6030468234561e46a3ff4a:ea7ab7896037cec21b5eec85ffd545e0:a2f9dec1e1ab967a26f73e137275091b$"
+}
+}

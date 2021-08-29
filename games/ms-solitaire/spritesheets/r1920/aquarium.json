@@ -1,0 +1,524 @@
+{"frames": {
+
+"aquarium/cardback_small.png":
+{
+	"frame": {"x":2,"y":1828,"w":120,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":160},
+	"sourceSize": {"w":120,"h":160}
+},
+"aquarium/cards/0n.png":
+{
+	"frame": {"x":222,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/2c.png":
+{
+	"frame": {"x":196,"y":1571,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/2d.png":
+{
+	"frame": {"x":389,"y":543,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/2h.png":
+{
+	"frame": {"x":390,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/2s.png":
+{
+	"frame": {"x":415,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/3c.png":
+{
+	"frame": {"x":389,"y":800,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/3d.png":
+{
+	"frame": {"x":389,"y":1057,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/3h.png":
+{
+	"frame": {"x":389,"y":1314,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/3s.png":
+{
+	"frame": {"x":389,"y":1571,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/4c.png":
+{
+	"frame": {"x":608,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/4d.png":
+{
+	"frame": {"x":801,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/4h.png":
+{
+	"frame": {"x":994,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/4s.png":
+{
+	"frame": {"x":1187,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/5c.png":
+{
+	"frame": {"x":1380,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/5d.png":
+{
+	"frame": {"x":1573,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/5h.png":
+{
+	"frame": {"x":1766,"y":2,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/5s.png":
+{
+	"frame": {"x":583,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/6c.png":
+{
+	"frame": {"x":776,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/6d.png":
+{
+	"frame": {"x":969,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/6h.png":
+{
+	"frame": {"x":1162,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/6s.png":
+{
+	"frame": {"x":1355,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/7c.png":
+{
+	"frame": {"x":1548,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/7d.png":
+{
+	"frame": {"x":1741,"y":259,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/7h.png":
+{
+	"frame": {"x":582,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/7s.png":
+{
+	"frame": {"x":582,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/8c.png":
+{
+	"frame": {"x":582,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/8d.png":
+{
+	"frame": {"x":582,"y":1287,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/8h.png":
+{
+	"frame": {"x":582,"y":1544,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/8s.png":
+{
+	"frame": {"x":775,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/9c.png":
+{
+	"frame": {"x":968,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/9d.png":
+{
+	"frame": {"x":1161,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/9h.png":
+{
+	"frame": {"x":1354,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/9s.png":
+{
+	"frame": {"x":1547,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/10c.png":
+{
+	"frame": {"x":196,"y":543,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/10d.png":
+{
+	"frame": {"x":196,"y":800,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/10h.png":
+{
+	"frame": {"x":196,"y":1057,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/10s.png":
+{
+	"frame": {"x":196,"y":1314,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/ac.png":
+{
+	"frame": {"x":1740,"y":516,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/ad.png":
+{
+	"frame": {"x":775,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/ah.png":
+{
+	"frame": {"x":775,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/as.png":
+{
+	"frame": {"x":775,"y":1287,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/cardback.png":
+{
+	"frame": {"x":775,"y":1544,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/jc.png":
+{
+	"frame": {"x":968,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/jd.png":
+{
+	"frame": {"x":1161,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/jh.png":
+{
+	"frame": {"x":1354,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/js.png":
+{
+	"frame": {"x":1547,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/kc.png":
+{
+	"frame": {"x":1740,"y":773,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/kd.png":
+{
+	"frame": {"x":968,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/kh.png":
+{
+	"frame": {"x":968,"y":1287,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/ks.png":
+{
+	"frame": {"x":968,"y":1544,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/qc.png":
+{
+	"frame": {"x":1161,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/qd.png":
+{
+	"frame": {"x":1354,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/qh.png":
+{
+	"frame": {"x":1547,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/cards/qs.png":
+{
+	"frame": {"x":1740,"y":1030,"w":191,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":255},
+	"sourceSize": {"w":191,"h":255}
+},
+"aquarium/emptypile.png":
+{
+	"frame": {"x":2,"y":286,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/emptypile_circle.png":
+{
+	"frame": {"x":2,"y":543,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/emptypile_x.png":
+{
+	"frame": {"x":2,"y":800,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/foundation_club.png":
+{
+	"frame": {"x":2,"y":1057,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/foundation_diamond.png":
+{
+	"frame": {"x":2,"y":1314,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/foundation_heart.png":
+{
+	"frame": {"x":2,"y":1571,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/foundation_spade.png":
+{
+	"frame": {"x":196,"y":286,"w":192,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":255},
+	"sourceSize": {"w":192,"h":255}
+},
+"aquarium/highlight.png":
+{
+	"frame": {"x":2,"y":2,"w":218,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":282},
+	"sourceSize": {"w":218,"h":282}
+},
+"aquarium/keyboard_highlight.png":
+{
+	"frame": {"x":582,"y":1801,"w":179,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":230},
+	"sourceSize": {"w":179,"h":230}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "aquarium.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:737d7cb32a6073ea0938722e9fd85880:02319eff0c10cdce104c65205aeb13c2:fbb0397dccbcb12990dd8b29e061a1a8$"
+}
+}

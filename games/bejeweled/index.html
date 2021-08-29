@@ -1,0 +1,582 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/adpkifcfcacgmnggcbpbjbkdijciiigm">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=9">
+    <meta name = "viewport" content = "initial-scale = 1.0, user-scalable = no">    
+    <title>Bejeweled</title>        
+</head>
+<style type="text/css">
+    body
+    {    	
+        overflow: hidden;
+    }
+    A
+    {    	
+        color: #3aa0ff;
+        cursor:pointer;
+    }       
+    A:visited
+    {    	
+        color: #3aa0ff;
+        cursor:pointer;
+    }
+    div.gamediv
+    {
+    	position: absolute;
+    	top:0px;
+    	left:0px;
+    	overflow: hidden;
+    }
+    img.bkgImage
+    {
+        position: absolute;
+        z-index: -2;
+        -webkit-user-select: none;
+        left: -2000px;
+    }
+    img.waitSpinner
+    {
+        position: absolute;
+        z-index: 1;
+        -webkit-user-select: none;
+        top: 50%;
+        left: 50%;
+        margin-top: -62px;
+        margin-left: -62px;
+    }
+    img.leftPillar
+    {
+        position: absolute;
+        z-index: -1;
+        -webkit-user-select: none;
+        left: -2000px;
+        top: 0px;
+        overflow: hidden;
+    }
+    img.leftPillarBot
+    {
+        position: absolute;
+        z-index: -1;
+        -webkit-user-select: none;
+        left: -2000px;
+        top: 0px;
+        overflow: hidden;
+    }
+    img.rightPillar
+    {
+        position: absolute;
+        z-index: -1;
+        -webkit-user-select: none;
+        -webkit-transform: scale(-1, 1);
+        -moz-transform: scale(-1, 1);
+        left: -2000px;
+        top: 0px;
+        overflow: hidden;
+    }
+    img.rightPillarBot
+    {
+        position: absolute;
+        z-index: -1;
+        -webkit-user-select: none;
+        -webkit-transform: scale(-1, 1);
+        -moz-transform: scale(-1, 1);
+        left: -2000px;
+        top: 0px;
+        overflow: hidden;
+    }
+    canvas.ScratchCanvas
+    {
+        border: 2px solid #000;
+        position: absolute;
+        visibility: hidden;
+    }
+    canvas.GameCanvas
+    {
+        border: 2px solid #000;
+        position: absolute;
+        left: -2000px;
+        top: 0px;
+    }
+    .sorry-container
+    {
+        position: absolute;
+        text-align: left;
+        margin-top: -242px;
+        width: 644px;
+        background: url(webres/sorry_bkg.jpg) #000 no-repeat right bottom;
+        height: 484px;
+        margin-left: -322px;
+        top: 50%;
+        left: 50%;
+        visibility: hidden;
+        z-index: 2;
+    }
+    .install-container
+    {
+        position: absolute;
+        text-align: left;
+        margin-top: -242px;
+        width: 644px;
+        background: url(webres/sorry_bkg.jpg) #000 no-repeat right bottom;
+        height: 484px;
+        margin-left: -322px;
+        top: 50%;
+        left: 50%;
+        visibility: hidden;
+        z-index: 2;
+    }
+    .sorry
+    {
+        padding-bottom: 0em;
+        line-height: 1.4em;
+        padding-left: 1em;
+        padding-right: 1em;
+        font-family: sans-serif;
+        color: #fff;
+        font-size: 16pt;
+        padding-top: 0em;
+        left: 50%;        
+    }
+    .sorry .larger
+    {
+        font-size: 1.2em;
+    }
+    .sorry .smaller
+    {
+        font-size: 0.85em;
+    }
+    
+    .legal
+    {
+    	position: absolute;
+        padding-bottom: 0em;
+        line-height: 1.4em;
+        padding-left: 0em;
+        padding-right: 0em;
+        font-family: sans-serif;
+        color: #404060;
+        font-size: 10pt;
+        padding-top: 0em;
+        width:100%;
+        text-align: center;
+        top:-1000px;
+        left:0px;
+        z-index: 1;
+    }
+        
+    .legal A
+    {    	
+        color: #404060;
+        cursor:pointer;
+        text-decoration: none 
+    }
+    .legal A:visited
+    {    	
+        color: #404060;
+    }
+                
+    .sorry P
+    {
+        margin: 1em 0em;
+    }
+    .sorry TABLE
+    {
+        margin: 1em 0em;
+    }
+    .sorry OL
+    {
+        margin-left: 2em;
+    }
+    .sorry LI
+    {
+        margin: 1em;
+    }
+    IMG
+    {
+        border-bottom: 0px;
+        border-left: 0px;
+        border-top: 0px;
+        border-right: 0px;
+    }
+</style>
+<body>    
+    <img id="waitSpinner" class="waitSpinner" src="webres/spinwait.gif" />
+
+    <div id="sorry-container" class="sorry-container">
+        <div class="sorry">
+            <p class="larger">
+                We're sorry, but it appears that your browser does not currently support the web
+                technologies needed to play Bejeweled.
+            </p>
+            <p class="smaller">
+                To play you need to either:
+            </p>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                            <a href="http://www.google.com/chrome" target="_top">
+                                <img style="width: 66px; height: 66px" class="chrome" src="webres/chrome-icon.png"></a>
+                        </td>
+                        <td>
+                            <a href="http://www.google.com/chrome" target="_top">Download Google Chrome</a>,
+                            a fast new browser (Recommended)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center">
+                            or
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="http://www.google.com/chromeframe?redirect=true&amp;user=true" target="_top">
+                                <img style="width: 66px; height: 66px" class="chrome" src="webres/chrome-icon.png"></a>
+                        </td>
+                        <td>
+                            <a href="http://www.google.com/chromeframe?redirect=true&amp;user=true" target="_top">
+                                Install the free Google Chrome Frame plug-in</a> and load this site again.
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="install-container" class="install-container">
+        <div class="sorry">
+            <p class="larger">
+                Bejeweled Installation
+            </p>
+            <p class="smaller">
+                Would you like to install Bejeweled as a Chrome App?
+            </p>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>
+                            <a onclick="chrome.webstore.install(undefined, Startup, Startup);" target="_top">
+                                <img style="width: 66px; height: 66px" class="chrome" src="webres/chrome-icon.png"></a>
+                        </td>
+                        <td>
+                            <a onclick="chrome.webstore.install(undefined, Startup, Startup);" target="_top">Install Chrome Bejeweled App</a>
+                            (Recommended)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center">
+                            or
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>                            
+                        </td>
+                        <td>
+                            <a onclick="Startup()" target="_top">
+                                Play Bejeweled without installing
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+     <div id="sorry-container-error" class="sorry-container">
+        <div class="sorry">
+            <p class="larger">
+                <br />
+                Bejeweled has experienced an error and can not continue.
+                <br /><br />Please try <a onclick="javascript:window.location = window.location">reloading the page</a>.
+            </p>            
+        </div>
+    </div>
+
+    <div id="gamediv" class="gamediv" onmousedown="return false">
+        <canvas id="ScratchCanvas" class="ScratchCanvas" width="256" height="256" bgcolor="#FFFF00"
+            hidden>
+  </canvas>
+        <canvas id="GameCanvas" class="GameCanvas" width="1024" height="768" bgcolor="#00FF00">
+  </canvas>
+        <img id="bkgImage" class="bkgImage" src="webres/DistantBackground_01.jpg" />        
+        <img id="leftPillar" class="leftPillar" src="webres/pillars_left_top.png" />
+        <img id="leftPillarBot" class="leftPillarBot" src="webres/pillars_left_bottom.png" />
+        <!--[if IE]> 
+        <img id="rightPillar" class="rightPillar" src="webres/pillars_right_top.png" />
+        <img id="rightPillarBot" class="rightPillar" src="webres/pillars_right_bottom.png" />
+        <![endif]-->        
+        <img id="rightPillar" class="rightPillar" src="webres/pillars_left_top.png" />
+        <img id="rightPillarBot" class="rightPillar" src="webres/pillars_left_bottom.png" />        
+    </div>    
+
+    <script id="shader-fs" type="x-shader/x-fragment">
+  #ifdef GL_ES
+  precision highp float;
+  #endif
+
+  varying vec2 vTexCoord;
+  varying vec4 vColor;  
+
+  uniform sampler2D sTexture;
+
+  void main(void) {
+    vec4 texColor;
+    texColor = texture2D(sTexture, vTexCoord) * vColor;//vec4(0.1, 0.0, 0.0, 1.0);
+    //texColor = texture2D(sTexture, vTexCoord) * vec4(0.0, 0.0, 0.0, 1.0);    
+    //texColor.a *= 0.5;
+    gl_FragColor = texColor;
+  }
+    </script>
+    <script id="shader-vs" type="x-shader/x-vertex">
+  attribute vec4 aPosition;  
+  attribute vec2 aTexCoord;
+  attribute vec4 aVertexColor;
+
+  varying vec2 vTexCoord;
+  varying vec4 vColor;
+  
+  uniform float writeDepth;
+
+  void main(void) {
+    vTexCoord = aPosition.zw;
+    vColor = aVertexColor;
+    gl_Position.zw = vec2(writeDepth, 1.0);        
+    gl_Position.xy = (aPosition.xy - vec2(0.5, 0.5)) * vec2(2.0, -2.0);    
+  }
+    </script>
+        
+    <script type="text/javascript" src="soundmanager2.js"></script>        
+
+    <script type="text/javascript" src="jquery.min.js"></script>    
+    <script type="text/javascript" src="Bejeweled_min.js"></script>    
+    
+    <script type="text/javascript">
+        var gCWSPrompt = false;
+
+        function getCookie(name) {
+            var theCookies = document.cookie.split(/[; ]+/);
+            for (var i = 0; i < theCookies.length; i++) {
+                var aName = theCookies[i].substring(0, theCookies[i].indexOf('='));
+                if (aName == name) {
+                    return theCookies[i].substring(name.length + 1);
+                }
+            }
+        }
+
+        function HTML5Supported() {
+            if (window.location.href.indexOf('noHTML5') != -1)
+                return false;
+            return window.HTMLCanvasElement;
+        }
+
+        function wantsHighRes() {
+            if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+                return true; // Accelerated IE?
+            if (/CrOS /.test(navigator.userAgent))
+                return false; // Chromebook
+            return gApp.GetUseGL(); // No WebGL on these platforms means no acceleration
+        }
+
+        function ResizeElements() {
+            var aGameDiv = document.getElementById('gamediv');
+            var aWaitSpinner = document.getElementById('waitSpinner');
+            var aBkgImage = document.getElementById('bkgImage');
+            var aGameCanvas = document.getElementById('GameCanvas');
+            var aBkgImage = document.getElementById('bkgImage');
+            var aLeftPillar = document.getElementById('leftPillar');
+            var aLeftPillarBot = document.getElementById('leftPillarBot');
+            var aRightPillar = document.getElementById('rightPillar');
+            var aRightPillarBot = document.getElementById('rightPillarBot');
+            var aSorryContainer = document.getElementById('sorry-container');
+            var anInstallContainer = document.getElementById('install-container');
+            var aLegal = document.getElementById('legal');
+
+            var anInnerWidth = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth;
+            var anInnerHeight = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight;
+
+            aWaitSpinner.style.visibility = "hidden";
+            aWaitSpinner.style.left = "-2000px";
+
+            aBkgImage.parentNode.draggable = false;
+
+            var aWidthScale = anInnerWidth / 1920;
+            var aHeightScale = anInnerHeight / 1080;
+            var aWantScale = Math.max(1.0, Math.max(aWidthScale, aHeightScale));
+
+            var aBkgWidth = (1920 * aWantScale) | 0;
+            var aBkgHeight = (1080 * aWantScale) | 0;
+
+            aBkgImage.style.width = aBkgWidth + "px";
+            aBkgImage.style.height = aBkgHeight + "px";
+            aBkgImage.style.left = (((anInnerWidth - aBkgWidth) / 2) | 0) + "px";
+            aBkgImage.style.top = (((anInnerHeight - aBkgHeight) / 2) | 0) + "px";
+            aBkgImage.draggable = false;
+
+            aGameDiv.style.width = anInnerWidth + "px";
+            aGameDiv.style.height = anInnerHeight + "px";
+            if (/Chrome/.test(navigator.userAgent))
+                aGameDiv.style.overflow = "visible";
+
+            if (!HTML5Supported()) {
+                aSorryContainer.style.visibility = "visible";
+                return;
+            }
+
+            if (gCWSPrompt) {
+                anInstallContainer.style.visibility = "visible";
+                return;
+            }
+            else {
+                anInstallContainer.style.visibility = "hidden";
+            }
+
+
+            var aCanvasHeight = Math.min(gApp.GetArtRes(), (anInnerHeight - 40));
+
+            aGameCanvas.height = aCanvasHeight;
+            aGameCanvas.width = aGameCanvas.height * 4 / 3;
+
+            gApp.SizeChanged(aGameCanvas.width, aGameCanvas.height);
+
+            var aCanvasLeft = ((anInnerWidth - aGameCanvas.width) / 2) | 0;
+
+            var aCanvasTop = Math.min((((anInnerHeight - aGameCanvas.height) / 2) | 0), anInnerHeight - aGameCanvas.height - 25);
+
+            aGameCanvas.style.left = aCanvasLeft + "px";
+            aGameCanvas.style.top = aCanvasTop + "px";
+            aGameCanvas.draggable = false;
+
+            aLegal.style.top = (aCanvasTop + aCanvasHeight - 8) + "px";
+
+            var aPillarTop = Math.max(anInnerHeight / 2.5 - 520, anInnerHeight - 1400) | 0;
+            var aLeftPillarLeft = (Math.min(0, aCanvasLeft - Math.max(500, 320 + anInnerWidth / 6))) | 0;
+
+            aLeftPillar.style.top = aPillarTop + "px";
+            aLeftPillar.style.left = aLeftPillarLeft + "px";
+            aLeftPillar.draggable = false;
+
+            aLeftPillarBot.style.top = (aPillarTop + 482) + "px";
+            aLeftPillarBot.style.left = (aLeftPillarLeft + 287) + "px";
+
+            aRightPillar.style.top = aPillarTop + "px";
+            aRightPillar.style.left = (anInnerWidth - aLeftPillarLeft - 506) + "px";
+            aRightPillar.draggable = false;
+
+            aRightPillarBot.style.top = (aPillarTop + 482) + "px";
+            aRightPillarBot.style.left = (anInnerWidth - aLeftPillarLeft - 506 + 15) + "px";
+            aRightPillarBot.draggable = false;
+
+            if (/Chrome/.test(navigator.userAgent)) {
+                var isScaled = (window.outerWidth - window.innerWidth > 50);
+                if (isScaled) {
+                    aLeftPillar.style.visibility = "hidden";
+                    aLeftPillarBot.style.visibility = "hidden";
+                    aRightPillar.style.visibility = "hidden";
+                    aRightPillarBot.style.visibility = "hidden";
+                }
+                else {
+                    aLeftPillar.style.visibility = "visible";
+                    aLeftPillarBot.style.visibility = "visible";
+                    aRightPillar.style.visibility = "visible";
+                    aRightPillarBot.style.visibility = "visible";
+                }
+            }
+        }
+
+        var gReThrowException = false;
+        var gAlreadyFailed = false;
+        function HandleException(e) {
+            var aGameCanvas = document.getElementById('GameCanvas');
+            var aSorryContainerError = document.getElementById('sorry-container-error');
+            aGameCanvas.style.visibility = 'hidden';
+            aSorryContainerError.style.visibility = 'visible';
+            if (!gAlreadyFailed) {
+                var aType = e.type ? e.type : "error";
+                var aStack = e.stackStr ? e.stackStr : e.stack ? e.stack.replaceAll('\n', '').substring(0, 1024) : "";
+                var aMessage = e.message;
+                if (e.GetDetails) {
+                    aMessage = e.GetDetails();
+                    aType = "loadingError";
+                }
+                gApp.SubmitStandardMetricsDict("error", { "Type": aType, "Message": aMessage, "Stack": aStack }, true, "#");
+                gAlreadyFailed = true;
+            }
+            return !gReThrowException;
+        }
+
+        function ShowHelp() {
+            window.open("http://support.popcap.com/bejeweled-html5");
+        }
+
+        function Startup() {
+            gCWSPrompt = false;
+
+            var aUserId = getCookie('user_id');
+            if (aUserId != null)
+                gApp.SetUserId(aUserId);
+            gApp.SetUserAgent(navigator.userAgent);
+            if (window.location.href.indexOf('debug') != -1) {
+                gApp.SetDebugMode(true);
+                //gReThrowException = true;
+            }
+            if (window.location.href.indexOf('nogl') != -1)
+                gApp.SetUseGL(false);
+            else
+                gApp.SetUseGL(true);
+            if (HTML5Supported()) {
+                JSFExt_Init(gApp, document.getElementById('GameCanvas'));
+            }
+            else {
+                if (typeof (H) == "undefined") // Temporary hack
+                    H = gApp;
+                if (window['JSFExt_MinInit'])
+                    window['JSFExt_MinInit'](gApp);
+            }
+            if (!wantsHighRes())
+                gApp.SetArtRes(480);
+            if (!gApp.GetUseGL())
+                gApp.SetPathPrefix('../html5canvas/');
+            gApp.Init();
+
+            if (HTML5Supported()) {
+                gApp.StartLoad();
+            }
+            else {
+                gApp.SubmitStandardMetricsDict("startup_failed", null, false);
+            }
+
+            ResizeElements();
+        }
+
+        soundManager.debugMode = false;
+        soundManager.flashVersion = 9;
+        soundManager.useHighPerformance = true;
+        soundManager.flashLoadTimeout = 0;
+        soundManager.waitForWindowLoad = true;
+        soundManager.onload = JSFExt_SoundManagerReady;
+        soundManager.onerror = JSFExt_SoundError;
+
+        JS_Init();
+        gApp = new Game.BejApp();
+        JFSExt_SetRequiresBinaryHack(false);
+
+        gApp.SetThrottlingURL("bejeweled-html5.json?t=" + (new Date().getTime()));
+        gApp.SetMetricsURL("http://stats.popcap.com");
+
+        gApp.SetExceptionCallback(HandleException);
+
+        if ((!/Chrome/.test(navigator.userAgent)) || (chrome.app.isInstalled)) {
+            Startup();
+        }
+        else {
+            Startup();
+        }
+        window.onresize = ResizeElements;
+
+        var aLeftPillar = document.getElementById('leftPillar');
+        aLeftPillar.onload = ResizeElements;
+        var aLeftPillarBot = document.getElementById('leftPillarBot');
+        aLeftPillarBot.onload = ResizeElements;
+    </script>
+</body>
+</html>

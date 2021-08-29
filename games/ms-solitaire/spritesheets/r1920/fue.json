@@ -1,0 +1,84 @@
+{"frames": {
+
+"fue/arrow.png":
+{
+	"frame": {"x":841,"y":259,"w":141,"h":136},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":136},
+	"sourceSize": {"w":141,"h":136}
+},
+"fue/closeBtn/down.png":
+{
+	"frame": {"x":935,"y":143,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+	"sourceSize": {"w":42,"h":42}
+},
+"fue/closeBtn/over.png":
+{
+	"frame": {"x":935,"y":2,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":46},
+	"sourceSize": {"w":47,"h":46}
+},
+"fue/closeBtn/up.png":
+{
+	"frame": {"x":935,"y":98,"w":44,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":43},
+	"sourceSize": {"w":44,"h":43}
+},
+"fue/daily-challenges-icon.png":
+{
+	"frame": {"x":2,"y":515,"w":204,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":204},
+	"sourceSize": {"w":204,"h":204}
+},
+"fue/longPopup.png":
+{
+	"frame": {"x":2,"y":2,"w":931,"h":255},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":931,"h":255},
+	"sourceSize": {"w":931,"h":255}
+},
+"fue/shortPopup.png":
+{
+	"frame": {"x":2,"y":259,"w":837,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":837,"h":254},
+	"sourceSize": {"w":837,"h":254}
+},
+"fue/star-club-icon.png":
+{
+	"frame": {"x":2,"y":721,"w":203,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":203},
+	"sourceSize": {"w":203,"h":203}
+},
+"fue/x.png":
+{
+	"frame": {"x":935,"y":50,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":46},
+	"sourceSize": {"w":46,"h":46}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fue.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bb46084849dd56a1779f349b17c4605b:e4eb237d2bfb898b7ae50f928a6fd0d3:4ed454a0d234acfaa08d68c02e6861c6$"
+}
+}

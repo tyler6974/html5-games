@@ -1,0 +1,1049 @@
+{"frames": {
+
+"challenge_start/banner_FreeCell_left_corner.png":
+{
+	"frame": {"x":340,"y":181,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_FreeCell_right_corner.png":
+{
+	"frame": {"x":361,"y":181,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_Klondike_left_corner.png":
+{
+	"frame": {"x":382,"y":181,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_Klondike_right_corner.png":
+{
+	"frame": {"x":403,"y":181,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_Pyramid_left_corner.png":
+{
+	"frame": {"x":34,"y":990,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_Pyramid_right_corner.png":
+{
+	"frame": {"x":55,"y":990,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_Spider_left_corner.png":
+{
+	"frame": {"x":76,"y":990,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_Spider_right_corner.png":
+{
+	"frame": {"x":97,"y":990,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_TriPeaks_left_corner.png":
+{
+	"frame": {"x":118,"y":990,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/banner_TriPeaks_right_corner.png":
+{
+	"frame": {"x":139,"y":990,"w":19,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":18},
+	"sourceSize": {"w":19,"h":18}
+},
+"challenge_start/bkg_bottom.png":
+{
+	"frame": {"x":538,"y":181,"w":955,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":955,"h":350},
+	"sourceSize": {"w":955,"h":350}
+},
+"challenge_start/bkg_top.png":
+{
+	"frame": {"x":2,"y":948,"w":955,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":955,"h":40},
+	"sourceSize": {"w":955,"h":40}
+},
+"game_end/ads_casualgames.png":
+{
+	"frame": {"x":2,"y":696,"w":300,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":250},
+	"sourceSize": {"w":300,"h":250}
+},
+"game_end/endGame_blue_down.png":
+{
+	"frame": {"x":1516,"y":2,"w":512,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":213},
+	"sourceSize": {"w":512,"h":213}
+},
+"game_end/endGame_yellow_down.png":
+{
+	"frame": {"x":2,"y":84,"w":336,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":117},
+	"sourceSize": {"w":336,"h":117}
+},
+"game_end/fireworks/Fireworks3_01.png":
+{
+	"frame": {"x":534,"y":545,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_02.png":
+{
+	"frame": {"x":609,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_03.png":
+{
+	"frame": {"x":609,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_04.png":
+{
+	"frame": {"x":684,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_05.png":
+{
+	"frame": {"x":684,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_06.png":
+{
+	"frame": {"x":959,"y":906,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_07.png":
+{
+	"frame": {"x":759,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_08.png":
+{
+	"frame": {"x":759,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_09.png":
+{
+	"frame": {"x":834,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_10.png":
+{
+	"frame": {"x":834,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_11.png":
+{
+	"frame": {"x":909,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_12.png":
+{
+	"frame": {"x":909,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_13.png":
+{
+	"frame": {"x":977,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_14.png":
+{
+	"frame": {"x":977,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_15.png":
+{
+	"frame": {"x":984,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_16.png":
+{
+	"frame": {"x":984,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_17.png":
+{
+	"frame": {"x":1034,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_18.png":
+{
+	"frame": {"x":1034,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_19.png":
+{
+	"frame": {"x":1052,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_20.png":
+{
+	"frame": {"x":1052,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_21.png":
+{
+	"frame": {"x":1059,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_22.png":
+{
+	"frame": {"x":1059,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_23.png":
+{
+	"frame": {"x":1109,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_24.png":
+{
+	"frame": {"x":1109,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_25.png":
+{
+	"frame": {"x":1127,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_26.png":
+{
+	"frame": {"x":1127,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_27.png":
+{
+	"frame": {"x":1134,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_28.png":
+{
+	"frame": {"x":1134,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_29.png":
+{
+	"frame": {"x":1184,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_30.png":
+{
+	"frame": {"x":1184,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_31.png":
+{
+	"frame": {"x":1202,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_32.png":
+{
+	"frame": {"x":1202,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_33.png":
+{
+	"frame": {"x":1209,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_34.png":
+{
+	"frame": {"x":1209,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_35.png":
+{
+	"frame": {"x":1259,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_36.png":
+{
+	"frame": {"x":1259,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_37.png":
+{
+	"frame": {"x":1277,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_38.png":
+{
+	"frame": {"x":1277,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_39.png":
+{
+	"frame": {"x":1284,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_40.png":
+{
+	"frame": {"x":1284,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_41.png":
+{
+	"frame": {"x":1334,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_42.png":
+{
+	"frame": {"x":1334,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_43.png":
+{
+	"frame": {"x":1352,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_44.png":
+{
+	"frame": {"x":1352,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_45.png":
+{
+	"frame": {"x":1359,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_46.png":
+{
+	"frame": {"x":1359,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_47.png":
+{
+	"frame": {"x":1409,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_48.png":
+{
+	"frame": {"x":1409,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_49.png":
+{
+	"frame": {"x":1427,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_50.png":
+{
+	"frame": {"x":1427,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_51.png":
+{
+	"frame": {"x":1434,"y":533,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_52.png":
+{
+	"frame": {"x":1434,"y":610,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_53.png":
+{
+	"frame": {"x":1484,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_54.png":
+{
+	"frame": {"x":1484,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_55.png":
+{
+	"frame": {"x":1502,"y":687,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_56.png":
+{
+	"frame": {"x":1502,"y":764,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_57.png":
+{
+	"frame": {"x":1559,"y":841,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_58.png":
+{
+	"frame": {"x":1559,"y":918,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_59.png":
+{
+	"frame": {"x":1495,"y":217,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_60.png":
+{
+	"frame": {"x":1495,"y":294,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_61.png":
+{
+	"frame": {"x":1495,"y":371,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_62.png":
+{
+	"frame": {"x":1495,"y":448,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_63.png":
+{
+	"frame": {"x":1509,"y":525,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_64.png":
+{
+	"frame": {"x":1509,"y":602,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_65.png":
+{
+	"frame": {"x":1577,"y":679,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_66.png":
+{
+	"frame": {"x":1577,"y":756,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_67.png":
+{
+	"frame": {"x":1634,"y":833,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_68.png":
+{
+	"frame": {"x":1634,"y":910,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_69.png":
+{
+	"frame": {"x":1570,"y":217,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_70.png":
+{
+	"frame": {"x":1570,"y":294,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_71.png":
+{
+	"frame": {"x":1570,"y":371,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_72.png":
+{
+	"frame": {"x":1570,"y":448,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_73.png":
+{
+	"frame": {"x":1584,"y":525,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_74.png":
+{
+	"frame": {"x":1584,"y":602,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_75.png":
+{
+	"frame": {"x":1652,"y":679,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_76.png":
+{
+	"frame": {"x":1652,"y":756,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_77.png":
+{
+	"frame": {"x":1709,"y":833,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_78.png":
+{
+	"frame": {"x":1709,"y":910,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_79.png":
+{
+	"frame": {"x":1784,"y":217,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_80.png":
+{
+	"frame": {"x":1659,"y":217,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/fireworks/Fireworks3_81.png":
+{
+	"frame": {"x":1859,"y":217,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":75},
+	"sourceSize": {"w":73,"h":75}
+},
+"game_end/gameEnd_background_gradient.png":
+{
+	"frame": {"x":304,"y":696,"w":442,"h":247},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":247},
+	"sourceSize": {"w":442,"h":247}
+},
+"game_end/gameEnd_background_symbols.png":
+{
+	"frame": {"x":748,"y":687,"w":227,"h":217},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":217},
+	"sourceSize": {"w":227,"h":217}
+},
+"game_end/gameEnd_cards.png":
+{
+	"frame": {"x":2,"y":217,"w":462,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":462,"h":477},
+	"sourceSize": {"w":462,"h":477}
+},
+"game_end/gameEnd_redstrip_center.png":
+{
+	"frame": {"x":2,"y":2,"w":1512,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1512,"h":80},
+	"sourceSize": {"w":1512,"h":80}
+},
+"game_end/gameEnd_redstrip_tip.png":
+{
+	"frame": {"x":1132,"y":84,"w":56,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":80},
+	"sourceSize": {"w":56,"h":80}
+},
+"game_end/gameEnd_strip.png":
+{
+	"frame": {"x":2,"y":203,"w":426,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":426,"h":4},
+	"sourceSize": {"w":426,"h":4}
+},
+"game_end/MS_3slice_btn_blue_01.png":
+{
+	"frame": {"x":512,"y":217,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_blue_01_down.png":
+{
+	"frame": {"x":512,"y":299,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_blue_01_hover.png":
+{
+	"frame": {"x":512,"y":381,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_blue_02.png":
+{
+	"frame": {"x":1398,"y":84,"w":20,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":80},
+	"sourceSize": {"w":20,"h":80}
+},
+"game_end/MS_3slice_btn_blue_02_down.png":
+{
+	"frame": {"x":1420,"y":84,"w":20,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":80},
+	"sourceSize": {"w":20,"h":80}
+},
+"game_end/MS_3slice_btn_blue_02_hover.png":
+{
+	"frame": {"x":1442,"y":84,"w":20,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":80},
+	"sourceSize": {"w":20,"h":80}
+},
+"game_end/MS_3slice_btn_blue_03.png":
+{
+	"frame": {"x":512,"y":463,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_blue_03_down.png":
+{
+	"frame": {"x":1190,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_blue_03_hover.png":
+{
+	"frame": {"x":1216,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_orng_01.png":
+{
+	"frame": {"x":1242,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_orng_01_down.png":
+{
+	"frame": {"x":1268,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_orng_01_hover.png":
+{
+	"frame": {"x":1294,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_orng_02.png":
+{
+	"frame": {"x":1464,"y":84,"w":20,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":80},
+	"sourceSize": {"w":20,"h":80}
+},
+"game_end/MS_3slice_btn_orng_02_down.png":
+{
+	"frame": {"x":1486,"y":84,"w":20,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":80},
+	"sourceSize": {"w":20,"h":80}
+},
+"game_end/MS_3slice_btn_orng_02_hover.png":
+{
+	"frame": {"x":512,"y":545,"w":20,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":80},
+	"sourceSize": {"w":20,"h":80}
+},
+"game_end/MS_3slice_btn_orng_03.png":
+{
+	"frame": {"x":1320,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_orng_03_down.png":
+{
+	"frame": {"x":1346,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/MS_3slice_btn_orng_03_hover.png":
+{
+	"frame": {"x":1372,"y":84,"w":24,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":80},
+	"sourceSize": {"w":24,"h":80}
+},
+"game_end/popup_button_Play.png":
+{
+	"frame": {"x":340,"y":84,"w":262,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":95},
+	"sourceSize": {"w":262,"h":95}
+},
+"game_end/popup_button_Play_click.png":
+{
+	"frame": {"x":604,"y":84,"w":262,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":95},
+	"sourceSize": {"w":262,"h":95}
+},
+"game_end/popup_button_Play_over.png":
+{
+	"frame": {"x":868,"y":84,"w":262,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":95},
+	"sourceSize": {"w":262,"h":95}
+},
+"game_end/scrollbar_back.png":
+{
+	"frame": {"x":466,"y":217,"w":44,"h":440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":440},
+	"sourceSize": {"w":44,"h":440}
+},
+"game_end/scrollbar_button_click.png":
+{
+	"frame": {"x":430,"y":181,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"game_end/scrollbar_button_disabled.png":
+{
+	"frame": {"x":466,"y":181,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"game_end/scrollbar_button_hover.png":
+{
+	"frame": {"x":502,"y":181,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"game_end/scrollbar_button_idle.png":
+{
+	"frame": {"x":466,"y":659,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"game_end/scrollbar_fill.png":
+{
+	"frame": {"x":2,"y":990,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+}},
+"animations": {
+	"game_end/MS_3slice_btn_blue": ["game_end/MS_3slice_btn_blue_01.png","game_end/MS_3slice_btn_blue_02.png","game_end/MS_3slice_btn_blue_03.png"],
+	"game_end/MS_3slice_btn_orng": ["game_end/MS_3slice_btn_orng_01.png","game_end/MS_3slice_btn_orng_02.png","game_end/MS_3slice_btn_orng_03.png"],
+	"game_end/fireworks/Fireworks3": ["game_end/fireworks/Fireworks3_01.png","game_end/fireworks/Fireworks3_02.png","game_end/fireworks/Fireworks3_03.png","game_end/fireworks/Fireworks3_04.png","game_end/fireworks/Fireworks3_05.png","game_end/fireworks/Fireworks3_06.png","game_end/fireworks/Fireworks3_07.png","game_end/fireworks/Fireworks3_08.png","game_end/fireworks/Fireworks3_09.png","game_end/fireworks/Fireworks3_10.png","game_end/fireworks/Fireworks3_11.png","game_end/fireworks/Fireworks3_12.png","game_end/fireworks/Fireworks3_13.png","game_end/fireworks/Fireworks3_14.png","game_end/fireworks/Fireworks3_15.png","game_end/fireworks/Fireworks3_16.png","game_end/fireworks/Fireworks3_17.png","game_end/fireworks/Fireworks3_18.png","game_end/fireworks/Fireworks3_19.png","game_end/fireworks/Fireworks3_20.png","game_end/fireworks/Fireworks3_21.png","game_end/fireworks/Fireworks3_22.png","game_end/fireworks/Fireworks3_23.png","game_end/fireworks/Fireworks3_24.png","game_end/fireworks/Fireworks3_25.png","game_end/fireworks/Fireworks3_26.png","game_end/fireworks/Fireworks3_27.png","game_end/fireworks/Fireworks3_28.png","game_end/fireworks/Fireworks3_29.png","game_end/fireworks/Fireworks3_30.png","game_end/fireworks/Fireworks3_31.png","game_end/fireworks/Fireworks3_32.png","game_end/fireworks/Fireworks3_33.png","game_end/fireworks/Fireworks3_34.png","game_end/fireworks/Fireworks3_35.png","game_end/fireworks/Fireworks3_36.png","game_end/fireworks/Fireworks3_37.png","game_end/fireworks/Fireworks3_38.png","game_end/fireworks/Fireworks3_39.png","game_end/fireworks/Fireworks3_40.png","game_end/fireworks/Fireworks3_41.png","game_end/fireworks/Fireworks3_42.png","game_end/fireworks/Fireworks3_43.png","game_end/fireworks/Fireworks3_44.png","game_end/fireworks/Fireworks3_45.png","game_end/fireworks/Fireworks3_46.png","game_end/fireworks/Fireworks3_47.png","game_end/fireworks/Fireworks3_48.png","game_end/fireworks/Fireworks3_49.png","game_end/fireworks/Fireworks3_50.png","game_end/fireworks/Fireworks3_51.png","game_end/fireworks/Fireworks3_52.png","game_end/fireworks/Fireworks3_53.png","game_end/fireworks/Fireworks3_54.png","game_end/fireworks/Fireworks3_55.png","game_end/fireworks/Fireworks3_56.png","game_end/fireworks/Fireworks3_57.png","game_end/fireworks/Fireworks3_58.png","game_end/fireworks/Fireworks3_59.png","game_end/fireworks/Fireworks3_60.png","game_end/fireworks/Fireworks3_61.png","game_end/fireworks/Fireworks3_62.png","game_end/fireworks/Fireworks3_63.png","game_end/fireworks/Fireworks3_64.png","game_end/fireworks/Fireworks3_65.png","game_end/fireworks/Fireworks3_66.png","game_end/fireworks/Fireworks3_67.png","game_end/fireworks/Fireworks3_68.png","game_end/fireworks/Fireworks3_69.png","game_end/fireworks/Fireworks3_70.png","game_end/fireworks/Fireworks3_71.png","game_end/fireworks/Fireworks3_72.png","game_end/fireworks/Fireworks3_73.png","game_end/fireworks/Fireworks3_74.png","game_end/fireworks/Fireworks3_75.png","game_end/fireworks/Fireworks3_76.png","game_end/fireworks/Fireworks3_77.png","game_end/fireworks/Fireworks3_78.png","game_end/fireworks/Fireworks3_79.png","game_end/fireworks/Fireworks3_80.png","game_end/fireworks/Fireworks3_81.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dialogs.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:95fc7ed8ea7b8e30eaafe0aa4e728670:6f236ab6c9e3f04b50cc7b6dea8f88a3:4a64dcf3a907bec75771ff5370d3d47f$"
+}
+}

@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('SegoeUI.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('SegoeUI.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,156 @@
+{"frames": {
+
+"Pyramid/Control_1.jpg":
+{
+	"frame": {"x":644,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Control_2.jpg":
+{
+	"frame": {"x":966,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Control_3.jpg":
+{
+	"frame": {"x":1288,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Control_4.jpg":
+{
+	"frame": {"x":1610,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Control_5.jpg":
+{
+	"frame": {"x":2,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Goal_1.jpg":
+{
+	"frame": {"x":2,"y":2,"w":640,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
+	"sourceSize": {"w":640,"h":320}
+},
+"Pyramid/Goal_2.jpg":
+{
+	"frame": {"x":2,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Goal_3.jpg":
+{
+	"frame": {"x":2,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Goal_4.jpg":
+{
+	"frame": {"x":2,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Goal_5.jpg":
+{
+	"frame": {"x":2,"y":1612,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Goal_6.jpg":
+{
+	"frame": {"x":324,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Goal_7.jpg":
+{
+	"frame": {"x":324,"y":646,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/InGame_Controls.jpg":
+{
+	"frame": {"x":324,"y":968,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/keyboard1.jpg":
+{
+	"frame": {"x":968,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/keyboard2.jpg":
+{
+	"frame": {"x":1290,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Tips_1.jpg":
+{
+	"frame": {"x":324,"y":1290,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Tips_2.jpg":
+{
+	"frame": {"x":324,"y":1612,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"Pyramid/Tips_3.jpg":
+{
+	"frame": {"x":646,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "htp_pyramid.jpg",
+	"format": "RGB888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:37b1e05fe3a58fd41ddf28124d6d9e94:e2fbc4bee9c251d28c0aa860da603586:99a9c5c6310cf558ece1a47caf635395$"
+}
+}

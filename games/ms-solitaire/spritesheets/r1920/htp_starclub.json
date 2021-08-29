@@ -1,0 +1,36 @@
+{"frames": {
+
+"StarClub/Help_1_2.jpg":
+{
+	"frame": {"x":2,"y":2,"w":640,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
+	"sourceSize": {"w":640,"h":320}
+},
+"StarClub/Help_2_2.jpg":
+{
+	"frame": {"x":644,"y":2,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+},
+"StarClub/Help_3_2.jpg":
+{
+	"frame": {"x":2,"y":324,"w":320,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":320},
+	"sourceSize": {"w":320,"h":320}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "htp_starclub.jpg",
+	"format": "RGB888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ef4944d8aea54a5c14ffcf77986d920:d776526d8e98aaf9b71c6b900bfddea7:3de7cbdeefb25060cc2b68d1e78e7749$"
+}
+}

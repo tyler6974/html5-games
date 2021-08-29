@@ -1,0 +1,979 @@
+{
+  "analytics": {
+	"flurry": {
+	  "apiKey": ""
+	}
+  },
+  "manifest": {
+	"baseURL": "https://go.microsoft.com/fwlink/?linkid=613198"
+  },
+  "gameModeOptionLayouts": [
+	{
+	  "layout": "GameOptionsKlondike",
+	  "mode": "Klondike"
+	},
+	{
+	  "layout": "GameOptionsSpider",
+	  "mode": "Spider"
+	},
+	{
+	  "layout": "GameOptionsFreeCell",
+	  "mode": "FreeCell"
+	},
+	{
+	  "layout": "GameOptionsPyramid",
+	  "mode": "Pyramid"
+	},
+	{
+	  "layout": "GameOptionsTriPeaks",
+	  "mode": "TriPeaks"
+	}
+  ],
+  "settingsDefault": {
+    "klondike": {
+      "cardsPerDraw": "1",
+      "scoringType": "STANDARD",
+      "timer": true,
+      "score": true,
+      "layoutDirection": "1",
+      "difficulty": "EASY"
+    },
+    "spider": {
+      "suits": "1",
+      "timer": true,
+      "score": true,
+      "layoutDirection": "2",
+      "difficulty": "EASY"
+    },
+    "freecell": {
+      "timer": true,
+      "gameNumber": true,
+      "layoutDirection": "1",
+      "difficulty": "EASY"
+    },
+    "pyramid": {
+      "score": true,
+      "boardsComplete": true,
+      "layoutDirection": "1"
+    },
+    "tripeaks": {
+      "boardsComplete": true,
+      "score": true,
+      "layoutDirection": "1"
+    },
+	"general": {
+	  "soundFx": true,
+	  "music": true,
+	  "hints": true,
+	  "showAlerts": true,
+	  "singleTapToMove": true,
+	  "gameEndAnimation": true,
+	  "showTutorial": true,
+	  "showLocalStorageWarning": true,
+	  "showDCFUE": true,
+	  "showSCFUE": true,
+	  "showSCFUE2": true,
+	  "showSCFUE3": true,
+	  "showDayBonusFUE": true
+	},
+	"theme": {
+	  "selected": "classic"
+	}
+  },
+  "settingRequiresRedeal": {
+    "cardsPerDraw": true,
+    "scoringType": true,
+    "suits": true,
+    "timer": true,
+    "gameNumber": true,
+    "resetCumulativeScore": true,
+    "difficulty": true
+  },
+  "UI": {
+	"fullScreenEnabled": false,
+	"mainMenuGames": [
+	  {
+		"image": "mainmenu/tile_classic_klondike.png",
+		"label": "klondike",
+		"icon": "mainmenu/tile_icon_klondike.png",
+		"mode": "Klondike"
+	  },
+	  {
+		"image": "mainmenu/tile_classic_spider.png",
+		"label": "spider",
+		"icon": "mainmenu/tile_icon_spider.png",
+		"mode": "Spider"
+	  },
+	  {
+		"image": "mainmenu/tile_classic_freecell.png",
+		"label": "freecell",
+		"icon": "mainmenu/tile_icon_freecell.png",
+		"mode": "FreeCell"
+	  },
+	  {
+		"image": "mainmenu/tile_classic_pyramid.png",
+		"label": "pyramid",
+		"icon": "mainmenu/tile_icon_pyramid.png",
+		"mode": "Pyramid"
+	  },
+	  {
+		"image": "mainmenu/tile_classic_tripeaks.png",
+		"label": "tripeaks",
+		"icon": "mainmenu/tile_icon_tripeaks.png",
+		"mode": "TriPeaks"
+	  }
+	],
+	"mainMenuChallenges": {
+	  "dailyChallenge": {
+		"image": "mainmenu/tile_dailychallenge.png",
+		"sticker": "mainmenu/main_dc_sticky.png",
+		"headerbackground": "mainmenu/tile-header-background.png",
+		"label": "",
+		"page": "dailyChallenge",
+		"labelPosition": {
+		  "x": 20,
+		  "y": 280
+		}
+	  },
+	  "starClub": {
+		"image": "mainmenu/tile_starclub.png",
+		"label": "",
+		"page": "starClub",
+		"labelPosition": {
+		  "x": 20,
+		  "y": 280
+		}
+	  }
+	},
+	"mainMenuMore": {
+	  "awardsAndAchievements": {
+		"image": "mainmenu/awards_and_achievements.png",
+		"label": "awardsAndAchievements",
+		"page": "awardsAndAchievements",
+		"labelPosition": {
+		  "x": 20,
+		  "y": 295
+		}
+	  }
+	},
+	"mainMenuThemes": [
+	  {
+		"image": "mainmenu/tile_classic.png",
+		"label": "classic",
+		"themeId": "classic"
+	  },
+	  {
+		"image": "mainmenu/tile_aquarium.png",
+		"label": "aquarium",
+		"themeId": "aquarium"
+	  },
+	  {
+		"image": "mainmenu/tile_fable.png",
+		"label": "fable",
+		"themeId": "fable"
+	  },
+	  {
+		"image": "mainmenu/tile_western.png",
+		"label": "western",
+		"themeId": "western"
+	  },
+	  {
+		"image": "mainmenu/tile_beach.png",
+		"label": "beach",
+		"themeId": "beach"
+	  },
+	  {
+		"image": "mainmenu/tile_autumn.png",
+		"label": "autumn",
+		"themeId": "autumn"
+	  },
+	  {
+		"image": "mainmenu/tile_jumbo.png",
+		"label": "jumbo",
+		"themeId": "jumbo"
+	  }
+	],
+	"dailyChallenges": {
+	  "lobby": {
+		"Klondike": {
+		  "image": "dailychallenge/DC_tile_klondike.png",
+		  "label": "klondike",
+		  "description": "cardChallenge",
+		  "mode": "Klondike",
+		  "labelPosition": {
+			"x": 10,
+			"y": 300
+		  },
+		  "dropShadow": false,
+		  "difficulty": 2
+		},
+		"Spider": {
+		  "image": "dailychallenge/DC_tile_spider.png",
+		  "label": "spider",
+		  "description": "scoreChallenge",
+		  "mode": "Spider",
+		  "labelPosition": {
+			"x": 10,
+			"y": 300
+		  },
+		  "dropShadow": false,
+		  "difficulty": 1
+		},
+		"FreeCell": {
+		  "image": "dailychallenge/DC_tile_freecell.png",
+		  "label": "freecell",
+		  "description": "cardTimeChallenge",
+		  "mode": "FreeCell",
+		  "labelPosition": {
+			"x": 10,
+			"y": 300
+		  },
+		  "dropShadow": false,
+		  "difficulty": 2
+		},
+		"Pyramid": {
+		  "image": "dailychallenge/DC_tile_pyramid.png",
+		  "label": "pyramid",
+		  "description": "scoreChallenge",
+		  "mode": "Pyramid",
+		  "labelPosition": {
+			"x": 10,
+			"y": 300
+		  },
+		  "dropShadow": false,
+		  "difficulty": 0
+		},
+		"TriPeaks": {
+		  "image": "dailychallenge/DC_tile_tripeaks.png",
+		  "label": "tripeaks",
+		  "description": "cardChallenge",
+		  "mode": "TriPeaks",
+		  "labelPosition": {
+			"x": 10,
+			"y": 300
+		  },
+		  "dropShadow": false,
+		  "difficulty": 1
+		}
+	  }
+	},
+	"starClub": {
+	  "challengeTiles": {
+		"Klondike": {
+		  "image": "dailychallenge/SC_tile_klondike.png",
+		  "label": "klondike",
+		  "description": "cardChallenge",
+		  "mode": "Klondike",
+		  "labelPosition": {
+			"x": 10,
+			"y": 216
+		  },
+		  "dropShadow": false,
+		  "difficulty": 2
+		},
+		"Spider": {
+		  "image": "dailychallenge/SC_tile_spider.png",
+		  "label": "spider",
+		  "description": "scoreChallenge",
+		  "mode": "Spider",
+		  "labelPosition": {
+			"x": 10,
+			"y": 216
+		  },
+		  "dropShadow": false,
+		  "difficulty": 1
+		},
+		"FreeCell": {
+		  "image": "dailychallenge/SC_tile_freecell.png",
+		  "label": "freecell",
+		  "description": "cardTimeChallenge",
+		  "mode": "FreeCell",
+		  "labelPosition": {
+			"x": 10,
+			"y": 216
+		  },
+		  "dropShadow": false,
+		  "difficulty": 2
+		},
+		"Pyramid": {
+		  "image": "dailychallenge/SC_tile_pyramid.png",
+		  "label": "pyramid",
+		  "description": "scoreChallenge",
+		  "mode": "Pyramid",
+		  "labelPosition": {
+			"x": 10,
+			"y": 216
+		  },
+		  "dropShadow": false,
+		  "difficulty": 0
+		},
+		"TriPeaks": {
+		  "image": "dailychallenge/SC_tile_tripeaks.png",
+		  "label": "tripeaks",
+		  "description": "cardChallenge",
+		  "mode": "TriPeaks",
+		  "labelPosition": {
+			"x": 10,
+			"y": 216
+		  },
+		  "dropShadow": false,
+		  "difficulty": 1
+		}
+	  }
+	},
+	"htpLayouts": {
+	  "Klondike": {
+		"page1": [
+		  {
+			"image": "Klondike/Goal_1.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "Klondike/Goal_2.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Goal_3.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page2": [
+		  {
+			"image": "Klondike/Goal_4.jpg",
+			"text": "goal4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Goal_5.jpg",
+			"text": "goal5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Control_1.jpg",
+			"text": "control1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Control_2.jpg",
+			"text": "control2",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page3": [
+		  {
+			"image": "Klondike/Control_3.jpg",
+			"text": "control3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Control_4.jpg",
+			"text": "control4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Control_5.jpg",
+			"text": "control5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/keyboard1.jpg",
+			"text": "keyboard1",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page4": [
+		  {
+			"image": "Klondike/keyboard2.jpg",
+			"text": "keyboard2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Tips_1.jpg",
+			"text": "tip1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Tips_2.jpg",
+			"text": "tip2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Tips_3.jpg",
+			"text": "tip3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page5": [
+		  {
+			"image": "Klondike/Tips_4.jpg",
+			"text": "tip4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Tips_5.jpg",
+			"text": "tip5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Klondike/Tips_6.jpg",
+			"text": "tip6",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		]
+	  },
+	  "Spider": {
+		"page1": [
+		  {
+			"image": "Spider/Goal_1.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "Spider/Goal_2.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Goal_3.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page2": [
+		  {
+			"image": "Spider/Goal_4.jpg",
+			"text": "goal4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Goal_40.jpg",
+			"text": "goal40",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Goal_5.jpg",
+			"text": "goal5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Goal_6.jpg",
+			"text": "goal6",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page3": [
+		  {
+			"image": "Spider/Control_1.jpg",
+			"text": "control1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Control_2.jpg",
+			"text": "control2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Control_3.jpg",
+			"text": "control3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Control_4.jpg",
+			"text": "control4",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page4": [
+		  {
+			"image": "Spider/Control_5.jpg",
+			"text": "control5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/keyboard1.jpg",
+			"text": "keyboard1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/keyboard2.jpg",
+			"text": "keyboard2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Tips_1.jpg",
+			"text": "tip1",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page5": [
+		  {
+			"image": "Spider/Tips_2.jpg",
+			"text": "tip2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Tips_3.jpg",
+			"text": "tip3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Tips_4.jpg",
+			"text": "tip4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Spider/Tips_5.jpg",
+			"text": "tip5",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		]
+	  },
+	  "FreeCell": {
+		"page1": [
+		  {
+			"image": "FreeCell/Goal_1.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "FreeCell/Goal_2.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Goal_3.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page2": [
+		  {
+			"image": "FreeCell/Goal_4.jpg",
+			"text": "goal4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Goal_5.jpg",
+			"text": "goal5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Goal_6.jpg",
+			"text": "goal6",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Goal_7.jpg",
+			"text": "goal7",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page3": [
+		  {
+			"image": "FreeCell/Control_1.jpg",
+			"text": "control1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Control_2.jpg",
+			"text": "control2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Control_3.jpg",
+			"text": "control3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Control_4.jpg",
+			"text": "control4",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page4": [
+		  {
+			"image": "FreeCell/Control_5.jpg",
+			"text": "control5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Control_6.jpg",
+			"text": "control6",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/keyboard1.jpg",
+			"text": "keyboard1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/keyboard2.jpg",
+			"text": "keyboard2",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page5": [
+		  {
+			"image": "FreeCell/Tips_1.jpg",
+			"text": "tip1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Tips_2.jpg",
+			"text": "tip2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Tips_3.jpg",
+			"text": "tip3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "FreeCell/Tips_4.jpg",
+			"text": "tip4",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		]
+	  },
+	  "Pyramid": {
+		"page1": [
+		  {
+			"image": "Pyramid/Goal_1.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "Pyramid/Goal_2.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Goal_3.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page2": [
+		  {
+			"image": "Pyramid/Goal_4.jpg",
+			"text": "goal4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Goal_5.jpg",
+			"text": "goal5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Goal_6.jpg",
+			"text": "goal6",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Goal_7.jpg",
+			"text": "goal7",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page3": [
+		  {
+			"image": "Pyramid/Control_1.jpg",
+			"text": "control1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Control_2.jpg",
+			"text": "control2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Control_3.jpg",
+			"text": "control3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Control_4.jpg",
+			"text": "control4",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page4": [
+		  {
+			"image": "Pyramid/Control_5.jpg",
+			"text": "control5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/InGame_Controls.jpg",
+			"text": "control6",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/keyboard1.jpg",
+			"text": "keyboard1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/keyboard2.jpg",
+			"text": "keyboard2",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page5": [
+		  {
+			"image": "Pyramid/Tips_1.jpg",
+			"text": "tip1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "Pyramid/Tips_2.jpg",
+			"text": "tip2",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		]
+	  },
+	  "TriPeaks": {
+		"page1": [
+		  {
+			"image": "TriPeaks/Goal_1.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "TriPeaks/Goal_2.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Goal_3.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page2": [
+		  {
+			"image": "TriPeaks/Goal_4.jpg",
+			"text": "goal4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Goal_5.jpg",
+			"text": "goal5",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Goal_6.jpg",
+			"text": "goal6",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Control_1.jpg",
+			"text": "control1",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page3": [
+		  {
+			"image": "TriPeaks/Control_2.jpg",
+			"text": "control2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Control_3.jpg",
+			"text": "control3",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/InGame_Controls.jpg",
+			"text": "control4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/keyboard1.jpg",
+			"text": "keyboard1",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page4": [
+		  {
+			"image": "TriPeaks/keyboard2.jpg",
+			"text": "keyboard2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Tips_1.jpg",
+			"text": "tip1",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Tips_2.jpg",
+			"text": "tip2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "TriPeaks/Tips_3.jpg",
+			"text": "tip3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		]
+	  },
+	  "DailyChallenge": {
+		"page1": [
+		  {
+			"image": "DailyChallenges/tile1_diamond.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "DailyChallenges/tile2_diamond.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "DailyChallenges/tile3_diamond.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		],
+		"page2": [
+		  {
+			"image": "DailyChallenges/tile4_diamond.jpg",
+			"text": "goal4",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "DailyChallenges/tile6.jpg",
+			"text": "goal5",
+			"dropShadow": true,
+			"hoverBox": false,
+			"needTitle": true
+		  }
+		]
+	  },
+	  "StarClub": {
+		"page1": [
+		  {
+			"image": "StarClub/Help_1_2.jpg",
+			"text": "goal1",
+			"dropShadow": true,
+			"hoverBox": false,
+			"wideTile": true
+		  },
+		  {
+			"image": "StarClub/Help_2_2.jpg",
+			"text": "goal2",
+			"dropShadow": true,
+			"hoverBox": false
+		  },
+		  {
+			"image": "StarClub/Help_3_2.jpg",
+			"text": "goal3",
+			"dropShadow": true,
+			"hoverBox": false
+		  }
+		]
+	  }
+	}
+  }
+}

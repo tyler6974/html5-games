@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "chooseTheme/check-mark.png",
+	"frame": {"x":1,"y":1,"w":206,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":198},
+	"sourceSize": {"w":206,"h":198}
+},
+{
+	"filename": "chooseTheme/close-btn.png",
+	"frame": {"x":291,"y":250,"w":55,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":54},
+	"sourceSize": {"w":55,"h":54}
+},
+{
+	"filename": "chooseTheme/frame-highlight-corner.png",
+	"frame": {"x":281,"y":146,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+{
+	"filename": "chooseTheme/frame-highlight.png",
+	"frame": {"x":281,"y":158,"w":10,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":10},
+	"sourceSize": {"w":10,"h":10}
+},
+{
+	"filename": "chooseTheme/green-btn.png",
+	"frame": {"x":1,"y":346,"w":173,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":70},
+	"sourceSize": {"w":173,"h":70}
+},
+{
+	"filename": "chooseTheme/info-icon.png",
+	"frame": {"x":89,"y":418,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+{
+	"filename": "puzzleChoose/bg/green-4.png",
+	"frame": {"x":1,"y":201,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":143},
+	"sourceSize": {"w":143,"h":143}
+},
+{
+	"filename": "puzzleChoose/bg/lock-anim-1.png",
+	"frame": {"x":1,"y":418,"w":86,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":63},
+	"sourceSize": {"w":86,"h":63}
+},
+{
+	"filename": "puzzleChoose/bg/lock-anim-2.png",
+	"frame": {"x":291,"y":170,"w":68,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":78},
+	"sourceSize": {"w":68,"h":78}
+},
+{
+	"filename": "puzzleChoose/bg/purple-4.png",
+	"frame": {"x":146,"y":201,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":143},
+	"sourceSize": {"w":143,"h":143}
+},
+{
+	"filename": "puzzleChoose/bg/red-4.png",
+	"frame": {"x":209,"y":1,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":143},
+	"sourceSize": {"w":143,"h":143}
+},
+{
+	"filename": "puzzleChoose/bg/yellow-4.png",
+	"frame": {"x":176,"y":346,"w":143,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":143},
+	"sourceSize": {"w":143,"h":143}
+},
+{
+	"filename": "puzzleChoose/tabs/green-9.png",
+	"frame": {"x":209,"y":146,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "puzzleChoose/tabs/purple-9.png",
+	"frame": {"x":227,"y":146,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "puzzleChoose/tabs/red-9.png",
+	"frame": {"x":245,"y":146,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "puzzleChoose/tabs/yellow-9.png",
+	"frame": {"x":263,"y":146,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "choose-state.png",
+	"format": "RGBA8888",
+	"size": {"w":360,"h":490},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f417b0c788c20818b003cbe7b108bcf2:3f96a97d89c7d3dfb613baf8eca868e4:4757dea334e6c0451490905e31be4f86$"
+}
+}

@@ -1,0 +1,292 @@
+{"frames": [
+
+{
+	"filename": "ads_casualgames.png",
+	"frame": {"x":1657,"y":561,"w":300,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":250},
+	"sourceSize": {"w":300,"h":250}
+},
+{
+	"filename": "badge-coin-icon.png",
+	"frame": {"x":2001,"y":80,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30}
+},
+{
+	"filename": "bronze-badge-earned.png",
+	"frame": {"x":1953,"y":293,"w":77,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":82},
+	"sourceSize": {"w":77,"h":82}
+},
+{
+	"filename": "coin-burst-sparkles.png",
+	"frame": {"x":1255,"y":477,"w":400,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":300},
+	"sourceSize": {"w":400,"h":300}
+},
+{
+	"filename": "diamond-badge-earned.png",
+	"frame": {"x":1871,"y":375,"w":77,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":82},
+	"sourceSize": {"w":77,"h":82}
+},
+{
+	"filename": "earn/bronze.png",
+	"frame": {"x":1,"y":1005,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "earn/diamond.png",
+	"frame": {"x":683,"y":1037,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "earn/gold.png",
+	"frame": {"x":1,"y":1167,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "earn/silver.png",
+	"frame": {"x":1365,"y":1037,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "ftue/1.png",
+	"frame": {"x":683,"y":1199,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "ftue/2-with-diamond.png",
+	"frame": {"x":1255,"y":813,"w":720,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":222},
+	"sourceSize": {"w":720,"h":222}
+},
+{
+	"filename": "ftue/2-without-diamond.png",
+	"frame": {"x":1,"y":781,"w":720,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":222},
+	"sourceSize": {"w":720,"h":222}
+},
+{
+	"filename": "ftue/3.png",
+	"frame": {"x":1,"y":1329,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "ftue/blue-button-down.png",
+	"frame": {"x":1871,"y":189,"w":140,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":50},
+	"sourceSize": {"w":140,"h":50}
+},
+{
+	"filename": "ftue/blue-button-over.png",
+	"frame": {"x":1871,"y":241,"w":140,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":50},
+	"sourceSize": {"w":140,"h":50}
+},
+{
+	"filename": "ftue/blue-button-up.png",
+	"frame": {"x":1871,"y":241,"w":140,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":50},
+	"sourceSize": {"w":140,"h":50}
+},
+{
+	"filename": "ftue/coin.png",
+	"frame": {"x":2001,"y":112,"w":25,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":24},
+	"sourceSize": {"w":25,"h":24}
+},
+{
+	"filename": "ftue/completed-challenge.jpg",
+	"frame": {"x":1,"y":543,"w":880,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":880,"h":236},
+	"sourceSize": {"w":880,"h":236}
+},
+{
+	"filename": "ftue/completed-puzzle.png",
+	"frame": {"x":1365,"y":1199,"w":680,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":680,"h":160},
+	"sourceSize": {"w":680,"h":160}
+},
+{
+	"filename": "gold-badge-earned.png",
+	"frame": {"x":1950,"y":377,"w":77,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":82},
+	"sourceSize": {"w":77,"h":82}
+},
+{
+	"filename": "icons/classic.png",
+	"frame": {"x":485,"y":1,"w":479,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":479,"h":474},
+	"sourceSize": {"w":479,"h":474}
+},
+{
+	"filename": "icons/golden-tiles.png",
+	"frame": {"x":1421,"y":1,"w":448,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":448,"h":474},
+	"sourceSize": {"w":448,"h":474}
+},
+{
+	"filename": "icons/lighting-tiles.png",
+	"frame": {"x":1,"y":1,"w":482,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":482,"h":474},
+	"sourceSize": {"w":482,"h":474}
+},
+{
+	"filename": "icons/match-attack.png",
+	"frame": {"x":966,"y":1,"w":453,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":453,"h":474},
+	"sourceSize": {"w":453,"h":474}
+},
+{
+	"filename": "icons/score-attack.png",
+	"frame": {"x":883,"y":477,"w":370,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":370,"h":474},
+	"sourceSize": {"w":370,"h":474}
+},
+{
+	"filename": "progress-meter.png",
+	"frame": {"x":2001,"y":1,"w":32,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":40},
+	"sourceSize": {"w":32,"h":40}
+},
+{
+	"filename": "progressBar/ProgressBack.png",
+	"frame": {"x":2035,"y":1,"w":4,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":20},
+	"sourceSize": {"w":4,"h":20}
+},
+{
+	"filename": "progressBar/ProgressForGround.png",
+	"frame": {"x":2041,"y":1,"w":4,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":20},
+	"sourceSize": {"w":4,"h":20}
+},
+{
+	"filename": "ribbon-icon.png",
+	"frame": {"x":2001,"y":43,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35}
+},
+{
+	"filename": "ribbon.png",
+	"frame": {"x":1871,"y":1,"w":128,"h":186},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":186},
+	"sourceSize": {"w":128,"h":186}
+},
+{
+	"filename": "silver-badge-earned.png",
+	"frame": {"x":1871,"y":459,"w":77,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":82},
+	"sourceSize": {"w":77,"h":82}
+},
+{
+	"filename": "star_icon.png",
+	"frame": {"x":2028,"y":112,"w":16,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":17},
+	"sourceSize": {"w":16,"h":17}
+},
+{
+	"filename": "tab/tab-calendar.png",
+	"frame": {"x":1950,"y":461,"w":58,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":48},
+	"sourceSize": {"w":58,"h":48}
+},
+{
+	"filename": "tab/tab-coming.png",
+	"frame": {"x":1871,"y":293,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+{
+	"filename": "tab/tab-tiles.png",
+	"frame": {"x":1950,"y":511,"w":58,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":48},
+	"sourceSize": {"w":58,"h":48}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "daily-challenges-state.png",
+	"format": "RGBA8888",
+	"size": {"w":2046,"h":1490},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ae6c771a78b9d86b0742606bd286bba5:4e6670f9be8fa275916e15f527b9bfa4:44cfc2fe7560a7385be2f6acee57e613$"
+}
+}

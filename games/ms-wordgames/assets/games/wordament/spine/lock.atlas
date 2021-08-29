@@ -1,0 +1,125 @@
+
+lock.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX_TX_Star_01
+  rotate: false
+  xy: 2, 30
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+images/Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+images/Layer 10
+  rotate: true
+  xy: 689, 61
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+images/Layer 11
+  rotate: false
+  xy: 763, 70
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+images/Layer 12
+  rotate: true
+  xy: 286, 12
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+images/Layer 13
+  rotate: true
+  xy: 235, 3
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+images/Layer 14
+  rotate: false
+  xy: 917, 89
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+images/Layer 15
+  rotate: false
+  xy: 433, 41
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+images/Layer 16
+  rotate: true
+  xy: 120, 44
+  size: 82, 108
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+images/Layer 2
+  rotate: true
+  xy: 183, 10
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+images/Layer 3
+  rotate: false
+  xy: 527, 55
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+images/Layer 4
+  rotate: true
+  xy: 334, 46
+  size: 80, 97
+  orig: 80, 97
+  offset: 0, 0
+  index: -1
+images/Layer 5
+  rotate: false
+  xy: 917, 46
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+images/Layer 6
+  rotate: true
+  xy: 841, 74
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+images/Layer 7
+  rotate: false
+  xy: 611, 59
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+images/Layer 8
+  rotate: true
+  xy: 230, 46
+  size: 80, 102
+  orig: 80, 102
+  offset: 0, 0
+  index: -1
+images/Layer 9
+  rotate: false
+  xy: 120, 7
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1

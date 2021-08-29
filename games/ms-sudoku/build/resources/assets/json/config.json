@@ -1,0 +1,17 @@
+{
+  "showArkadiumLogo":false,
+  "debugMode": false,
+  "transformPuzzles": true,
+  "historyMax": 500,
+  "hintMax": 3,
+  "urlPuzzles": "puzzles",
+  "easy": 1256,
+  "medium": 1250,
+  "hard": 1198,
+  "expert": 118,
+  "veryEasyIrregular": 1440,
+  "easyIrregular": 2000,
+  "mediumIrregular": 3000,
+  "hardIrregular": 5297,
+  "expertIrregular": 10
+}

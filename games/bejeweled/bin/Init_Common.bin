@@ -1,0 +1,2625 @@
+Inferno:50/400/1400/3400
+Stellar:25/150/550/1300
+Chromatic:25/150/550/1300
+Blaster:30/40/50/60
+Bejeweler:50000/150000/300000/500000
+Final Frenzy:20000/30000/40000/60000
+High Voltage:100000/300000/500000/750000
+Ante up:100000/300000/500000/750000
+The Gambler:10/30/60/100
+Glacial Explorer:100000/300000/500000/750000
+Ice Breaker:5/8/12/15
+Diamond, Mine:100000/300000/500000/750000
+Relic Hunter:5/8/12/15
+Butterfly Monarch:100000/300000/500000/750000
+Butterfly Bonanza:4/6/8/10
+Heroes Welcome:1
+Annihilator:1
+Superstar:1
+Levelord:10
+Top Secret:4
+
+# common options (may be defined in any quest mode):
+# ShowAutohints			true/false		turns on/off autohinting (doesn't disable hint button), defaults to off for quest mode
+# BackgroundIdx			integer			assigned background index (otherwise random)
+# ColorCount			integer			number of colors to start
+# ColorCountTarget		integer			number of colors to change to
+# ColorCountTargetSec	number			seconds until color target is reached
+# WantPointComplements	true/false		turn on voice point-based complements (default is off)
+# HyperMixers			true/false      turn on hypermixers (default is off)
+# RecordHighScores      true/false      game should record high scores
+# HighScoreBase			integer			base default high score for game
+# HighScoreIncr			integer			increment base by this number for each high score default
+
+# immediately start in a specific quest
+#QuickJumpQuestIdx 33;
+
+#1
+Quest "Lead to Gold - Any match"
+	Description = "Fill the grid with gold by making matches."
+	Challenge = "Time Limit"
+	Goal = "Gold"
+	
+	Time = 60
+	Squares = 64
+	Perimeter = 1;
+
+#2
+Quest "Lead to Gold - Yellow matches"
+	Description = "Fill the grid with gold by making yellow matches."
+	Challenge = "No Lose"
+
+	Goal = "Gold Yellow"
+	Squares = 64;
+
+#3
+Quest "Lead to Gold - Columns & Rows"
+	Description = "Fill the grid with gold by making matches."
+	Challenge = "Time Limit"
+	Challenge = "No Lose"
+
+	Time = 60
+	Goal = "Gold Lines"
+	Squares = 64;
+
+#4
+Quest "Wall Blast"
+	Description = "Destroy the wall with special gems."
+	Challenge = "No Lose"
+	BackgroundIdx = 0
+
+	Goal = "Wall Blast"
+	DropThreshold = 5
+	
+	Grids =	"
+			00000000
+			00000000
+			00111100
+			00111100
+			00111100
+			00111100
+			00000000
+			00000000
+
+			00011000
+			00044000
+			11333311
+			01333310
+			00022000
+			00022000
+			00111100
+			00111100
+
+			00000000
+			01100110
+			01222210
+			00133100
+			00144100
+			00144100
+			00011000
+			00000000";
+
+#5
+Quest "Time Bomb"
+	Description = "Destroy 10 bomb gems by matching them before the countdown reaches zero!"
+	Challenge = "Time Bomb"
+	BombCountdown = 20
+	DropCountdown = 3
+	MaxBombs = 4
+
+	Goal = "Clear Bombs"
+	Bombs = 10;
+
+#6
+Quest "Time Bomb (Real time)"
+	Description = "Destroy 10 bomb gems by matching them before the countdown reaches zero!"
+	Challenge = "Time Bomb (Real time)"
+	BombCountdown = 60
+	DropCountdown = 3
+	MaxBombs = 4
+
+	Goal = "Clear Bombs"
+	Bombs = 10;
+
+# INFERNO
+# RowMultiplier is the factor by which the column's current flame height (by row)
+# is multiplied before being multiplied by the fire speed (plus 1).  This makes the fire
+# faster at the bottom of the board, and slower at the top.  Reducing this number makes
+# the overall fire speed more consistent.
+
+#7
+Quest "Inferno"
+	Description = "Match 200 gems before the flames reach the top of the board!"
+	Challenge = "Inferno"
+	FireSpeed = 0.005
+	RowMultiplier = 0.25
+
+	Goal = "Clear Gems"
+	Gems = 200;
+
+#8
+Quest "Balance"
+	Description = "Collect 25 red and 25 blue gems, but don't let the weights get too unbalanced!"
+	Challenge = "Balance"
+	Gems = 25
+	Balance = 9
+	RollSpeedDivisor = 1000;
+
+#9
+Quest "Stratamax"
+	Description = "Clear 100 gems in 20 moves."
+	Challenge = "Move Limit"
+	Moves = 20
+
+	Goal = "Clear Gems"
+	Gems = 100;
+
+#10
+Quest "Butterflies"
+	Description = "Catch 20 butterflies before they escape the top of the board!"
+	Challenge = "Butterflies"
+	DropCountdown = 2
+	MoveCountdown = 1
+
+	Goal = "Catch Butterflies"
+	Butterflies = 20;
+
+#11
+Quest "Avalanche"
+	Description = "Clear 100 gems without allowing the board to fill up.  Each move adds 5 gems."
+	Challenge = "Filler"
+	NumStartGems = 32
+	DropPerMove = 5
+
+	Goal = "Clear Gems"
+	Gems = 100;
+
+#12
+Quest "Butterflies + Wall"
+	Description = "Knock down the wall and capture any butterflies before they escape."
+	Challenge = "Butterflies"
+	DropCountdown = 3
+	MoveCountdown = 1
+
+	Goal = "Wall Blast"
+	DropThreshold = 15
+	Grids =	"
+	        00011000
+			00011000
+			00022000
+			11233211
+			11233211
+			00022000
+			00011000
+			00011000
+
+			00011000
+			00044000
+			11333311
+			01333310
+			00022000
+			00022000
+			00111100
+			00111100
+
+			00000000
+			01100110
+			01222210
+			00133100
+			00144100
+			00144100
+			00011000
+			00000000";
+
+#13
+Quest "Lead to Gold + Time bomb"
+	Description = "Fill the grid with gold by making matches."
+
+	Challenge = "Time Bomb"
+	BombCountdown = 20
+	DropCountdown = 3
+	MaxBombs = 4
+
+	Goal = "Gold"
+	Squares = 64
+	Perimeter = 1;
+
+
+
+#14
+Quest "Buried Treasures"
+	Description = "Find buried treasures within 50 moves! Avoid the skull!"
+	Challenge = "Move Limit"
+	Goal = "Hidden Objects"
+	
+	Moves = 50
+	ObjCount = 4;
+
+#15
+Quest "Sandstorm"
+	Description = "Find buried treasures! They cover back up over time. Avoid the skull!"
+	Challenge = "Time Limit"
+	Goal = "Hidden Objects"
+	
+	Time = 120
+	RefillRateSec = 20.0
+	ObjCount = 4;
+	
+#16
+Quest "Poker"
+	Description = "Score 200 points before running out of hands."
+	HelpText = "Assemble the best hand possible out of 5 cards! Every match reveals a new card of the color of the gem you swapped. Mouse over the score sheet on the left to see a description of each valid hand.\n\nYou have 10 hands to score 200 points.  Good luck!"
+	Challenge = "Poker"
+	HyperMixers = true
+	Goal = 200
+	Hands = 10
+	FlameBonus = 5
+	StarBonus = 5
+
+	Pair = 0
+	Spectrum = 0
+	TwoPair = 5
+	ThreeKind = 10
+	FullHouse = 25
+	FourKind = 40
+	Flush = 75;
+
+#17
+Quest "Gold Rush"
+	Description = "Break through the rock to collect diamonds before timer runs out!"
+	Challenge = "Time Limit"
+	Goal = "Dig"
+	
+	Time = 120
+	TargetCount = 15
+	
+	BackgroundIdx = 9
+	
+	# 9 is money source
+	# 1-8 is strength of block (number of matches to destroy)
+	Grids ="0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			1 1 1 2 2 1 1 1
+			2 2 3 3 3 3 2 2
+			9m9m9m9m9m9m9m9m";
+	
+#18
+Quest "Scrolling Gold Rush"
+	Description = "Break through the rock to collect diamonds before timer runs out!"
+	Challenge = "Time Limit"
+	Goal = "Dig"
+	
+	Time = 120
+	TargetCount = 200
+	ColorCount = 4
+	TimeBonus = 30
+	HyperMixers = true
+	DigCountPerScroll = 2
+
+	ColorCountIncrSec = "5.0,30.0"
+	ArtifactVals = "250,1000,2500"
+	# after last entry, the last artifact will appear endlessly at the same interval (14-8==6 means every 6 rows will contain an artifact)
+	ArtifactMaxRow = "12,18,24"
+	
+	MinBrickStrPerLevel = "b+1,4,0.0002,50,#//4  37Wz< sJ0Gt     y~Vyd"
+	MaxBrickStrPerLevel = "b+2,8,0.0002,50,#//4  31.t5 uD3&I     w~Vyd"
+	MinMineStrPerLevel  = "b+1,4,0.0002,50,#//4   EL1'j      [~TQB"
+	MaxMineStrPerLevel  = "b+2,8,0.0002,50,#//4   EL1'j      [~TQB"
+	
+	BrickStrSpread		= "b+0,1,0.01,1,#5>9  dh+ys       =#Al3"
+	MineStrSpread		= "b+0,1,0.01,1,#5>9  dh+ys       =#Al3"
+	
+	MineProbPerLevel    = "b#0,1,0.0002,50,9         ~9"
+	
+	# 1-8 is strength of block (number of matches to destroy)
+	# 9 is infinite strength block
+	# m is money source
+	# h is hypercube
+	# s is shuffle
+	# r is randomized
+	Grids =" 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  1  1  2  2  1  1  0
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+
+			 0r 0r 0r 1h 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 1h 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 ";
+			 
+#19
+Quest "Lead to Gold - Othello"
+	Description = "Flip the gold tile twice to earn gold."
+	Challenge = "Time Limit"
+	Challenge = "No Lose"
+
+	Time = 60
+	Goal = "Gold Lines Flip"
+	OnlyCheckSwaps = "true"
+	Target = 100;
+
+#20
+Quest "Ice Storm"
+	Description = "Match 100 gems before ice reaches the top of the board!"
+	Challenge = "Inferno"
+	FireSpeed = 0.004
+	RowMultiplier = 0.20
+	BackgroundIdx = 16
+	HelpText = "Ice is creeping up the board. Knock ice down by making matches above or below it. Match 100 gems before ice reaches the top of the board!"
+
+	Goal = "Clear Gems"
+	Gems = 10
+
+	StartColCount = 1
+	DoubleColCount = 2
+	RowFireSpeed = "b+0,1,0,1,~{Yt7~###    G~### D~P##;~Jc+   g=<Tj"
+	ColCountOverTime = "b;3,8,0.01,200,####         ~~]]u"
+	ColDistribution = "b+0.35,1,0,1,#5yy   <~Q]:      e~Q{t"
+	
+	FirstPushImpulse = 0.0
+	FirstPushDecay = 0.0
+	
+	HyperMixers = true;
+
+#21
+Quest "Diamond Mine"
+	Description = "Mine all rocks and gold above the line before time runs out!"
+	Challenge = "Time Limit"
+	Goal = "Dig"
+	BackgroundIdx = 3
+	HelpText = "Dig through rocks and gold by matching gems near them. Clear above the line before time runs out to keep mining. The deeper you mine the better your score!" 
+	
+	Time = 120
+	TargetCount = 200
+	ColorCount = 4
+	TimeBonus = 30
+	HyperMixers = true
+	DigCountPerScroll = 2
+	
+	HighScoreBase = 1000
+	HighScoreIncr = 500
+
+	ColorCountIncrSec = "5.0,30.0"
+	
+	GoldValue = "250"
+	ArtifactVals = "10000,25000,50000"	
+	# after last entry, the last artifact will appear endlessly at the same interval (14-8==6 means every 6 rows will contain an artifact)
+	ArtifactMinTiles = "8"
+	ArtifactMaxTiles = "24"
+	ArtifactMinRows = "1,7,13"
+	
+	MinBrickStrPerLevel = "b+1,4,0.0002,50,#//4  37Wz< sJ0Gt     y~Vyd"
+	MaxBrickStrPerLevel = "b+2,8,0.0002,50,#//4  31.t5 uD3&I     w~Vyd"
+	EdgeBrickStrPerLevel = "b+0,1,0.0002,50,~### 3{sIL ~jDCc  `Zw@X    1TOt9"
+	MinMineStrPerLevel  = "b+1,4,0.0002,50,#//4   EL1'j      [~TQB"
+	MaxMineStrPerLevel  = "b+2,8,0.0002,50,#//4   EL1'j      [~TQB"
+	
+	BrickStrSpread		= "b+0,1,0.01,1,#5>9  dh+ys       =#Al3"
+	MineStrSpread		= "b+0,1,0.01,1,#5>9  dh+ys       =#Al3"
+	
+	MineProbPerLevel    = "b#0,1,0.0002,50,9         ~9"
+	
+	# 1-8 is strength of block (number of matches to destroy)
+	# 9 is infinite strength block
+	# m is money source
+	# h is hypercube
+	# s is shuffle
+	# r is randomized
+	Grids =" 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  1  1  2  2  1  1  0
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+
+			 0r 0r 0r 1h 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 1h 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 ";<Music>
+
+<!-- These events are always processed first -->
+
+  <DefaultEvents>
+    <Event Name="FadeOut" Volume="b+0,1,0.01,1,~###         ~#########" />
+    <Event Name="FadeIn" Volume="b+0,1,0.015,1,####         ~~###" />
+    <Event Name="Wait" Volume="b+0,1,0.001667,1,~###        y~### (####" />
+  </DefaultEvents>
+
+
+<!-- NOTE: Offset 00 = silent / mute loop. All fanfares jump to it after end.  -->
+
+
+<!-- Menu musics -->
+
+  
+  <Song Name="LoadingScreen" File="music\Bejeweled3_suite.mo3" Offset="02" >
+    <Event Name="Switch" RowSync="0,4,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112,116,120,124" Offset="04" />
+  </Song>
+  
+  <Song Name="MainMenu" File="music\Bejeweled3_suite.mo3" Offset="04" >
+  </Song>
+
+  <Song Name="SecretMenu" File="music\Bejeweled3_suite.mo3" Offset="147" >
+  </Song>
+
+  <Song Name="QuestMenu" File="music\Bejeweled3_suite.mo3" Offset="147" >      
+  </Song>
+
+  <Song Name="QuestMenu_unlock" File="music\Bejeweled3_suite.mo3" Offset="00" >
+  </Song>
+
+  <Song Name="QuestMenu_fanfare" File="music\Bejeweled3_suite.mo3" Offset="120" Sfx >
+    <Event Name="FadeOut" Volume="b+0,1,0.002857,1,~###         ~#########" />
+  </Song>
+
+
+<!-- Turn Based Quest songs -->
+
+
+  <Song Name="QuestTurnBased" File="music\Bejeweled3_suite.mo3" Offset="188" >
+      <Event Name="Break" RowSync="0,4,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112,116,120,124" />
+  </Song>
+
+  <Song Name="QuestTurnBased_lose" File="music\Bejeweled3_suite.mo3" Offset="199" >
+  </Song>
+
+  <Song Name="QuestTurnBased_win" File="music\Bejeweled3_suite.mo3" Offset="197" >
+  </Song>
+
+
+<!-- Time Based Quest songs -->
+
+  <Song Name="QuestTimeBased" File="music\Bejeweled3_suite.mo3" Offset="133" >
+    <Event Name="Break" RowSync="0,4,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112,116,120,124" />
+  </Song>
+
+  <Song Name="QuestTimeBased_lose" File="music\Bejeweled3_suite.mo3" Offset="145" >
+  </Song>
+
+  <Song Name="QuestTimeBased_win" File="music\Bejeweled3_suite.mo3" Offset="143" >
+  </Song>
+
+
+
+<!-- Bomb puzzle -->
+
+  <Song Name="QuestBomb" File="music\Bejeweled3_suite.mo3" Offset="34" >
+  </Song>
+
+  <Song Name="QuestBomb_win" File="music\Bejeweled3_suite.mo3" Offset="43" >
+  </Song>
+
+  <Song Name="QuestBomb_lose" File="music\Bejeweled3_suite.mo3" Offset="41" >
+  </Song>
+
+
+<!-- Classic Mode -->
+
+  <Song Name="Classic" File="music\Bejeweled3_suite.mo3" Offset="45" >
+    <Event Name="Break" RowSync="0,4,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112,116,120,124" />
+  </Song>
+
+  <Song Name="Classic_lose" File="music\Bejeweled3_suite.mo3" Offset="22" >
+  </Song>
+
+
+<!-- Zen Mode -->
+
+  <Song Name="Zen" File="music\Bejeweled3_suite.mo3" Offset="84" >
+  </Song>
+
+
+<!-- Icestorm Mode -->
+<!-- Panic Layer in channels 17, 18, 19, 20 -->
+
+  <Song Name="Icestorm" File="music\Bejeweled3_suite.mo3" Offset="149" >
+    <Event Name="Play" Volume="b+0,1,0,1,#### 9####     g~###   $~###" Tracks="17,18,19,20" />	
+  </Song>
+
+  <Song Name="Icestorm_win" File="music\Bejeweled3_suite.mo3" Offset="43" >
+  </Song>
+  
+  <Song Name="Icestorm_lose" File="music\Bejeweled3_suite.mo3" Offset="161" >
+  </Song>
+
+
+
+<!-- Butterflies Mode -->
+
+  <Song Name="Butterflies" File="music\Bejeweled3_suite.mo3" Offset="163" >
+  </Song>
+
+  <Song Name="Butterflies_win" File="music\Bejeweled3_suite.mo3" Offset="43" >
+  </Song>
+
+  <Song Name="Butterflies_lose" File="music\Bejeweled3_suite.mo3" Offset="174" >
+  </Song>
+
+
+
+<!-- Poker Mode -->
+
+  <Song Name="Poker" File="music\Bejeweled3_suite.mo3" Offset="176" >
+  </Song>
+
+  <Song Name="Poker_win" File="music\Bejeweled3_suite.mo3" Offset="186" >
+  </Song>
+
+  <Song Name="Poker_lose" File="music\Bejeweled3_suite.mo3" Offset="184" >
+  </Song>
+
+
+<!-- Buried Treasure mode -->
+
+  <Song Name="BuriedTreasure" File="music\Bejeweled3_suite.mo3" Offset="201" >
+  </Song>
+
+  <Song Name="BuriedTreasure_win" File="music\Bejeweled3_suite.mo3" Offset="213" >
+  </Song>
+
+  <Song Name="BuriedTreasure_lose" File="music\Bejeweled3_suite.mo3" Offset="211" >
+  </Song>
+
+
+<!-- Speed / Lightning Mode -->  
+<!-- Panic Layer: scale the volume up for tracks 17 to 20 -->
+
+
+  <Song Name="Speed" File="music\Bejeweled3_suite.mo3" Offset="12" >    
+    <Event Name="Play" Volume="b+0,1,0,1,####       4####  &~###j~###" Tracks="17,18,19,20" />
+    <Event Name="Break" RowSync="1,5,8,12,16,20,24,28,32,36,40,44,48,52,56,60,64,68,72,76,80,84,88,92,96,100,104,108,112,116,120,124" />
+  </Song>
+
+  <Song Name="Speed_lose" File="music\Bejeweled3_suite.mo3" Offset="22" >  
+  </Song>
+
+
+
+</Music>
+
+# common options (may be defined in any quest mode):
+# ShowAutohints			true/false		turns on/off autohinting (doesn't disable hint button), defaults to off for quest mode
+# BackgroundIdx			integer			assigned background index (otherwise random)
+# BackgroundIdxSet		integer array		set of background indices to randomly choose from (comma separated)
+# ColorCount			integer			number of colors to start
+# WantPointComplements		true/false		turn on voice point-based complements (default is off)
+# HyperMixers			true/false		turn on hypermixers (default is off)
+# RecordHighScores		true/false		game should record high scores
+# HighScoreBase			integer			base default high score for game
+# HighScoreIncr			integer			increment base by this number for each high score default
+# PowerGemThreshold		integer			increases likelihood of special gem-creating swaps on the board (5 [default] - 50)
+
+# immediately start in a specific quest
+#QuickJumpQuestIdx 33;
+
+######### Section 1 #########
+
+
+Quest "Butterflies"
+	Description = "Match 15 butterflies before any reach the spider!"
+	Challenge = "Butterflies"
+	DropCountdown = 2
+	MoveCountdown = 1
+	BackgroundIdx = 12
+#	BackgroundIdxSet = "14,15"
+	HelpText = "Butterflies move up a space every turn. Match 15 butterflies or free them with special gems before any reach the spider!"
+
+	Goal = "Catch Butterflies"
+	Butterflies = 15;
+
+
+Quest "Gold Rush"
+	Description = "Match gems near dirt to dig. Mine 5 gold nuggets!"
+	Challenge = "Dig"
+	Goal = "Dig"
+	BackgroundIdx = 4
+	HelpText = "Match gems near dirt to dig. Mine 5 gold nuggets before time runs out!"
+	
+	TutorialHeader = "Match To Dig"
+	TutorialText = "Matching this piece will blast downward towards the gold!"
+	
+	Time = 120
+	TargetCount = 5
+	
+	# 9 is money source
+	# 1-8 is strength of block (number of matches to destroy)
+	Grids ="0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			1 1 1 1 1 1 1 1
+			1 2 2 1m1m2 2 1
+			2m2m2m2m2m2m2m2m";
+
+
+Quest "Alchemy"
+	Description = "Turn the grid to gold before time runs out."
+	Challenge = "Time Limit"
+	Challenge = "No Lose"
+	BackgroundIdx = 1
+	HyperMixers = true
+	HelpText = "Horizontal matches change rows to gold. Vertical matches change columns to gold. Turn the whole grid to gold before time runs out."
+	OnlyCheckSwaps = "false"
+	NeverAllowCascades = true
+	Time = 90
+	Goal = "Gold Lines"
+	Squares = 64;
+
+Quest	"Stratamax"
+	Description = "Clear 120 gems in 20 moves."
+	Challenge = "Move Limit"
+	Moves = 20
+	BackgroundIdx = 7
+	HelpText = "Clear 120 gems in 20 moves or less. Try to create and detonate special gems for maximum impact!"
+
+	Goal = "Clear Gems"
+	Gems = 120;
+
+
+Quest "Balance"
+	Description = "Match 15 red and 15 blue gems, but keep things balanced!"
+	Challenge = "Balance"
+	HelpText = "Red gems add to the red weight. Blue gems add to the blue weight. Match 15 red and 15 blue gems, but don't let either weight drop to the bottom!"
+	HyperMixers = true
+	BackgroundIdx = 18
+	Gems = 15
+	Balance = 9
+	RollSpeedDivisor = 1200;
+
+
+# Optionals
+
+
+Quest "Avalanche"
+	Description = "Match 80 gems before the board fills up completely!"
+	Challenge = "Filler"
+	NumStartGems = 26
+	DropPerMove = 5
+	AssistCurve = "b+3,3,0,64,####         ~~_{m"
+	BackgroundIdx = 14
+	HelpText = "Gems drop in after each move. Match 80 gems before the board fills up completely!"
+
+	Goal = "Clear Gems"
+	Gems = 80;
+
+
+Quest "Buried Treasure"
+	Description = "Uncover 3 buried treasures before time runs out."
+	Challenge = "Time Limit"
+	Goal = "Hidden Objects"
+	DropThreshold = 10
+	HyperMixers = true
+	BackgroundIdx = 3
+	HelpText = "Three treasures are hidden under the sand. Uncover them completely before time runs out!"
+	NeverAllowCascades = true
+	
+	ItemSet = "1"
+
+	Time = 120;
+
+
+Quest "Time Bomb"
+	Description = "Match 10 bomb gems before they count down to zero!"
+	Challenge = "Time Bomb"
+	BombCountdown = 20
+	DropCountdown = 4
+	MaxBombs = 3
+	HyperMixers = true
+	DropThreshold = 12
+	BackgroundIdx = 15
+	HelpText = "Bomb gems count down every move. Destroy 10 bomb gems. Don't let any count down to zero!"
+
+	Goal = "Clear Bombs"
+	Bombs = 10;
+
+
+
+######### Section 2 #########
+
+
+Quest "Poker"
+	Description = "Win 3000 credits with 10 poker hands!"
+	Challenge = "Poker"
+	HyperMixers = true
+	BackgroundIdx = 9
+	HelpText = "Make poker hands with gem matches. Better hands earn more credits. Win 3000 credits in 10 or fewer hands!"
+	Goal = 3000
+	Hands = 10
+	FlameBonus = 50
+	StarBonus = 100
+
+	HandValues = "50, 100, 150, 200, 350, 500, 750";
+
+
+Quest "Ice Storm"
+	Description = "Match 150 gems before ice reaches the top of the board!"
+	Challenge = "Inferno"
+	FireSpeed = 0.0045
+	RowMultiplier = 0.40
+	BackgroundIdx = 11
+	HelpText = "Ice is creeping up the board. Knock ice down by making matches above or below it. Match 150 gems before ice reaches the top of the board!"
+
+	Goal = "Clear Gems"
+	Gems = 150
+	
+	DoubleEdgeMult = 1.25
+
+	SecondsUntilLose = 10
+
+	MatchPushStr = 0.11
+	SpecialGemPushMod = 2.0
+	
+	StartColCount = 2
+	RowFireSpeed = "b+0,1,0,1,~{Yt7~###    G~### D~P##;~Jc+   g=<Tj"
+	ColCountOverTime = "b;3,8,0.01,200,####         ~~]]u"
+	ColDistribution = "b+0.35,1,0,1,#5yy   <~Q]:      e~Q{t"
+
+	FirstPushImpulse = 0.0
+	FirstPushDecay = 0.0
+	
+	HyperMixers = true;
+
+
+Quest "Stratamax II"
+	Description = "Clear 130 gems in 20 moves or less!"
+	Challenge = "Move Limit"
+	Moves = 20
+	BackgroundIdx = 7
+	HelpText = "Clear 130 gems in 20 moves or less! Try to create and detonate special gems for maximum impact!"
+
+	Goal = "Clear Gems"
+	Gems = 130;
+
+
+
+Quest "Sandstorm"
+	Description = "Uncover 3 treasures. Don't let sand cover them back up!"
+	Challenge = "Time Limit"
+	Goal = "Hidden Objects"
+	HyperMixers = true
+	BackgroundIdx = 3
+	DropThreshold = 8
+	HelpText = "Find the 3 buried treasures. Hurry or the sand will cover them up again!"
+	NeverAllowCascades = true
+	
+	ItemSet = "2"
+
+	Time = 120
+	# time, in seconds, to refill an uncovered grid square
+	RefillRateSec = 35.0;
+
+
+Quest "Butterflies II"
+	Description = "Match 25 butterflies before any reach the spider!"
+	Challenge = "Butterflies"
+	DropCountdown = 1
+	MoveCountdown = 1
+	DropCountdownPerLevel = 0.25
+	MoveCountdownPerLevel = 0.5
+	SpawnCountStart = 1
+	SpawnCountMax = 2.5
+	SpawnCountPerLevel = 0.05
+	BackgroundIdx = 12
+	HelpText = "Butterflies move up a space every turn. Match 25 butterflies or free them with special gems before any reach the spider!"
+
+	Goal = "Catch Butterflies"
+	Butterflies = 25;
+
+
+
+# Optionals
+
+
+Quest "Balance II"
+	Description = "Match 20 red and 20 blue gems, but keep things balanced!"
+	Challenge = "Balance"
+	BackgroundIdx = 18
+	HelpText = "Red gems add to the red weight. Blue gems add to the blue weight. Match 20 red and 20 blue gems, but don't let either weight drop to the bottom!"
+	Gems = 20
+	Balance = 9
+	RollSpeedDivisor = 1100;
+
+
+Quest "Time Bomb II"
+	Description = "Match 15 bomb gems before they count down to zero!"
+	Challenge = "Time Bomb (Real time)"
+	BombCountdown = 60
+	DropCountdown = 8
+	MaxBombs = 3
+	DropThreshold = 15
+	HyperMixers = true
+	BackgroundIdx = 15
+	HelpText = "Bomb gems appear and start to count down in real time. Destroy 15 bomb gems before they count down to zero!"
+
+	Goal = "Clear Bombs"
+	Bombs = 15;
+
+
+Quest "Avalanche II"
+	Description = "Match 90 gems before the board fills up completely!"
+	Challenge = "Filler"
+	NumStartGems = 28
+	DropPerMove = 5
+	AssistCurve = "b+3,4,0,64,####         ~~_{m"
+	BackgroundIdx = 14
+	HelpText = "Gems drop in after each move. Match 90 gems before the board fills up completely!"
+
+	Goal = "Clear Gems"
+	Gems = 90;
+
+
+	 
+######### Section 3 #########
+
+
+Quest "Alchemy II"
+	Description = "Turn the grid to gold. You have just 20 moves."
+	Challenge = "Move Limit"
+	Moves = 20
+	BackgroundIdx = 1
+	HelpText = "Horizontal matches change rows to gold. Vertical matches change columns to gold. Turn the whole grid to gold in 20 moves or less!"
+	OnlyCheckSwaps = "false"
+	NeverAllowCascades = true
+
+	Goal = "Gold Lines"
+	Squares = 64;
+
+
+Quest "Wall Blast"
+	Description = "Destroy the wall with special gems!"
+	Challenge = "Time Limit"
+	Challenge = "No Lose"
+	BackgroundIdx = 0
+	HelpText = "Only special gems can destroy the wall. Use them to blast the entire wall before time runs out!"
+	DropThreshold = 12
+	
+	TutorialHeader = "Match Special Gems"
+	TutorialText = "Create and detonate special gems to destroy sections of the wall."
+
+	Time = 75
+	Goal = "Wall Blast"
+		
+	Grids =	"
+	        00000000
+			00000000
+			00111100
+			00111100
+			00111100
+			00111100
+			00000000";
+
+
+Quest "Poker II"
+	Description = "Win 3500 credits with 10 poker hands!"
+	Challenge = "Poker"
+	HyperMixers = true
+	BackgroundIdx = 9
+	HelpText = "Make poker hands with gem matches. Better hands earn more credits. Win 3500 credits in 10 or fewer hands!"
+	Goal = 3500
+	Hands = 10
+	FlameBonus = 50
+	StarBonus = 100
+
+	HandValues = "50, 100, 150, 200, 350, 500, 750";
+
+
+Quest "Butterflies III"
+	Description = "Match 40 butterflies before any reach the spider!"
+	Challenge = "Butterflies"
+	DropCountdown = 1
+	MoveCountdown = 1
+	DropCountdownPerLevel = 0.25
+	MoveCountdownPerLevel = 0.5
+	SpawnCountStart = 1
+	SpawnCountMax = 2.5
+	SpawnCountPerLevel = 0.04
+	BackgroundIdx = 12
+	HelpText = "Butterflies move up a space every turn. Match 40 butterflies or free them with special gems before any reach the spider!"
+
+	Goal = "Catch Butterflies"
+	Butterflies = 40;
+
+
+Quest "Avalanche III"
+	Description = "Clear 100 gems before the board fills up completely!"
+	Challenge = "Filler"
+	NumStartGems = 30
+	AssistCurve = "b+3,4,0,64,####         ~~_{m"
+	DropPerMove = 5
+	BackgroundIdx = 14
+	HelpText = "Gems drop in after each move. Match 100 gems before the board fills up completely!"
+
+	Goal = "Clear Gems"
+	Gems = 100;
+
+	
+# Optionals
+
+Quest "Gold Rush II"
+	Description = "Match gems near dirt to dig. Mine 5 gold nuggets!"
+	Challenge = "Dig"
+	Goal = "Dig"
+	BackgroundIdx = 4
+	HelpText = "Match gems near dirt to dig. Mine 5 gold nuggets before time runs out!"
+	
+	TutorialHeader = "Match To Dig"
+	TutorialText = "Matching this piece will blast downward towards the gold!"
+	
+	Time = 90
+	TargetCount = 5
+	
+	# 9 is money source
+	# 1-8 is strength of block (number of matches to destroy)
+	Grids ="0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			2 1 1 1 1 1 1 2
+			1m2 2 2 2 2 2 1m
+			2m3m3m3m3m3m3m2m";
+
+Quest "Stratamax III"
+	Description = "Clear 140 gems in 20 moves."
+	Challenge = "Move Limit"
+	Moves = 20
+	BackgroundIdx = 7
+	HelpText = "Clear 140 gems in 20 moves or less. Try to create and detonate special gems for maximum impact!"
+
+	Goal = "Clear Gems"
+	Gems = 140;
+
+
+
+Quest "Time Bomb III"
+	Description = "Match 15 bomb gems before they count down to zero!"
+	Challenge = "Time Bomb"
+	BombCountdown = 15
+	DropCountdown = 3
+	MaxBombs = 3
+	HyperMixers = true
+	BackgroundIdx = 17
+	HelpText = "Bomb gems count down every move. Destroy 15 bomb gems. Don't let any count down to zero!"
+
+	Goal = "Clear Bombs"
+	Bombs = 15;
+
+
+
+######### Section 4 #########
+
+
+Quest "Gold Rush III"
+	Description = "Match gems near dirt to dig. Mine 10 gold nuggets!"
+	Challenge = "Dig"
+	Goal = "Dig"
+	BackgroundIdx = 4
+	HelpText = "Match gems near dirt to dig. Mine 10 gold nuggets before time runs out!"
+	
+	TutorialHeader = "Match To Dig"
+	TutorialText = "Matching this piece will blast downward towards the gold!"
+	Time = 90
+	TargetCount = 10
+	
+	# 9 is money source
+	# 1-8 is strength of block (number of matches to destroy)
+	Grids ="0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			1 1 1 1 1 1 1 1
+			2m2 2 3 3 2 2 2m
+			5m5m5m5m5m5m5m5m";
+
+
+Quest "Butterflies IV"
+	Description = "Match 50 butterflies before any reach the spider!"
+	Challenge = "Butterflies"
+	DropCountdown = 1
+	MoveCountdown = 1
+	DropCountdownPerLevel = 0.25
+	MoveCountdownPerLevel = 0.5
+	SpawnCountStart = 1
+	SpawnCountMax = 2.5
+	SpawnCountPerLevel = 0.06
+	BackgroundIdx = 12
+	HelpText = "Butterflies move up a space every turn. Match 50 butterflies or free them with special gems before any reach the spider!"
+
+	Goal = "Catch Butterflies"
+	Butterflies = 50;
+
+
+Quest "Alchemy III"
+	Description = "Flip tiles twice to turn the board to gold in 30 moves!"
+	Challenge = "Move Limit"
+	Moves = 30
+	BackgroundIdx = 6
+	HelpText = "Make matches to flip columns and rows first to lead and then to gold. Turn the whole grid gold in 30 moves!"
+
+	Goal = "Gold Lines Flip"
+	OnlyCheckSwaps = "false"
+	NeverAllowCascades = true
+	Squares = 64;
+
+
+Quest "Avalanche IV"
+	Description = "Clear 110 gems before the board fills up completely!"
+	Challenge = "Filler"
+	NumStartGems = 32
+	DropPerMove = 5
+	AssistCurve = "b+3,4,0,64,####         ~~_{m"
+	BackgroundIdx = 14
+	HelpText = "Gems drop in after each move. Match 110 gems before the board fills up completely!"
+
+	Goal = "Clear Gems"
+	Gems = 110;
+
+Quest "Ice Storm II"
+	Description = "Match 200 gems before ice reaches the top of the board!"
+	Challenge = "Inferno"
+	FireSpeed = 0.0055
+	RowMultiplier = 0.40
+	BackgroundIdx = 11
+	HelpText = "Ice is creeping up the board. Knock ice down by making matches above or below it. Match 200 gems before ice reaches the top of the board!"
+	
+	Goal = "Clear Gems"
+	Gems = 200
+
+	SecondsUntilLose = 10
+	
+	DoubleEdgeMult = 1.5
+
+	MatchPushStr = 0.11
+	SpecialGemPushMod = 2.0
+	
+	StartColCount = 3
+	RowFireSpeed = "b+0,1,0,1,~{Yt7~###    G~### D~P##;~Jc+   g=<Tj"
+	ColCountOverTime = "b;3,8,0.01,200,####         ~~]]u"
+	ColDistribution = "b+0.35,1,0,1,#5yy   <~Q]:      e~Q{t"
+
+	FirstPushImpulse = 0.0
+	FirstPushDecay = 0.0
+	
+	HyperMixers = true;
+
+
+
+
+# Optionals
+
+Quest "Time Bomb IV"
+	Description = "Match 20 bomb gems before they count down to zero!"
+	Challenge = "Time Bomb (Real time)"
+	BombCountdown = 45
+	DropCountdown = 5
+	MaxBombs = 3
+	DropThreshold = 15
+	HyperMixers = true
+	BackgroundIdx = 15
+	HelpText = "Bomb gems appear and start to count down in real time. Destroy 20 bomb gems before they count down to zero!"
+
+	Goal = "Clear Bombs"
+	Bombs = 20;
+
+Quest "Balance III"
+	Description = "Match 30 red and 30 blue gems, but keep things balanced!"
+	Challenge = "Balance"
+	BackgroundIdx = 18
+	HelpText = "Red gems add to the red weight. Blue gems add to the blue weight. Match 30 red and 30 blue gems, but don't let either weight drop to the bottom!"
+	Gems = 30
+	Balance = 9
+	RollSpeedDivisor = 1000;
+
+
+Quest "Stratamax IV"
+	Description = "Clear 150 gems in 20 moves."
+	Challenge = "Move Limit"
+	Moves = 20
+	BackgroundIdx = 7
+	HelpText = "Clear 150 gems in 20 moves or less. Try to create and detonate special gems for maximum impact!"
+
+	Goal = "Clear Gems"
+	Gems = 150;
+
+
+######### Section 5 #########
+
+
+Quest "Balance IV"
+	Description = "Match 40 red and 40 blue gems, but keep things balanced!"
+	Challenge = "Balance"
+	BackgroundIdx = 18
+	HelpText = "Red gems add to the red weight. Blue gems add to the blue weight. Match 40 red and 40 blue gems, but don't let either weight drop to the bottom!"
+	Gems = 40
+	Balance = 9
+	RollSpeedDivisor = 900;
+
+
+Quest "Sandstorm II"
+	Description = "Uncover 4 fossil fragments. Don't let sand cover them back up!"
+	Challenge = "Time Limit"
+	Goal = "Hidden Objects"
+	HyperMixers = true
+	DropThreshold = 12
+	BackgroundIdx = 3
+	HelpText = "Find the 4 fossil fragments. Hurry or the sand will cover them up again!"
+	NeverAllowCascades = true
+	
+	ItemSet = "3"
+	
+	Time = 90
+	# time, in seconds, to refill an uncovered grid square
+	RefillRateSec = 30.00;
+
+
+Quest "Stratamax V"
+	Description = "Clear 160 gems in 20 moves."
+	Challenge = "Move Limit"
+	Moves = 20
+	BackgroundIdx = 7
+	HelpText = "Clear 160 gems in 20 moves or less. Try to create and detonate special gems for maximum impact!"
+
+	Goal = "Clear Gems"
+	Gems = 160;
+
+
+
+Quest "Wall Blast II"
+	Description = "Destroy the wall using special gems."
+	Challenge = "Time Limit"
+	Challenge = "No Lose"
+	BackgroundIdx = 0
+	HelpText = "Only special gems can destroy the wall. Use them to blast the entire wall before time runs out!"
+	HyperMixers = true
+	
+	Time = 120
+	Goal = "Wall Blast"
+	
+	TutorialHeader = "Match Special Gems"
+	TutorialText = "Create and detonate special gems to destroy sections of the wall."
+		
+	Grids =	"
+			00000000
+			01111110
+			01111110
+			01111110
+			01111110
+			01111110
+			01111110
+			00000000";
+
+Quest "Gold Rush IV"
+	Description = "Match gems near dirt to dig. Mine 10 gold nuggets!"
+	Challenge = "Dig"
+	Goal = "Dig"
+	BackgroundIdx = 4
+	HelpText = "Match gems near dirt to dig. Mine 10 gold nuggets before time runs out!"
+	
+	TutorialHeader = "Match To Dig"
+	TutorialText = "Matching this piece will blast downward towards the gold!"
+	PowerGemThreshold = 7
+	Time = 90
+	TargetCount = 10
+	
+	# 9 is money source
+	# 1-8 is strength of block (number of matches to destroy)
+	Grids ="0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			0 0 0 0 0 0 0 0
+			2 1 1 1 1 1 1 2
+			2m2 3 5 5 3 2 2m
+			4m4m4m4m4m4m4m4m";
+
+
+# Optionals
+
+
+Quest "Poker III"
+	Description = "Win 4000 credits in 10 poker hands"
+	Challenge = "Poker"
+	HyperMixers = true
+	HelpText = "Make poker hands with gem matches. Better hands earn more credits. Win 4000 credits in 10 or fewer hands!"
+	BackgroundIdx = 9
+	Goal = 4000
+	Hands = 10
+	FlameBonus = 50
+	StarBonus = 100
+
+	HandValues = "50, 100, 150, 200, 350, 500, 750";
+
+
+Quest "Avalanche V"
+	Description = "Clear 120 gems before the board fills up completely!"
+	Challenge = "Filler"
+	NumStartGems = 26
+	DropPerMove = 6
+	ColorCount = 6
+	BackgroundIdx = 14
+	HelpText = "Gems drop in after each move. Match 120 gems before the board fills up completely!"
+
+	AssistCurve = "b+3,4,0,64,####         ~~_{m"
+	Goal = "Clear Gems"
+	Gems = 120;
+
+
+Quest "Ice Storm III"
+	Description = "Match 250 gems before ice reaches the top of the board!"
+	Challenge = "Inferno"
+	FireSpeed = 0.006
+	RowMultiplier = 0.50
+	BackgroundIdx = 11
+	HelpText = "Ice is creeping up the board. Knock ice down by making matches above or below it. Match 250 gems before ice reaches the top of the board!"
+
+	Goal = "Clear Gems"
+	Gems = 250
+	
+	FirstPushImpulse = 0.0
+	FirstPushDecay = 0.0
+
+	SecondsUntilLose = 10
+
+	MatchPushStr = 0.11
+	SpecialGemPushMod = 2.0
+	
+	DoubleEdgeMult = 2.25
+	
+	StartColCount = 4
+	RowFireSpeed = "b+0,1,0,1,~{Yt7~###    G~### D~P##;~Jc+   g=<Tj"
+	ColCountOverTime = "b;3,8,0.01,200,####         ~~]]u"
+	ColDistribution = "b+0.35,1,0,1,#5yy   <~Q]:      e~Q{t"
+
+	HyperMixers = true;Novice
+Apprentice
+Trainee
+Beginner
+Amateur
+Jr. Appraiser
+Appraiser
+Gem Polisher
+Gem Scraper
+Gem Grinder
+Jewel Thief
+Jewel Scavenger
+Gem Scrounger
+Jr. Gemfinder
+Gemfinder
+Sr. Gemfinder
+Jr. Jewelkeep
+Jewelkeep
+Master Jewelkeep
+Gemhunter Lv 1
+Gemhunter Lv 2
+Gemhunter Lv 3
+Gemhunter Lv 4
+Gemhunter Lv 5
+Gemcrafter Lv 1
+Gemcrafter Lv 2
+Gemcrafter Lv 3
+Gemcrafter Lv 4
+Gemcrafter Lv 5
+Jr. Gemstalker
+Gemstalker
+Sr. Gemstalker
+Topaz Hunter
+Onyx Hunter
+Amethyst Hunter
+Ruby Hunter
+Emerald Hunter
+Opal Hunter
+Sapphire Hunter
+Diamond Hunter
+Topaz Blaster
+Onyx Blaster
+Amethyst Blaster
+Ruby Blaster
+Emerald Blaster
+Opal Blaster
+Sapphire Blaster
+Diamond Blaster
+Topaz Hoarder
+Onyx Hoarder
+Amethyst Hoarder
+Ruby Hoarder
+Emerald Hoarder
+Opal Hoarder
+Sapphire Hoarder
+Diamond Hoarder
+Topaz Master
+Onyx Master
+Amethyst Master
+Ruby Master
+Emerald Master
+Opal Master
+Sapphire Master
+Diamond Master
+Lapidary Lv 1
+Lapidary Lv 2
+Lapidary Lv 3
+Lapidary Lv 4
+Lapidary Lv 5
+Master Lapidary
+Supreme Lapidary
+Ruby Wizard
+Emerald Wizard
+Opal Wizard
+Sapphire Wizard
+Diamond Wizard
+Jeweled Wizard
+Jeweled Mage
+Jeweled Archmage
+Jewelcrafter
+Jewelforger
+Bronze Blitzer
+Silver Blitzer
+Gold Blitzer
+Platinum Blitzer
+Bronze Master
+Silver Master
+Gold Master
+Platinum Master
+Jr. Bejeweler
+Bejeweler
+Sr. Bejeweler
+Master Bejeweler
+Mega Bejeweler
+Hyper Bejeweler
+Ultra Bejeweler
+Prime Bejeweler
+Ultimate Bejeweler
+Bejeweled Regent
+Bejeweled Demigod
+Supreme Bejeweler
+Jewelmagus Lv 1
+Jewelmagus Lv 2
+Jewelmagus Lv 3
+Jewelmagus Lv 4
+Jewelmagus Lv 5
+Jewelmagus Lv 6
+Jewelmagus Lv 7
+Jewelmagus Lv 8
+Jewelmagus Lv 9
+Elder Jewelmagus
+Jewelknight Lv 1
+Jewelknight Lv 2
+Jewelknight Lv 3
+Jewelknight Lv 4
+Jewelknight Lv 5
+Jewelknight Lv 6
+Jewelknight Lv 7
+Jewelknight Lv 8
+Jewelknight Lv 9
+Elder Jewelknight
+Bejewelian Lv 1
+Bejewelian Lv 2
+Bejewelian Lv 3
+Bejewelian Lv 4
+Bejewelian Lv 5
+Bejewelian Lv 6
+Bejewelian Lv 7
+Bejewelian Lv 8
+Bejewelian Lv 9
+Elder Bejewelian
+# secret modes can be jumped to via -quest option by adding 1000 to quest index
+
+#1000
+Quest "Poker"
+	Description = "Set the highest score possible. Watch out for skulls!"
+	Challenge = "Poker"
+	BackgroundIdx = 9
+	
+	FlameBonus = 100
+	StarBonus = 250
+
+	# Pair, Spectrum, 2 Pair, 3 of a Kind, Full House, 4 of a Kind, Flush
+	HandValues = "2500, 5000, 7500, 10000, 15000, 30000, 50000"
+	HandBuster = "0.1, 0.15, 0.2, 0.35, 0.5, 0.75, 1.0"
+	HandCountdown = "0.5, 0.45, 0.3, 0.25, 0.2, 0.1, 0.0"
+
+	# HandCountdown values get multiplied by 1 + (Number of hands played * CountdownMultPerHand)
+	CountdownMultPerHand = 0.1
+
+	# Highest hand that can be consumed by a skull
+	SkullMax = 5;
+
+	
+#1001
+Quest "Butterflies"
+	Description = "Match butterflies before any reach the spider!"
+	Challenge = "Butterflies"
+	BackgroundIdx = 12
+	DropCountdown = 1
+	MoveCountdown = 1
+	DropCountdownPerLevel = 0.25
+	MoveCountdownPerLevel = 0.5
+	SpawnCountStart = 1
+	SpawnCountMax = 2.5
+	SpawnCountPerLevel = 0.02	
+	SideSpawnChance = -0.2
+	SideSpawnChancePerLevel = 0.002667
+	SideSpawnChanceMax = 0.20
+
+	Goal = "Catch Butterflies"
+	Butterflies = 20;
+
+#1002
+Quest "Ice Storm"
+	Description = "Match gems to crush ice before it reaches the top!"
+	Challenge = "Inferno"
+	BackgroundIdx = 19
+		
+	HighScoreBase = 50000
+	HighScoreIncr = 10000
+	
+	HyperMixers = "true"
+	ShowAutohints = "true"
+	
+	# strength of match push down strength (per gem)
+	MatchPushStr = 0.07
+
+	# extra strength for powerup triggered gems (includes exploded gems)
+	SpecialGemPushMod = 1.3
+
+	# duration of the ice crack animation
+	SecondsUntilLose = 12
+	
+	# bonus to level progress on clearing a column, in tiles (or .. 8 tiles per column, so in 1/8's of column) 	
+	RemoveBonusColumn = 2
+	
+	# yet another multiplier to affect edge double column speeds
+	DoubleEdgeMult = 1.0
+	
+	# doubleColumns			number of double columns on board (4 will disallow singles, 2 will force edge columns to be doubles)
+	# columnCount			target number of columns on board, including singles and doubles
+	# startColumnCount		min number of target columns in play when level starts (won't remove existing)
+	# fireSpeed				base fire speed for all columns. Modified by row by RowFireSpeed and by column by ColDistribution
+	# columnsIceToRemove	players must remove this many columns worth of ice to advance to next stage
+
+	# global adjustment for all levels
+	FireSpeedMult = 2.0
+	
+	# point award for destroying a column (pre-multiplier)
+	ColDestroyBonus = 1500
+	
+	# column count bonus mods
+	ColCountBonus = "0,0,5000,6000,7000,8000,9000,10000,11000,12000,13000,14000,15000"
+	ColComboCoolDownVsCount = "b+235,300,0.01,13,#3^Y  I~###S~###  N####    VQb?#"
+	                     
+	# columns worth of ice required for multiplier up
+	MultiplierIceReq="6.0,10.0,14.0,16.0,18.0,20.0,22.0,24.0,26.0"
+	
+	# levelProgressCv -> strength over stage duration, expressed as percent of total fire speed
+	#		  doubleCols,	colCount,	fireSpeed,	seconds,	crackSpeedMod,	levelProgressCv (optional)
+	Level1 = "4,			2,			0.006,		20.0,		0.75,			b+0.5,1,0.01,1,####     ^####I~###   x~###"
+	Level2 = "4,			3,			0.008,		30.0,		0.8,			b+0,1,0,1,####        _i0HB B~`<S"
+	Level3 = "2,			3,			0.010,		30.0,		0.9,			b+0,1,0,1,#,qA     %I.6%    |~]T("
+	Level4 = "2,			4,			0.011,		30.0,		1.0"	
+	Level5 = "2,			4,			0.014,		30.0,		1.0"
+	Level6 = "2,			4,			0.017,		30.0,		1.1"
+	Level7 = "2,			5,			0.020,		30.0,		1.1"
+	Level8 = "0,			5,			0.023,		30.0,		1.15"
+	Level9 = "0,			5,			0.026,		30.0,		1.15"
+	Level10= "0,			6,			0.029,		30.0,		1.2"
+	Level11= "0,			6,			0.032,		25.0,		1.2"
+	Level12= "0,			6,			0.035,		25.0,		1.25"
+	Level13= "0,			7,			0.038,		25.0,		1.3"
+	Level14= "0,			7,			0.039,		25.0,		1.4"
+	Level15= "0,			8,			0.041,		20.0,		1.5"
+	
+	# max amount of extra random deviance for a particular column from current fire speed (expressed as pct of current speed)
+	MaxRandFireSpeedColDelta = 0.1
+	
+	# use this to balance out double row speeds, double column speeds are multiplied by this number
+	DoubleColSpeedMult = 1.5
+	
+	# reverse freeze applies a freeze strength to ice anytime it reverses speed. Complements MatchPushStr, except that it doesn't push down but freezes/slows any upwards velocity.
+    FreezeDurationPerNegStrength = 50.0
+    FreezeMax = 100.0
+	
+	# extra push speed given at row start
+	FirstPushImpulse = 0.0
+	FirstPushDecay = 0.0
+
+	# fire speed per row, expressed as percentage (to slow the row advance towards top, etc.)
+	RowFireSpeed = "b+0,1,0,1,~### k~####~'|q  jE#5t  yE###  O:Gi8"
+
+	# fire speed per column, expressed as percentage (but only over the first four rows, the last four are mirrored)
+	ColDistribution = "b+0.4,1,0,1,#5yy  1a33=  Q~Q]:.~###     6~P##"
+	
+	# push down strength per row, expressed as fireSpeed (triggered on stage up)
+	ReprieveStrVsRow = "b+0,0.1,0,6,)7qV %W'eM        |~_Ih";
+
+#1003
+Quest "Diamond Mine"
+	Description = "Mine all rocks and gold above the line before time runs out!"
+	Challenge = "Dig"
+	Goal = "Dig"
+	BackgroundIdx = 18
+		
+	Time = 90
+	TargetCount = 200
+	TimeBonus = 30
+	MegaTimeBonus = 90
+	HyperMixers = true
+	DigCountPerScroll = 2
+	
+	HighScoreBase = 50000
+	HighScoreIncr = 10000
+
+	# Helping hand for first couple depths to give game a jump start
+	PowerGemThresholdDepth0 = "80"
+	PowerGemThresholdDepth20 = "40"
+	PowerGemThresholdDepth40 = "0"
+	
+	TutorialHeader = "Match To Dig"
+	TutorialText = "Matching this piece will blast downward towards the gold!"
+	
+	# Values below multiplied by these, for easier balancing
+	ArtifactBaseValue = "1500"
+	GoldValue = "1000"
+	DiamondValue = "2500"
+	
+	# Treasure ranges are pairs of min/max values (chosen randomly). Gold uses gold value above, diamonds use DiamondValue above. Multiplying this times the appropriate value above gives you the total value.
+	#                G1  G2  G3  D1  D2  D3  D4
+	TreasureRange = "2,2,3,4,5,6,4,4,5,6,7,8,9,10"
+	
+	# Frequency of artifacts (in tile range, every min~max tiles)
+	ArtifactMinTiles = "10"
+	ArtifactMaxTiles = "26"
+	
+	# Frequency of dark rock by depth, when rock encountered is strength is 4 or greater
+	DarkRockFrequency = "b+0.25,0.8,0.01,70,####      '#3{i   z~bbQ"
+	
+	# Skip this number of tiles for new artifact (14 dirt above line - 10 ArtifactMinTiles == 4)
+	ArtifactSkipTileCount = "4"	
+
+	# NOTE: Changing id order could potentially break existing savegames. Make sure you name your item with an id following the last and DON'T reorder existing ones. You can safely change list item order, provided you don't alter the ids.
+	#           id,					minDepth,	value,	locStr
+	# ANCIENT
+	Artifact1 = "BOWL,				0,			5,		Mystic's Bowl"
+	Artifact2 = "SPOON,				0,			5,		Brunchy Spoon"
+	Artifact3 = "FORK,				0,			5,		Handy Fork"
+	Artifact4 = "TONGS,				0,			5,		Massive Tongs"
+	Artifact5 = "FLUTE,				0,			5,		Fairest Flute"
+	Artifact6 = "STIRRUP,			0,			6,		Flanking Stirrup"
+	Artifact7 = "TROWEL,			0,			6,		Master Trowel"
+	Artifact8 = "POT,				0,			6,		Feasting Pot"
+	Artifact9 = "BOOTS,				0,			6,		Thorough Boots"
+	Artifact10= "DISH,				0,			6,		Ornate Dish"
+	Artifact11= "TRIDENT,			0,			7,		Sharp Trident"
+	Artifact12= "HORSESHOE,			0,			7,		Rugged Horseshoe"
+	Artifact13= "CREST,				0,			7,		Village Crest"
+	Artifact14= "ANVIL,				0,			7,		Royal Anvil"
+	Artifact15= "GEAR,				0,			8,		Intricate Gear"
+	Artifact16= "SCROLL,			0,			8,		Sovereign Scroll"
+	Artifact17= "BOOK,				0,			8,		Abandoned Book"
+	
+	
+	# BRONZE
+	Artifact18 = "LAMP,				4,			9,		Shaman's Lamp"
+	Artifact19 = "KEY,				4,			9,		Gifted Key"
+	Artifact20= "BOWARROW,			4,			10,		Lordly Bow"
+	Artifact21 ="HAMMER,			4,			10,		Smith's Hammer"
+	Artifact22 ="MACE,				6,			10,		Studded Mace"
+	Artifact23= "HELMET,			6,			11,		Cryptic Helm"
+	Artifact24= "VASE,				6,			12,		Embellished Vase"
+	Artifact25= "MAGNIFYINGGLASS,	6,			13,		Faithful Glass"
+	
+	# SILVER
+	Artifact26= "MASK,				12,			17,		Capacious Mask"
+	Artifact27= "STAFF,				12,			17,		Arcane Staff"
+	Artifact28= "BELL,				14,			18,		Flawless Bell"
+	Artifact29= "GAUNTLET,			14,			19,		Virtuous Gauntlet"
+	Artifact30= "HORSE,				14,			20,		Iconic Horse"
+	Artifact31= "COMB,				16,			21,		Ancient Comb"
+	Artifact32= "URN,				16,			21,		Hidden Urn"
+	Artifact33= "HORN,				16,			22,		Simple Horn"
+
+	# GOLDEN/(BE)JEWELED
+	Artifact34= "HARP,				18,			25,		Lucid Harp"
+	Artifact35= "AXE,				18,			25,		Fated Axe"
+	Artifact36= "DAGGER,			20,			25,		Sublime Dagger"
+	Artifact37= "SCYTHE,			20,			25,		Noble Scythe"
+	Artifact38= "BRUSH,				20,			30,		Enchanted Brush"
+	Artifact39= "CLOCK,				22,			30,		Timely Clock"
+	Artifact40= "ABICUS,			22,			30,		Tenfold Abacus"
+	Artifact41= "TELESCOPE,			22,			35,		Dubious Lens"
+	Artifact42= "ASTROLABE,			22,			35,		Eminent Astrolabe"
+	Artifact43= "SEXTANT,			24,			40,		Brass Sextant"
+
+	# UBER
+	Artifact44= "BJORN,				30,			50,		Regal Unicorn"
+	Artifact45= "FROG,				36,			60,		Mysterious Frog"
+	Artifact46= "DMGEM,				50,			100,	Legendary Gem"
+	
+	# Number of artifacts in random selection range (artifacts added at each depth will bump off least valuable if total artifacts are beyond this size). Lower values trend towards higher value artifacts in the list. Spread determined by ArtifactSpread below.
+	# x-axis is depth
+	ArtifactPossRange = "b+6,15,0.01,50,~###         ~#D=N"
+	
+	# x axis is depth, y axis is strength (depth starts at 0 and adds 1 per tile down). 
+	# NOTE: depth the based on total rows, not depth meter on board
+	MinBrickStrPerLevel = "b+0.75,2.0,0.01,50,#)G]   VG`&N xa[J.    P~Vyd"
+	MaxBrickStrPerLevel = "b+2.0,6.0,0.01,50,####    E@.N/     [~`L`"
+	EdgeBrickStrPerLevel = "b+0.3,1,0.01,30,~###m{sIL  7dDCc  TVyUw    ITOt9"
+	MinMineStrPerLevel  = "b+1,3,0.01,30,#### `#Q$i        A~`L`"
+	MaxMineStrPerLevel  = "b+2,8,0.01,30,#### V#|;s        J~a1`"
+	MineProbPerLevel    = "b#0,1,0.01,30,9         ~9"
+	
+	# Random spread/distribution of above values for a given level. Values are picked randomly along the x-axis with even distribution, the y-axis shows the min/max percent for that draw.
+	BrickStrSpread		= "b+0,1,0.01,1,'###     $~###    }'N%,"
+	MineStrSpread		= "b+0,1,0.01,1,'###     $~###    }'N%,"
+	ArtifactSpread		= "b+0,1,0.01,1,'###       F~###  Z3>Z?"
+	
+	
+	# 1-4 is strength of block (number of matches to destroy)
+	# 5 is infinite strength block (black rock)
+	# m is money source (strength denotes value, 1-3 is gold, 4-7 is diamond)
+	# h is hypercube
+	# s is shuffle
+	# r is randomized
+	Grids =" 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0
+			 0  0  0  0  0  0  0  0 
+			 0  1  1  2  2  1  1  0
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 1h 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 1h 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 1h 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 1h 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 1h
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 0r 0r 0r 0r 0r
+			 0r 0r 0r 4  0r 0r 0r 0r
+			 ";
+			 # level design ends at depth=210
+
+
+	
+	
+
+# Points per level = PointsGoalStart + AddPointsGoalPerLevel*(Level^PointsGoalAddPower)
+
+# "Dec" counts down after each stage
+
+Quest "Lightning"	
+	TimeStart = 60
+	
+	LevelTimeStep = 8.0
+	TimeStep = 2.0
+	
+	5SecChanceCurve  = "b+0,0.05,1,8,yilV `Jvb2        A/###"
+	10SecChanceCurve = "b+0,0.007,1,8,~q+p         ~/###"	
+		
+	BackgroundIdxSet = "1,2,3,8,10,11,13,14,17,18";
+
+Got a high end video card? Try Ultra mode in Options.
+Gameplay choppy? Try a lower Resolution in Options.
+Match 4 or 5 gems in a row to create Flame Gems and Hypercubes.
+Match 5 gems in an L or T shape to create a Star Gem.
+Match 6 gems in a row to create a Supernova Gem.
+Match Time Gems in Lightning mode to extend your game!
+You can now swap gems while other gems on the board are still moving.
+Make matches quickly in Lightning mode for a Blazing Speed bonus!
+Try Zen mode to relax your body and mind!
+Play Quest mode for a magical puzzle journey!
+Play Lightning mode for a fast blast of fun!
+Play Classic mode for old-school Bejeweling!xfcp      `         ■      $           ╢        x          ■         л     Д                     ЪЪЪЪ              ЪЪЪЪ                    	                                             	      
+                "                                               д               Д         Ж         Э                           +         4  
+       O         Z         p         t         ▐         ■         ╟         ╤         е  с	     й         ·         ╟         ╤         и         п         Е         Н  
+       	                  *         .         I         N         j        лллллллллллл      лллллллллллл   
+   лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл   !   лллллллллллл   #   лллллллллллл                  Board3D P0 glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec3 WorldPosition;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec3 WorldPosition;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform mat4 projection;
+uniform mat4 view;
+uniform mat4 world;
+
+//
+// Function declarations
+//
+
+VS_OUTPUT board_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 );
+
+//
+// Function definitions
+//
+
+VS_OUTPUT board_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 ) {
+    mat4 WorldView;
+    mat4 WorldViewProjection;
+    VS_OUTPUT xlat_var_output;
+
+    WorldView = ( view * world );
+    WorldViewProjection = ( projection * WorldView );
+    xlat_var_output.uv0 = uv0;
+    xlat_var_output.Position = ( WorldViewProjection * vec4( position, 1.00000) );
+    xlat_var_output.WorldPosition = vec3( ( world * vec4( position, 1.00000) ));
+    xlat_var_output.WorldNormal = vec3( normalize( ( world * vec4( normal, 0.000000) ) ));
+    return xlat_var_output;
+}
+
+
+//
+// Attributes
+//
+attribute vec3 position;
+attribute float color;
+attribute vec2 texcoord0;
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_TEXCOORD1;
+varying vec4 xlat_varying_TEXCOORD2;
+
+//
+// Translator's entry point
+//
+void main() {
+    VS_OUTPUT xlat_retVal;
+
+    xlat_retVal = board_vs_main( vec3(position), vec3(gl_Normal), float(color), vec2(texcoord0));
+
+    gl_Position = vec4( xlat_retVal.Position);
+    xlat_varying_TEXCOORD0 = vec4( xlat_retVal.uv0, 0.0, 0.0);
+    xlat_varying_TEXCOORD1 = vec4( xlat_retVal.WorldNormal, 0.0);
+    xlat_varying_TEXCOORD2 = vec4( xlat_retVal.WorldPosition, 0.0);
+}
+
+
+ vs_semantic_COLOR color vs_semantic_NORMAL normal vs_semantic_POSITION position vs_semantic_PROJ_TRANSPOSE projection vs_semantic_TEXCOORD0 uv0 vs_semantic_VIEW_TRANSPOSE view vs_semantic_WORLD_TRANSPOSE world glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Translator library functions
+//
+
+float xlat_lib_saturate( float x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+vec2 xlat_lib_saturate( vec2 x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+vec3 xlat_lib_saturate( vec3 x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+vec4 xlat_lib_saturate( vec4 x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+mat2 xlat_lib_saturate(mat2 m) {
+  return mat2( clamp(m[0], 0.0, 1.0), clamp(m[1], 0.0, 1.0));
+}
+
+mat3 xlat_lib_saturate(mat3 m) {
+  return mat3( clamp(m[0], 0.0, 1.0), clamp(m[1], 0.0, 1.0), clamp(m[2], 0.0, 1.0));
+}
+
+mat4 xlat_lib_saturate(mat4 m) {
+  return mat4( clamp(m[0], 0.0, 1.0), clamp(m[1], 0.0, 1.0), clamp(m[2], 0.0, 1.0), clamp(m[3], 0.0, 1.0));
+}
+
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec3 WorldPosition;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec3 WorldPosition;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform sampler2D Tex0;
+uniform vec4 ambientLightColor;
+uniform vec4 ambientMaterialColor;
+uniform vec4 diffuseLightColor;
+uniform vec4 diffuseMaterialColor;
+uniform vec4 lightPosition;
+
+//
+// Function declarations
+//
+
+vec4 board_ps_main( in PS_INPUT xlat_var_input );
+
+//
+// Function definitions
+//
+
+vec4 board_ps_main( in PS_INPUT xlat_var_input ) {
+    vec4 sampleColor;
+    vec4 ambient;
+    vec3 directionToLight;
+    float diffuseLightIntensity;
+    vec4 diffuse;
+    vec4 color;
+
+    sampleColor = texture2D( Tex0, xlat_var_input.uv0);
+    ambient = (ambientMaterialColor * ambientLightColor);
+    directionToLight = normalize( (vec3( lightPosition) - xlat_var_input.WorldPosition) );
+    diffuseLightIntensity = xlat_lib_saturate( dot( directionToLight, xlat_var_input.WorldNormal) );
+    diffuse = ((diffuseMaterialColor * diffuseLightColor) * diffuseLightIntensity);
+    color = (sampleColor * (diffuse + ambient));
+    color.w  = (sampleColor.w  * ambient.w );
+    return color;
+}
+
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_TEXCOORD1;
+varying vec4 xlat_varying_TEXCOORD2;
+
+//
+// Translator's entry point
+//
+void main() {
+    vec4 xlat_retVal;
+    PS_INPUT xlat_temp_xlat_var_input;
+    xlat_temp_xlat_var_input.uv0 = vec2( xlat_varying_TEXCOORD0);
+    xlat_temp_xlat_var_input.WorldNormal = vec3( xlat_varying_TEXCOORD1);
+    xlat_temp_xlat_var_input.WorldPosition = vec3( xlat_varying_TEXCOORD2);
+
+    xlat_retVal = board_ps_main( xlat_temp_xlat_var_input);
+
+    gl_FragData[0] = vec4( xlat_retVal);
+}
+
+
+ ps_semantic_COLOR color ps_semantic_NORMAL normal ps_semantic_POSITION position ps_semantic_PROJ_TRANSPOSE projection ps_semantic_TEXCOORD0 uv0 ps_semantic_VIEW_TRANSPOSE view ps_semantic_WORLD_TRANSPOSE world xfcp      `         ╟      ?   p        d        x          ╟         D     t                     ЪЪЪЪ              ЪЪЪЪ                     ЪЪЪЪ                   	                                             	      
+         $      &      (      *      ,      .      3      5      7      9      ;      =                                  	                            0         B         H         [         b         w         ─         √                   ╤  #       ╪         Ю         Н         Щ  ∙              ≤         ╙         ╟         ц         й         ъ         Х         Ч                    #       $         H         V         Y         h       m         ─         ▓         ≤         ╚         ╡         г         п         Ф         Й           #                0         >         M  з     R         -          ?          E          X          _          t          }          ⌠          ≈          Ё   #       ╧          щ         лллллллллллл      лллллллллллл   
+   лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл   %   лллллллллллл   '   лллллллллллл   )   лллллллллллл   +   лллллллллллл   -   лллллллллллл   /   лллллллллллл   4   лллллллллллл   6   лллллллллллл   8   лллллллллллл   :   лллллллллллл   <   лллллллллллл   >   лллллллллллл                  !   #   "   0   2   1   Gem3D P0 glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform mat4 world;
+uniform mat4 worldViewProj;
+
+//
+// Function declarations
+//
+
+VS_OUTPUT gem_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 );
+
+//
+// Function definitions
+//
+
+VS_OUTPUT gem_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 ) {
+    VS_OUTPUT xlat_var_output;
+
+    xlat_var_output.uv0 = uv0;
+    xlat_var_output.Position = ( worldViewProj * vec4( position, 1.00000) );
+    xlat_var_output.WorldNormal = vec3( normalize( ( world * vec4( normal, 0.000000) ) ));
+    xlat_var_output.WorldPosition = ( world * vec4( position, 1.00000) );
+    return xlat_var_output;
+}
+
+
+//
+// Attributes
+//
+attribute vec3 position;
+attribute float color;
+attribute vec2 texcoord0;
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_TEXCOORD1;
+varying vec4 xlat_varying_TEXCOORD2;
+
+//
+// Translator's entry point
+//
+void main() {
+    VS_OUTPUT xlat_retVal;
+
+    xlat_retVal = gem_vs_main( vec3(position), vec3(gl_Normal), float(color), vec2(texcoord0));
+
+    gl_Position = vec4( xlat_retVal.Position);
+    xlat_varying_TEXCOORD0 = vec4( xlat_retVal.uv0, 0.0, 0.0);
+    xlat_varying_TEXCOORD1 = vec4( xlat_retVal.WorldNormal, 0.0);
+    xlat_varying_TEXCOORD2 = vec4( xlat_retVal.WorldPosition);
+}
+
+
+ vs_semantic_COLOR color vs_semantic_NORMAL normal vs_semantic_POSITION position vs_semantic_TEXCOORD0 uv0 vs_semantic_WORLD_TRANSPOSE world vs_semantic_WORLDVIEWPROJ_TRANSPOSE worldViewProj glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform vec4 globalFade;
+
+//
+// Function declarations
+//
+
+vec4 gem_ps_main_outline( in PS_INPUT xlat_var_input );
+
+//
+// Function definitions
+//
+
+vec4 gem_ps_main_outline( in PS_INPUT xlat_var_input ) {
+    vec4 color;
+
+    color = vec4( 0.000000, 0.000000, 0.000000, (0.600000 * globalFade.x ));
+    return color;
+}
+
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_TEXCOORD1;
+varying vec4 xlat_varying_TEXCOORD2;
+
+//
+// Translator's entry point
+//
+void main() {
+    vec4 xlat_retVal;
+    PS_INPUT xlat_temp_xlat_var_input;
+    xlat_temp_xlat_var_input.uv0 = vec2( xlat_varying_TEXCOORD0);
+    xlat_temp_xlat_var_input.WorldNormal = vec3( xlat_varying_TEXCOORD1);
+    xlat_temp_xlat_var_input.WorldPosition = vec4( xlat_varying_TEXCOORD2);
+
+    xlat_retVal = gem_ps_main_outline( xlat_temp_xlat_var_input);
+
+    gl_FragData[0] = vec4( xlat_retVal);
+}
+
+
+ ps_semantic_COLOR color ps_semantic_NORMAL normal ps_semantic_POSITION position ps_semantic_TEXCOORD0 uv0 ps_semantic_WORLD_TRANSPOSE world ps_semantic_WORLDVIEWPROJ_TRANSPOSE worldViewProj P1 glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform mat4 world;
+uniform mat4 worldViewProj;
+
+//
+// Function declarations
+//
+
+VS_OUTPUT gem_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 );
+
+//
+// Function definitions
+//
+
+VS_OUTPUT gem_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 ) {
+    VS_OUTPUT xlat_var_output;
+
+    xlat_var_output.uv0 = uv0;
+    xlat_var_output.Position = ( worldViewProj * vec4( position, 1.00000) );
+    xlat_var_output.WorldNormal = vec3( normalize( ( world * vec4( normal, 0.000000) ) ));
+    xlat_var_output.WorldPosition = ( world * vec4( position, 1.00000) );
+    return xlat_var_output;
+}
+
+
+//
+// Attributes
+//
+attribute vec3 position;
+attribute float color;
+attribute vec2 texcoord0;
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_TEXCOORD1;
+varying vec4 xlat_varying_TEXCOORD2;
+
+//
+// Translator's entry point
+//
+void main() {
+    VS_OUTPUT xlat_retVal;
+
+    xlat_retVal = gem_vs_main( vec3(position), vec3(gl_Normal), float(color), vec2(texcoord0));
+
+    gl_Position = vec4( xlat_retVal.Position);
+    xlat_varying_TEXCOORD0 = vec4( xlat_retVal.uv0, 0.0, 0.0);
+    xlat_varying_TEXCOORD1 = vec4( xlat_retVal.WorldNormal, 0.0);
+    xlat_varying_TEXCOORD2 = vec4( xlat_retVal.WorldPosition);
+}
+
+
+ vs_semantic_COLOR color vs_semantic_NORMAL normal vs_semantic_POSITION position vs_semantic_TEXCOORD0 uv0 vs_semantic_WORLD_TRANSPOSE world vs_semantic_WORLDVIEWPROJ_TRANSPOSE worldViewProj glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Translator library functions
+//
+
+float xlat_lib_saturate( float x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+vec2 xlat_lib_saturate( vec2 x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+vec3 xlat_lib_saturate( vec3 x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+vec4 xlat_lib_saturate( vec4 x) {
+  return clamp( x, 0.0, 1.0);
+}
+
+mat2 xlat_lib_saturate(mat2 m) {
+  return mat2( clamp(m[0], 0.0, 1.0), clamp(m[1], 0.0, 1.0));
+}
+
+mat3 xlat_lib_saturate(mat3 m) {
+  return mat3( clamp(m[0], 0.0, 1.0), clamp(m[1], 0.0, 1.0), clamp(m[2], 0.0, 1.0));
+}
+
+mat4 xlat_lib_saturate(mat4 m) {
+  return mat4( clamp(m[0], 0.0, 1.0), clamp(m[1], 0.0, 1.0), clamp(m[2], 0.0, 1.0), clamp(m[3], 0.0, 1.0));
+}
+
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec3 WorldNormal;
+    vec4 WorldPosition;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform sampler2D Tex0;
+uniform vec4 ambientLightColor;
+uniform vec4 ambientMaterialColor;
+uniform vec4 cameraPosition;
+uniform vec4 diffuseLightColor;
+uniform vec4 diffuseMaterialColor;
+uniform vec4 globalFade;
+uniform vec4 lightPosition;
+uniform vec4 lightingCamOffest;
+uniform vec4 specularLightColor;
+uniform vec4 specularMaterialColor;
+uniform vec4 specularPower;
+
+//
+// Function declarations
+//
+
+vec4 gem_ps_main_frontface( in PS_INPUT xlat_var_input );
+
+//
+// Function definitions
+//
+
+vec4 gem_ps_main_frontface( in PS_INPUT xlat_var_input ) {
+    vec4 sampleColor;
+    vec4 ambient;
+    vec3 directionToLight;
+    float diffuseLightIntensity;
+    vec4 diffuse;
+    vec3 reflectionVector;
+    vec3 directionToCamera;
+    vec3 specularIntensity;
+    vec4 specular;
+    vec4 color;
+
+    sampleColor = texture2D( Tex0, xlat_var_input.uv0);
+    sampleColor.w  = 1.00000;
+    ambient = (ambientMaterialColor * ambientLightColor);
+    directionToLight = normalize( (vec3( lightPosition) - vec3( xlat_var_input.WorldPosition)) );
+    diffuseLightIntensity = xlat_lib_saturate( dot( directionToLight, xlat_var_input.WorldNormal) );
+    diffuse = ((diffuseMaterialColor * diffuseLightColor) * diffuseLightIntensity);
+    reflectionVector = normalize( reflect( ( -directionToLight ), xlat_var_input.WorldNormal) );
+    directionToCamera = normalize( (vec3( cameraPosition) - vec3( (xlat_var_input.WorldPosition + lightingCamOffest))) );
+    specularIntensity = vec3( pow( max( dot( reflectionVector, directionToCamera), 0.000000), specularPower.x ));
+    specular = ((specularMaterialColor * specularLightColor) * vec4( specularIntensity, 1.00000));
+    color = (sampleColor + (specular * 1.30000));
+    color.w  = (1.00000 * globalFade.x );
+    return color;
+}
+
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_TEXCOORD1;
+varying vec4 xlat_varying_TEXCOORD2;
+
+//
+// Translator's entry point
+//
+void main() {
+    vec4 xlat_retVal;
+    PS_INPUT xlat_temp_xlat_var_input;
+    xlat_temp_xlat_var_input.uv0 = vec2( xlat_varying_TEXCOORD0);
+    xlat_temp_xlat_var_input.WorldNormal = vec3( xlat_varying_TEXCOORD1);
+    xlat_temp_xlat_var_input.WorldPosition = vec4( xlat_varying_TEXCOORD2);
+
+    xlat_retVal = gem_ps_main_frontface( xlat_temp_xlat_var_input);
+
+    gl_FragData[0] = vec4( xlat_retVal);
+}
+
+
+ ps_semantic_COLOR color ps_semantic_NORMAL normal ps_semantic_POSITION position ps_semantic_TEXCOORD0 uv0 ps_semantic_WORLD_TRANSPOSE world ps_semantic_WORLDVIEWPROJ_TRANSPOSE worldViewProj xfcp      `         ■      $           ╢        x          ■         л     Д                     ЪЪЪЪ              ЪЪЪЪ                    	                                             	      
+                "                                  
+             Ё               р         Д         Й         Щ                           "  
+       =         H         ^         b         }         ┌         ·         ╓         Ё  д     ╦         }         ▐         ∙         ╗         ╞         д         м  
+       Х         С         	                  (         -         I        лллллллллллл      лллллллллллл   
+   лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл   !   лллллллллллл   #   лллллллллллл                  Tube3D P0 glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec4 fog;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec4 fog;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform mat4 projection;
+uniform vec4 time;
+uniform mat4 view;
+uniform mat4 world;
+
+//
+// Function declarations
+//
+
+VS_OUTPUT tube_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 );
+
+//
+// Function definitions
+//
+
+VS_OUTPUT tube_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 ) {
+    mat4 WorldView;
+    mat4 WorldViewProjection;
+    float uAnimSpeed = 0.200000;
+    float vAnimSpeed = 9.75000;
+    float uOffset = 0.000000;
+    float vOffset = 2.50000;
+    float uScale = 1.00000;
+    float vScale = 0.0400000;
+    VS_OUTPUT xlat_var_output;
+    float fogStart = 20000.0;
+    float fogEnd = 30000.0;
+    float uFog;
+
+    WorldView = ( view * world );
+    WorldViewProjection = ( projection * WorldView );
+    xlat_var_output.uv0.x  = ((uv0.x  + (uOffset + (time.x  * uAnimSpeed))) * uScale);
+    xlat_var_output.uv0.y  = ((uv0.y  + (vOffset + (time.x  * vAnimSpeed))) * vScale);
+    xlat_var_output.Position = ( WorldViewProjection * vec4( position, 1.00000) );
+    uFog = clamp( ((( WorldView * vec4( position, 1.00000) ).z  - fogStart) / (fogEnd - fogStart)), 0.000000, 1.00000);
+    xlat_var_output.fog = vec4( 1.00000, 1.00000, 1.00000, uFog);
+    return xlat_var_output;
+}
+
+
+//
+// Attributes
+//
+attribute vec3 position;
+attribute float color;
+attribute vec2 texcoord0;
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_COLOR;
+
+//
+// Translator's entry point
+//
+void main() {
+    VS_OUTPUT xlat_retVal;
+
+    xlat_retVal = tube_vs_main( vec3(position), vec3(gl_Normal), float(color), vec2(texcoord0));
+
+    gl_Position = vec4( xlat_retVal.Position);
+    xlat_varying_TEXCOORD0 = vec4( xlat_retVal.uv0, 0.0, 0.0);
+    xlat_varying_COLOR = vec4( xlat_retVal.fog);
+}
+
+
+ vs_semantic_COLOR color vs_semantic_NORMAL normal vs_semantic_POSITION position vs_semantic_PROJ_TRANSPOSE projection vs_semantic_TEXCOORD0 uv0 vs_semantic_VIEW_TRANSPOSE view vs_semantic_WORLD_TRANSPOSE world glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+    vec4 fog;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+    vec4 fog;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform sampler2D Tex0;
+uniform sampler2D Tex1;
+uniform vec4 alphaVals;
+
+//
+// Function declarations
+//
+
+vec4 tube_ps_main( in PS_INPUT xlat_var_input );
+
+//
+// Function definitions
+//
+
+vec4 tube_ps_main( in PS_INPUT xlat_var_input ) {
+    vec4 sample0Color;
+    vec4 sample1Color;
+    vec4 color;
+    vec4 fogColor;
+
+    sample0Color = texture2D( Tex0, xlat_var_input.uv0);
+    sample1Color = texture2D( Tex1, xlat_var_input.uv0);
+    color = (clamp( ((sample0Color * alphaVals.y ) + (sample1Color * alphaVals.z )), vec4( 0.000000), vec4( 1.00000)) * alphaVals.w );
+    color.w  = min( min( color.x , color.y ), color.z );
+    color.w  = max( alphaVals.x , color.w );
+    fogColor = vec4( 0.000000, 0.000000, 0.000000, alphaVals.x );
+    color = mix( color, fogColor, vec4( xlat_var_input.fog.w ));
+    return color;
+}
+
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+varying vec4 xlat_varying_COLOR;
+
+//
+// Translator's entry point
+//
+void main() {
+    vec4 xlat_retVal;
+    PS_INPUT xlat_temp_xlat_var_input;
+    xlat_temp_xlat_var_input.uv0 = vec2( xlat_varying_TEXCOORD0);
+    xlat_temp_xlat_var_input.fog = vec4( xlat_varying_COLOR);
+
+    xlat_retVal = tube_ps_main( xlat_temp_xlat_var_input);
+
+    gl_FragData[0] = vec4( xlat_retVal);
+}
+
+
+ ps_semantic_COLOR color ps_semantic_NORMAL normal ps_semantic_POSITION position ps_semantic_PROJ_TRANSPOSE projection ps_semantic_TEXCOORD0 uv0 ps_semantic_VIEW_TRANSPOSE view ps_semantic_WORLD_TRANSPOSE world xfcp      `         ■      $           ╢        x          ■         л     Д                     ЪЪЪЪ              ЪЪЪЪ                    	                                             	      
+                "      	                  
+                            !          ?         Q         W         j         q         ├         ▐  
+       ╙         ╣         к         о         Й         О                              f     %         ▄	         ·	         ╓	         ╥	         ╬	         с	         э	  
+       В	         
+         
+         
+         7
+         <
+         X
+        лллллллллллл      лллллллллллл   
+   лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл      лллллллллллл   !   лллллллллллл   #   лллллллллллл                  TubeCap3D P0 glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform mat4 projection;
+uniform mat4 view;
+uniform mat4 world;
+
+//
+// Function declarations
+//
+
+VS_OUTPUT tubecap_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 );
+
+//
+// Function definitions
+//
+
+VS_OUTPUT tubecap_vs_main( in vec3 position, in vec3 normal, in float color, in vec2 uv0 ) {
+    mat4 WorldView;
+    mat4 WorldViewProjection;
+    VS_OUTPUT xlat_var_output;
+
+    WorldView = ( view * world );
+    WorldViewProjection = ( projection * WorldView );
+    xlat_var_output.uv0.x  = uv0.x ;
+    xlat_var_output.uv0.y  = uv0.y ;
+    xlat_var_output.Position = ( WorldViewProjection * vec4( position, 1.00000) );
+    return xlat_var_output;
+}
+
+
+//
+// Attributes
+//
+attribute vec3 position;
+attribute float color;
+attribute vec2 texcoord0;
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+
+//
+// Translator's entry point
+//
+void main() {
+    VS_OUTPUT xlat_retVal;
+
+    xlat_retVal = tubecap_vs_main( vec3(position), vec3(gl_Normal), float(color), vec2(texcoord0));
+
+    gl_Position = vec4( xlat_retVal.Position);
+    xlat_varying_TEXCOORD0 = vec4( xlat_retVal.uv0, 0.0, 0.0);
+}
+
+
+ vs_semantic_COLOR color vs_semantic_NORMAL normal vs_semantic_POSITION position vs_semantic_PROJ_TRANSPOSE projection vs_semantic_TEXCOORD0 uv0 vs_semantic_VIEW_TRANSPOSE view vs_semantic_WORLD_TRANSPOSE world glsl_from_hlsl main 
+precision mediump float;
+
+//
+// Structure definitions
+//
+
+struct VS_OUTPUT {
+    vec4 Position;
+    vec2 uv0;
+};
+
+struct PS_INPUT {
+    vec2 uv0;
+};
+
+
+//
+// Global variable definitions
+//
+
+uniform sampler2D Tex0;
+
+//
+// Function declarations
+//
+
+vec4 tubecap_ps_main( in PS_INPUT xlat_var_input );
+
+//
+// Function definitions
+//
+
+vec4 tubecap_ps_main( in PS_INPUT xlat_var_input ) {
+    vec4 sampleColor;
+    vec4 color;
+
+    sampleColor = texture2D( Tex0, xlat_var_input.uv0);
+    color = sampleColor;
+    return color;
+}
+
+
+//
+// User varying
+//
+varying vec4 xlat_varying_TEXCOORD0;
+
+//
+// Translator's entry point
+//
+void main() {
+    vec4 xlat_retVal;
+    PS_INPUT xlat_temp_xlat_var_input;
+    xlat_temp_xlat_var_input.uv0 = vec2( xlat_varying_TEXCOORD0);
+
+    xlat_retVal = tubecap_ps_main( xlat_temp_xlat_var_input);
+
+    gl_FragData[0] = vec4( xlat_retVal);
+}
+
+
+ ps_semantic_COLOR color ps_semantic_NORMAL normal ps_semantic_POSITION position ps_semantic_PROJ_TRANSPOSE projection ps_semantic_TEXCOORD0 uv0 ps_semantic_VIEW_TRANSPOSE view ps_semantic_WORLD_TRANSPOSE world 

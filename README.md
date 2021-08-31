@@ -53,3 +53,11 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
+
+## Pending games
+- [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS
+- [ ] Chrome's Dinosaur Game: making the game runs without relying on Chrome's stuff
+
+## Issues, discussions and pull requests (PRs)
+Feel free to open an issue if you find some problems with the game, or make a PR if you know how to fix it.  
+If you simply want to ask for help, use the Discussions tab.

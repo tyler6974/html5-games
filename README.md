@@ -28,6 +28,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 ## Bejeweled (HTML5 edition)
 - Removed the "Install Chrome extension" popup since the game was discontinued.
+- Updated jQuery to the latest version.
 
 ## Microsoft Sudoku (HTML5 edition)
 - Obtained necessary puzzle data and tweaked the code to enable the game to run offline.

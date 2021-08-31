@@ -47,7 +47,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 ### Microsoft Minesweeper (HTML5 edition)
 - Removed tracking links.
 
-### Chrome's Dinosaur Game
+### Chrome Dino
 - Added day/night cycle (and dark mode) support.
 
 ## Credits
@@ -56,7 +56,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
-- **Chrome's Dinosaur Game**: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
+- **Chrome Dino**: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
 
 ## Pending games
 - [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS

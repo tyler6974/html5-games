@@ -8,11 +8,15 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 ## Changes made to the original code
 
+### Chrome Dino
+- Added day & night cycle (and dark mode) support.
+
 ### Cut the Rope
 - Fix the bug that makes the game softlock if you finish the last level in a box but not collecting enough star to unlock the next box.
 - Added 275 levels from the Microsoft Store version (which is delisted) and 25 levels from Cut the Rope's Round 5 website. To accomodate this, added new assets from the MS Store version.
 - Added a 1080p version (requires a fast Internet connection if you play online).
 - Upgraded sound quality (requires a fast Internet connection if you play online).
+- 2 random in-game music.
 
 ### Contre Jour
 - Removed ads, trackers and Internet Explorer flyout.
@@ -46,9 +50,6 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 ### Microsoft Minesweeper (HTML5 edition)
 - Removed tracking links.
-
-### Chrome Dino
-- Added day/night cycle (and dark mode) support.
 
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)

@@ -56,7 +56,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 ## Pending games
 - [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS
-- [ ] Chrome's Dinosaur Game: make the game runs without relying on Chrome's stuff
+- [ ] Chrome's Dinosaur Game: make the latest version of the game runs without relying on Chrome's stuff
 
 ## Issues, discussions and pull requests (PRs)
 Feel free to open an issue if you find some problems with the game, or make a PR if you know how to fix it.  

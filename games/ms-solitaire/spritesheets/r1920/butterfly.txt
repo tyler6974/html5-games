@@ -1,0 +1,27 @@
+
+butterfly.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card1
+  rotate: true
+  xy: 2, 2
+  size: 191, 255
+  orig: 191, 255
+  offset: 0, 0
+  index: -1
+card2
+  rotate: true
+  xy: 259, 2
+  size: 191, 255
+  orig: 191, 255
+  offset: 0, 0
+  index: -1
+cardback
+  rotate: true
+  xy: 516, 2
+  size: 191, 255
+  orig: 191, 255
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,238 @@
+﻿<Puzzles>
+  <Groups packId="CountriesPack">
+    <Group id="Countries" title="Countries" sentientId="287" revision="3" packImage="1672R-39395_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Des pays" />
+        <Language key="it-IT" value="Paesi" />
+        <Language key="de-DE" value="Länder" />
+        <Language key="es-ES" value="Países" />
+        <Language key="pt-BR" value="Países" />
+      </GroupLocalization>
+      <Puzzle id="1672R-39395" title="Pudong, China" image="1672R-39395.jpg" smallImage="1672R-39395_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pudong, en Chine" />
+          <Language key="it-IT" value="Pudong, Cina" />
+          <Language key="de-DE" value="Pudong, China" />
+          <Language key="es-ES" value="Pudong, China" />
+          <Language key="pt-BR" value="Pudong, China" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1397R-79700" title="Paris, France" image="1397R-79700.jpg" smallImage="1397R-79700_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paris, France" />
+          <Language key="it-IT" value="Parigi, Francia" />
+          <Language key="de-DE" value="Paris, Frankreich" />
+          <Language key="es-ES" value="París, Francia" />
+          <Language key="pt-BR" value="Paris, França" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-203364" title="Tuscany, Italy" image="1647R-203364.jpg" smallImage="1647R-203364_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Toscane, Italie" />
+          <Language key="it-IT" value="Toscana, Italia" />
+          <Language key="de-DE" value="Toskana, Italien" />
+          <Language key="es-ES" value="Toscana, Italia" />
+          <Language key="pt-BR" value="Toscana, Itália" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-1181622" title="Wiltshire, England" image="1527R-1181622.jpg" smallImage="1527R-1181622_preview.jpg" unlockingPuzzleIds="1672R-39395,1397R-79700,1647R-203364">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wiltshire, en Angleterre" />
+          <Language key="it-IT" value="Wiltshire, Inghilterra" />
+          <Language key="de-DE" value="Wiltshire, England" />
+          <Language key="es-ES" value="Wiltshire, Inglaterra" />
+          <Language key="pt-BR" value="Wiltshire, Inglaterra" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11285" title="Rome, Italy" image="1672R-11285.jpg" smallImage="1672R-11285_preview.jpg" unlockingPuzzleIds="1527R-1181622">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rome, Italie" />
+          <Language key="it-IT" value="Roma, Italia" />
+          <Language key="de-DE" value="Rom, Italien" />
+          <Language key="es-ES" value="Roma, Italia" />
+          <Language key="pt-BR" value="Roma, Itália" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-24673" title="Moscow, Russia" image="1672R-24673.jpg" smallImage="1672R-24673_preview.jpg" unlockingPuzzleIds="1672R-11285">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Moscou, Russie" />
+          <Language key="it-IT" value="Mosca, Russia" />
+          <Language key="de-DE" value="Moskau, Russland" />
+          <Language key="es-ES" value="Moscú, Rusia" />
+          <Language key="pt-BR" value="Moscou, Rússia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-45637" title="Tulum, Mexico" image="1795R-45637.jpg" smallImage="1795R-45637_preview.jpg" unlockingPuzzleIds="1672R-24673">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulum, Mexique" />
+          <Language key="it-IT" value="Tulum, Messico" />
+          <Language key="de-DE" value="Tulum, Mexiko" />
+          <Language key="es-ES" value="Tulum, México" />
+          <Language key="pt-BR" value="Tulum, México" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-50207" title="South Island, New Zealand" image="1824R-50207.jpg" smallImage="1824R-50207_preview.jpg" unlockingPuzzleIds="1795R-45637">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Île du Sud, Nouvelle-Zélande" />
+          <Language key="it-IT" value="Isola del Sud, Nuova Zelanda" />
+          <Language key="de-DE" value="Südinsel, Neuseeland" />
+          <Language key="es-ES" value="Isla Sur, Nueva Zelanda" />
+          <Language key="pt-BR" value="Ilha Sul, Nova Zelândia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1839R-17906" title="Mutianyu Great Wall, China" image="1839R-17906.jpg" smallImage="1839R-17906_preview.jpg" unlockingPuzzleIds="1824R-50207">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mutianyu Grande Muraille, Chine" />
+          <Language key="it-IT" value="Mutianyu, Grande muraglia, Cina" />
+          <Language key="de-DE" value="Mutianyu – Chinesische Mauer, China" />
+          <Language key="es-ES" value="Gran Muralla de Mutianyu, China" />
+          <Language key="pt-BR" value="Grande Muralha em Mutianyu, China" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4231R-9866" title="Tokyo, Japan" image="4231R-9866.jpg" smallImage="4231R-9866_preview.jpg" unlockingPuzzleIds="1839R-17906">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tokyo, Japon" />
+          <Language key="it-IT" value="Tokyo, Giappone" />
+          <Language key="de-DE" value="Tokio, Japan" />
+          <Language key="es-ES" value="Tokio, Japón" />
+          <Language key="pt-BR" value="Tóquio, Japão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-1927" title="Troms, Norway" image="4239R-1927.jpg" smallImage="4239R-1927_preview.jpg" unlockingPuzzleIds="4231R-9866">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Troms, Norvège" />
+          <Language key="it-IT" value="Tromso, Norvegia" />
+          <Language key="de-DE" value="Troms, Norwegen" />
+          <Language key="es-ES" value="Troms, Noruega" />
+          <Language key="pt-BR" value="Troms, Noruega" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1142482" title="Easter Island, Polynesia" image="1439R-1142482.jpg" smallImage="1439R-1142482_preview.jpg" unlockingPuzzleIds="4239R-1927">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Île de Pâques, Polynésie" />
+          <Language key="it-IT" value="Isola di Pasqua, Polinesia" />
+          <Language key="de-DE" value="Osterinsel, Polynesien" />
+          <Language key="es-ES" value="Isla de Pascua, Polinesia" />
+          <Language key="pt-BR" value="Ilha de Páscoa, Polinésia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-177010" title="London, England" image="1589R-177010.jpg" smallImage="1589R-177010_preview.jpg" unlockingPuzzleIds="1439R-1142482">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Londres, Angleterre" />
+          <Language key="it-IT" value="Londra, Inghilterra" />
+          <Language key="de-DE" value="London, England" />
+          <Language key="es-ES" value="Londres, Inglaterra" />
+          <Language key="pt-BR" value="Londres, Inglaterra" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1775R-28312" title="Cumbria, England" image="1775R-28312.jpg" smallImage="1775R-28312_preview.jpg" unlockingPuzzleIds="1589R-177010">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cumbria, Angleterre" />
+          <Language key="it-IT" value="Cumbria, Inghilterra" />
+          <Language key="de-DE" value="Cumbria, England" />
+          <Language key="es-ES" value="Cumbria, Inglaterra" />
+          <Language key="pt-BR" value="Cúmbria, Inglaterra" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4231R-10015" title="Tokyo, Japan" image="4231R-10015.jpg" smallImage="4231R-10015_preview.jpg" unlockingPuzzleIds="1775R-28312">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tokyo, Japon" />
+          <Language key="it-IT" value="Tokyo, Giappone" />
+          <Language key="de-DE" value="Tokio, Japan" />
+          <Language key="es-ES" value="Tokio, Japón" />
+          <Language key="pt-BR" value="Tóquio, Japão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

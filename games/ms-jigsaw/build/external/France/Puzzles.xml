@@ -1,0 +1,253 @@
+<Puzzles>
+  <Groups packId="FrancePack">
+    <Group id="France" title="France" sentientId="222" revision="7" packImage="1598R-267185_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="France" />
+        <Language key="it-IT" value="Francia" />
+        <Language key="de-DE" value="Frankreich" />
+        <Language key="es-ES" value="Francia" />
+        <Language key="pt-BR" value="França" />
+      </GroupLocalization>
+      <Puzzle id="1598R-267185" title="Pont de Pierre Bridge" image="1598R-267185.jpg" smallImage="1598R-267185_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pont de Pierre, Bordeaux" />
+          <Language key="it-IT" value="Pont de Pierre" />
+          <Language key="de-DE" value="Pont de pierre, Bordeaux" />
+          <Language key="es-ES" value="Pont de Pierre" />
+          <Language key="pt-BR" value="Ponte de Pedra de Bordeaux" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-362953" title="Roussillon" image="1436R-362953.jpg" smallImage="1436R-362953_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Roussillon" />
+          <Language key="it-IT" value="Roussillon" />
+          <Language key="de-DE" value="Roussillon" />
+          <Language key="es-ES" value="Roussillon" />
+          <Language key="pt-BR" value="Roussillon" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-312554" title="Marseille Cathedral" image="1436R-312554.jpg" smallImage="1436R-312554_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cathédrale de Marseille" />
+          <Language key="it-IT" value="Cattedrale di Marsiglia" />
+          <Language key="de-DE" value="Kathedrale von Marseille" />
+          <Language key="es-ES" value="Catedral de Marsella" />
+          <Language key="pt-BR" value="Catedral de Marselha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-362832" title="Chateau d´Usse" image="1436R-362832.jpg" smallImage="1436R-362832_preview.jpg" unlockingPuzzleIds="1598R-267185,1436R-362953,1436R-312554">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Château d'Ussé" />
+          <Language key="it-IT" value="Castello di Ussé" />
+          <Language key="de-DE" value="Schloss Ussé" />
+          <Language key="es-ES" value="Castillo de Ussé" />
+          <Language key="pt-BR" value="Castelo de Ussé" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-362815" title="Vaucluse, Provence-Alpes-Côte d´Azur" image="1436R-362815.jpg" smallImage="1436R-362815_preview.jpg" unlockingPuzzleIds="1436R-362832">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vaucluse, Provence-Alpes-Côte d'Azur" />
+          <Language key="it-IT" value="Vaucluse, Provenza-Alpi-Costa Azzurra" />
+          <Language key="de-DE" value="Vaucluse, Provence-Alpes-Côte d'Azur" />
+          <Language key="es-ES" value="Vaucluse, Provenza-Alpes-Costa Azul" />
+          <Language key="pt-BR" value="Vaucluse, Provence-Alpes-Côte d'Azur" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-86297" title="Strasbourg" image="1815R-86297.jpg" smallImage="1815R-86297_preview.jpg" unlockingPuzzleIds="1436R-362815">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Strasbourg" />
+          <Language key="it-IT" value="Strasburgo" />
+          <Language key="de-DE" value="Straßburg" />
+          <Language key="es-ES" value="Estrasburgo" />
+          <Language key="pt-BR" value="Estrasburgo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-81019" title="Pont Alexandre III" image="1647R-81019.jpg" smallImage="1647R-81019_preview.jpg" unlockingPuzzleIds="1815R-86297">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pont Alexandre III" />
+          <Language key="it-IT" value="Ponte Alessandro III" />
+          <Language key="de-DE" value="Pont Alexandre III" />
+          <Language key="es-ES" value="Puente Alexandre III" />
+          <Language key="pt-BR" value="Ponte Alexandre III" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-267143" title="Loire Valley" image="1598R-267143.jpg" smallImage="1598R-267143_preview.jpg" unlockingPuzzleIds="1647R-81019">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vallée de la Loire" />
+          <Language key="it-IT" value="Valle della Loira" />
+          <Language key="de-DE" value="Loiretal" />
+          <Language key="es-ES" value="Valle del Loira" />
+          <Language key="pt-BR" value="Vale do Loire" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-747949" title="Saint Jean de Luz" image="1848R-747949.jpg" smallImage="1848R-747949_preview.jpg" unlockingPuzzleIds="1598R-267143">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Saint-Jean-de-Luz" />
+          <Language key="it-IT" value="Saint-Jean-de-Luz" />
+          <Language key="de-DE" value="Saint-Jean-de-Luz" />
+          <Language key="es-ES" value="San Juan de Luz" />
+          <Language key="pt-BR" value="Saint-Jean-de-Luz" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-86281" title="Colmar, Alsace" image="1815R-86281.jpg" smallImage="1815R-86281_preview.jpg" unlockingPuzzleIds="1848R-747949">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Colmar, Alsace" />
+          <Language key="it-IT" value="Colmar, Alsazia" />
+          <Language key="de-DE" value="Colmar, Elsass" />
+          <Language key="es-ES" value="Colmar, Alsacia" />
+          <Language key="pt-BR" value="Colmar, Alsácia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-83263" title="Villfranche-sur-Mer" image="1672R-83263.jpg" smallImage="1672R-83263_preview.jpg" unlockingPuzzleIds="1815R-86281">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Villferanche-sur-Mer" />
+          <Language key="it-IT" value="Villfranche-sur-Mer" />
+          <Language key="de-DE" value="Villfranche-sur-Mer" />
+          <Language key="es-ES" value="Villfranche-sur-Mer" />
+          <Language key="pt-BR" value="Villefranche-sur-Mer" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-89980" title="Riquewihr, Alsace" image="1815R-89980.jpg" smallImage="1815R-89980_preview.jpg" unlockingPuzzleIds="1672R-83263">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Riquewihr, Alsace" />
+          <Language key="it-IT" value="Riquewihr, Alsazia" />
+          <Language key="de-DE" value="Riquewihr, Elsass" />
+          <Language key="es-ES" value="Riquewihr, Alsacia" />
+          <Language key="pt-BR" value="Riquewihr, Alsácia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1532R-69992" title="Colourful Macaroons on a Plate" image="1532R-69992.jpg" smallImage="1532R-69992_preview.jpg" unlockingPuzzleIds="1815R-89980">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Assiette de macarons" />
+          <Language key="it-IT" value="Macaron colorati su un piatto" />
+          <Language key="de-DE" value="Bunte Makronenkekse auf einem Teller" />
+          <Language key="es-ES" value="Bandeja de macarones de colores" />
+          <Language key="pt-BR" value="Macaroons coloridos em um prato" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-432467" title="Lavaux and Lake Leman" image="1436R-432467.jpg" smallImage="1436R-432467_preview.jpg" unlockingPuzzleIds="1532R-69992">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lavaux et le lac Léman" />
+          <Language key="it-IT" value="Lavaux e Lago Lemano" />
+          <Language key="de-DE" value="Lavaux und Genfersee" />
+          <Language key="es-ES" value="Lavaux y el lago Leman" />
+          <Language key="pt-BR" value="Lavaux e Lago Léman" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4286R-2496" title="Vannes, Brittany" image="4286R-2496.jpg" smallImage="4286R-2496_preview.jpg" unlockingPuzzleIds="1436R-432467">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vannes, Bretagne" />
+          <Language key="it-IT" value="Vannes, Bretagna" />
+          <Language key="de-DE" value="Vannes, Bretagne" />
+          <Language key="es-ES" value="Vannes, Bretaña" />
+          <Language key="pt-BR" value="Vannes, Bretanha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4286R-3392" title="St. Tropez, French Riviera" image="4286R-3392.jpg" smallImage="4286R-3392_preview.jpg" unlockingPuzzleIds="4286R-2496">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Saint-Tropez, Côte d'Azur" />
+          <Language key="it-IT" value="Saint Tropez, Riviera francese" />
+          <Language key="de-DE" value="St.Tropez, Côte d'Azur" />
+          <Language key="es-ES" value="Saint-Tropez, Riviera francesa" />
+          <Language key="pt-BR" value="Saint-Tropez, Riviera Francesa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

@@ -1,0 +1,254 @@
+<Puzzles>
+  <Groups packId="FlowersPack">
+    <Group id="Flowers" title="Flowers" sentientId="220" revision="1" packImage="1701R-45816_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Fleurs" />
+        <Language key="it-IT" value="Fiori" />
+        <Language key="de-DE" value="Blumen" />
+        <Language key="es-ES" value="Flores" />
+        <Language key="pt-BR" value="Flores" />
+        <Language key="ja-JP" value="花" />
+      </GroupLocalization>
+      <Puzzle id="1701R-45816" title="Sunflower" image="1701R-45816.jpg" smallImage="1701R-45816_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tournesol" />
+          <Language key="it-IT" value="Girasole" />
+          <Language key="de-DE" value="Sonnenblume" />
+          <Language key="es-ES" value="Girasol" />
+          <Language key="pt-BR" value="Girassol" />
+          <Language key="ja-JP" value="ひまわり" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-49283" title="Primula" image="4279R-49283.jpg" smallImage="4279R-49283_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Primevère" />
+          <Language key="it-IT" value="Primula" />
+          <Language key="de-DE" value="Primel" />
+          <Language key="es-ES" value="Prímula" />
+          <Language key="pt-BR" value="Prímula" />
+          <Language key="ja-JP" value="プリムラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-49486" title="Phalaenopsis" image="4279R-49486.jpg" smallImage="4279R-49486_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orchidée papillon" />
+          <Language key="it-IT" value="Phalaenopsis" />
+          <Language key="de-DE" value="Phalaenopsis" />
+          <Language key="es-ES" value="Orquídea mariposa" />
+          <Language key="pt-BR" value="Orquídea" />
+          <Language key="ja-JP" value="コチョウラン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-122164" title="Hydrangea" image="1802R-122164.jpg" smallImage="1802R-122164_preview.jpg" unlockingPuzzleIds="1701R-45816,4279R-49283,4279R-49486">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hortensia" />
+          <Language key="it-IT" value="Hydrangea" />
+          <Language key="de-DE" value="Hortensie" />
+          <Language key="es-ES" value="Hortensia" />
+          <Language key="pt-BR" value="Hortênsia" />
+          <Language key="ja-JP" value="アジサイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-104697" title="Pink Bouquet" image="1802R-104697.jpg" smallImage="1802R-104697_preview.jpg" unlockingPuzzleIds="1802R-122164">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bouquet rose" />
+          <Language key="it-IT" value="Mazzo rosa" />
+          <Language key="de-DE" value="Rosa Strauß" />
+          <Language key="es-ES" value="Ramillete rosa" />
+          <Language key="pt-BR" value="Buquê rosa" />
+          <Language key="ja-JP" value="ピンクの花束" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-54749" title="Rose" image="1802R-54749.jpg" smallImage="1802R-54749_preview.jpg" unlockingPuzzleIds="1802R-104697">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rose" />
+          <Language key="it-IT" value="Rosa" />
+          <Language key="de-DE" value="Rose" />
+          <Language key="es-ES" value="Rosa" />
+          <Language key="pt-BR" value="Rosa" />
+          <Language key="ja-JP" value="バラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-139507" title="Azalea" image="4029R-139507.jpg" smallImage="4029R-139507_preview.jpg" unlockingPuzzleIds="1802R-54749">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Azalée" />
+          <Language key="it-IT" value="Azalea" />
+          <Language key="de-DE" value="Azalee" />
+          <Language key="es-ES" value="Azalea" />
+          <Language key="pt-BR" value="Azaléa" />
+          <Language key="ja-JP" value="アザレア" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-306416" title="Primula Hybrid" image="1848R-306416.jpg" smallImage="1848R-306416_preview.jpg" unlockingPuzzleIds="4029R-139507">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Primevère hybride" />
+          <Language key="it-IT" value="Primula (ibrido)" />
+          <Language key="de-DE" value="Primel-Hybrid" />
+          <Language key="es-ES" value="Prímula híbrida" />
+          <Language key="pt-BR" value="Prímula Híbrida" />
+          <Language key="ja-JP" value="プリムラの交配種" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-108748" title="Yellow Bouquet" image="1802R-108748.jpg" smallImage="1802R-108748_preview.jpg" unlockingPuzzleIds="1848R-306416">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bouquet jaune" />
+          <Language key="it-IT" value="Mazzo giallo" />
+          <Language key="de-DE" value="Gelber Strauß" />
+          <Language key="es-ES" value="Ramillete amarillo" />
+          <Language key="pt-BR" value="Buquê Amarelo" />
+          <Language key="ja-JP" value="黄色の花束" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-379396" title="Red Rose" image="1848R-379396.jpg" smallImage="1848R-379396_preview.jpg" unlockingPuzzleIds="1802R-108748">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rose rouge" />
+          <Language key="it-IT" value="Rosa rossa" />
+          <Language key="de-DE" value="Rote Rose" />
+          <Language key="es-ES" value="Rosa roja" />
+          <Language key="pt-BR" value="Rosa Vermelha" />
+          <Language key="ja-JP" value="赤いバラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-41656" title="Tulips" image="1672R-41656.jpg" smallImage="1672R-41656_preview.jpg" unlockingPuzzleIds="1848R-379396">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulipes" />
+          <Language key="it-IT" value="Tulipani" />
+          <Language key="de-DE" value="Tulpen" />
+          <Language key="es-ES" value="Tulipanes" />
+          <Language key="pt-BR" value="Tulipas" />
+          <Language key="ja-JP" value="チューリップ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-108766" title="White Roses" image="1802R-108766.jpg" smallImage="1802R-108766_preview.jpg" unlockingPuzzleIds="1672R-41656">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Roses blanches" />
+          <Language key="it-IT" value="Rose bianche" />
+          <Language key="de-DE" value="Weiße Rosen" />
+          <Language key="es-ES" value="Rosas blancas" />
+          <Language key="pt-BR" value="Rosas Brancas" />
+          <Language key="ja-JP" value="白パラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-274200" title="Chrysanthemum Hybrid" image="1436R-274200.jpg" smallImage="1436R-274200_preview.jpg" unlockingPuzzleIds="1802R-108766">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chrysanthème hybride" />
+          <Language key="it-IT" value="Crisantemo (ibrido)" />
+          <Language key="de-DE" value="Chrysanthemum-Hybrid" />
+          <Language key="es-ES" value="Crisantemo híbrido" />
+          <Language key="pt-BR" value="Crisântemo Híbrido" />
+          <Language key="ja-JP" value="キクの交配種" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-321301" title="Crocuses" image="1848R-321301.jpg" smallImage="1848R-321301_preview.jpg" unlockingPuzzleIds="1436R-274200">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Crocus" />
+          <Language key="it-IT" value="Crocus" />
+          <Language key="de-DE" value="Krokusse" />
+          <Language key="es-ES" value="Azafrán" />
+          <Language key="pt-BR" value="Açafrão" />
+          <Language key="ja-JP" value="クロッカス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1669R-2894" title="Red Tulips" image="1669R-2894.jpg" smallImage="1669R-2894_preview.jpg" unlockingPuzzleIds="1848R-321301">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulipes rouges" />
+          <Language key="it-IT" value="Tulipani rossi" />
+          <Language key="de-DE" value="Rote Tulpen" />
+          <Language key="es-ES" value="Tulipanes rojos" />
+          <Language key="pt-BR" value="Tulipas Vermelhas" />
+          <Language key="ja-JP" value="赤いチューリップ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

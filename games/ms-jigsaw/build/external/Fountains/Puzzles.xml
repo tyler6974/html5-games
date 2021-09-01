@@ -1,0 +1,94 @@
+<Puzzles>
+  <Groups packId="FountainsPack">
+    <Group id="Fountains" title="Fountains" sentientId="342" revision="1" packImage="1598R-13570116_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Fontaines" />
+        <Language key="it-IT" value="Fontane" />
+        <Language key="de-DE" value="Springbrunnen" />
+        <Language key="es-ES" value="Fuentes" />
+        <Language key="pt-BR" value="Fontes" />
+        <Language key="ja-JP" value="噴水" />
+      </GroupLocalization>
+      <Puzzle id="1598R-13570116" title="Buckingham Fountain" image="1598R-13570116.jpg" smallImage="1598R-13570116_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fontaine Buckingham" />
+          <Language key="it-IT" value="Fontana di Buckingham" />
+          <Language key="de-DE" value="Brunnen vor dem Buckingham Palace" />
+          <Language key="es-ES" value="Fuente de Buckingham" />
+          <Language key="pt-BR" value="Fonte de Buckingham" />
+          <Language key="ja-JP" value="バッキンガム噴水" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13375079" title="Sunset Boulevard" image="1589R-13375079.jpg" smallImage="1589R-13375079_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sunset Boulevard" />
+          <Language key="it-IT" value="Sunset Boulevard" />
+          <Language key="de-DE" value="Sunset Boulevard" />
+          <Language key="es-ES" value="Sunset Boulevard" />
+          <Language key="pt-BR" value="Sunset Boulevard" />
+          <Language key="ja-JP" value="サンセット大通り" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12164243" title="Trocadero Gardens" image="1672R-12164243.jpg" smallImage="1672R-12164243_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jardins du Trocadero" />
+          <Language key="it-IT" value="I giardini del Trocadero" />
+          <Language key="de-DE" value="Trocadero-Gärten" />
+          <Language key="es-ES" value="Jardines del Trocadero" />
+          <Language key="pt-BR" value="Jardins do Trocadero" />
+          <Language key="ja-JP" value="トロカデロ庭園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12842179" title="Grand Park, L.A." image="1672R-12842179.jpg" smallImage="1672R-12842179_preview.jpg" unlockingPuzzleIds="1598R-13570116,1589R-13375079,1672R-12164243">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand Park, Los Angeles" />
+          <Language key="it-IT" value="Grand Park, Los Angeles" />
+          <Language key="de-DE" value="Grand Park, L.A." />
+          <Language key="es-ES" value="Grand Park, Los Ángeles" />
+          <Language key="pt-BR" value="Grand Park, L.A." />
+          <Language key="ja-JP" value="グランドパーク、ロサンゼルス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11885155" title="Grand Cascade, Russia" image="1491R-11885155.jpg" smallImage="1491R-11885155_preview.jpg" unlockingPuzzleIds="1672R-12842179">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="La Grande Cascade, Russie" />
+          <Language key="it-IT" value="La gran cascata, Russia" />
+          <Language key="de-DE" value="Große Kaskaden, Russland" />
+          <Language key="es-ES" value="Grand Cascade, Rusia" />
+          <Language key="pt-BR" value="Grand Cascade, Rússia" />
+          <Language key="ja-JP" value="グランドカスケード、ロシア" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

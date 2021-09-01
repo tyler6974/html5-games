@@ -1,0 +1,148 @@
+<Puzzles>
+  <Groups packId="HomeSweetHomePack">
+    <Group id="HomeSweetHome" title="Home Sweet Home" sentientId="227" revision="6" packImage="1824R-37385_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="À la maison" />
+        <Language key="it-IT" value="Casa dolce casa" />
+        <Language key="de-DE" value="Trautes Heim, Glück allein" />
+        <Language key="es-ES" value="Hogar, dulce hogar" />
+        <Language key="pt-BR" value="Lar, Doce Lar" />
+      </GroupLocalization>
+      <Puzzle id="1824R-37385" title="Cherry Pie" image="1824R-37385.jpg" smallImage="1824R-37385_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tarte aux cerises" />
+          <Language key="it-IT" value="Crostata alle ciliegie" />
+          <Language key="de-DE" value="Kirschkuchen" />
+          <Language key="es-ES" value="Tarta de cerezas" />
+          <Language key="pt-BR" value="Torta de Cereja" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-76671" title="Rustic Living Room" image="1647R-76671.jpg" smallImage="1647R-76671_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Salon rustique" />
+          <Language key="it-IT" value="Salotto rustico" />
+          <Language key="de-DE" value="Uriges Wohnzimmer" />
+          <Language key="es-ES" value="Cuarto de estar rústico" />
+          <Language key="pt-BR" value="Sala de Estar Rústica" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-437699" title="Labrador Puppies" image="4029R-437699.jpg" smallImage="4029R-437699_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bébés labradors" />
+          <Language key="it-IT" value="Cuccioli di labrador" />
+          <Language key="de-DE" value="Labradorwelpen" />
+          <Language key="es-ES" value="Cachorros de labrador" />
+          <Language key="pt-BR" value="Filhotes de Labrador" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-51895" title="Persian Cat" image="4279R-51895.jpg" smallImage="4279R-51895_preview.jpg" unlockingPuzzleIds="1824R-37385,1647R-76671,4029R-437699">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat persan" />
+          <Language key="it-IT" value="Gatto persiano" />
+          <Language key="de-DE" value="Perserkatze" />
+          <Language key="es-ES" value="Gato persa" />
+          <Language key="pt-BR" value="Gato Persa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1532R-70162" title="Homemade Apricot Jam" image="1532R-70162.jpg" smallImage="1532R-70162_preview.jpg" unlockingPuzzleIds="4279R-51895">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Confiture d'abricots" />
+          <Language key="it-IT" value="Marmellata di albicocche fatta in casa" />
+          <Language key="de-DE" value="Selbst gemachte Aprikosenmarmelade" />
+          <Language key="es-ES" value="Mermelada de albaricoque casera" />
+          <Language key="pt-BR" value="Geleia de Damasco Caseira" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-1083707" title="Looking in Wardrobe" image="1527R-1083707.jpg" smallImage="1527R-1083707_preview.jpg" unlockingPuzzleIds="1532R-70162">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="À la pêche aux vêtements" />
+          <Language key="it-IT" value="Guardaroba" />
+          <Language key="de-DE" value="Blick in den Kleiderschrank" />
+          <Language key="es-ES" value="Buscando en el ropero" />
+          <Language key="pt-BR" value="Procurando no Guarda-roupa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1530R-40242" title="Healthy Breakfast" image="1530R-40242.jpg" smallImage="1530R-40242_preview.jpg" unlockingPuzzleIds="1527R-1083707">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Petit-déjeuner diététique" />
+          <Language key="it-IT" value="Colazione nutriente" />
+          <Language key="de-DE" value="Gesundes Frühstück" />
+          <Language key="es-ES" value="Desayuno saludable" />
+          <Language key="pt-BR" value="Café da Manhã Reforçado" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-21622" title="Table and Armchair on Balcony" image="1647R-21622.jpg" smallImage="1647R-21622_preview.jpg" unlockingPuzzleIds="1530R-40242">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Table et chaise sur un balcon" />
+          <Language key="it-IT" value="Tavolo e sedia sul terrazzo" />
+          <Language key="de-DE" value="Tisch und Stuhl auf Balkon" />
+          <Language key="es-ES" value="Mesa y butaca en el balcón" />
+          <Language key="pt-BR" value="Mesa e Poltrona no Balcão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4400R-1511" title="Cream Buns with Almond Paste" image="4400R-1511.jpg" smallImage="4400R-1511_preview.jpg" unlockingPuzzleIds="1647R-21622">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Choux à la crème et à la pâte d'amande" />
+          <Language key="it-IT" value="Panini dolci ripieni di panna" />
+          <Language key="de-DE" value="Cremeteilchen mit Mandelmus" />
+          <Language key="es-ES" value="Pastelillos de crema y mazapán" />
+          <Language key="pt-BR" value="Pãezinhos com Creme e Pasta de Amêndoas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

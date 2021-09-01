@@ -1,0 +1,238 @@
+<Puzzles>
+  <Groups packId="ProjectSparkPack">
+    <Group id="ProjectSpark" title="Project Spark" sentientId="0" revision="3" packImage="1-Spark_Tree_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Project Spark" />
+        <Language key="it-IT" value="Project Spark" />
+        <Language key="de-DE" value="Project Spark" />
+        <Language key="es-ES" value="Project Spark" />
+        <Language key="pt-BR" value="Project Spark" />
+      </GroupLocalization>
+      <Puzzle id="1-Spark_Tree" title="Spark Tree" image="1-Spark_Tree.jpg" smallImage="1-Spark_Tree_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Spark Tree" />
+          <Language key="it-IT" value="Spark Tree" />
+          <Language key="de-DE" value="Spark Tree" />
+          <Language key="es-ES" value="Spark Tree" />
+          <Language key="pt-BR" value="Spark Tree" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="2-Valley" title="Valley" image="2-Valley.jpg" smallImage="2-Valley_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Valley" />
+          <Language key="it-IT" value="Valley" />
+          <Language key="de-DE" value="Valley" />
+          <Language key="es-ES" value="Valley" />
+          <Language key="pt-BR" value="Valley" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="3-Rings" title="Rings" image="3-Rings.jpg" smallImage="3-Rings_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rings" />
+          <Language key="it-IT" value="Rings" />
+          <Language key="de-DE" value="Rings" />
+          <Language key="es-ES" value="Rings" />
+          <Language key="pt-BR" value="Rings" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4-To_Arms" title="To Arms" image="4-To_Arms.jpg" smallImage="4-To_Arms_preview.jpg" unlockingPuzzleIds="1-Spark_Tree,2-Valley,3-Rings">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="To Arms" />
+          <Language key="it-IT" value="To Arms" />
+          <Language key="de-DE" value="To Arms" />
+          <Language key="es-ES" value="To Arms" />
+          <Language key="pt-BR" value="To Arms" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="5-Crossroads" title="Crossroads" image="5-Crossroads.jpg" smallImage="5-Crossroads_preview.jpg" unlockingPuzzleIds="4-To_Arms">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Crossroads" />
+          <Language key="it-IT" value="Crossroads" />
+          <Language key="de-DE" value="Crossroads" />
+          <Language key="es-ES" value="Crossroads" />
+          <Language key="pt-BR" value="Crossroads" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="6-Goblin_Chieftan" title="Goblin Chieftain" image="6-Goblin_Chieftan.jpg" smallImage="6-Goblin_Chieftan_preview.jpg" unlockingPuzzleIds="5-Crossroads">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Goblin Chieftain" />
+          <Language key="it-IT" value="Goblin Chieftain" />
+          <Language key="de-DE" value="Goblin Chieftain" />
+          <Language key="es-ES" value="Goblin Chieftain" />
+          <Language key="pt-BR" value="Goblin Chieftain" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="7-Intruder_Alert" title="Intruder Alert" image="7-Intruder_Alert.jpg" smallImage="7-Intruder_Alert_preview.jpg" unlockingPuzzleIds="6-Goblin_Chieftan">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Intruder Alert" />
+          <Language key="it-IT" value="Intruder Alert" />
+          <Language key="de-DE" value="Intruder Alert" />
+          <Language key="es-ES" value="Intruder Alert" />
+          <Language key="pt-BR" value="Intruder Alert" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="8-Village_Festival" title="Village Festival" image="8-Village_Festival.jpg" smallImage="8-Village_Festival_preview.jpg" unlockingPuzzleIds="7-Intruder_Alert">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Village Festival" />
+          <Language key="it-IT" value="Village Festival" />
+          <Language key="de-DE" value="Village Festival" />
+          <Language key="es-ES" value="Village Festival" />
+          <Language key="pt-BR" value="Village Festival" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="9-Wreckage" title="Wreckage" image="9-Wreckage.jpg" smallImage="9-Wreckage_preview.jpg" unlockingPuzzleIds="8-Village_Festival">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wreckage" />
+          <Language key="it-IT" value="Wreckage" />
+          <Language key="de-DE" value="Wreckage" />
+          <Language key="es-ES" value="Wreckage" />
+          <Language key="pt-BR" value="Wreckage" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="10-Goblin" title="Goblin" image="10-Goblin.jpg" smallImage="10-Goblin_preview.jpg" unlockingPuzzleIds="9-Wreckage">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Goblin" />
+          <Language key="it-IT" value="Goblin" />
+          <Language key="de-DE" value="Goblin" />
+          <Language key="es-ES" value="Goblin" />
+          <Language key="pt-BR" value="Goblin" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="11-The_Stream" title="The Stream" image="11-The_Stream.jpg" smallImage="11-The_Stream_preview.jpg" unlockingPuzzleIds="10-Goblin">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="The Stream" />
+          <Language key="it-IT" value="The Stream" />
+          <Language key="de-DE" value="The Stream" />
+          <Language key="es-ES" value="The Stream" />
+          <Language key="pt-BR" value="The Stream" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="12-Haakon" title="Haakon" image="12-Haakon.jpg" smallImage="12-Haakon_preview.jpg" unlockingPuzzleIds="11-The_Stream">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Haakon" />
+          <Language key="it-IT" value="Haakon" />
+          <Language key="de-DE" value="Haakon" />
+          <Language key="es-ES" value="Haakon" />
+          <Language key="pt-BR" value="Haakon" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="13-Goblin_Cave" title="Goblin Cave" image="13-Goblin_Cave.jpg" smallImage="13-Goblin_Cave_preview.jpg" unlockingPuzzleIds="12-Haakon">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Goblin Cave" />
+          <Language key="it-IT" value="Goblin Cave" />
+          <Language key="de-DE" value="Goblin Cave" />
+          <Language key="es-ES" value="Goblin Cave" />
+          <Language key="pt-BR" value="Goblin Cave" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="14-The_Gate" title="The Gate" image="14-The_Gate.jpg" smallImage="14-The_Gate_preview.jpg" unlockingPuzzleIds="13-Goblin_Cave">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="The Gate" />
+          <Language key="it-IT" value="The Gate" />
+          <Language key="de-DE" value="The Gate" />
+          <Language key="es-ES" value="The Gate" />
+          <Language key="pt-BR" value="The Gate" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="15-Woodlands_Path" title="Woodlands Path" image="15-Woodlands_Path.jpg" smallImage="15-Woodlands_Path_preview.jpg" unlockingPuzzleIds="14-The_Gate">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Woodlands Path" />
+          <Language key="it-IT" value="Woodlands Path" />
+          <Language key="de-DE" value="Woodlands Path" />
+          <Language key="es-ES" value="Woodlands Path" />
+          <Language key="pt-BR" value="Woodlands Path" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

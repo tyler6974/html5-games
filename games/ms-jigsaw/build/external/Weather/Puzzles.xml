@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="WeatherPack">
+    <Group id="Weather" title="Weather" sentientId="263" revision="9" packImage="1525R-202217_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Phénomènes naturels" />
+        <Language key="it-IT" value="Fenomeni meteorologici" />
+        <Language key="de-DE" value="Wetter" />
+        <Language key="es-ES" value="El tiempo" />
+        <Language key="pt-BR" value="Clima" />
+      </GroupLocalization>
+      <Puzzle id="1525R-202217" title="Rainbow over Forest" image="1525R-202217.jpg" smallImage="1525R-202217_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Arc-en-ciel sur la forêt" />
+          <Language key="it-IT" value="Arcobaleno sulla foresta" />
+          <Language key="de-DE" value="Regenbogen über Wald" />
+          <Language key="es-ES" value="Arcoiris sobre bosque" />
+          <Language key="pt-BR" value="Arco-íris sobre a floresta" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-1966" title="Leaves in Water" image="1889R-1966.jpg" smallImage="1889R-1966_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Feuilles dans l'eau" />
+          <Language key="it-IT" value="Foglie sull'acqua" />
+          <Language key="de-DE" value="Blätter im Wasser" />
+          <Language key="es-ES" value="Hojas en agua" />
+          <Language key="pt-BR" value="Folhas na água" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-4619" title="Highway 26" image="1672R-4619.jpg" smallImage="1672R-4619_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Route 26" />
+          <Language key="it-IT" value="Highway 26" />
+          <Language key="de-DE" value="Highway 26" />
+          <Language key="es-ES" value="Autopista 26" />
+          <Language key="pt-BR" value="Rodovia 26" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-10095080" title="Maple and Aspen Leaves" image="1598R-10095080.jpg" smallImage="1598R-10095080_preview.jpg" unlockingPuzzleIds="1525R-202217,1889R-1966,1672R-4619">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Feuilles d'érable et de tremble" />
+          <Language key="it-IT" value="Foglie di acero e pioppo" />
+          <Language key="de-DE" value="Ahorn- und Espenblätter" />
+          <Language key="es-ES" value="Hojas de arce y álamo" />
+          <Language key="pt-BR" value="Folhas de bordo e aspen" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-10455" title="Thundercloud and Oak Tree" image="1828R-10455.jpg" smallImage="1828R-10455_preview.jpg" unlockingPuzzleIds="1598R-10095080">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Nuage d'orage et chêne" />
+          <Language key="it-IT" value="Cumulonembo e quercia" />
+          <Language key="de-DE" value="Gewitterwolke und Eiche" />
+          <Language key="es-ES" value="Nube de tormenta y roble" />
+          <Language key="pt-BR" value="Nuvem de chuva e carvalho" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-1484" title="Rocky Mountain House, Alberta" image="1828R-1484.jpg" smallImage="1828R-1484_preview.jpg" unlockingPuzzleIds="1828R-10455">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rocky Mountain House, Alberta" />
+          <Language key="it-IT" value="Rocky Mountain House, Alberta" />
+          <Language key="de-DE" value="Rocky Mountain House Alberta" />
+          <Language key="es-ES" value="Rocky Mountain House, Alberta" />
+          <Language key="pt-BR" value="Casa nas Montanhas Rochosas, Alberta" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-85726" title="Sun Rays" image="1889R-85726.jpg" smallImage="1889R-85726_preview.jpg" unlockingPuzzleIds="1828R-1484">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rayons de soleil" />
+          <Language key="it-IT" value="Raggi di sole" />
+          <Language key="de-DE" value="Sonnenstrahlen" />
+          <Language key="es-ES" value="Rayos de sol" />
+          <Language key="pt-BR" value="Raios solares" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-36294" title="Sunset" image="1598R-36294.jpg" smallImage="1598R-36294_preview.jpg" unlockingPuzzleIds="1889R-85726">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coucher de soleil" />
+          <Language key="it-IT" value="Tramonto" />
+          <Language key="de-DE" value="Sonnenuntergang" />
+          <Language key="es-ES" value="Puesta de sol" />
+          <Language key="pt-BR" value="Pôr do sol" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1557R-359555" title="Lightning" image="1557R-359555.jpg" smallImage="1557R-359555_preview.jpg" unlockingPuzzleIds="1598R-36294">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Éclair" />
+          <Language key="it-IT" value="Fulmini" />
+          <Language key="de-DE" value="Blitz" />
+          <Language key="es-ES" value="Rayo" />
+          <Language key="pt-BR" value="Relâmpago" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-209628" title="Tornado over the Lake" image="1525R-209628.jpg" smallImage="1525R-209628_preview.jpg" unlockingPuzzleIds="1557R-359555">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tornade sur le lac" />
+          <Language key="it-IT" value="Tornado sul lago" />
+          <Language key="de-DE" value="Tornado über dem See" />
+          <Language key="es-ES" value="Tornado sobre el lago" />
+          <Language key="pt-BR" value="Tornado sobre o lago" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

@@ -1,0 +1,174 @@
+<Puzzles>
+  <Groups packId="MexicoPack">
+    <Group id="Mexico" title="Mexico" sentientId="337" revision="2" packImage="1589R-12503281_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Mexique" />
+        <Language key="it-IT" value="Messico" />
+        <Language key="de-DE" value="Mexiko" />
+        <Language key="es-ES" value="México" />
+        <Language key="pt-BR" value="México" />
+        <Language key="ja-JP" value="メキシコ" />
+      </GroupLocalization>
+      <Puzzle id="1589R-12503281" title="Guanajuato" image="1589R-12503281.jpg" smallImage="1589R-12503281_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Guanajuato" />
+          <Language key="it-IT" value="Guanajuato" />
+          <Language key="de-DE" value="Guanajuato" />
+          <Language key="es-ES" value="Guanajuato" />
+          <Language key="pt-BR" value="Guanajuato" />
+          <Language key="ja-JP" value="グアナファト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13999587" title="Hammocks" image="1491R-13999587.jpg" smallImage="1491R-13999587_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hamacs" />
+          <Language key="it-IT" value="Amache" />
+          <Language key="de-DE" value="Hängematten" />
+          <Language key="es-ES" value="Hamacas" />
+          <Language key="pt-BR" value="Redes" />
+          <Language key="ja-JP" value="ハンモック" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13335037" title="Tamales" image="1589R-13335037.jpg" smallImage="1589R-13335037_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tamales" />
+          <Language key="it-IT" value="Tamales" />
+          <Language key="de-DE" value="Tamales" />
+          <Language key="es-ES" value="Tamales" />
+          <Language key="pt-BR" value="Tamales" />
+          <Language key="ja-JP" value="タマーレ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13334335" title="Sombrero" image="1589R-13334335.jpg" smallImage="1589R-13334335_preview.jpg" unlockingPuzzleIds="1589R-12503281,1491R-13999587,1589R-13335037">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sombrero" />
+          <Language key="it-IT" value="Sombrero" />
+          <Language key="de-DE" value="Sombrero" />
+          <Language key="es-ES" value="Sombrero" />
+          <Language key="pt-BR" value="Sombreiro" />
+          <Language key="ja-JP" value="ソンブレロ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-11537095" title="Luchador Masks" image="1589R-11537095.jpg" smallImage="1589R-11537095_preview.jpg" unlockingPuzzleIds="1589R-13334335">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Masques de Luchador" />
+          <Language key="it-IT" value="Maschere da luchador" />
+          <Language key="de-DE" value="Luchador-Masken" />
+          <Language key="es-ES" value="Máscaras de luchador" />
+          <Language key="pt-BR" value="Máscaras de lutador" />
+          <Language key="ja-JP" value="ルチャドール マスク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13360201" title="Copper Canyon" image="1589R-13360201.jpg" smallImage="1589R-13360201_preview.jpg" unlockingPuzzleIds="1589R-11537095">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Copper Canyon" />
+          <Language key="it-IT" value="Copper Canyon" />
+          <Language key="de-DE" value="Barranca del Cobre" />
+          <Language key="es-ES" value="Barrancas del Cobre" />
+          <Language key="pt-BR" value="Canyon Copper" />
+          <Language key="ja-JP" value="カッパー キャニオン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12818453" title="Taco" image="1598R-12818453.jpg" smallImage="1598R-12818453_preview.jpg" unlockingPuzzleIds="1589R-13360201">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Taco" />
+          <Language key="it-IT" value="Taco" />
+          <Language key="de-DE" value="Taco" />
+          <Language key="es-ES" value="Taco" />
+          <Language key="pt-BR" value="Taco" />
+          <Language key="ja-JP" value="タコス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1609R-30658" title="Trajinera boats" image="1609R-30658.jpg" smallImage="1609R-30658_preview.jpg" unlockingPuzzleIds="1598R-12818453">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Barques trajineras" />
+          <Language key="it-IT" value="Barche trajinera" />
+          <Language key="de-DE" value="Trajinera-Boote" />
+          <Language key="es-ES" value="Trajineras" />
+          <Language key="pt-BR" value="Trajinera barcos" />
+          <Language key="ja-JP" value="トラヒネラのボート" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11606484" title="Hats" image="1672R-11606484.jpg" smallImage="1672R-11606484_preview.jpg" unlockingPuzzleIds="1609R-30658">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chapeaux" />
+          <Language key="it-IT" value="Cappelli" />
+          <Language key="de-DE" value="Hüte" />
+          <Language key="es-ES" value="Sombreros" />
+          <Language key="pt-BR" value="Chapéus" />
+          <Language key="ja-JP" value="帽子" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12835785" title="Agua Azul Falls" image="1672R-12835785.jpg" smallImage="1672R-12835785_preview.jpg" unlockingPuzzleIds="1672R-11606484">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chutes de Agua Azul" />
+          <Language key="it-IT" value="Cascate di Agua Azul" />
+          <Language key="de-DE" value="Cascadas de Agua Azul" />
+          <Language key="es-ES" value="Cascadas de Agua Azul" />
+          <Language key="pt-BR" value="Agua Azul Falls" />
+          <Language key="ja-JP" value="アグア アスル滝" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

@@ -1,0 +1,334 @@
+﻿<Puzzles>
+  <Groups packId="BigSurPack">
+    <Group id="BigSur" title="Big Sur" sentientId="325" revision="1" packImage="1778R-21722486_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Big Sur" />
+        <Language key="it-IT" value="Big Sur" />
+        <Language key="de-DE" value="Big Sur" />
+        <Language key="es-ES" value="Big Sur" />
+        <Language key="pt-BR" value="Big Sur" />
+	<Language key="ja-JP" value="ビッグサー" />
+      </GroupLocalization>
+      <Puzzle id="1778R-21722486" title="Bixby Bridge" image="1778R-21722486.jpg" smallImage="1778R-21722486_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pont de Bixby" />
+          <Language key="it-IT" value="Ponte di Bixby" />
+          <Language key="de-DE" value="Bixby Bridge" />
+          <Language key="es-ES" value="Puente Bixby" />
+          <Language key="pt-BR" value="Ponte Bixby" />
+	  <Language key="ja-JP" value="ビックスビー・ブリッジ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-13450725" title="Harbor Seal" image="1436R-13450725.jpg" smallImage="1436R-13450725_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Phoque" />
+          <Language key="it-IT" value="Foca comune" />
+          <Language key="de-DE" value="Seehund" />
+          <Language key="es-ES" value="Foca común" />
+          <Language key="pt-BR" value="Foca no Porto" />
+	  <Language key="ja-JP" value="ゼニガタアザラシ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13403753" title="McWay Falls" image="1439R-13403753.jpg" smallImage="1439R-13403753_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="McWay Falls" />
+          <Language key="it-IT" value="Cascata McWay" />
+          <Language key="de-DE" value="McWay-Wasserfälle" />
+          <Language key="es-ES" value="Cascada McWay" />
+          <Language key="pt-BR" value="McWay Falls" />
+	  <Language key="ja-JP" value="マクウェイ滝" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11710944" title="Garrapata State Park" image="1491R-11710944.jpg" smallImage="1491R-11710944_preview.jpg" unlockingPuzzleIds="1778R-21722486,1436R-13450725,1439R-13403753">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc d'État de Garrapata" />
+          <Language key="it-IT" value="Parco di stato di Garrapata" />
+          <Language key="de-DE" value="Garrapata State Park" />
+          <Language key="es-ES" value="Parque estatal Garrapata" />
+          <Language key="pt-BR" value="Parque Estadual Garrapata" />
+	  <Language key="ja-JP" value="ガラパタ州立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12043244" title="Keyhole Arch" image="1491R-12043244.jpg" smallImage="1491R-12043244_preview.jpg" unlockingPuzzleIds="1491R-11710944">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Arche rocheuse" />
+          <Language key="it-IT" value="Arco roccioso" />
+          <Language key="de-DE" value="Keyhole Arch" />
+          <Language key="es-ES" value="Keyhole Arch" />
+          <Language key="pt-BR" value="Keyhole Arch" />
+	  <Language key="ja-JP" value="キーホール・アーチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-11893306" title="Blooming Aloe Vera" image="1527R-11893306.jpg" smallImage="1527R-11893306_preview.jpg" unlockingPuzzleIds="1491R-12043244">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Aloe Vera en fleur" />
+          <Language key="it-IT" value="Aloe vera in fiore" />
+          <Language key="de-DE" value="Blühende Aloe Vera" />
+          <Language key="es-ES" value="Aloe vera en flor" />
+          <Language key="pt-BR" value="Aloe Vera Desabrochando" />
+	  <Language key="ja-JP" value="花盛りのアロエベラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-11447946" title="Highway 1" image="1589R-11447946.jpg" smallImage="1589R-11447946_preview.jpg" unlockingPuzzleIds="1527R-11893306">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Highway 1" />
+          <Language key="it-IT" value="Autostrada 1" />
+          <Language key="de-DE" value="Highway Nr. 1" />
+          <Language key="es-ES" value="Autopista 1" />
+          <Language key="pt-BR" value="Estrada 1" />
+	  <Language key="ja-JP" value="ハイウェイ 1" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-9970201" title="California Condors" image="1598R-9970201.jpg" smallImage="1598R-9970201_preview.jpg" unlockingPuzzleIds="1589R-11447946">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Condors de Californie" />
+          <Language key="it-IT" value="Condor californiani" />
+          <Language key="de-DE" value="Kalifornischer Kondor" />
+          <Language key="es-ES" value="Cóndores californianos" />
+          <Language key="pt-BR" value="Condores da Califórnia" />
+	  <Language key="ja-JP" value="カリフォルニアコンドル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11758509" title="Low Tide" image="1598R-11758509.jpg" smallImage="1598R-11758509_preview.jpg" unlockingPuzzleIds="1598R-9970201">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marée basse" />
+          <Language key="it-IT" value="Bassa marea" />
+          <Language key="de-DE" value="Ebbe" />
+          <Language key="es-ES" value="Marea baja" />
+          <Language key="pt-BR" value="Maré Baixa" />
+	  <Language key="ja-JP" value="ロータイド" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11824622" title="Wave Crashing" image="1598R-11824622.jpg" smallImage="1598R-11824622_preview.jpg" unlockingPuzzleIds="1598R-11758509">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Déferlante" />
+          <Language key="it-IT" value="Onda infranta" />
+          <Language key="de-DE" value="Brechende Welle" />
+          <Language key="es-ES" value="Ola rompiendo" />
+          <Language key="pt-BR" value="Onda Arrebentando" />
+	  <Language key="ja-JP" value="砕ける波" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12030251" title="Northbound View" image="1598R-12030251.jpg" smallImage="1598R-12030251_preview.jpg" unlockingPuzzleIds="1598R-11824622">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vue du nord" />
+          <Language key="it-IT" value="Vista da nord" />
+          <Language key="de-DE" value="Blick nach Norden" />
+          <Language key="es-ES" value="Vista en dirección norte" />
+          <Language key="pt-BR" value="Vista do Norte" />
+	  <Language key="ja-JP" value="北側の眺め" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12045062" title="Southbound View" image="1598R-12045062.jpg" smallImage="1598R-12045062_preview.jpg" unlockingPuzzleIds="1598R-12030251">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vue du sud" />
+          <Language key="it-IT" value="Vista da sud" />
+          <Language key="de-DE" value="Blick nach Süden" />
+          <Language key="es-ES" value="Vista en dirección sur" />
+          <Language key="pt-BR" value="Vista do Sul" />
+	  <Language key="ja-JP" value="南側の眺め" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1890R-12285531" title="Little Sur River Beach" image="1890R-12285531.jpg" smallImage="1890R-12285531_preview.jpg" unlockingPuzzleIds="1598R-12045062">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Plage de Little Sur River" />
+          <Language key="it-IT" value="Spiaggia di Little Sur River" />
+          <Language key="de-DE" value="Little Sur River Beach" />
+          <Language key="es-ES" value="Playa de Little Sur River" />
+          <Language key="pt-BR" value="Praia Little Sur River" />
+	  <Language key="ja-JP" value="リトル・サー・リバー・ビーチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13983846" title="Waves" image="1598R-13983846.jpg" smallImage="1598R-13983846_preview.jpg" unlockingPuzzleIds="1890R-12285531">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vagues" />
+          <Language key="it-IT" value="Onde" />
+          <Language key="de-DE" value="Wellen" />
+          <Language key="es-ES" value="Olas" />
+          <Language key="pt-BR" value="Ondas" />
+	  <Language key="ja-JP" value="波" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13984250" title="Cliffside Sunset" image="1598R-13984250.jpg" smallImage="1598R-13984250_preview.jpg" unlockingPuzzleIds="1598R-13983846">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Couché de soleil sur la mer" />
+          <Language key="it-IT" value="Tramonto sul mare" />
+          <Language key="de-DE" value="Klippen im Abendrot" />
+          <Language key="es-ES" value="Atardecer desde el acantilado" />
+          <Language key="pt-BR" value="Pôr do Sol no Penhasco" />
+	  <Language key="ja-JP" value="クリフサイド・サンセット" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1778R-19931" title="Julia Pfeiffer Burns State Park" image="1778R-19931.jpg" smallImage="1778R-19931_preview.jpg" unlockingPuzzleIds="1598R-13984250">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc d'État de Julia Pfeiffer Burns" />
+          <Language key="it-IT" value="Parco di stato di Julia Pfeiffer Burns" />
+          <Language key="de-DE" value="Julia Pfeiffer Burns State Park" />
+          <Language key="es-ES" value="Parque estatal Julia Pfeiffer Burns" />
+          <Language key="pt-BR" value="Parque Estadual Julia Pfeiffer Burns" />
+	  <Language key="ja-JP" value="ジュリア・フェイファー・バーンズ州立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-11463337" title="Pfeiffer Big Sur State Park" image="1815R-11463337.jpg" smallImage="1815R-11463337_preview.jpg" unlockingPuzzleIds="1778R-19931">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc d'État de Pfieiffer Big Sur" />
+          <Language key="it-IT" value="Parco di stato di Pfeiffer Big Sur" />
+          <Language key="de-DE" value="Pfeiffer Big Sur State Park" />
+          <Language key="es-ES" value="Parque estatal Pfeiffer de Big Sur" />
+          <Language key="pt-BR" value="Parque Estadual Pfeiffer Big Sur" />
+	  <Language key="ja-JP" value="フェイファー・ビッグサー州立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-34302" title="Santa Lucia Mountains" image="1828R-34302.jpg" smallImage="1828R-34302_preview.jpg" unlockingPuzzleIds="1815R-11463337">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaînon Santa Lucia" />
+          <Language key="it-IT" value="Montagne di Santa Lucia" />
+          <Language key="de-DE" value="Santa-Lucia-Gebirge" />
+          <Language key="es-ES" value="Cordillera Santa Lucía" />
+          <Language key="pt-BR" value="Montanhas Santa Lucia" />
+	  <Language key="ja-JP" value="サンタ・ルシア山脈" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-20709254" title="Elephant Seal" image="4094R-20709254.jpg" smallImage="4094R-20709254_preview.jpg" unlockingPuzzleIds="1828R-34302">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Éléphant de mer" />
+          <Language key="it-IT" value="Elefante di mare" />
+          <Language key="de-DE" value="See-Elefant" />
+          <Language key="es-ES" value="Elefante marino" />
+          <Language key="pt-BR" value="Elefante-marinho" />
+	  <Language key="ja-JP" value="ゾウアザラシ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-9415" title="Big Sur Marathon" image="4450R-9415.jpg" smallImage="4450R-9415_preview.jpg" unlockingPuzzleIds="4094R-20709254">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Big Sur Marathon" />
+          <Language key="it-IT" value="Maratona di Big Sur" />
+          <Language key="de-DE" value="Big Sur Marathon" />
+          <Language key="es-ES" value="Maratón de Big Sur" />
+          <Language key="pt-BR" value="Maratona de Big Sur" />
+	  <Language key="ja-JP" value="ビッグサー・マラソン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

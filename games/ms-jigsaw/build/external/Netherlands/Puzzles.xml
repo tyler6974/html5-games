@@ -1,0 +1,174 @@
+<Puzzles>
+  <Groups packId="NetherlandsPack">
+    <Group id="Netherlands" title="Netherlands" sentientId="352" revision="1" packImage="1890R-14927594_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Pays-Bas" />
+        <Language key="it-IT" value="Paesi Bassi" />
+        <Language key="de-DE" value="Niederlande" />
+        <Language key="es-ES" value="Países Bajos" />
+        <Language key="pt-BR" value="Holanda" />
+        <Language key="ja-JP" value="オランダ" />
+      </GroupLocalization>
+      <Puzzle id="1890R-14927594" title="Rijksmuseum" image="1890R-14927594.jpg" smallImage="1890R-14927594_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rijksmuseum" />
+          <Language key="it-IT" value="Rijksmuseum" />
+          <Language key="de-DE" value="Rijksmuseum" />
+          <Language key="es-ES" value="Rijksmuseum" />
+          <Language key="pt-BR" value="Museu Rijksmuseum" />
+          <Language key="ja-JP" value="アムステルダム国立美術館" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1890R-14927657" title="Begijnhof" image="1890R-14927657.jpg" smallImage="1890R-14927657_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Béguinage" />
+          <Language key="it-IT" value="Begijnhof" />
+          <Language key="de-DE" value="Begijnhof" />
+          <Language key="es-ES" value="Begijnhof" />
+          <Language key="pt-BR" value="Jardim Begijnhof" />
+          <Language key="ja-JP" value="ベギン会修道院" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12385398" title="Volendam Harbour" image="1815R-12385398.jpg" smallImage="1815R-12385398_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Port de Volendam" />
+          <Language key="it-IT" value="Porto di Volendam" />
+          <Language key="de-DE" value="Hafen von Volendam" />
+          <Language key="es-ES" value="Puerto de Volendam" />
+          <Language key="pt-BR" value="Porto de Volendam" />
+          <Language key="ja-JP" value="フォレンダム港" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12385396" title="Volendam Boats" image="1815R-12385396.jpg" smallImage="1815R-12385396_preview.jpg" unlockingPuzzleIds="1890R-14927594,1890R-14927657,1815R-12385398">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bateaux de Volendam" />
+          <Language key="it-IT" value="Barche a Volendam" />
+          <Language key="de-DE" value="Boote von Volendam" />
+          <Language key="es-ES" value="Barcas de Volendam" />
+          <Language key="pt-BR" value="Barcos de Volendam" />
+          <Language key="ja-JP" value="フォレンダムの船" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1890R-13952616" title="Zaanse Schans" image="1890R-13952616.jpg" smallImage="1890R-13952616_preview.jpg" unlockingPuzzleIds="1815R-12385396">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Zaanse Schans" />
+          <Language key="it-IT" value="Zaanse Schans" />
+          <Language key="de-DE" value="Zaanse Schans" />
+          <Language key="es-ES" value="Zaanse Schans" />
+          <Language key="pt-BR" value="Vila de Zaanse Schans" />
+          <Language key="ja-JP" value="ザーンセ スカンス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12385377" title="Wilhelminabrug" image="1815R-12385377.jpg" smallImage="1815R-12385377_preview.jpg" unlockingPuzzleIds="1890R-13952616">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pont Wilhelmine" />
+          <Language key="it-IT" value="Wilhelminabrug" />
+          <Language key="de-DE" value="Wilhelminabrücke" />
+          <Language key="es-ES" value="Puente de Wilhelmina" />
+          <Language key="pt-BR" value="Ponte Wilhelminabrug" />
+          <Language key="ja-JP" value="ウィルヘルミナ橋" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1890R-14927381" title="Rembrandtplein" image="1890R-14927381.jpg" smallImage="1890R-14927381_preview.jpg" unlockingPuzzleIds="1815R-12385377">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Place Rembrandt" />
+          <Language key="it-IT" value="Tutto Rembrandt" />
+          <Language key="de-DE" value="Rembrandtplein" />
+          <Language key="es-ES" value="Rembrandtplein" />
+          <Language key="pt-BR" value="Praça Rembrandtplein" />
+          <Language key="ja-JP" value="レンブラント広場" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12385379" title="Marken" image="1815R-12385379.jpg" smallImage="1815R-12385379_preview.jpg" unlockingPuzzleIds="1890R-14927381">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marken" />
+          <Language key="it-IT" value="Marken" />
+          <Language key="de-DE" value="Marken" />
+          <Language key="es-ES" value="Marken" />
+          <Language key="pt-BR" value="Vilarejo de Marken" />
+          <Language key="ja-JP" value="マルケン島" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-13564376" title="Tulips" image="1672R-13564376.jpg" smallImage="1672R-13564376_preview.jpg" unlockingPuzzleIds="1815R-12385379">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulipes" />
+          <Language key="it-IT" value="Tulipani" />
+          <Language key="de-DE" value="Tulpen" />
+          <Language key="es-ES" value="Tulipanes" />
+          <Language key="pt-BR" value="Tulipas" />
+          <Language key="ja-JP" value="チューリップ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-12454270" title="Keizersgracht" image="1773R-12454270.jpg" smallImage="1773R-12454270_preview.jpg" unlockingPuzzleIds="1672R-13564376">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Keizersgracht" />
+          <Language key="it-IT" value="Keizersgracht" />
+          <Language key="de-DE" value="Keizersgracht" />
+          <Language key="es-ES" value="Keizersgracht" />
+          <Language key="pt-BR" value="Canal de Keizersgracht" />
+          <Language key="ja-JP" value="カイゼルスグラハト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

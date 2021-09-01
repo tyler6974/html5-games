@@ -1,0 +1,313 @@
+<Puzzles>
+  <Groups packId="AnimalCloseupsPack">
+    <Group id="AnimalCloseups" title="Animal Closeups" sentientId="0" revision="2" packImage="1824R-44939_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Zooms d'animaux" />
+        <Language key="it-IT" value="Primi piani animali" />
+        <Language key="de-DE" value="Nahaufnahmen von Tieren" />
+        <Language key="es-ES" value="Primeros planos de animales" />
+        <Language key="pt-BR" value="Animais em close" />
+      </GroupLocalization>
+      <Puzzle id="1824R-44939" title="I can has Treat?" image="1824R-44939.jpg" smallImage="1824R-44939_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Une petite friandise ?" />
+          <Language key="it-IT" value="Posso avere Zuccherino?" />
+          <Language key="de-DE" value="Schleckmaul" />
+          <Language key="es-ES" value="¿Puedo tomar una chuche?" />
+          <Language key="pt-BR" value="Me dá um petisco?" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1557R-374524" title="I C U…." image="1557R-374524.jpg" smallImage="1557R-374524_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Les yeux dans les yeux" />
+          <Language key="it-IT" value="Ti Vedo..." />
+          <Language key="de-DE" value="Katzenaugen" />
+          <Language key="es-ES" value="TE VEO…" />
+          <Language key="pt-BR" value="Tô te vendo..." />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1660R-14027" title="Rabbit Staring Contest" image="1660R-14027.jpg" smallImage="1660R-14027_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Je te tiens, tu me tiens..." />
+          <Language key="it-IT" value="Concorso sguardo del coniglio" />
+          <Language key="de-DE" value="Haddu Möhrchen?" />
+          <Language key="es-ES" value="Conejitos impávidos" />
+          <Language key="pt-BR" value="Coelhos em disputa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-33817" title="Eagle Eyes" image="4094R-33817.jpg" smallImage="4094R-33817_preview.jpg" unlockingPuzzleIds="1824R-44939,1557R-374524,1660R-14027">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Regard d'aigle" />
+          <Language key="it-IT" value="Occhi d’aquila" />
+          <Language key="de-DE" value="Adlerauge" />
+          <Language key="es-ES" value="Ojos de águila" />
+          <Language key="pt-BR" value="Olhos de águia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="647R-2231" title="Cheeky Monkey" image="647R-2231.jpg" smallImage="647R-2231_preview.jpg" unlockingPuzzleIds="4094R-33817">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Singe farceur" />
+          <Language key="it-IT" value="Scimmia sfacciata" />
+          <Language key="de-DE" value="Grinsebacke" />
+          <Language key="es-ES" value="Mono chulo" />
+          <Language key="pt-BR" value="Macaco atrevido" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34081" title="Never get this Close" image="4094R-34081.jpg" smallImage="4094R-34081_preview.jpg" unlockingPuzzleIds="647R-2231">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pas plus près !" />
+          <Language key="it-IT" value="Non ti avvicinare" />
+          <Language key="de-DE" value="Abstand halten" />
+          <Language key="es-ES" value="No te acerques tanto" />
+          <Language key="pt-BR" value="Não chegue tão perto" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-171906" title="Chow Time" image="1647R-171906.jpg" smallImage="1647R-171906_preview.jpg" unlockingPuzzleIds="4094R-34081">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chow devant" />
+          <Language key="it-IT" value="Tempo di mangime" />
+          <Language key="de-DE" value="Ciao, Chow" />
+          <Language key="es-ES" value="A zampar" />
+          <Language key="pt-BR" value="Hora da boia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-1181165" title="Whoo are You?" image="1527R-1181165.jpg" smallImage="1527R-1181165_preview.jpg" unlockingPuzzleIds="1647R-171906">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hou es-tu ?" />
+          <Language key="it-IT" value="Tuuu chi sei?" />
+          <Language key="de-DE" value="Huhu, du da!" />
+          <Language key="es-ES" value="No te quito el ojo" />
+          <Language key="pt-BR" value="Quem é você?" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-207170" title="Come closer my Deer" image="1525R-207170.jpg" smallImage="1525R-207170_preview.jpg" unlockingPuzzleIds="1527R-1181165">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Yeux de biche" />
+          <Language key="it-IT" value="Avvicinati caro cervo" />
+          <Language key="de-DE" value="Kinkerkitzchen" />
+          <Language key="es-ES" value="Acércate, Bambi" />
+          <Language key="pt-BR" value="Chegue mais perto, cervo querido" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34040" title="Kitty Kloseup" image="4094R-34040.jpg" smallImage="4094R-34040_preview.jpg" unlockingPuzzleIds="1525R-207170">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Minois de minou" />
+          <Language key="it-IT" value="Primo piano gattesco" />
+          <Language key="de-DE" value="Kulleraugen" />
+          <Language key="es-ES" value="Primer plano felino" />
+          <Language key="pt-BR" value="Close no gatinho" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-33723" title="Chocolate Chimp" image="4094R-33723.jpg" smallImage="4094R-33723_preview.jpg" unlockingPuzzleIds="4094R-34040">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chimpanzé à croquer" />
+          <Language key="it-IT" value="Choco-scimpanzé" />
+          <Language key="de-DE" value="Süß wie ein Schimpanse" />
+          <Language key="es-ES" value="Chimpancé chocolate" />
+          <Language key="pt-BR" value="Chimpanzé de chocolate" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-200712" title="I will Remember You" image="1525R-200712.jpg" smallImage="1525R-200712_preview.jpg" unlockingPuzzleIds="4094R-33723">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mémoire phénoménale" />
+          <Language key="it-IT" value="Mi ricorderò di te" />
+          <Language key="de-DE" value="Elefantengedächtnis" />
+          <Language key="es-ES" value="Memoria de… Ya sabes" />
+          <Language key="pt-BR" value="Vou me lembrar de você" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-82531" title="Not a Hot Dog" image="1841R-82531.jpg" smallImage="1841R-82531_preview.jpg" unlockingPuzzleIds="1525R-200712">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fourrure au vent" />
+          <Language key="it-IT" value="Non sono un hot dog" />
+          <Language key="de-DE" value="Kein Hot Dog" />
+          <Language key="es-ES" value="De perrito caliente nada" />
+          <Language key="pt-BR" value="Não é um cachorro quente" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-33957" title="Non-Ill Eagle" image="4094R-33957.jpg" smallImage="4094R-33957_preview.jpg" unlockingPuzzleIds="1841R-82531">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Faucon parle" />
+          <Language key="it-IT" value="Aquila non-malata" />
+          <Language key="de-DE" value="Steinadler" />
+          <Language key="es-ES" value="No juegues conmigo" />
+          <Language key="pt-BR" value="Águia permitida" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4306R-22506" title="Monkey See" image="4306R-22506.jpg" smallImage="4306R-22506_preview.jpg" unlockingPuzzleIds="4094R-33957">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vieux singe" />
+          <Language key="it-IT" value="Scimmia vede" />
+          <Language key="de-DE" value="Affe auf dem Schleifstein" />
+          <Language key="es-ES" value="Qué mono eres" />
+          <Language key="pt-BR" value="O macaco vê" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-35028" title="You Can't See Me!" image="4094R-35028.jpg" smallImage="4094R-35028_preview.jpg" unlockingPuzzleIds="4306R-22506">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mais où est le zèbre ?" />
+          <Language key="it-IT" value="Tu non mi vedi!" />
+          <Language key="de-DE" value="Perfekte Tarnung" />
+          <Language key="es-ES" value="¡Camuflaje!" />
+          <Language key="pt-BR" value="Você não me enxerga!" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-87822" title="I See Ewe" image="1889R-87822.jpg" smallImage="1889R-87822_preview.jpg" unlockingPuzzleIds="4094R-35028">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Devenir chèvre" />
+          <Language key="it-IT" value="Beeella pecora" />
+          <Language key="de-DE" value="Hast du Bock?" />
+          <Language key="es-ES" value="Te pongo ojitos" />
+          <Language key="pt-BR" value="Vejo uma ovelha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-213756" title="Seriously…?" image="1773R-213756.jpg" smallImage="1773R-213756_preview.jpg" unlockingPuzzleIds="1889R-87822">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vraiment... ?" />
+          <Language key="it-IT" value="Davvero...?" />
+          <Language key="de-DE" value="Ernsthaft …?" />
+          <Language key="es-ES" value="¿En serio…?" />
+          <Language key="pt-BR" value="Isso é sério?" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-89203" title="Oh, Come on Ref!" image="1889R-89203.jpg" smallImage="1889R-89203_preview.jpg" unlockingPuzzleIds="1773R-213756">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Il y a faute !" />
+          <Language key="it-IT" value="E dai, arbitro!" />
+          <Language key="de-DE" value="Affentheater" />
+          <Language key="es-ES" value="¡Venga ya, árbitro!" />
+          <Language key="pt-BR" value="Assim não, juiz!" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-163528" title="Where did it go?" image="1647R-163528.jpg" smallImage="1647R-163528_preview.jpg" unlockingPuzzleIds="1889R-89203">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pas bouger" />
+          <Language key="it-IT" value="Ma dov’è finito?" />
+          <Language key="de-DE" value="Die Schnauze voll" />
+          <Language key="es-ES" value="¡Adónde ha ido?" />
+          <Language key="pt-BR" value="Aonde foi?" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

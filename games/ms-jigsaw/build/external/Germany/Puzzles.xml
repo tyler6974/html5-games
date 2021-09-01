@@ -1,0 +1,238 @@
+﻿<Puzzles>
+  <Groups packId="GermanyPack">
+    <Group id="Germany" title="Germany" sentientId="314" revision="1" packImage="1848R-519734_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Allemagne" />
+        <Language key="it-IT" value="Germania" />
+        <Language key="de-DE" value="Deutschland" />
+        <Language key="es-ES" value="Alemania" />
+        <Language key="pt-BR" value="Alemanha" />
+      </GroupLocalization>
+      <Puzzle id="1848R-519734" title="Neuschwanstein Castle, Bavaria" image="1848R-519734.jpg" smallImage="1848R-519734_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Château de Neuschwanstein, Bavière" />
+          <Language key="it-IT" value="Castello di Neuschwanstein, Baviera" />
+          <Language key="de-DE" value="Schloss Neuschwanstein, Bayern" />
+          <Language key="es-ES" value="Castillo de Neuschwanstein, Baviera" />
+          <Language key="pt-BR" value="Castelo de Neuschwanstein, Bavária" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-72269" title="Mittenwald, Bavaria" image="1815R-72269.jpg" smallImage="1815R-72269_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mittenwald, Bavière" />
+          <Language key="it-IT" value="Mittenwald, Baviera" />
+          <Language key="de-DE" value="Mittenwald, Bayern" />
+          <Language key="es-ES" value="Mittenwald, Baviera" />
+          <Language key="pt-BR" value="Mittenwald, Bavária" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1701R-55469" title="Assorted Meats" image="1701R-55469.jpg" smallImage="1701R-55469_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Charcuterie" />
+          <Language key="it-IT" value="Diversi tipi di carne" />
+          <Language key="de-DE" value="Wurstauslage" />
+          <Language key="es-ES" value="Carnes varias" />
+          <Language key="pt-BR" value="Carnes sortidas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-143446" title="Siebengebirge" image="1815R-143446.jpg" smallImage="1815R-143446_preview.jpg" unlockingPuzzleIds="1848R-519734,1815R-72269,1701R-55469">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Siebengebirge" />
+          <Language key="it-IT" value="Siebengebirge" />
+          <Language key="de-DE" value="Siebengebirge" />
+          <Language key="es-ES" value="Siebengebirge" />
+          <Language key="pt-BR" value="Siebengebirge (Sete Montanhas)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-145216" title="Main River, Wurzburg" image="1815R-145216.jpg" smallImage="1815R-145216_preview.jpg" unlockingPuzzleIds="1815R-143446">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le Main, Wurtzbourg" />
+          <Language key="it-IT" value="Fiume Meno, Würzburg" />
+          <Language key="de-DE" value="Main, Würzburg" />
+          <Language key="es-ES" value="Río Meno, Wurzburgo" />
+          <Language key="pt-BR" value="Rio Meno, Wurtzburgo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-642016" title="Waxenstein Mountain, Bavaria" image="1848R-642016.jpg" smallImage="1848R-642016_preview.jpg" unlockingPuzzleIds="1815R-145216">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mont Waxenstein, Bavière" />
+          <Language key="it-IT" value="Gruppo montuoso Waxenstein, Baviera" />
+          <Language key="de-DE" value="Waxenstein, Bayern" />
+          <Language key="es-ES" value="Monte Waxenstein, Baviera" />
+          <Language key="pt-BR" value="Monte Waxenstein, Bavária" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-49767" title="Stahleck Castle, Bacharach" image="1824R-49767.jpg" smallImage="1824R-49767_preview.jpg" unlockingPuzzleIds="1848R-642016">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Château Stahleck, Bacharach" />
+          <Language key="it-IT" value="Castello di Stahleck, Bacharach" />
+          <Language key="de-DE" value="Burg Stahleck, Bacharach" />
+          <Language key="es-ES" value="Castillo de Stahleck, Bacharach" />
+          <Language key="pt-BR" value="Castelo de Stahleck, Bacharach" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-823819" title="Jasmund National Park" image="1848R-823819.jpg" smallImage="1848R-823819_preview.jpg" unlockingPuzzleIds="1824R-49767">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national de Jasmund" />
+          <Language key="it-IT" value="Parco nazionale di Jasmund" />
+          <Language key="de-DE" value="Nationalpark Jasmund" />
+          <Language key="es-ES" value="Parque nacional Jasmund" />
+          <Language key="pt-BR" value="Parque Nacional de Jasmund" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-85191" title="Bamberg" image="1815R-85191.jpg" smallImage="1815R-85191_preview.jpg" unlockingPuzzleIds="1848R-823819">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bamberg" />
+          <Language key="it-IT" value="Bamberga" />
+          <Language key="de-DE" value="Bamberg" />
+          <Language key="es-ES" value="Bamberg" />
+          <Language key="pt-BR" value="Bamberg" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-93140" title="Lake Wildensee" image="1828R-93140.jpg" smallImage="1828R-93140_preview.jpg" unlockingPuzzleIds="1815R-85191">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac Wildensee" />
+          <Language key="it-IT" value="Lago Wildensee" />
+          <Language key="de-DE" value="Wildensee" />
+          <Language key="es-ES" value="Lago Wildensee" />
+          <Language key="pt-BR" value="Lago Wildensee" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-97150" title="Kufstein Fortress, Austria" image="1815R-97150.jpg" smallImage="1815R-97150_preview.jpg" unlockingPuzzleIds="1828R-93140">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Forteresse de Kufstein, Autriche" />
+          <Language key="it-IT" value="Fortezza di Kufstein, Austria" />
+          <Language key="de-DE" value="Festung Kufstein, Österreich" />
+          <Language key="es-ES" value="Fortaleza de Kufstein, Austria" />
+          <Language key="pt-BR" value="Fortaleza de Kufstein, Áustria" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-122266" title="Sauerbraten" image="1815R-122266.jpg" smallImage="1815R-122266_preview.jpg" unlockingPuzzleIds="1815R-97150">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sauerbraten" />
+          <Language key="it-IT" value="Sauerbraten" />
+          <Language key="de-DE" value="Sauerbraten" />
+          <Language key="es-ES" value="Sauerbraten" />
+          <Language key="pt-BR" value="Sauerbraten" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-84928" title="Geroldsee Lake, Krün" image="1828R-84928.jpg" smallImage="1828R-84928_preview.jpg" unlockingPuzzleIds="1815R-122266">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac Geroldsee, Krün" />
+          <Language key="it-IT" value="Lago Geroldsee, Krün" />
+          <Language key="de-DE" value="Geroldsee, Krün" />
+          <Language key="es-ES" value="Lago Geroldsee, Krün" />
+          <Language key="pt-BR" value="Lago Geroldsee, Krün" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-144000" title="Befreiungshalle" image="1815R-144000.jpg" smallImage="1815R-144000_preview.jpg" unlockingPuzzleIds="1828R-84928">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Befreiungshalle" />
+          <Language key="it-IT" value="Befreiungshalle" />
+          <Language key="de-DE" value="Befreiungshalle" />
+          <Language key="es-ES" value="Befreiungshalle" />
+          <Language key="pt-BR" value="Befreiungshalle" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-83744" title="Weißenburg" image="1815R-83744.jpg" smallImage="1815R-83744_preview.jpg" unlockingPuzzleIds="1815R-144000">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Weissenburg, Bavière" />
+          <Language key="it-IT" value="Weißenburg" />
+          <Language key="de-DE" value="Weißenburg" />
+          <Language key="es-ES" value="Weißenburg" />
+          <Language key="pt-BR" value="Weißenburg" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

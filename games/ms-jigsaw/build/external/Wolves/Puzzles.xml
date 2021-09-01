@@ -1,0 +1,88 @@
+<Puzzles>
+  <Groups packId="WolvesPack">
+    <Group id="Wolves" title="Wolves" sentientId="266" revision="8" packImage="1889R-2143_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Loups" />
+        <Language key="it-IT" value="Lupi" />
+        <Language key="de-DE" value="Wölfe" />
+        <Language key="es-ES" value="Lobos" />
+        <Language key="pt-BR" value="Lobos" />
+      </GroupLocalization>
+      <Puzzle id="1889R-2143" title="Wolf" image="1889R-2143.jpg" smallImage="1889R-2143_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Loup" />
+          <Language key="it-IT" value="Lupo" />
+          <Language key="de-DE" value="Wolf" />
+          <Language key="es-ES" value="Lobo" />
+          <Language key="pt-BR" value="Lobo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-71595" title="Timber Wolf" image="1828R-71595.jpg" smallImage="1828R-71595_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Loup du Canada" />
+          <Language key="it-IT" value="Lupo grigio" />
+          <Language key="de-DE" value="Timberwolf" />
+          <Language key="es-ES" value="Lobos grises" />
+          <Language key="pt-BR" value="Lobo-cinzento" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-99937" title="Wolf in Autumn Forest" image="1647R-99937.jpg" smallImage="1647R-99937_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Loup dans forêt d'automne" />
+          <Language key="it-IT" value="Lupo nella foresta autunnale" />
+          <Language key="de-DE" value="Wolf in herbstlichem Wald" />
+          <Language key="es-ES" value="Lobo del bosque otoñal" />
+          <Language key="pt-BR" value="Lobo na floresta no outono" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-188907" title="Wolf Tracks in the Mud" image="4029R-188907.jpg" smallImage="4029R-188907_preview.jpg" unlockingPuzzleIds="1889R-2143,1828R-71595,1647R-99937">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Empreintes de loup dans la boue" />
+          <Language key="it-IT" value="Impronte di lupo nel fango" />
+          <Language key="de-DE" value="Wolfsspuren im Schlamm" />
+          <Language key="es-ES" value="Huellas de lobos en el barro" />
+          <Language key="pt-BR" value="Pegadas de lobo na lama" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-2041" title="Wolves in Winter Forest" image="1889R-2041.jpg" smallImage="1889R-2041_preview.jpg" unlockingPuzzleIds="4029R-188907">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Loups dans forêt d'hiver" />
+          <Language key="it-IT" value="Lupi nella foresta invernale" />
+          <Language key="de-DE" value="Wölfe im winterlichen Wald" />
+          <Language key="es-ES" value="Lobos del bosque invernal" />
+          <Language key="pt-BR" value="Lobos na floresta no inverno" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

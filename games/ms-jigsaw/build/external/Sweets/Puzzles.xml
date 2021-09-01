@@ -1,0 +1,88 @@
+<Puzzles>
+  <Groups packId="SweetsPack">
+    <Group id="Sweets" title="Sweets" sentientId="256" revision="10" packImage="1532R-34089_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Sucreries" />
+        <Language key="it-IT" value="Dolciumi" />
+        <Language key="de-DE" value="Süßes" />
+        <Language key="es-ES" value="Dulces" />
+        <Language key="pt-BR" value="Doces" />
+      </GroupLocalization>
+      <Puzzle id="1532R-34089" title="Strawberry Cake" image="1532R-34089.jpg" smallImage="1532R-34089_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gâteau aux fraises" />
+          <Language key="it-IT" value="Torta di fragole" />
+          <Language key="de-DE" value="Erdbeertorte" />
+          <Language key="es-ES" value="Tarta de fresa" />
+          <Language key="pt-BR" value="Bolo de morango" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1799R-5849" title="Gingerbread Men in a Tray" image="1799R-5849.jpg" smallImage="1799R-5849_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Plateau de bonhommes en pain d'épices" />
+          <Language key="it-IT" value="Vassoio di omini di pan di zenzero" />
+          <Language key="de-DE" value="Lebkuchenfiguren auf Tablett" />
+          <Language key="es-ES" value="Bandeja de galletas de jengibre" />
+          <Language key="pt-BR" value="Biscoitos de gengibre em uma bandeja" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-87302" title="Bowl of Fruit for Picnic" image="1828R-87302.jpg" smallImage="1828R-87302_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bol de fruits pour pique-nique" />
+          <Language key="it-IT" value="Ciotola di frutta per picnic" />
+          <Language key="de-DE" value="Obstschale beim Picknick" />
+          <Language key="es-ES" value="Cuenco de frutas de picnic" />
+          <Language key="pt-BR" value="Tigela de frutas em um piquenique" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1532R-67901" title="Pies" image="1532R-67901.jpg" smallImage="1532R-67901_preview.jpg" unlockingPuzzleIds="1532R-34089,1799R-5849,1828R-87302">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tartes" />
+          <Language key="it-IT" value="Tortine" />
+          <Language key="de-DE" value="Gefülltes Gebäck" />
+          <Language key="es-ES" value="Tartas" />
+          <Language key="pt-BR" value="Tortas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-59240" title="Cookies" image="1672R-59240.jpg" smallImage="1672R-59240_preview.jpg" unlockingPuzzleIds="1532R-67901">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Biscuits" />
+          <Language key="it-IT" value="Biscotti" />
+          <Language key="de-DE" value="Kekse" />
+          <Language key="es-ES" value="Galletas" />
+          <Language key="pt-BR" value="Biscoitos" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

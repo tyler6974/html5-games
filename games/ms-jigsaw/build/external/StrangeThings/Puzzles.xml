@@ -1,0 +1,254 @@
+<Puzzles>
+  <Groups packId="StrangeThingsPack">
+    <Group id="StrangeThings" title="Strange Things" sentientId="345" revision="1" packImage="1738R-14306686_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Curiosités" />
+        <Language key="it-IT" value="Cose strane" />
+        <Language key="de-DE" value="Kurioses" />
+        <Language key="es-ES" value="Cosas extrañas" />
+        <Language key="pt-BR" value="Coisas Estranhas" />
+        <Language key="ja-JP" value="奇妙なもの" />
+      </GroupLocalization>
+      <Puzzle id="1738R-14306686" title="Scenic Doorway" image="1738R-14306686.jpg" smallImage="1738R-14306686_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Passage de porte pittoresque" />
+          <Language key="it-IT" value="Porta panoramica" />
+          <Language key="de-DE" value="Landschaft mit Tür" />
+          <Language key="es-ES" value="Puerta escénica" />
+          <Language key="pt-BR" value="Porta para a Felicidade" />
+          <Language key="ja-JP" value="眺めのいい戸口" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13745547" title="Feed Me" image="1439R-13745547.jpg" smallImage="1439R-13745547_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Donne-moi à manger" />
+          <Language key="it-IT" value="Nutrimi" />
+          <Language key="de-DE" value="Fütterung" />
+          <Language key="es-ES" value="Dame de comer" />
+          <Language key="pt-BR" value="Me Alimente" />
+          <Language key="ja-JP" value="エサちょうだい" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13761961" title="Box Mosaic" image="1439R-13761961.jpg" smallImage="1439R-13761961_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mosaïque de boîtes" />
+          <Language key="it-IT" value="Mosaico di scatole" />
+          <Language key="de-DE" value="Karton-Mosaik" />
+          <Language key="es-ES" value="Mosaico de cajas" />
+          <Language key="pt-BR" value="Mosaico de Caixas" />
+          <Language key="ja-JP" value="箱のモザイク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13761842" title="Explosive Read" image="1439R-13761842.jpg" smallImage="1439R-13761842_preview.jpg" unlockingPuzzleIds="1738R-14306686,1439R-13745547,1439R-13761961">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lecture explosive" />
+          <Language key="it-IT" value="Lettura esplosiva" />
+          <Language key="de-DE" value="Bombastisches Buch" />
+          <Language key="es-ES" value="Lectura explosiva" />
+          <Language key="pt-BR" value="Leitura Explosiva" />
+          <Language key="ja-JP" value="はじける本" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-13353070" title="Horse Casual Attire" image="1773R-13353070.jpg" smallImage="1773R-13353070_preview.jpg" unlockingPuzzleIds="1439R-13761842">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cheval en tenue décontractée" />
+          <Language key="it-IT" value="Abito da cavallo informale" />
+          <Language key="de-DE" value="Alltags-Pferde-Kleidung" />
+          <Language key="es-ES" value="Atuendo casual de caballo" />
+          <Language key="pt-BR" value="Cavalo À Casual" />
+          <Language key="ja-JP" value="普段着の馬" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-13307565" title="Urgent Tree" image="1773R-13307565.jpg" smallImage="1773R-13307565_preview.jpg" unlockingPuzzleIds="1773R-13353070">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Urgences forestières" />
+          <Language key="it-IT" value="Albero urgente" />
+          <Language key="de-DE" value="Notfall-Baum" />
+          <Language key="es-ES" value="Árbol urgente" />
+          <Language key="pt-BR" value="Árvore Urgente" />
+          <Language key="ja-JP" value="非常木" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13399875" title="Battle of the Beasts" image="1589R-13399875.jpg" smallImage="1589R-13399875_preview.jpg" unlockingPuzzleIds="1773R-13307565">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Combat de bêtes" />
+          <Language key="it-IT" value="Battaglia tra bestie" />
+          <Language key="de-DE" value="Kampf der Bestien" />
+          <Language key="es-ES" value="Batalla de las bestias" />
+          <Language key="pt-BR" value="Batalha das Feras" />
+          <Language key="ja-JP" value="獣の戦い" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13745703" title="Robot Kid" image="1439R-13745703.jpg" smallImage="1439R-13745703_preview.jpg" unlockingPuzzleIds="1589R-13399875">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Enfant robot" />
+          <Language key="it-IT" value="Ragazzo robot" />
+          <Language key="de-DE" value="Roboter-Kind" />
+          <Language key="es-ES" value="Niño robot" />
+          <Language key="pt-BR" value="Menino Robô" />
+          <Language key="ja-JP" value="ロボット少年" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-12268188" title="Hump Day Singers" image="1589R-12268188.jpg" smallImage="1589R-12268188_preview.jpg" unlockingPuzzleIds="1439R-13745703">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chorale à bosses" />
+          <Language key="it-IT" value="Cammelli cantanti" />
+          <Language key="de-DE" value="Höckapella-Trio" />
+          <Language key="es-ES" value="Cantantes de miércoles" />
+          <Language key="pt-BR" value="Cantores do Deserto" />
+          <Language key="ja-JP" value="水曜日の歌い手" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-21665959" title="Albino Alligator" image="4094R-21665959.jpg" smallImage="4094R-21665959_preview.jpg" unlockingPuzzleIds="1589R-12268188">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Alligator albinos" />
+          <Language key="it-IT" value="Alligatore albino" />
+          <Language key="de-DE" value="Albino-Alligator" />
+          <Language key="es-ES" value="Caimán albino" />
+          <Language key="pt-BR" value="Jacaré Albino" />
+          <Language key="ja-JP" value="アルビノ アリゲーター" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-224363" title="Abomination" image="1773R-224363.jpg" smallImage="1773R-224363_preview.jpg" unlockingPuzzleIds="4094R-21665959">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Abomination" />
+          <Language key="it-IT" value="Abominio" />
+          <Language key="de-DE" value="Scheußlichkeit" />
+          <Language key="es-ES" value="Abominación" />
+          <Language key="pt-BR" value="Isso Não Se Faz" />
+          <Language key="ja-JP" value="ゲテモノ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-14621350" title="Thirsty Bear" image="1589R-14621350.jpg" smallImage="1589R-14621350_preview.jpg" unlockingPuzzleIds="1773R-224363">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ours assoiffé" />
+          <Language key="it-IT" value="Orso assetato" />
+          <Language key="de-DE" value="Durstiger Bär" />
+          <Language key="es-ES" value="Oso sediento" />
+          <Language key="pt-BR" value="Urso Sedento" />
+          <Language key="ja-JP" value="のどが渇いたクマ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-141672" title="Amusement Mirage" image="1589R-141672.jpg" smallImage="1589R-141672_preview.jpg" unlockingPuzzleIds="1589R-14621350">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mirage de parc d'attractions" />
+          <Language key="it-IT" value="Miraggio di divertimento" />
+          <Language key="de-DE" value="Karussell-Fata-Morgana" />
+          <Language key="es-ES" value="Espejismo de diversión" />
+          <Language key="pt-BR" value="Miragem do Parque de Diversões" />
+          <Language key="ja-JP" value="遊園地の蜃気楼" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11973057" title="Leucistic Peacock" image="1491R-11973057.jpg" smallImage="1491R-11973057_preview.jpg" unlockingPuzzleIds="1589R-141672">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paon blanc" />
+          <Language key="it-IT" value="Pavone con leucismo" />
+          <Language key="de-DE" value="Leuzistischer Pfau" />
+          <Language key="es-ES" value="Pavo real blanco" />
+          <Language key="pt-BR" value="Pavão Leucístico" />
+          <Language key="ja-JP" value="白いクジャク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-14185779" title="Ghost Cats" image="1589R-14185779.jpg" smallImage="1589R-14185779_preview.jpg" unlockingPuzzleIds="1491R-11973057">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chats fantômes" />
+          <Language key="it-IT" value="Gatti fantasma" />
+          <Language key="de-DE" value="Geisterkatzen" />
+          <Language key="es-ES" value="Gatos fantasma" />
+          <Language key="pt-BR" value="Gatos Fantasma" />
+          <Language key="ja-JP" value="猫の幽霊" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

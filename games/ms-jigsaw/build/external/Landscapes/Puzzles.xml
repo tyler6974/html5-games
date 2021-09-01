@@ -1,0 +1,174 @@
+<Puzzles>
+  <Groups packId="LandscapesPack">
+	<Group id="Landscapes" keyTitle="ClassicPackLandscapes" packImage="147499287_preview.jpg" collectionId="nature">
+            <Grouplocalization>
+                <Language key="en-US" value="Landscapes" />
+                <Language key="fr-FR" value="Paysages" />
+                <Language key="it-IT" value="Paesaggi" />
+                <Language key="de-DE" value="Landschaft" />
+                <Language key="es-ES" value="Paisajes" />
+                <Language key="pt-BR" value="Paisagens" />
+            </Grouplocalization>
+            <Puzzle id="147499287" keyTitle="ClassicPackLandscapesImage9" smallImage="147499287_preview.jpg" image="147499287.jpg" unlockingPuzzleIds="">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Kali Basin, Hungary" />
+                    <Language key="fr-FR" value="Bassin de Kali, Hongrie" />
+                    <Language key="it-IT" value="Bacino di Kali, Ungheria" />
+                    <Language key="de-DE" value="Káli-Becken (Ungarn)" />
+                    <Language key="es-ES" value="Cuenca de Kali, Hungría" />
+                    <Language key="pt-BR" value="Kali Basin, Hungria" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1436R-427627" keyTitle="ClassicPackLandscapesImage1" image="1436R-427627.jpg" smallImage="1436R-427627_preview.jpg" unlockingPuzzleIds="">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Beach On Hvar Island, Croatia" />
+                    <Language key="fr-FR" value="Plage de l'île de Hvar, Croatie" />
+                    <Language key="it-IT" value="Spiaggia dell'isola di Hvar, Croazia" />
+                    <Language key="de-DE" value="Strand auf der Insel Hvar (Kroatien)" />
+                    <Language key="es-ES" value="Playa en la isla Hvar, Croacia" />
+                    <Language key="pt-BR" value="Praia da Ilha Hvar, Croácia" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="15,10" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1672R-18363" keyTitle="ClassicPackLandscapesImage2" smallImage="1672R-18363_preview.jpg" image="1672R-18363.jpg" unlockingPuzzleIds="">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Powerscourt Waterfall, Ireland" />
+                    <Language key="fr-FR" value="Cascade de Powerscourt, Irlande" />
+                    <Language key="it-IT" value="Cascata di Powerscourt, Irlanda" />
+                    <Language key="de-DE" value="Powerscourt-Wasserfall (Irland)" />
+                    <Language key="es-ES" value="Cascada de Powerscout, Irlanda" />
+                    <Language key="pt-BR" value="Cascata Powerscourt, Irlanda" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1598R-85436" keyTitle="ClassicPackLandscapesImage3" smallImage="1598R-85436_preview.jpg" image="1598R-85436.jpg" unlockingPuzzleIds="147499287,1436R-427627,1672R-18363">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Crater Lake, USA" />
+                    <Language key="fr-FR" value="Crater Lake, États-Unis" />
+                    <Language key="it-IT" value="Lago Crater, USA" />
+                    <Language key="de-DE" value="Crater Lake (USA)" />
+                    <Language key="es-ES" value="Lago del Cráter, Estados Unidos" />
+                    <Language key="pt-BR" value="Lago Crater, EUA" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1848R-349476" keyTitle="ClassicPackLandscapesImage4" smallImage="1848R-349476_preview.jpg" image="1848R-349476.jpg" unlockingPuzzleIds="1598R-85436">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Canyons Of The Escalante, USA" />
+                    <Language key="fr-FR" value="Canyons d'Escalante, États-Unis" />
+                    <Language key="it-IT" value="Canyon di Escalante, USA" />
+                    <Language key="de-DE" value="Canyons of the Escalante (USA)" />
+                    <Language key="es-ES" value="Cañones del Escalante, Estados Unidos" />
+                    <Language key="pt-BR" value="Desfiladeiros de Escalante, EUA" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1802R-28324" keyTitle="ClassicPackLandscapesImage5" smallImage="1802R-28324_preview.jpg" image="1802R-28324.jpg" unlockingPuzzleIds="1848R-349476">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Tate-yama, Japan" />
+                    <Language key="fr-FR" value="Tateyama, Japon" />
+                    <Language key="it-IT" value="Tateyama, Giappone" />
+                    <Language key="de-DE" value="Tate-yama (Japan)" />
+                    <Language key="es-ES" value="Monte Tate, Japón" />
+                    <Language key="pt-BR" value="Montanha Tate, Japão" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1525R-41321" keyTitle="ClassicPackLandscapesImage6" smallImage="1525R-41321_preview.jpg" image="1525R-41321.jpg" unlockingPuzzleIds="1802R-28324">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Canyonlands National Park, USA" />
+                    <Language key="fr-FR" value="Parc national de Canyonlands, États-Unis" />
+                    <Language key="it-IT" value="Parco nazionale di Canyonlands, USA" />
+                    <Language key="de-DE" value="Canyonlands-Nationalpark (USA)" />
+                    <Language key="es-ES" value="Parque Nacional de Canyonlands, Estados Unidos" />
+                    <Language key="pt-BR" value="Parque Nacional de Canyonlands, EUA" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1828R-71539" keyTitle="ClassicPackLandscapesImage7" smallImage="1828R-71539_preview.jpg" image="1828R-71539.jpg" unlockingPuzzleIds="1525R-41321">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Oxara River, Iceland" />
+                    <Language key="fr-FR" value="Rivière Öxará, Islande" />
+                    <Language key="it-IT" value="Fiume Oxara, Islanda" />
+                    <Language key="de-DE" value="Öxará-Fluss (Island)" />
+                    <Language key="es-ES" value="Río Oxara, Irlanda" />
+                    <Language key="pt-BR" value="Rio Oxara, Islândia" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="1848R-625561" keyTitle="ClassicPackLandscapesImage8" smallImage="1848R-625561_preview.jpg" image="1848R-625561.jpg" unlockingPuzzleIds="1828R-71539">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Waimakariri River, New Zealand" />
+                    <Language key="fr-FR" value="Fleuve Waimakariri, Nouvelle-Zélande" />
+                    <Language key="it-IT" value="Fiume Waimakariri, Nuova Zelanda" />
+                    <Language key="de-DE" value="Waimakariri River (Neuseeland)" />
+                    <Language key="es-ES" value="Río Waimakariri, Nueva Zelanda" />
+                    <Language key="pt-BR" value="Rio Waimakariri, Nova Zelândia" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+            <Puzzle id="160973623" keyTitle="ClassicPackLandscapesImage10" smallImage="160973623_preview.jpg" image="160973623.jpg" unlockingPuzzleIds="1848R-625561">
+                <PuzzleLocalization>
+                    <Language key="en-US" value="Carpathian Mountain Range, Europe" />
+                    <Language key="fr-FR" value="Montagnes des Carpates, Europe" />
+                    <Language key="it-IT" value="Catena montuosa dei Carpazi, Europa" />
+                    <Language key="de-DE" value="Bergzug der Karpaten (Europa)" />
+                    <Language key="es-ES" value="Cordillera de los Cárpatos, Europa" />
+                    <Language key="pt-BR" value="Cordilheira Cárpatos, Europa" />
+                </PuzzleLocalization>
+                <Difficulty>
+                    <Easy params="6,4" />
+                    <Medium params="9,6" />
+                    <Hard params="12,8" />
+                    <Expert params="18,12" />
+                </Difficulty>
+            </Puzzle>
+        </Group>
+	</Groups>
+</Puzzles>

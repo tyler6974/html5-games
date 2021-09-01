@@ -1,0 +1,174 @@
+<Puzzles>
+  <Groups packId="OutofthisWorldPack">
+    <Group id="OutofthisWorld" title="Out of this World" sentientId="345" revision="1" packImage="4128R-13682166_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="D'un autre monde" />
+        <Language key="it-IT" value="Fuori dal mondo" />
+        <Language key="de-DE" value="Nicht von dieser Welt" />
+        <Language key="es-ES" value="De otro mundo" />
+        <Language key="pt-BR" value="De Outro Mundo" />
+        <Language key="ja-JP" value="地球の外" />
+      </GroupLocalization>
+      <Puzzle id="4128R-13682166" title="Close Encounter" image="4128R-13682166.jpg" smallImage="4128R-13682166_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rencontre proche" />
+          <Language key="it-IT" value="Incontro ravvicinato" />
+          <Language key="de-DE" value="Unheimliche Begegnung" />
+          <Language key="es-ES" value="Encuentro cercano" />
+          <Language key="pt-BR" value="Contato Imediato" />
+          <Language key="ja-JP" value="近接遭遇" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-9058" title="Come back Soon" image="4239R-9058.jpg" smallImage="4239R-9058_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Reviens vite !" />
+          <Language key="it-IT" value="Torna presto" />
+          <Language key="de-DE" value="Komm bald wieder!" />
+          <Language key="es-ES" value="Vuelve pronto" />
+          <Language key="pt-BR" value="Volte Sempre" />
+          <Language key="ja-JP" value="またすぐ会おう" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-14061608" title="Taken" image="1589R-14061608.jpg" smallImage="1589R-14061608_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Enlevé" />
+          <Language key="it-IT" value="Preso" />
+          <Language key="de-DE" value="Aufgenommen" />
+          <Language key="es-ES" value="Capturado" />
+          <Language key="pt-BR" value="Capturado" />
+          <Language key="ja-JP" value="連れ去り" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-13270634" title="I want to Believe" image="4128R-13270634.jpg" smallImage="4128R-13270634_preview.jpg" unlockingPuzzleIds="4128R-13682166,4239R-9058,1589R-14061608">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Je veux y croire" />
+          <Language key="it-IT" value="Voglio crederci" />
+          <Language key="de-DE" value="Jenseits der Wahrheit" />
+          <Language key="es-ES" value="Quiero creer" />
+          <Language key="pt-BR" value="Quero Acreditar" />
+          <Language key="ja-JP" value="信じたい" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-10436" title="Planetary Sunset" image="4128R-10436.jpg" smallImage="4128R-10436_preview.jpg" unlockingPuzzleIds="4128R-13270634">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Crépuscule planétaire" />
+          <Language key="it-IT" value="Tramonto planetario" />
+          <Language key="de-DE" value="Planetarer Sonnenuntergang" />
+          <Language key="es-ES" value="Atardecer planetario" />
+          <Language key="pt-BR" value="Pôr do Sol Planetário" />
+          <Language key="ja-JP" value="惑星の夕焼け" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-21123" title="Red Giant" image="4128R-21123.jpg" smallImage="4128R-21123_preview.jpg" unlockingPuzzleIds="4128R-10436">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Géante rouge" />
+          <Language key="it-IT" value="Gigante rossa" />
+          <Language key="de-DE" value="Roter Riese" />
+          <Language key="es-ES" value="Gigante roja" />
+          <Language key="pt-BR" value="Gigante Vermelho" />
+          <Language key="ja-JP" value="巨大な赤" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-13844749" title="Abduction" image="4128R-13844749.jpg" smallImage="4128R-13844749_preview.jpg" unlockingPuzzleIds="4128R-21123">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Enlèvement" />
+          <Language key="it-IT" value="Rapimento" />
+          <Language key="de-DE" value="Entführung" />
+          <Language key="es-ES" value="Abducción" />
+          <Language key="pt-BR" value="Abdução" />
+          <Language key="ja-JP" value="アブダクション" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-9082" title="Explorer" image="4239R-9082.jpg" smallImage="4239R-9082_preview.jpg" unlockingPuzzleIds="4128R-13844749">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Explorateur" />
+          <Language key="it-IT" value="Esploratore" />
+          <Language key="de-DE" value="Kundschafter" />
+          <Language key="es-ES" value="Explorador" />
+          <Language key="pt-BR" value="Explorador" />
+          <Language key="ja-JP" value="開拓者" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-20839" title="Alien City" image="4128R-20839.jpg" smallImage="4128R-20839_preview.jpg" unlockingPuzzleIds="4239R-9082">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cité extraterrestre" />
+          <Language key="it-IT" value="Città aliena" />
+          <Language key="de-DE" value="Außerirdische Stadt" />
+          <Language key="es-ES" value="Ciudad alienígena" />
+          <Language key="pt-BR" value="Cidade Alienígena" />
+          <Language key="ja-JP" value="エイリアンの街" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-21232" title="Alien Landscape" image="4128R-21232.jpg" smallImage="4128R-21232_preview.jpg" unlockingPuzzleIds="4128R-20839">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paysage extraterrestre" />
+          <Language key="it-IT" value="Paesaggio alieno" />
+          <Language key="de-DE" value="Außerirdische Landschaft" />
+          <Language key="es-ES" value="Paisaje alienígena" />
+          <Language key="pt-BR" value="Paisagem Alienígena" />
+          <Language key="ja-JP" value="異星の風景" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

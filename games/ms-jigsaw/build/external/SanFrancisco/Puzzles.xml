@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="SanFranciscoPack">
+    <Group id="SanFrancisco" title="San Francisco" sentientId="250" revision="9" packImage="1889R-73105_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="San Francisco" />
+        <Language key="it-IT" value="San Francisco" />
+        <Language key="de-DE" value="San Francisco" />
+        <Language key="es-ES" value="San Francisco" />
+        <Language key="pt-BR" value="São Francisco" />
+      </GroupLocalization>
+      <Puzzle id="1889R-73105" title="Golden Gate Bridge" image="1889R-73105.jpg" smallImage="1889R-73105_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Golden Gate Bridge" />
+          <Language key="it-IT" value="Golden Gate Bridge" />
+          <Language key="de-DE" value="Golden Gate Bridge" />
+          <Language key="es-ES" value="Puente Golden Gate" />
+          <Language key="pt-BR" value="Golden Gate Bridge" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-43687" title="Sailboat, San Francisco Bay" image="1824R-43687.jpg" smallImage="1824R-43687_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Voilier, Baie de San Francisco" />
+          <Language key="it-IT" value="Barca a vela, Baia di San Francisco" />
+          <Language key="de-DE" value="Segelboot, San Francisco Bay" />
+          <Language key="es-ES" value="Velero, bahía de San Francisco" />
+          <Language key="pt-BR" value="Veleiro, Baía de São Francisco" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-89850" title="Financial District, San Francisco" image="1828R-89850.jpg" smallImage="1828R-89850_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Financial District, San Francisco" />
+          <Language key="it-IT" value="Financial District, San Francisco" />
+          <Language key="de-DE" value="Bankenviertel, San Francisco" />
+          <Language key="es-ES" value="Distrito financiero, San Francisco" />
+          <Language key="pt-BR" value="Financial District, São Francisco" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-287984" title="The Bay Bridge" image="1598R-287984.jpg" smallImage="1598R-287984_preview.jpg" unlockingPuzzleIds="1889R-73105,1824R-43687,1828R-89850">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le Bay Bridge" />
+          <Language key="it-IT" value="Bay Bridge" />
+          <Language key="de-DE" value="The Bay Bridge" />
+          <Language key="es-ES" value="Puente de la bahía de San Francisco" />
+          <Language key="pt-BR" value="Bay Bridge" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-10011982" title="Alamo Square" image="1598R-10011982.jpg" smallImage="1598R-10011982_preview.jpg" unlockingPuzzleIds="1598R-287984">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Alamo Square" />
+          <Language key="it-IT" value="Alamo Square" />
+          <Language key="de-DE" value="Alamo Square" />
+          <Language key="es-ES" value="Alamo Square" />
+          <Language key="pt-BR" value="Alamo Square" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-277137" title="Hyde Street" image="1848R-277137.jpg" smallImage="1848R-277137_preview.jpg" unlockingPuzzleIds="1598R-10011982">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hyde Street" />
+          <Language key="it-IT" value="Hyde Street" />
+          <Language key="de-DE" value="Hyde Street" />
+          <Language key="es-ES" value="Hyde Street" />
+          <Language key="pt-BR" value="Hyde Street" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1397R-74712" title="Lombard Street" image="1397R-74712.jpg" smallImage="1397R-74712_preview.jpg" unlockingPuzzleIds="1848R-277137">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lombard Street" />
+          <Language key="it-IT" value="Lombard Street" />
+          <Language key="de-DE" value="Lombard Street" />
+          <Language key="es-ES" value="Lombard Street" />
+          <Language key="pt-BR" value="Lombard Street" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-428962" title="Driving on Golden Gate Bridge" image="1436R-428962.jpg" smallImage="1436R-428962_preview.jpg" unlockingPuzzleIds="1397R-74712">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="En voiture sur le Golden Gate Bridge" />
+          <Language key="it-IT" value="In auto sul Golden Gate Bridge" />
+          <Language key="de-DE" value="Auf der Golden Gate Bridge" />
+          <Language key="es-ES" value="En coche por el puente Golden Gate" />
+          <Language key="pt-BR" value="Carros na Golden Gate Bridge" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1397R-74699" title="Russian Hill" image="1397R-74699.jpg" smallImage="1397R-74699_preview.jpg" unlockingPuzzleIds="1436R-428962">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Russian Hill" />
+          <Language key="it-IT" value="Russian Hill" />
+          <Language key="de-DE" value="Russian Hill" />
+          <Language key="es-ES" value="Russian Hill" />
+          <Language key="pt-BR" value="Russian Hill" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-80590" title="Houses" image="1647R-80590.jpg" smallImage="1647R-80590_preview.jpg" unlockingPuzzleIds="1397R-74699">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Maisons" />
+          <Language key="it-IT" value="Case" />
+          <Language key="de-DE" value="Hausdetail" />
+          <Language key="es-ES" value="Casas" />
+          <Language key="pt-BR" value="Casas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

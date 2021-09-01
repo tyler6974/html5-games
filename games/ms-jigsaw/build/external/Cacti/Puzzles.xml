@@ -1,0 +1,334 @@
+﻿<Puzzles>
+  <Groups packId="CactiPack">
+    <Group id="Cacti" title="Cacti" sentientId="324" revision="2" packImage="1815R-11461132_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Cactus" />
+        <Language key="it-IT" value="Cacti" />
+        <Language key="de-DE" value="Kakteen" />
+        <Language key="es-ES" value="Cactus" />
+        <Language key="pt-BR" value="Cactos" />
+        <Language key="ja-JP" value="サボテン" />
+      </GroupLocalization>
+      <Puzzle id="1815R-11461132" title="Golden Barrel Cactus" image="1815R-11461132.jpg" smallImage="1815R-11461132_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coussin de belle-mère" />
+          <Language key="it-IT" value="Cactus Barile d’oro" />
+          <Language key="de-DE" value="Goldkugelkaktus" />
+          <Language key="es-ES" value="Cactus asiento de suegra" />
+          <Language key="pt-BR" value="Cacto Barril Dourado" />
+          <Language key="ja-JP" value="キンシャチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11779260" title="Purple Prickly Pear" image="1491R-11779260.jpg" smallImage="1491R-11779260_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Opuntia macrocentra" />
+          <Language key="it-IT" value="Fico d’India viola" />
+          <Language key="de-DE" value="Violette Kaktusfeige" />
+          <Language key="es-ES" value="Nopal morado" />
+          <Language key="pt-BR" value="Opúncia Roxa" />
+          <Language key="ja-JP" value="紫ウチワサボテン " />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11903858" title="Prickly Pear Flower" image="1491R-11903858.jpg" smallImage="1491R-11903858_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleur de figuier de barbarie" />
+          <Language key="it-IT" value="Fiore di fico d’India" />
+          <Language key="de-DE" value="Kaktusfeigenblüte" />
+          <Language key="es-ES" value="Flor del nopal" />
+          <Language key="pt-BR" value="Flor de Opúncia" />
+          <Language key="ja-JP" value="ウチワサボテンの花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12013557" title="Chin Cactus Flower" image="1491R-12013557.jpg" smallImage="1491R-12013557_preview.jpg" unlockingPuzzleIds="1815R-11461132,1491R-11779260,1491R-11903858">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleur de cactus menton" />
+          <Language key="it-IT" value="Fiore di gymnocalycium" />
+          <Language key="de-DE" value="Baldi-Kaktusblüte" />
+          <Language key="es-ES" value="Flor del cactus chin" />
+          <Language key="pt-BR" value="Flor de Cacto" />
+          <Language key="ja-JP" value="ギムノカリキウムの花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12156765" title="Cardon Cactus" image="1491R-12156765.jpg" smallImage="1491R-12156765_preview.jpg" unlockingPuzzleIds="1491R-12013557">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pachycereus pringlei" />
+          <Language key="it-IT" value="Cactus gigante" />
+          <Language key="de-DE" value="Cardon-Kaktus" />
+          <Language key="es-ES" value="Cactus cardón de la puna" />
+          <Language key="pt-BR" value="Cacto Cárdon" />
+          <Language key="ja-JP" value="ブリンチュウ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13997748" title="Organ Pipe Cactus" image="1491R-13997748.jpg" smallImage="1491R-13997748_preview.jpg" unlockingPuzzleIds="1491R-12156765">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cactus orgue" />
+          <Language key="it-IT" value="Cactus a canne d’organo" />
+          <Language key="de-DE" value="Orgelpfeifenkaktus" />
+          <Language key="es-ES" value="Cactus órgano" />
+          <Language key="pt-BR" value="Cacto de Tubo" />
+          <Language key="ja-JP" value="オルガン・パイプ・カクタス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13334166" title="Cardon by the Water" image="1589R-13334166.jpg" smallImage="1589R-13334166_preview.jpg" unlockingPuzzleIds="1491R-13997748">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pachycereus pringlei côtier" />
+          <Language key="it-IT" value="Cactus gigante sull’acqua" />
+          <Language key="de-DE" value="Cardon-Kaktus am Wasser" />
+          <Language key="es-ES" value="Cardón cerca del agua" />
+          <Language key="pt-BR" value="Cárdon Perto da Água" />
+          <Language key="ja-JP" value="水辺のブリンチュウ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13971556" title="Saguaro National Park" image="1598R-13971556.jpg" smallImage="1598R-13971556_preview.jpg" unlockingPuzzleIds="1589R-13334166">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national de Saguaro" />
+          <Language key="it-IT" value="Parco nazionale Saguaro" />
+          <Language key="de-DE" value="Saguaro National Park" />
+          <Language key="es-ES" value="Parque nacional Saguaro" />
+          <Language key="pt-BR" value="Parque Nacional de Saguaro" />
+          <Language key="ja-JP" value="サワロ国立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-14927238" title="Red Torch Cactus" image="1598R-14927238.jpg" smallImage="1598R-14927238_preview.jpg" unlockingPuzzleIds="1598R-13971556">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Echinopsis huascha à fleurs rouges" />
+          <Language key="it-IT" value="Cactus torcia" />
+          <Language key="de-DE" value="Rotfeuerkaktus" />
+          <Language key="es-ES" value="Cactus antorcha roja" />
+          <Language key="pt-BR" value="Cacto Tocha Vermelha" />
+          <Language key="ja-JP" value="カセイリュウ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-14931565" title="Cacti Variety" image="1598R-14931565.jpg" smallImage="1598R-14931565_preview.jpg" unlockingPuzzleIds="1598R-14927238">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Assortiment de cactus" />
+          <Language key="it-IT" value="Varietà di cactus" />
+          <Language key="de-DE" value="Kakteenvielfalt" />
+          <Language key="es-ES" value="Variedades de cactus" />
+          <Language key="pt-BR" value="Cactos Diversos" />
+          <Language key="ja-JP" value="様々なサボテン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11673674" title="Candy Barrel Cactus Flower" image="1672R-11673674.jpg" smallImage="1672R-11673674_preview.jpg" unlockingPuzzleIds="1598R-14931565">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleur de ferocactus wislizeni" />
+          <Language key="it-IT" value="Cactus Candy barrel" />
+          <Language key="de-DE" value="Bonbonnierenkaktusblüte" />
+          <Language key="es-ES" value="Flor del cactus biznaga de agua" />
+          <Language key="pt-BR" value="Flor de Cacto de Barril" />
+          <Language key="ja-JP" value="キンセキリュウの花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11680813" title="Saguaro with Drooping Arms" image="1672R-11680813.jpg" smallImage="1672R-11680813_preview.jpg" unlockingPuzzleIds="1672R-11673674">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Saguaro à bras ballants" />
+          <Language key="it-IT" value="Saguaro con rami cadenti" />
+          <Language key="de-DE" value="Saguaro-Kaktus mit hängenden Armen" />
+          <Language key="es-ES" value="Saguaro con brazos caídos" />
+          <Language key="pt-BR" value="Saguaro de Braços Caídos" />
+          <Language key="ja-JP" value="両腕が垂れたベンケイチュウ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11656770" title="Colorful Cacti Variety" image="1672R-11656770.jpg" smallImage="1672R-11656770_preview.jpg" unlockingPuzzleIds="1672R-11680813">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Assortiment coloré de cactus" />
+          <Language key="it-IT" value="Varietà colorata di cactus" />
+          <Language key="de-DE" value="Bunte Kakteenvielfalt" />
+          <Language key="es-ES" value="Variedades de cactus coloridos" />
+          <Language key="pt-BR" value="Cactos Coloridos Diversos" />
+          <Language key="ja-JP" value="カラフルな鉢に入った様々なサボテン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11853012" title="Palm Springs Cactus" image="1672R-11853012.jpg" smallImage="1672R-11853012_preview.jpg" unlockingPuzzleIds="1672R-11656770">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cactus de Palm Springs" />
+          <Language key="it-IT" value="Cactus di Palm Springs" />
+          <Language key="de-DE" value="Palm-Springs-Kaktus" />
+          <Language key="es-ES" value="Cactus de Palm Springs" />
+          <Language key="pt-BR" value="Cacto de Palm Springs" />
+          <Language key="ja-JP" value="パームスプリングスのサボテン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12838297" title="Cholla and Saguaros" image="1672R-12838297.jpg" smallImage="1672R-12838297_preview.jpg" unlockingPuzzleIds="1672R-11853012">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cylindropuntia et saguaros" />
+          <Language key="it-IT" value="Cactus cholla e saguaro" />
+          <Language key="de-DE" value="Cholla- und Saguaro-Kakteen" />
+          <Language key="es-ES" value="Choyas y saguaros" />
+          <Language key="pt-BR" value="Cholla e Saguaros" />
+          <Language key="ja-JP" value="チョーヤとベンケイチュウ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-14927242" title="Arizona Blossoms" image="1598R-14927242.jpg" smallImage="1598R-14927242_preview.jpg" unlockingPuzzleIds="1672R-12838297">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs d'Arizona" />
+          <Language key="it-IT" value="Fiori dell’Arizona" />
+          <Language key="de-DE" value="Arizonablüten" />
+          <Language key="es-ES" value="Flores de Arizona" />
+          <Language key="pt-BR" value="Flores do Arizona" />
+          <Language key="ja-JP" value="アリゾナのサボテンの花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-53719" title="Yellow Cactus Flowers" image="4279R-53719.jpg" smallImage="4279R-53719_preview.jpg" unlockingPuzzleIds="1598R-14927242">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs jaunes de cactus" />
+          <Language key="it-IT" value="Fiori di cactus gialli" />
+          <Language key="de-DE" value="Gelbe Kaktusblüten" />
+          <Language key="es-ES" value="Flores de cactus amarillas" />
+          <Language key="pt-BR" value="Flores Amarelas de Cacto" />
+          <Language key="ja-JP" value="サボテンの黄色い花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34768" title="Paradise Valley Flowers" image="4094R-34768.jpg" smallImage="4094R-34768_preview.jpg" unlockingPuzzleIds="4279R-53719">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs de Paradise Valley" />
+          <Language key="it-IT" value="Fiori della Valle del Paradiso" />
+          <Language key="de-DE" value="Paradise-Valley-Blüten" />
+          <Language key="es-ES" value="Flores de Paradise Valley" />
+          <Language key="pt-BR" value="Flores de Paradise Valley" />
+          <Language key="ja-JP" value="パラダイスバレーのサボテンの花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-11293249" title="Prickly Pear in Spain" image="4128R-11293249.jpg" smallImage="4128R-11293249_preview.jpg" unlockingPuzzleIds="4094R-34768">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Figuier de barbarie espagnol" />
+          <Language key="it-IT" value="Fico d’India in Spagna" />
+          <Language key="de-DE" value="Kaktusfeige in Spanien" />
+          <Language key="es-ES" value="Chumbera en España" />
+          <Language key="pt-BR" value="Opúncia na Espanha" />
+          <Language key="ja-JP" value="スペインのウチワサボテン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11748492" title="Saguaro Blooms" image="1491R-11748492.jpg" smallImage="1491R-11748492_preview.jpg" unlockingPuzzleIds="4128R-11293249">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs de saguaro" />
+          <Language key="it-IT" value="Fiori di saguaro" />
+          <Language key="de-DE" value="Saguaro-Blüten" />
+          <Language key="es-ES" value="Saguaro en flor" />
+          <Language key="pt-BR" value="Flores de Saguaro" />
+          <Language key="ja-JP" value="ベンケイチュウの花" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

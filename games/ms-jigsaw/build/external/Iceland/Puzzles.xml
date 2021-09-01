@@ -1,0 +1,313 @@
+<Puzzles>
+  <Groups packId="IcelandPack">
+    <Group id="Iceland" title="Iceland" sentientId="0" revision="2" packImage="1828R-82854_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Islande" />
+        <Language key="it-IT" value="Islanda" />
+        <Language key="de-DE" value="Island" />
+        <Language key="es-ES" value="Islandia" />
+        <Language key="pt-BR" value="Islândia" />
+      </GroupLocalization>
+      <Puzzle id="1828R-82854" title="West Fjords" image="1828R-82854.jpg" smallImage="1828R-82854_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fjords dans l'Ouest" />
+          <Language key="it-IT" value="Fiordi occidentali" />
+          <Language key="de-DE" value="Westfjorde" />
+          <Language key="es-ES" value="Fiordos occidentales" />
+          <Language key="pt-BR" value="Fiordes do oeste" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-646211" title="Krafla Caldera" image="1848R-646211.jpg" smallImage="1848R-646211_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Caldeira de Krafla" />
+          <Language key="it-IT" value="Caldera di Krafla" />
+          <Language key="de-DE" value="Krafla-Caldera" />
+          <Language key="es-ES" value="Caldera Krafla" />
+          <Language key="pt-BR" value="Caldera de Krafla" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-96033" title="Church at Hlíðarendi" image="1828R-96033.jpg" smallImage="1828R-96033_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Église à Hlíðarendi" />
+          <Language key="it-IT" value="Chiesa di Hlíðarendi" />
+          <Language key="de-DE" value="Kirche in Hlíðarendi" />
+          <Language key="es-ES" value="Iglesia en Hlíðarendi" />
+          <Language key="pt-BR" value="Igreja em Hlíðarendi" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-663227" title="Puffin at Látrabjarg Peninsula" image="1848R-663227.jpg" smallImage="1848R-663227_preview.jpg" unlockingPuzzleIds="1828R-82854,1848R-646211,1828R-96033">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Macareux sur la péninsule de Látrabjarg" />
+          <Language key="it-IT" value="Pulcinella della penisola di Látrabjarg" />
+          <Language key="de-DE" value="Papageitaucher auf der Látrabjarg-Halbinsel" />
+          <Language key="es-ES" value="Frailecillo en la península de Látrabjarg" />
+          <Language key="pt-BR" value="Arau na península de Látrabjarg" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-150934" title="Stokkur Geyser" image="1773R-150934.jpg" smallImage="1773R-150934_preview.jpg" unlockingPuzzleIds="1848R-663227">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Geyser de Stokkur" />
+          <Language key="it-IT" value="Geyser di Stokkur" />
+          <Language key="de-DE" value="Strokkur-Geysir" />
+          <Language key="es-ES" value="Géiser Strokkur" />
+          <Language key="pt-BR" value="Gêiser de Stokkur" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1569R-9074435" title="Skjálfandafljót River" image="1569R-9074435.jpg" smallImage="1569R-9074435_preview.jpg" unlockingPuzzleIds="1773R-150934">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fiume Skjálfandafljót" />
+          <Language key="it-IT" value="Skjálfandafljót (Fluss)" />
+          <Language key="de-DE" value="Río Skjálfandafljót" />
+          <Language key="es-ES" value="Rio Skjálfandafljót" />
+          <Language key="pt-BR" value="スキャゥルファンダフリョゥト川" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-643550" title="Lupins in Vatna Glacier" image="1848R-643550.jpg" smallImage="1848R-643550_preview.jpg" unlockingPuzzleIds="1569R-9074435">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lupins devant le glacier de Vatna" />
+          <Language key="it-IT" value="Lupini al ghiacciaio Vatna" />
+          <Language key="de-DE" value="Lupinen im Vatnajökull-Gletscher" />
+          <Language key="es-ES" value="Altramuces en el glaciar Vatnajökull" />
+          <Language key="pt-BR" value="Tremoços na geleira de Vatna" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-91608" title="Lake Jökulsárlón" image="1841R-91608.jpg" smallImage="1841R-91608_preview.jpg" unlockingPuzzleIds="1848R-643550">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac Jökulsárlón" />
+          <Language key="it-IT" value="Lago Jökulsárlón" />
+          <Language key="de-DE" value="Jökulsárlón (See)" />
+          <Language key="es-ES" value="Lago Jökulsárlón" />
+          <Language key="pt-BR" value="Lago Jökulsárlón" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-33949" title="Hraunfossar" image="1672R-33949.jpg" smallImage="1672R-33949_preview.jpg" unlockingPuzzleIds="1841R-91608">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hraunfossar" />
+          <Language key="it-IT" value="Hraunfossar" />
+          <Language key="de-DE" value="Hraunfossar" />
+          <Language key="es-ES" value="Hraunfossar" />
+          <Language key="pt-BR" value="Hraunfossar" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-91625" title="Bláhnúkur Mountain" image="1841R-91625.jpg" smallImage="1841R-91625_preview.jpg" unlockingPuzzleIds="1672R-33949">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mont Bláhnúkur" />
+          <Language key="it-IT" value="Monte Bláhnúkur" />
+          <Language key="de-DE" value="Bláhnúkur (Berg)" />
+          <Language key="es-ES" value="Monte Bláhnúkur" />
+          <Language key="pt-BR" value="Montanha Bláhnúkur" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-645898" title="Breiðavík Bay" image="1848R-645898.jpg" smallImage="1848R-645898_preview.jpg" unlockingPuzzleIds="1841R-91625">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Baie de Breiðavík" />
+          <Language key="it-IT" value="Baia di Breiðavík" />
+          <Language key="de-DE" value="Breiðavík (Bucht)" />
+          <Language key="es-ES" value="Bahía de Breiðavík" />
+          <Language key="pt-BR" value="Baía de Breiðavík" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-633124" title="Icelandic Horses" image="1848R-633124.jpg" smallImage="1848R-633124_preview.jpg" unlockingPuzzleIds="1848R-645898">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chevaux islandais" />
+          <Language key="it-IT" value="Cavalli islandesi" />
+          <Language key="de-DE" value="Islandpferde" />
+          <Language key="es-ES" value="Caballos islandeses" />
+          <Language key="pt-BR" value="Cavalos islandeses" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-81464" title="Reynisfjall" image="1672R-81464.jpg" smallImage="1672R-81464_preview.jpg" unlockingPuzzleIds="1848R-633124">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Reynisfjall" />
+          <Language key="it-IT" value="Reynisfjall" />
+          <Language key="de-DE" value="Reynisfjall" />
+          <Language key="es-ES" value="Reynisfjall" />
+          <Language key="pt-BR" value="Reynisfjall" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-640879" title="Svatifoss Waterfall" image="1848R-640879.jpg" smallImage="1848R-640879_preview.jpg" unlockingPuzzleIds="1672R-81464">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cascade de Svartifoss" />
+          <Language key="it-IT" value="Cascata di Svatifoss" />
+          <Language key="de-DE" value="Svartifoss (Wasserfall)" />
+          <Language key="es-ES" value="Cascada Svatifoss" />
+          <Language key="pt-BR" value="Cascata de Svatifoss" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-87491" title="Grundarfjordur Bay" image="1828R-87491.jpg" smallImage="1828R-87491_preview.jpg" unlockingPuzzleIds="1848R-640879">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Baie de Grundarfjörður" />
+          <Language key="it-IT" value="Baia di Grundarfjordur" />
+          <Language key="de-DE" value="Grundarfjörður (Bucht)" />
+          <Language key="es-ES" value="Bahía de Grundarfjordur" />
+          <Language key="pt-BR" value="Baía de Grundarfjordur" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-639575" title="Húsafell" image="1848R-639575.jpg" smallImage="1848R-639575_preview.jpg" unlockingPuzzleIds="1828R-87491">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Húsafell" />
+          <Language key="it-IT" value="Húsafell" />
+          <Language key="de-DE" value="Húsafell" />
+          <Language key="es-ES" value="Húsafell" />
+          <Language key="pt-BR" value="Húsafell" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-91617" title="Knappstadir" image="1841R-91617.jpg" smallImage="1841R-91617_preview.jpg" unlockingPuzzleIds="1848R-639575">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Knappstadir" />
+          <Language key="it-IT" value="Knappstadir" />
+          <Language key="de-DE" value="Knappstadir" />
+          <Language key="es-ES" value="Knappstadir" />
+          <Language key="pt-BR" value="Knappstadir" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-641325" title="Ránagil Gorge" image="1848R-641325.jpg" smallImage="1848R-641325_preview.jpg" unlockingPuzzleIds="1841R-91617">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gorges de Ránagil" />
+          <Language key="it-IT" value="Gola di Ránagil" />
+          <Language key="de-DE" value="Ránagil (Schlucht)" />
+          <Language key="es-ES" value="Cañón de Ránagil" />
+          <Language key="pt-BR" value="Desfiladeiro de Ránagil" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-637618" title="Ljótipollur Volcanic Crater" image="1848R-637618.jpg" smallImage="1848R-637618_preview.jpg" unlockingPuzzleIds="1848R-641325">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cratère de Ljótipollur" />
+          <Language key="it-IT" value="Cratere di Ljótipollur" />
+          <Language key="de-DE" value="Ljótipollur (Vulkankrater)" />
+          <Language key="es-ES" value="Lago volcánico de Ljótipollur" />
+          <Language key="pt-BR" value="Cratera vulcânica de Ljótipollur" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1569R-9078648" title="Goðafoss Falls" image="1569R-9078648.jpg" smallImage="1569R-9078648_preview.jpg" unlockingPuzzleIds="1848R-637618">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chutes de Goðafoss" />
+          <Language key="it-IT" value="Cascate di Goðafoss" />
+          <Language key="de-DE" value="Goðafoss (Wasserfall)" />
+          <Language key="es-ES" value="Cascada Goðafoss" />
+          <Language key="pt-BR" value="Cascatas de Goðafoss" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

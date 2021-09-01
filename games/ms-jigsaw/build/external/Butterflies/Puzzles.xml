@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="ButterfliesPack">
+    <Group id="Butterflies" title="Butterflies" sentientId="209" revision="11" packImage="1815R-55703_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Papillons" />
+        <Language key="it-IT" value="Farfalle" />
+        <Language key="de-DE" value="Schmetterlinge" />
+        <Language key="es-ES" value="Mariposas" />
+        <Language key="pt-BR" value="Borboletas" />
+      </GroupLocalization>
+      <Puzzle id="1815R-55703" title="Peacock" image="1815R-55703.jpg" smallImage="1815R-55703_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paon du jour" />
+          <Language key="it-IT" value="Occhio di pavone" />
+          <Language key="de-DE" value="Tagpfauenauge" />
+          <Language key="es-ES" value="Mariposa pavo real" />
+          <Language key="pt-BR" value="Inachis io" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-326666" title="Eyed Pansy" image="4029R-326666.jpg" smallImage="4029R-326666_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Junonia orithya" />
+          <Language key="it-IT" value="Junonia orithya" />
+          <Language key="de-DE" value="Junonia orithya" />
+          <Language key="es-ES" value="Junonia orithya" />
+          <Language key="pt-BR" value="Junonia orithya" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-57694" title="Red Lacewing" image="1647R-57694.jpg" smallImage="1647R-57694_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cethosia biblis" />
+          <Language key="it-IT" value="Cethosia biblis" />
+          <Language key="de-DE" value="Cethosia biblis" />
+          <Language key="es-ES" value="Cethosia biblis" />
+          <Language key="pt-BR" value="Cethosia biblis" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1574R-24136" title="Giant Swallowtail" image="1574R-24136.jpg" smallImage="1574R-24136_preview.jpg" unlockingPuzzleIds="1815R-55703,4029R-326666,1647R-57694">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand Porte-Queue" />
+          <Language key="it-IT" value="Coda di rondine gigante" />
+          <Language key="de-DE" value="Großer Schwalbenschwanz" />
+          <Language key="es-ES" value="Mariposa cometa gigante" />
+          <Language key="pt-BR" value="Papilio cresphontes" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-445322" title="Emperor Swallowtail" image="1436R-445322.jpg" smallImage="1436R-445322_preview.jpg" unlockingPuzzleIds="1574R-24136">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Papilio ophidicephalus" />
+          <Language key="it-IT" value="Papilio ophidicephalus" />
+          <Language key="de-DE" value="Kaiser-Schwalbenschwanz" />
+          <Language key="es-ES" value="Papilio ophidicephalus" />
+          <Language key="pt-BR" value="Papilio ophidicephalus" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-394909" title="Polyommatus Icarus" image="1848R-394909.jpg" smallImage="1848R-394909_preview.jpg" unlockingPuzzleIds="1436R-445322">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Argus bleu" />
+          <Language key="it-IT" value="Polyommatus Icarus" />
+          <Language key="de-DE" value="Polyommatus Icarus" />
+          <Language key="es-ES" value="Polyommatus icarus" />
+          <Language key="pt-BR" value="Polyommatus icarus" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-10017870" title="Aster Dumosus" image="1598R-10017870.jpg" smallImage="1598R-10017870_preview.jpg" unlockingPuzzleIds="1848R-394909">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Aster Dumosus" />
+          <Language key="it-IT" value="Aster Dumosus" />
+          <Language key="de-DE" value="Aster Dumosus" />
+          <Language key="es-ES" value="Aster dumosus" />
+          <Language key="pt-BR" value="Aster dumosus" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-47168" title="Queen Butterfly" image="1525R-47168.jpg" smallImage="1525R-47168_preview.jpg" unlockingPuzzleIds="1598R-10017870">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Papillon Reine" />
+          <Language key="it-IT" value="Danaus gilippus" />
+          <Language key="de-DE" value="Danaus gilippus" />
+          <Language key="es-ES" value="Mariposa reina" />
+          <Language key="pt-BR" value="Borboleta rainha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-164666" title="Pollination of Flowers" image="1525R-164666.jpg" smallImage="1525R-164666_preview.jpg" unlockingPuzzleIds="1525R-47168">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pollinisation des fleurs" />
+          <Language key="it-IT" value="Impollinazione dei fiori" />
+          <Language key="de-DE" value="Bestäubung von Blumen" />
+          <Language key="es-ES" value="Polinización de flores" />
+          <Language key="pt-BR" value="Polinização de flores" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-10071640" title="Monarch" image="1598R-10071640.jpg" smallImage="1598R-10071640_preview.jpg" unlockingPuzzleIds="1525R-164666">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Monarque" />
+          <Language key="it-IT" value="Monarca" />
+          <Language key="de-DE" value="Monarch" />
+          <Language key="es-ES" value="Mariposa monarca" />
+          <Language key="pt-BR" value="Borboleta-monarca" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

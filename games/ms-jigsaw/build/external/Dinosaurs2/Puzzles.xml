@@ -1,0 +1,334 @@
+<Puzzles>
+  <Groups packId="Dinosaurs2Pack">
+    <Group id="Dinosaurs2" title="Dinosaurs 2" sentientId="354" revision="1" packImage="4239R-2704_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="" />
+        <Language key="it-IT" value="" />
+        <Language key="de-DE" value="" />
+        <Language key="es-ES" value="" />
+        <Language key="pt-BR" value="" />
+        <Language key="ja-JP" value="" />
+      </GroupLocalization>
+      <Puzzle id="4239R-2704" title="Mother Diplodocus" image="4239R-2704.jpg" smallImage="4239R-2704_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8844" title="T-Rex" image="4239R-8844.jpg" smallImage="4239R-8844_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6822" title="Ceratosaurus" image="4239R-6822.jpg" smallImage="4239R-6822_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8812" title="Aucasaurus" image="4239R-8812.jpg" smallImage="4239R-8812_preview.jpg" unlockingPuzzleIds="4239R-2704,4239R-8844,4239R-6822">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8845" title="Another T-Rex" image="4239R-8845.jpg" smallImage="4239R-8845_preview.jpg" unlockingPuzzleIds="4239R-8812">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8878" title="Brachiosaurus" image="4239R-8878.jpg" smallImage="4239R-8878_preview.jpg" unlockingPuzzleIds="4239R-8845">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8885" title="Spinosaurus" image="4239R-8885.jpg" smallImage="4239R-8885_preview.jpg" unlockingPuzzleIds="4239R-8878">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20482887" title="Yet another T-Rex" image="4239R-20482887.jpg" smallImage="4239R-20482887_preview.jpg" unlockingPuzzleIds="4239R-8885">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-9076" title="Compsognathus" image="4239R-9076.jpg" smallImage="4239R-9076_preview.jpg" unlockingPuzzleIds="4239R-20482887">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8820" title="Einiosaurus" image="4239R-8820.jpg" smallImage="4239R-8820_preview.jpg" unlockingPuzzleIds="4239R-9076">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-9179" title="Allosaurus" image="4239R-9179.jpg" smallImage="4239R-9179_preview.jpg" unlockingPuzzleIds="4239R-8820">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6650" title="The last T-Rex" image="4239R-6650.jpg" smallImage="4239R-6650_preview.jpg" unlockingPuzzleIds="4239R-9179">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20483004" title="Camarasaurus" image="4239R-20483004.jpg" smallImage="4239R-20483004_preview.jpg" unlockingPuzzleIds="4239R-6650">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-2714" title="Mother Spinosaurus" image="4239R-2714.jpg" smallImage="4239R-2714_preview.jpg" unlockingPuzzleIds="4239R-20483004">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20482848" title="Argentinosaurus" image="4239R-20482848.jpg" smallImage="4239R-20482848_preview.jpg" unlockingPuzzleIds="4239R-2714">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-10764" title="Fossil" image="4128R-10764.jpg" smallImage="4128R-10764_preview.jpg" unlockingPuzzleIds="4239R-20482848">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20482883" title="Just kidding, T-Rex" image="4239R-20482883.jpg" smallImage="4239R-20482883_preview.jpg" unlockingPuzzleIds="4128R-10764">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13398964" title="Deltadromeus" image="1589R-13398964.jpg" smallImage="1589R-13398964_preview.jpg" unlockingPuzzleIds="4239R-20482883">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11761415" title="Coelophysis" image="1598R-11761415.jpg" smallImage="1598R-11761415_preview.jpg" unlockingPuzzleIds="1589R-13398964">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20483019" title="Diplodocus" image="4239R-20483019.jpg" smallImage="4239R-20483019_preview.jpg" unlockingPuzzleIds="1598R-11761415">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

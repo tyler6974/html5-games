@@ -1,0 +1,388 @@
+﻿<Puzzles>
+  <Groups packId="KittensPack">
+    <Group id="Kittens" title="Kittens" sentientId="284" revision="4" packImage="1672R-49406_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Chatons" />
+        <Language key="it-IT" value="Gattini" />
+        <Language key="de-DE" value="Kätzchen" />
+        <Language key="es-ES" value="Gatitos" />
+        <Language key="pt-BR" value="Gatinhos Alemães" />
+      </GroupLocalization>
+      <Puzzle id="1672R-49406" title="Pocket Kitten" image="1672R-49406.jpg" smallImage="1672R-49406_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton de poche" />
+          <Language key="it-IT" value="Gatto tascabile" />
+          <Language key="de-DE" value="Taschenkatze" />
+          <Language key="es-ES" value="Gatito de bolsillo" />
+          <Language key="pt-BR" value="Gatinho de Bolso" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-10063734" title="Grey Tabby" image="1598R-10063734.jpg" smallImage="1598R-10063734_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tabby gris" />
+          <Language key="it-IT" value="Soriano grigio" />
+          <Language key="de-DE" value="Graue Tigerkatze" />
+          <Language key="es-ES" value="Gatito atigrado gris" />
+          <Language key="pt-BR" value="Tabby Cinza" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-59353" title="Curiosity" image="1672R-59353.jpg" smallImage="1672R-59353_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Curiosité" />
+          <Language key="it-IT" value="Curiosità" />
+          <Language key="de-DE" value="Neugier" />
+          <Language key="es-ES" value="Curiosos" />
+          <Language key="pt-BR" value="Curiosidade" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-130677" title="Red Tabby" image="1815R-130677.jpg" smallImage="1815R-130677_preview.jpg" unlockingPuzzleIds="1672R-49406,1598R-10063734,1672R-59353">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tabby roux" />
+          <Language key="it-IT" value="Soriano rosso" />
+          <Language key="de-DE" value="Rote Tigerkatze" />
+          <Language key="es-ES" value="Gatito atigrado canela" />
+          <Language key="pt-BR" value="Tabby Dourado" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-141762" title="German Kittens" image="1815R-141762.jpg" smallImage="1815R-141762_preview.jpg" unlockingPuzzleIds="1815R-130677">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chatons allemands" />
+          <Language key="it-IT" value="Mici tedeschi" />
+          <Language key="de-DE" value="Deutsche Kätzchen" />
+          <Language key="es-ES" value="Gatitos alemanes" />
+          <Language key="pt-BR" value="Gatinhos Alemães" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-97777" title="Extreme Close-Up" image="1824R-97777.jpg" smallImage="1824R-97777_preview.jpg" unlockingPuzzleIds="1815R-141762">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Très gros plan" />
+          <Language key="it-IT" value="Primissimo piano" />
+          <Language key="de-DE" value="Nahaufnahme" />
+          <Language key="es-ES" value="Primer plano" />
+          <Language key="pt-BR" value="Bem de Perto" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-523492" title="Bored" image="1848R-523492.jpg" smallImage="1848R-523492_preview.jpg" unlockingPuzzleIds="1824R-97777">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ennui" />
+          <Language key="it-IT" value="Annoiato" />
+          <Language key="de-DE" value="Langeweile" />
+          <Language key="es-ES" value="Aburrido" />
+          <Language key="pt-BR" value="Tédio" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-68139" title="Cat from the Cloth" image="1889R-68139.jpg" smallImage="1889R-68139_preview.jpg" unlockingPuzzleIds="1848R-523492">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat et laine" />
+          <Language key="it-IT" value="Gatto con tessuti" />
+          <Language key="de-DE" value="Katze mit Stoff" />
+          <Language key="es-ES" value="Gatito entre la ropa" />
+          <Language key="pt-BR" value="Alta Costura" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-62414" title="Kitten in a Bucket" image="4279R-62414.jpg" smallImage="4279R-62414_preview.jpg" unlockingPuzzleIds="1889R-68139">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton dans un seau" />
+          <Language key="it-IT" value="Gattino nel secchio" />
+          <Language key="de-DE" value="Kätzchen im Eimer" />
+          <Language key="es-ES" value="Gatito en un cubo" />
+          <Language key="pt-BR" value="Gatinho de Balde" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-51715" title="Persian Kitten" image="4279R-51715.jpg" smallImage="4279R-51715_preview.jpg" unlockingPuzzleIds="4279R-62414">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton persan" />
+          <Language key="it-IT" value="Giovane persiano" />
+          <Language key="de-DE" value="Junge Perserkatze" />
+          <Language key="es-ES" value="Gatito persa" />
+          <Language key="pt-BR" value="Gato Persa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-52806" title="Bengal Kitten" image="4279R-52806.jpg" smallImage="4279R-52806_preview.jpg" unlockingPuzzleIds="4279R-51715">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton bengal" />
+          <Language key="it-IT" value="Gatto bengala" />
+          <Language key="de-DE" value="Junge Bengalkatze" />
+          <Language key="es-ES" value="Gatito de Bengala" />
+          <Language key="pt-BR" value="Gatinho de Bengala" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-62085" title="I Like Flowers" image="4279R-62085.jpg" smallImage="4279R-62085_preview.jpg" unlockingPuzzleIds="4279R-52806">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="J'aime les fleurs" />
+          <Language key="it-IT" value="Amo i fiori" />
+          <Language key="de-DE" value="Ich mag Blumen" />
+          <Language key="es-ES" value="Adoro las flores" />
+          <Language key="pt-BR" value="Adoro Flores" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-53370" title="British Shorthair" image="4279R-53370.jpg" smallImage="4279R-53370_preview.jpg" unlockingPuzzleIds="4279R-62085">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="British Shorthair" />
+          <Language key="it-IT" value="British Shorthair" />
+          <Language key="de-DE" value="Britisch Kurzhaar" />
+          <Language key="es-ES" value="Gatito de pelo corto inglés" />
+          <Language key="pt-BR" value="Pelo Curto Inglês" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-53598" title="Holiday Kitten" image="4279R-53598.jpg" smallImage="4279R-53598_preview.jpg" unlockingPuzzleIds="4279R-53370">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat des fêtes" />
+          <Language key="it-IT" value="Gatto natalizio" />
+          <Language key="de-DE" value="Weihnachtskatze" />
+          <Language key="es-ES" value="Gatito navideño" />
+          <Language key="pt-BR" value="Gatinho Festivo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-53600" title="Kitty Krush" image="4279R-53600.jpg" smallImage="4279R-53600_preview.jpg" unlockingPuzzleIds="4279R-53598">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat bonbon" />
+          <Language key="it-IT" value="Gatto goloso" />
+          <Language key="de-DE" value="Zuckerkätzchen" />
+          <Language key="es-ES" value="Gatito goloso" />
+          <Language key="pt-BR" value="Kitty Krush" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-59371" title="Maine Coon Kittens" image="4279R-59371.jpg" smallImage="4279R-59371_preview.jpg" unlockingPuzzleIds="4279R-53600">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chatons Maine Coon" />
+          <Language key="it-IT" value="Cuccioli di Maine Coon" />
+          <Language key="de-DE" value="Junge Maine-Coon-Katzen" />
+          <Language key="es-ES" value="Gatitos maine coon" />
+          <Language key="pt-BR" value="Filhotes de Maine Coon" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-60204" title="Kitten in a Basket" image="4279R-60204.jpg" smallImage="4279R-60204_preview.jpg" unlockingPuzzleIds="4279R-59371">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton dans un panier" />
+          <Language key="it-IT" value="Micio nel cesto" />
+          <Language key="de-DE" value="Kätzchen im Korb" />
+          <Language key="es-ES" value="Gatito en una cesta" />
+          <Language key="pt-BR" value="Gatinho de Cesto" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-52982" title="I Hate Flowers" image="4279R-52982.jpg" smallImage="4279R-52982_preview.jpg" unlockingPuzzleIds="4279R-60204">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="J'aime pas les fleurs" />
+          <Language key="it-IT" value="Odio i fiori" />
+          <Language key="de-DE" value="Ich hasse Blumen" />
+          <Language key="es-ES" value="Odio las flores" />
+          <Language key="pt-BR" value="Odeio Flores" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-62130" title="Catpuccino" image="4279R-62130.jpg" smallImage="4279R-62130_preview.jpg" unlockingPuzzleIds="4279R-52982">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chapuccino" />
+          <Language key="it-IT" value="Catpuccino" />
+          <Language key="de-DE" value="Katzpuccino" />
+          <Language key="es-ES" value="Capuchino" />
+          <Language key="pt-BR" value="Gatuccino" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-63206" title="Watering Cat" image="1598R-63206.jpg" smallImage="1598R-63206_preview.jpg" unlockingPuzzleIds="4279R-62130">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat arrosoir" />
+          <Language key="it-IT" value="Gatto e innaffiatoio" />
+          <Language key="de-DE" value="Kannenkätzchen" />
+          <Language key="es-ES" value="Gatito en una regadera" />
+          <Language key="pt-BR" value="Gatinho de Jardim" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-63098" title="Grey Kitten" image="4279R-63098.jpg" smallImage="4279R-63098_preview.jpg" unlockingPuzzleIds="1598R-63206">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton gris" />
+          <Language key="it-IT" value="Micio grigio" />
+          <Language key="de-DE" value="Graues Kätzchen" />
+          <Language key="es-ES" value="Gatito gris" />
+          <Language key="pt-BR" value="Gatinho Cinza" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-63124" title="Playtime" image="4279R-63124.jpg" smallImage="4279R-63124_preview.jpg" unlockingPuzzleIds="4279R-63098">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="On joue ?" />
+          <Language key="it-IT" value="Giocare" />
+          <Language key="de-DE" value="Zeit zum Spielen" />
+          <Language key="es-ES" value="Hora de jugar" />
+          <Language key="pt-BR" value="Hora de Brincar" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-68934" title="Secret Garden" image="1889R-68934.jpg" smallImage="1889R-68934_preview.jpg" unlockingPuzzleIds="4279R-63124">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jardin secret" />
+          <Language key="it-IT" value="Giardino segreto" />
+          <Language key="de-DE" value="Geheimer Garten" />
+          <Language key="es-ES" value="Jardín secreto" />
+          <Language key="pt-BR" value="Jardim Secreto" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-62396" title="I Don't Mind Flowers" image="4279R-62396.jpg" smallImage="4279R-62396_preview.jpg" unlockingPuzzleIds="1889R-68934">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Je me fiche des fleurs" />
+          <Language key="it-IT" value="Non bado ai fiori" />
+          <Language key="de-DE" value="Blumen sind okay" />
+          <Language key="es-ES" value="Paso de las flores" />
+          <Language key="pt-BR" value="Flores? Nem ligo." />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1142615" title="3 Amigos" image="1439R-1142615.jpg" smallImage="1439R-1142615_preview.jpg" unlockingPuzzleIds="4279R-62396">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="3 amigos" />
+          <Language key="it-IT" value="3 Amigos" />
+          <Language key="de-DE" value="3 Amigos" />
+          <Language key="es-ES" value="Tres amigos" />
+          <Language key="pt-BR" value="3 Amigos!" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

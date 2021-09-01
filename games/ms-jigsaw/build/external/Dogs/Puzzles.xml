@@ -1,0 +1,238 @@
+<Puzzles>
+  <Groups packId="DogsPack">
+    <Group id="Dogs" title="Dogs" sentientId="277" revision="3" packImage="1040DS-00001_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Chiens" />
+        <Language key="it-IT" value="Cani" />
+        <Language key="de-DE" value="Hunde" />
+        <Language key="es-ES" value="Perros" />
+        <Language key="pt-BR" value="Cães" />
+      </GroupLocalization>
+      <Puzzle id="1040DS-00001" title="Wyoming" image="1040DS-00001.jpg" smallImage="1040DS-00001_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wyoming" />
+          <Language key="it-IT" value="Wyoming" />
+          <Language key="de-DE" value="Wyoming" />
+          <Language key="es-ES" value="Golden" />
+          <Language key="pt-BR" value="ワイオミング" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00002" title="Sasha" image="1040DS-00002.jpg" smallImage="1040DS-00002_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sasha" />
+          <Language key="it-IT" value="Sasha" />
+          <Language key="de-DE" value="Sasha" />
+          <Language key="es-ES" value="Sasha" />
+          <Language key="pt-BR" value="サーシャ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00003" title="Casey Doodle" image="1040DS-00003.jpg" smallImage="1040DS-00003_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Casey" />
+          <Language key="it-IT" value="Casey" />
+          <Language key="de-DE" value="Casey" />
+          <Language key="es-ES" value="Cachorrinho" />
+          <Language key="pt-BR" value="ケイシードゥードゥル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00004" title="Radar" image="1040DS-00004.jpg" smallImage="1040DS-00004_preview.jpg" unlockingPuzzleIds="1040DS-00001,1040DS-00002,1040DS-00003">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Radar" />
+          <Language key="it-IT" value="Radar" />
+          <Language key="de-DE" value="Radar" />
+          <Language key="es-ES" value="Radar" />
+          <Language key="pt-BR" value="レーダー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00005" title="Caesar" image="1040DS-00005.jpg" smallImage="1040DS-00005_preview.jpg" unlockingPuzzleIds="1040DS-00004">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cesare" />
+          <Language key="it-IT" value="Caesar" />
+          <Language key="de-DE" value="César" />
+          <Language key="es-ES" value="Roger" />
+          <Language key="pt-BR" value="シーザー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00006" title="Boscoe" image="1040DS-00006.jpg" smallImage="1040DS-00006_preview.jpg" unlockingPuzzleIds="1040DS-00005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bosco" />
+          <Language key="it-IT" value="Bosco" />
+          <Language key="de-DE" value="Bosco" />
+          <Language key="es-ES" value="Escãodido" />
+          <Language key="pt-BR" value="ボスコ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00007" title="Rosco" image="1040DS-00007.jpg" smallImage="1040DS-00007_preview.jpg" unlockingPuzzleIds="1040DS-00006">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rosco" />
+          <Language key="it-IT" value="Rosco" />
+          <Language key="de-DE" value="Rosco" />
+          <Language key="es-ES" value="Bowie" />
+          <Language key="pt-BR" value="ロスコ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00008" title="Zoey" image="1040DS-00008.jpg" smallImage="1040DS-00008_preview.jpg" unlockingPuzzleIds="1040DS-00007">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Zoey" />
+          <Language key="it-IT" value="Zoey" />
+          <Language key="de-DE" value="Zoey" />
+          <Language key="es-ES" value="Zoé" />
+          <Language key="pt-BR" value="ゾーイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00009" title="Long Beach" image="1040DS-00009.jpg" smallImage="1040DS-00009_preview.jpg" unlockingPuzzleIds="1040DS-00008">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Spiaggia" />
+          <Language key="it-IT" value="Hund am Strand" />
+          <Language key="de-DE" value="Perro en la playa" />
+          <Language key="es-ES" value="Cão na Praia" />
+          <Language key="pt-BR" value="ロングビーチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00010" title="Cosmo" image="1040DS-00010.jpg" smallImage="1040DS-00010_preview.jpg" unlockingPuzzleIds="1040DS-00009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cosmo" />
+          <Language key="it-IT" value="Cosmo" />
+          <Language key="de-DE" value="Cosmo" />
+          <Language key="es-ES" value="Cosmo" />
+          <Language key="pt-BR" value="コスモ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00011" title="Schnauzers" image="1040DS-00011.jpg" smallImage="1040DS-00011_preview.jpg" unlockingPuzzleIds="1040DS-00010">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Schnauzer" />
+          <Language key="it-IT" value="Schnauzer" />
+          <Language key="de-DE" value="Schnauzers" />
+          <Language key="es-ES" value="Schnauzers" />
+          <Language key="pt-BR" value="シュナウザー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00012" title="Double Dog Dare" image="1040DS-00012.jpg" smallImage="1040DS-00012_preview.jpg" unlockingPuzzleIds="1040DS-00011">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Doppia razione" />
+          <Language key="it-IT" value="Hundeduo" />
+          <Language key="de-DE" value="Dos perros mirando" />
+          <Language key="es-ES" value="Irmãos Caninos" />
+          <Language key="pt-BR" value="まるで双子" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00013" title="Tye" image="1040DS-00013.jpg" smallImage="1040DS-00013_preview.jpg" unlockingPuzzleIds="1040DS-00012">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tye" />
+          <Language key="it-IT" value="Tye" />
+          <Language key="de-DE" value="Tye" />
+          <Language key="es-ES" value="Spaniel" />
+          <Language key="pt-BR" value="タイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00014" title="King Henry" image="1040DS-00014.jpg" smallImage="1040DS-00014_preview.jpg" unlockingPuzzleIds="1040DS-00013">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Re Henry" />
+          <Language key="it-IT" value="König Henry" />
+          <Language key="de-DE" value="Rey Enrique" />
+          <Language key="es-ES" value="Rei Pinscher" />
+          <Language key="pt-BR" value="キングヘンリー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040DS-00015" title="Vino" image="1040DS-00015.jpg" smallImage="1040DS-00015_preview.jpg" unlockingPuzzleIds="1040DS-00014">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vino" />
+          <Language key="it-IT" value="Vino" />
+          <Language key="de-DE" value="Vino" />
+          <Language key="es-ES" value="Beagle" />
+          <Language key="pt-BR" value="ヴィノ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

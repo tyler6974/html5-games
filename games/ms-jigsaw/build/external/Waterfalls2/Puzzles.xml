@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="Waterfalls2Pack">
+    <Group id="Waterfalls2" title="Waterfalls 2" sentientId="0" revision="4" packImage="1041MW-00001_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Chutes d'eau 2" />
+        <Language key="it-IT" value="Cascate 2" />
+        <Language key="de-DE" value="Wasserfälle 2" />
+        <Language key="es-ES" value="Cascadas 2" />
+        <Language key="pt-BR" value="Quedas-d'água 2" />
+      </GroupLocalization>
+      <Puzzle id="1041MW-00001" title="Milky Falls" image="1041MW-00001.jpg" smallImage="1041MW-00001_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chutes laiteuses" />
+          <Language key="it-IT" value="Cascata lattea" />
+          <Language key="de-DE" value="Weiße Fälle" />
+          <Language key="es-ES" value="Cascadas blancas" />
+          <Language key="pt-BR" value="Cachoeira" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00002" title="Mountain Stream" image="1041MW-00002.jpg" smallImage="1041MW-00002_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rivière de montagne" />
+          <Language key="it-IT" value="Corso di montagna" />
+          <Language key="de-DE" value="Bergstrom" />
+          <Language key="es-ES" value="Arroyo de montaña" />
+          <Language key="pt-BR" value="Riacho de Montanha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00003" title="Colorado Falls" image="1041MW-00003.jpg" smallImage="1041MW-00003_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chutes du Colorado" />
+          <Language key="it-IT" value="Cascate del Colorado" />
+          <Language key="de-DE" value="Colorado Falls" />
+          <Language key="es-ES" value="Cascadas de Colorado" />
+          <Language key="pt-BR" value="Colorado Falls" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00004" title="Iced over" image="1041MW-00004.jpg" smallImage="1041MW-00004_preview.jpg" unlockingPuzzleIds="1041MW-00001,1041MW-00002,1041MW-00003">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ghiacciata" />
+          <Language key="it-IT" value="Überfroren" />
+          <Language key="de-DE" value="Capa de hielo" />
+          <Language key="es-ES" value="Cascata Gelada" />
+          <Language key="pt-BR" value="氷の滝" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00005" title="Hanging Lake" image="1041MW-00005.jpg" smallImage="1041MW-00005_preview.jpg" unlockingPuzzleIds="1041MW-00004">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hanging Lake" />
+          <Language key="it-IT" value="Hanging Lake" />
+          <Language key="de-DE" value="Hanging Lake" />
+          <Language key="es-ES" value="Lago Hanging" />
+          <Language key="pt-BR" value="Hanging Lake" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00006" title="Cherry Creek" image="1041MW-00006.jpg" smallImage="1041MW-00006_preview.jpg" unlockingPuzzleIds="1041MW-00005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cherry Creek" />
+          <Language key="it-IT" value="Cherry Creek" />
+          <Language key="de-DE" value="Cherry Creek" />
+          <Language key="es-ES" value="Arroyo Cherry" />
+          <Language key="pt-BR" value="Cherry Creek" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00007" title="Orcières" image="1041MW-00007.jpg" smallImage="1041MW-00007_preview.jpg" unlockingPuzzleIds="1041MW-00006">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orcières" />
+          <Language key="it-IT" value="Orcières" />
+          <Language key="de-DE" value="Orcières" />
+          <Language key="es-ES" value="Orcières" />
+          <Language key="pt-BR" value="Orcieres" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00008" title="Snoqualmie" image="1041MW-00008.jpg" smallImage="1041MW-00008_preview.jpg" unlockingPuzzleIds="1041MW-00007">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Snoqualmie" />
+          <Language key="it-IT" value="Snoqualmie" />
+          <Language key="de-DE" value="Snoqualmie" />
+          <Language key="es-ES" value="Snoqualmie" />
+          <Language key="pt-BR" value="Snoqualmie" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00009" title="Misty Falls" image="1041MW-00009.jpg" smallImage="1041MW-00009_preview.jpg" unlockingPuzzleIds="1041MW-00008">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chutes brumeuses" />
+          <Language key="it-IT" value="Cascate nebbiose" />
+          <Language key="de-DE" value="Neblige Fälle" />
+          <Language key="es-ES" value="Cascadas neblinosas" />
+          <Language key="pt-BR" value="Misty Falls" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1041MW-00010" title="Multnomah" image="1041MW-00010.jpg" smallImage="1041MW-00010_preview.jpg" unlockingPuzzleIds="1041MW-00009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chutes de Multnomah" />
+          <Language key="it-IT" value="Multnomah" />
+          <Language key="de-DE" value="Multnomah" />
+          <Language key="es-ES" value="Multnomah" />
+          <Language key="pt-BR" value="Multnomah" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

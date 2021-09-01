@@ -1,0 +1,238 @@
+<Puzzles>
+  <Groups packId="LandscapePaintingsPack">
+    <Group id="LandscapePaintings" title="Landscape Paintings" sentientId="271" revision="5" packImage="1031LS-00001_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Peintures de paysages" />
+        <Language key="it-IT" value="Quadri di paesaggi" />
+        <Language key="de-DE" value="Landschaftsgemälde" />
+        <Language key="es-ES" value="Cuadros de paisajes" />
+        <Language key="pt-BR" value="Quadros de Paisagens" />
+      </GroupLocalization>
+      <Puzzle id="1031LS-00001" title="The Departure" image="1031LS-00001.jpg" smallImage="1031LS-00001_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le départ" />
+          <Language key="it-IT" value="La partenza" />
+          <Language key="de-DE" value="Die Abreise" />
+          <Language key="es-ES" value="La partida" />
+          <Language key="pt-BR" value="A Partida" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00002" title="Time and Tide" image="1031LS-00002.jpg" smallImage="1031LS-00002_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Temps et marée" />
+          <Language key="it-IT" value="Tempo e marea" />
+          <Language key="de-DE" value="Zeit und Gezeiten" />
+          <Language key="es-ES" value="Tiempo y marea" />
+          <Language key="pt-BR" value="Tempo e Maré" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00003" title="The Oxbow" image="1031LS-00003.jpg" smallImage="1031LS-00003_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le bras mort" />
+          <Language key="it-IT" value="Il giogo" />
+          <Language key="de-DE" value="Das Altwasser" />
+          <Language key="es-ES" value="El yugo" />
+          <Language key="pt-BR" value="O Jugo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00004" title="The Ford" image="1031LS-00004.jpg" smallImage="1031LS-00004_preview.jpg" unlockingPuzzleIds="1031LS-00001,1031LS-00002,1031LS-00003">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le gué" />
+          <Language key="it-IT" value="Il guado" />
+          <Language key="de-DE" value="Die Furt" />
+          <Language key="es-ES" value="El vado" />
+          <Language key="pt-BR" value="O Vau" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00005" title="The Harvest" image="1031LS-00005.jpg" smallImage="1031LS-00005_preview.jpg" unlockingPuzzleIds="1031LS-00004">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="La récolte" />
+          <Language key="it-IT" value="Il raccolto" />
+          <Language key="de-DE" value="Die Ernte" />
+          <Language key="es-ES" value="La cosecha" />
+          <Language key="pt-BR" value="A Colheita" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00006" title="Coastal Scene" image="1031LS-00006.jpg" smallImage="1031LS-00006_preview.jpg" unlockingPuzzleIds="1031LS-00005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Scène côtière" />
+          <Language key="it-IT" value="Scena costiera" />
+          <Language key="de-DE" value="Küstenszene" />
+          <Language key="es-ES" value="Paisaje costero" />
+          <Language key="pt-BR" value="Paisagem Costeira" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00007" title="Summer on the Saco" image="1031LS-00007.jpg" smallImage="1031LS-00007_preview.jpg" unlockingPuzzleIds="1031LS-00006">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="L'été sur la rivière Saco" />
+          <Language key="it-IT" value="Estate sul Saco" />
+          <Language key="de-DE" value="Sommer am Saco River" />
+          <Language key="es-ES" value="Verano en el río" />
+          <Language key="pt-BR" value="Verão no Saco" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00008" title="The Pool Medfield" image="1031LS-00008.jpg" smallImage="1031LS-00008_preview.jpg" unlockingPuzzleIds="1031LS-00007">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le ruisseau Medfield" />
+          <Language key="it-IT" value="Lo stagno" />
+          <Language key="de-DE" value="See bei Medfield" />
+          <Language key="es-ES" value="Riachuelo entre campos" />
+          <Language key="pt-BR" value="O Lago, Medfield" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00009" title="Boston Harbor" image="1031LS-00009.jpg" smallImage="1031LS-00009_preview.jpg" unlockingPuzzleIds="1031LS-00008">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le port de Boston" />
+          <Language key="it-IT" value="Boston Harbor" />
+          <Language key="de-DE" value="Boston Harbor" />
+          <Language key="es-ES" value="Puerto de Boston" />
+          <Language key="pt-BR" value="Porto de Boston" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00010" title="Fishing Party" image="1031LS-00010.jpg" smallImage="1031LS-00010_preview.jpg" unlockingPuzzleIds="1031LS-00009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Partie de pêche" />
+          <Language key="it-IT" value="Festa dei pescatori" />
+          <Language key="de-DE" value="Fischerboot" />
+          <Language key="es-ES" value="Hora de pesca" />
+          <Language key="pt-BR" value="Festa de Pesca" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00011" title="View of Pike's Peak" image="1031LS-00011.jpg" smallImage="1031LS-00011_preview.jpg" unlockingPuzzleIds="1031LS-00010">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vue sur Pikes Peak" />
+          <Language key="it-IT" value="Vista dal Picco Pike" />
+          <Language key="de-DE" value="Pikes Peak" />
+          <Language key="es-ES" value="Vista del pico Pike" />
+          <Language key="pt-BR" value="Vista do Pico Pikes" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00012" title="Greenwood Lake" image="1031LS-00012.jpg" smallImage="1031LS-00012_preview.jpg" unlockingPuzzleIds="1031LS-00011">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac Greenwood" />
+          <Language key="it-IT" value="Lago Greenwood" />
+          <Language key="de-DE" value="Greenwood Lake" />
+          <Language key="es-ES" value="Lago Greenwood" />
+          <Language key="pt-BR" value="Lago Greenwood" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00013" title="Consummation" image="1031LS-00013.jpg" smallImage="1031LS-00013_preview.jpg" unlockingPuzzleIds="1031LS-00012">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Le couronnement" />
+          <Language key="it-IT" value="Compimento" />
+          <Language key="de-DE" value="Die Vollendung" />
+          <Language key="es-ES" value="Consumación" />
+          <Language key="pt-BR" value="Consumação" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00014" title="Halt at La Riccia" image="1031LS-00014.jpg" smallImage="1031LS-00014_preview.jpg" unlockingPuzzleIds="1031LS-00013">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Halte à La Riccia" />
+          <Language key="it-IT" value="Blocco a La Riccia" />
+          <Language key="de-DE" value="Halt bei La Riccia" />
+          <Language key="es-ES" value="Alto en La Riccia" />
+          <Language key="pt-BR" value="Paragem em La Riccia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031LS-00015" title="Home in the Woods" image="1031LS-00015.jpg" smallImage="1031LS-00015_preview.jpg" unlockingPuzzleIds="1031LS-00014">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Maison dans les bois" />
+          <Language key="it-IT" value="Casa tra i boschi" />
+          <Language key="de-DE" value="Haus im Wald" />
+          <Language key="es-ES" value="Casita en el bosque" />
+          <Language key="pt-BR" value="Casa na Floresta" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

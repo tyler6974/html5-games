@@ -1,0 +1,223 @@
+﻿<Puzzles>
+  <Groups packId="SeaLife2Pack">
+    <Group id="SeaLife2" title="Sea Life 2" sentientId="288" revision="2" packImage="1672R-14552_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Vie aquatique 2" />
+        <Language key="it-IT" value="Vita marina 2" />
+        <Language key="de-DE" value="Meerestiere 2" />
+        <Language key="es-ES" value="Vida marina 2" />
+        <Language key="pt-BR" value="Vida Marinha" />
+      </GroupLocalization>
+      <Puzzle id="1672R-14552" title="Miami, Florida" image="1672R-14552.jpg" smallImage="1672R-14552_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Miami, Floride" />
+          <Language key="it-IT" value="Miami, Florida" />
+          <Language key="de-DE" value="Miami, Florida" />
+          <Language key="es-ES" value="Miami, Florida" />
+          <Language key="pt-BR" value="Miami, Flórida" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-83129" title="Roatan, Honduras" image="1828R-83129.jpg" smallImage="1828R-83129_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Roatan, Honduras" />
+          <Language key="it-IT" value="Roatán, Honduras" />
+          <Language key="de-DE" value="Roatan, Honduras" />
+          <Language key="es-ES" value="Roatán, Honduras" />
+          <Language key="pt-BR" value="Roatan, Honduras" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-49774" title="Los Islotes Island, Mexico" image="1824R-49774.jpg" smallImage="1824R-49774_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Los Islotes, Mexique" />
+          <Language key="it-IT" value="Los Islotes, Messico" />
+          <Language key="de-DE" value="Isla Los Islotes, Mexiko" />
+          <Language key="es-ES" value="Isla Los Islotes, México" />
+          <Language key="pt-BR" value="Ilha Los Islotes, México" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1142990" title="Hawksbill Turtle" image="1439R-1142990.jpg" smallImage="1439R-1142990_preview.jpg" unlockingPuzzleIds="1672R-14552,1828R-83129,1824R-49774">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tortue imbriquée" />
+          <Language key="it-IT" value="Tartaruga embricata" />
+          <Language key="de-DE" value="Echte Karettschildkröte" />
+          <Language key="es-ES" value="Tortuga de pico de halcón" />
+          <Language key="pt-BR" value="Tartaruga-de-pente" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1143533" title="Lionfish" image="1439R-1143533.jpg" smallImage="1439R-1143533_preview.jpg" unlockingPuzzleIds="1439R-1142990">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-scorpion" />
+          <Language key="it-IT" value="Pesce scorpione" />
+          <Language key="de-DE" value="Rotfeuerfisch" />
+          <Language key="es-ES" value="Pez león" />
+          <Language key="pt-BR" value="Peixe-leão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4401R-10259" title="California Sea Lion" image="4401R-10259.jpg" smallImage="4401R-10259_preview.jpg" unlockingPuzzleIds="1439R-1143533">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Otarie de Californie" />
+          <Language key="it-IT" value="Otaria della California" />
+          <Language key="de-DE" value="Kalifornischer Seelöwe" />
+          <Language key="es-ES" value="León marino de California" />
+          <Language key="pt-BR" value="Leão-marinho californiano" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6302" title="Clownfish in Green Anemone" image="4239R-6302.jpg" smallImage="4239R-6302_preview.jpg" unlockingPuzzleIds="4401R-10259">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-clown et anémone verte" />
+          <Language key="it-IT" value="Pesce pagliaccio tra anemoni verdi" />
+          <Language key="de-DE" value="Clownfisch in grüner Anemone" />
+          <Language key="es-ES" value="Pez payaso en una anémona verde" />
+          <Language key="pt-BR" value="Peixe-palhaço em anêmona verde" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-45722" title="Humpback Whale" image="1672R-45722.jpg" smallImage="1672R-45722_preview.jpg" unlockingPuzzleIds="4239R-6302">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Baleine à bosse" />
+          <Language key="it-IT" value="Megattera" />
+          <Language key="de-DE" value="Buckelwal" />
+          <Language key="es-ES" value="Ballena jorobada" />
+          <Language key="pt-BR" value="Baleia jubarte" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1890R-11541050" title="Sebayur Island, Indonesia" image="1890R-11541050.jpg" smallImage="1890R-11541050_preview.jpg" unlockingPuzzleIds="1672R-45722">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sebayur, Indonésie" />
+          <Language key="it-IT" value="Isola di Sebayur, Indonesia" />
+          <Language key="de-DE" value="Sebayur, Indonesien" />
+          <Language key="es-ES" value="Isla Sebayur, Indonesia" />
+          <Language key="pt-BR" value="Ilha Sebayur, Indonésia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1555R-334471" title="Seashells" image="1555R-334471.jpg" smallImage="1555R-334471_preview.jpg" unlockingPuzzleIds="1890R-11541050">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coquillages" />
+          <Language key="it-IT" value="Conchiglie" />
+          <Language key="de-DE" value="Muscheln" />
+          <Language key="es-ES" value="Conchas marinas" />
+          <Language key="pt-BR" value="Conchas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-3777" title="Christmas Island, Australia" image="4239R-3777.jpg" smallImage="4239R-3777_preview.jpg" unlockingPuzzleIds="1555R-334471">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Île Christmas, Australie" />
+          <Language key="it-IT" value="Isola di Natale, Australia" />
+          <Language key="de-DE" value="Weihnachtsinsel, Australien" />
+          <Language key="es-ES" value="Isla de Navidad, Australia" />
+          <Language key="pt-BR" value="Ilha Christmas, Austrália" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6173" title="Raja Ampat, Indonesia" image="4239R-6173.jpg" smallImage="4239R-6173_preview.jpg" unlockingPuzzleIds="4239R-3777">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Raja Ampat, Indonésie" />
+          <Language key="it-IT" value="Isole Raja Ampat, Indonesia" />
+          <Language key="de-DE" value="Raja Ampat, Indonesien" />
+          <Language key="es-ES" value="Raja Ampat, Indonesia" />
+          <Language key="pt-BR" value="Raja Ampat, Indonésia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34623" title="Crazy Colorful Coral" image="4094R-34623.jpg" smallImage="4094R-34623_preview.jpg" unlockingPuzzleIds="4239R-6173">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Superbe corail multicolore" />
+          <Language key="it-IT" value="Coralli coloratissimi" />
+          <Language key="de-DE" value="Sehr bunte Koralle" />
+          <Language key="es-ES" value="Coral multicolor" />
+          <Language key="pt-BR" value="Coral Colorido pra Caramba" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1142589" title="Caribbean Reef Sharks" image="1439R-1142589.jpg" smallImage="1439R-1142589_preview.jpg" unlockingPuzzleIds="4094R-34623">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Requin de récif des Caraïbes" />
+          <Language key="it-IT" value="Squali dei Caraibi" />
+          <Language key="de-DE" value="Karibische Riffhaie" />
+          <Language key="es-ES" value="Tiburón de arrecife caribeño" />
+          <Language key="pt-BR" value="Tubarões de Coral no Caribe" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

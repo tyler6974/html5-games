@@ -1,0 +1,238 @@
+<Puzzles>
+  <Groups packId="AutumnPack">
+    <Group id="Autumn" title="Autumn" sentientId="204" revision="11" packImage="1598R-10006736_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Automne" />
+        <Language key="it-IT" value="Autunno" />
+        <Language key="de-DE" value="Herbst" />
+        <Language key="es-ES" value="Otoño" />
+        <Language key="pt-BR" value="Outono" />
+      </GroupLocalization>
+      <Puzzle id="1598R-10006736" title="McIntosh Apples" image="1598R-10006736.jpg" smallImage="1598R-10006736_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pommes McIntosh" />
+          <Language key="it-IT" value="Mele McIntosh" />
+          <Language key="de-DE" value="McIntosh-Äpfel" />
+          <Language key="es-ES" value="Manzanas McIntosh" />
+          <Language key="pt-BR" value="Maçãs McIntosh" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-752869" title="Acorn" image="1848R-752869.jpg" smallImage="1848R-752869_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gland" />
+          <Language key="it-IT" value="Ghianda" />
+          <Language key="de-DE" value="Eichel" />
+          <Language key="es-ES" value="Bellota" />
+          <Language key="pt-BR" value="Bolota" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-70260" title="Glen Lyon, Scotland" image="1672R-70260.jpg" smallImage="1672R-70260_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Glen Lyon, Écosse" />
+          <Language key="it-IT" value="Glen Lyon, Scozia" />
+          <Language key="de-DE" value="Glen Lyon, Schottland" />
+          <Language key="es-ES" value="Glen Lyon, Escocia" />
+          <Language key="pt-BR" value="Glen Lyon, Escócia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-365163" title="Rowan Tree" image="1848R-365163.jpg" smallImage="1848R-365163_preview.jpg" unlockingPuzzleIds="1598R-10006736,1848R-752869,1672R-70260">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sorbier" />
+          <Language key="it-IT" value="Sorbo selvatico" />
+          <Language key="de-DE" value="Eberesche" />
+          <Language key="es-ES" value="Serbal" />
+          <Language key="pt-BR" value="Tramazeira" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-80450" title="Kousa Dogwood Leaf" image="1828R-80450.jpg" smallImage="1828R-80450_preview.jpg" unlockingPuzzleIds="1848R-365163">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Feuille de cornouiller du Japon" />
+          <Language key="it-IT" value="Foglia di cornus kousa" />
+          <Language key="de-DE" value="Kousa-Hartriegel-Blatt" />
+          <Language key="es-ES" value="Hoja de cornejo de Kousa" />
+          <Language key="pt-BR" value="Folha de Cornus kousa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-381123" title="Amanita Muscaria" image="1848R-381123.jpg" smallImage="1848R-381123_preview.jpg" unlockingPuzzleIds="1828R-80450">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Amanite tue-mouches" />
+          <Language key="it-IT" value="Amanita Muscaria" />
+          <Language key="de-DE" value="Fliegenpilz" />
+          <Language key="es-ES" value="Amanita muscaria" />
+          <Language key="pt-BR" value="Amanita Muscaria" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-399336" title="Chrysanthemum Indicum" image="1848R-399336.jpg" smallImage="1848R-399336_preview.jpg" unlockingPuzzleIds="1848R-381123">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chrysanthème d'Inde" />
+          <Language key="it-IT" value="Chrysanthemum Indicum" />
+          <Language key="de-DE" value="Chrysanthemum Indicum" />
+          <Language key="es-ES" value="Crisantemo" />
+          <Language key="pt-BR" value="Crisântemo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1626R-8777" title="Red Maple Trees" image="1626R-8777.jpg" smallImage="1626R-8777_preview.jpg" unlockingPuzzleIds="1848R-399336">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Érables rouges" />
+          <Language key="it-IT" value="Alberi di acero rosso" />
+          <Language key="de-DE" value="Rotahorn" />
+          <Language key="es-ES" value="Arces rojos" />
+          <Language key="pt-BR" value="Bordos vermelhos" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-74050" title="Owl" image="1889R-74050.jpg" smallImage="1889R-74050_preview.jpg" unlockingPuzzleIds="1626R-8777">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hibou" />
+          <Language key="it-IT" value="Gufo" />
+          <Language key="de-DE" value="Eule" />
+          <Language key="es-ES" value="Búho" />
+          <Language key="pt-BR" value="Coruja" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-380009" title="American Robin" image="1848R-380009.jpg" smallImage="1848R-380009_preview.jpg" unlockingPuzzleIds="1889R-74050">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Merle d'Amérique" />
+          <Language key="it-IT" value="Pettirosso americano" />
+          <Language key="de-DE" value="Wanderdrossel" />
+          <Language key="es-ES" value="Petirrojo" />
+          <Language key="pt-BR" value="Sabiá-americano" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-26880" title="Gatineau, Canada" image="1672R-26880.jpg" smallImage="1672R-26880_preview.jpg" unlockingPuzzleIds="1848R-380009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gatineau, Canada" />
+          <Language key="it-IT" value="Gatineau, Canada" />
+          <Language key="de-DE" value="Gatineau, Kanada" />
+          <Language key="es-ES" value="Gatineau, Canadá" />
+          <Language key="pt-BR" value="Gatineau, Canadá" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-20168" title="Rocky Mountains, USA" image="1672R-20168.jpg" smallImage="1672R-20168_preview.jpg" unlockingPuzzleIds="1672R-26880">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Montagnes Rocheuses, États-Unis" />
+          <Language key="it-IT" value="Montagne rocciose, USA" />
+          <Language key="de-DE" value="Rocky Mountains, USA" />
+          <Language key="es-ES" value="Montañas Rocosas, EE. UU." />
+          <Language key="pt-BR" value="Montanhas Rochosas, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-304607" title="European Beech" image="1848R-304607.jpg" smallImage="1848R-304607_preview.jpg" unlockingPuzzleIds="1672R-20168">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hêtre commun" />
+          <Language key="it-IT" value="Faggio europeo" />
+          <Language key="de-DE" value="Rotbuche" />
+          <Language key="es-ES" value="Haya común" />
+          <Language key="pt-BR" value="Faia-europeia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-45864" title="Oxtongue River, Canada" image="1672R-45864.jpg" smallImage="1672R-45864_preview.jpg" unlockingPuzzleIds="1848R-304607">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rivière Oxtongue, Canada" />
+          <Language key="it-IT" value="Fiume Oxtongue, Canada" />
+          <Language key="de-DE" value="Oxtongue River, Kanada" />
+          <Language key="es-ES" value="Río Oxtongue, Canadá" />
+          <Language key="pt-BR" value="Rio Oxtongue, Canadá" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-43125" title="Lake Onnetō, Japan" image="1802R-43125.jpg" smallImage="1802R-43125_preview.jpg" unlockingPuzzleIds="1672R-45864">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac Onneto, Japon" />
+          <Language key="it-IT" value="Lago Onetto, Giappone" />
+          <Language key="de-DE" value="Lake Onetto, Japan" />
+          <Language key="es-ES" value="Lago Onetto, Japón" />
+          <Language key="pt-BR" value="Lago Onetto, Japão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

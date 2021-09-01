@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="TrainsPack">
+    <Group id="Trains" title="Trains" sentientId="261" revision="10" packImage="1663R-9238_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Trains" />
+        <Language key="it-IT" value="Treni" />
+        <Language key="de-DE" value="Züge" />
+        <Language key="es-ES" value="Trenes" />
+        <Language key="pt-BR" value="Trens" />
+      </GroupLocalization>
+      <Puzzle id="1663R-9238" title="High-Speed Train" image="1663R-9238.jpg" smallImage="1663R-9238_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Train à grande vitesse" />
+          <Language key="it-IT" value="Treno ad alta velocità" />
+          <Language key="de-DE" value="Hochgeschwindigkeitszug" />
+          <Language key="es-ES" value="Tren de alta velocidad" />
+          <Language key="pt-BR" value="Trem-bala" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1663R-31833" title="Commuter Train" image="1663R-31833.jpg" smallImage="1663R-31833_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Train de banlieue" />
+          <Language key="it-IT" value="Treno suburbano" />
+          <Language key="de-DE" value="Nahverkehrszug" />
+          <Language key="es-ES" value="Tren de cercanías" />
+          <Language key="pt-BR" value="Trem metropolitano" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-375263" title="Old Station Locomotive, Chile" image="1848R-375263.jpg" smallImage="1848R-375263_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Locomotive du musée de Baquedano, Chili" />
+          <Language key="it-IT" value="Vecchia locomotiva, Cile" />
+          <Language key="de-DE" value="Alte Lokomotive, Chile" />
+          <Language key="es-ES" value="Locomotora vieja estación, Chile" />
+          <Language key="pt-BR" value="Locomotiva antiga, Chile" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-16280" title="Railroad Crossing" image="1795R-16280.jpg" smallImage="1795R-16280_preview.jpg" unlockingPuzzleIds="1663R-9238,1663R-31833,1848R-375263">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Passage à niveau" />
+          <Language key="it-IT" value="Passaggio a livello" />
+          <Language key="de-DE" value="Bahnübergang" />
+          <Language key="es-ES" value="Paso a nivel" />
+          <Language key="pt-BR" value="Passagem em nível" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-65649" title="Four Locomotives Hauling Train" image="1647R-65649.jpg" smallImage="1647R-65649_preview.jpg" unlockingPuzzleIds="1795R-16280">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Train à quatre locomotives" />
+          <Language key="it-IT" value="Treno con quattro locomotive" />
+          <Language key="de-DE" value="Güterzug mit vier Lokomotiven" />
+          <Language key="es-ES" value="Cuatro trenes carga locomotoras" />
+          <Language key="pt-BR" value="Quatro locomotivas puxando trem" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-213609" title="Train in California, USA" image="1598R-213609.jpg" smallImage="1598R-213609_preview.jpg" unlockingPuzzleIds="1647R-65649">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Train de Californie, États-Unis" />
+          <Language key="it-IT" value="Treno in California, USA" />
+          <Language key="de-DE" value="Zug in Kalifornien, USA" />
+          <Language key="es-ES" value="Tren en California, EE.UU." />
+          <Language key="pt-BR" value="Trem na Califórnia, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-137922" title="Schafberg Mountain Railway" image="1802R-137922.jpg" smallImage="1802R-137922_preview.jpg" unlockingPuzzleIds="1598R-213609">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Voie ferrée du Schafberg" />
+          <Language key="it-IT" value="Ferrovia a cremagliera di Schafberg" />
+          <Language key="de-DE" value="Schafberg Mountain Railway" />
+          <Language key="es-ES" value="Ferrocarril de la montaña Schafberg" />
+          <Language key="pt-BR" value="Ferrovia de Schafberg" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-505430" title="Steam Engine Museum, Germany" image="1848R-505430.jpg" smallImage="1848R-505430_preview.jpg" unlockingPuzzleIds="1802R-137922">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Musée du train à vapeur, Allemagne" />
+          <Language key="it-IT" value="Museo del motore a vapore, Germania" />
+          <Language key="de-DE" value="Dampfmaschinenmuseum, Deutschland" />
+          <Language key="es-ES" value="Museo de la máquina de vapor, Alemania" />
+          <Language key="pt-BR" value="Museu de Locomotivas a Vapor, Alemanha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-334598" title="High-Speed Railway Lines, Japan" image="1436R-334598.jpg" smallImage="1436R-334598_preview.jpg" unlockingPuzzleIds="1848R-505430">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Shinkansen, Japon" />
+          <Language key="it-IT" value="Treni ad alta velocità, Giappone" />
+          <Language key="de-DE" value="Hochgeschwindigkeitslinien, Japan" />
+          <Language key="es-ES" value="Líneas de alta velocidad, Japón" />
+          <Language key="pt-BR" value="Linhas do trem-bala, Japão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-8158" title="Train to Grand Canyon, USA" image="4029R-8158.jpg" smallImage="4029R-8158_preview.jpg" unlockingPuzzleIds="1436R-334598">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Train vers le Grand Canyon, États-Unis" />
+          <Language key="it-IT" value="Treno per il Grand Canyon, USA" />
+          <Language key="de-DE" value="Zug zum Grand Canyon, USA" />
+          <Language key="es-ES" value="Tren al Grán Cañón, EE.UU." />
+          <Language key="pt-BR" value="Trem para o Grand Canyon, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

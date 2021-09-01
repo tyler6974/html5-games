@@ -1,0 +1,174 @@
+﻿<Puzzles>
+  <Groups packId="DressedAnimalsPack">
+    <Group id="DressedAnimals" title="Dressed Animals" sentientId="328" revision="1" packImage="1436R-348395_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Animaux costumés" />
+        <Language key="it-IT" value="Animali travestiti" />
+        <Language key="de-DE" value="Tiere in Kostümen" />
+        <Language key="es-ES" value="Animales disfrazados" />
+        <Language key="pt-BR" value="Animais Vestidos" />
+	<Language key="ja-JP" value="服を着た動物たち" />
+      </GroupLocalization>
+      <Puzzle id="1436R-348395" title="Scaredy Cat" image="1436R-348395.jpg" smallImage="1436R-348395_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat-lloween" />
+          <Language key="it-IT" value="Gatto di Halloween" />
+          <Language key="de-DE" value="Gruseliges Kätzchen" />
+          <Language key="es-ES" value="Gato asustadizo" />
+          <Language key="pt-BR" value="Gatinho Medroso" />
+	  <Language key="ja-JP" value="怖がり猫" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-47551" title="Purrfect Beach Day" image="4279R-47551.jpg" smallImage="4279R-47551_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sous le soleil exactement" />
+          <Language key="it-IT" value="Giorno di sole perrrrfetto" />
+          <Language key="de-DE" value="Ein Tag zum Miausruhen" />
+          <Language key="es-ES" value="Día de playa perfecto" />
+          <Language key="pt-BR" value="Um Dia de Praia Perrrfeito" />
+          <Language key="ja-JP" value="ビーチの休日" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-62799" title="Dog Day Afternoon" image="4279R-62799.jpg" smallImage="4279R-62799_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Humeur de chien" />
+          <Language key="it-IT" value="Pomeriggio da cani" />
+          <Language key="de-DE" value="Hundstage" />
+          <Language key="es-ES" value="Tarde de perros" />
+          <Language key="pt-BR" value="Uma Tarde de Cão" />
+          <Language key="ja-JP" value="犬の日" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-14317119" title="Gotta Keep Warm" image="1815R-14317119.jpg" smallImage="1815R-14317119_preview.jpg" unlockingPuzzleIds="1436R-348395,4279R-47551,4279R-62799">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Au chaud pour l'hiver" />
+          <Language key="it-IT" value="Stiamo al calduccio" />
+          <Language key="de-DE" value="Ein Pulli für die Sphinx" />
+          <Language key="es-ES" value="Calentito" />
+          <Language key="pt-BR" value="É Bom Se Aquecer" />
+	  <Language key="ja-JP" value="暖かくしてね" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11593866" title="Ruff Day" image="1598R-11593866.jpg" smallImage="1598R-11593866_preview.jpg" unlockingPuzzleIds="1815R-14317119">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Une vie de chien" />
+          <Language key="it-IT" value="Vita dura" />
+          <Language key="de-DE" value="Ein Tag zum Wau-Wausruhen" />
+          <Language key="es-ES" value="Día duro" />
+          <Language key="pt-BR" value="Dia de Cão" />
+          <Language key="ja-JP" value="くつろぐ一日" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-348344" title="Ribbit!" image="1436R-348344.jpg" smallImage="1436R-348344_preview.jpg" unlockingPuzzleIds="1598R-11593866">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Croa croa !" />
+          <Language key="it-IT" value="Coniglio!" />
+          <Language key="de-DE" value="Quakquak!" />
+          <Language key="es-ES" value="¡Croac!" />
+          <Language key="pt-BR" value="Croac! Croac!" />
+          <Language key="ja-JP" value="ケロケロッ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12097698" title="They Made Me Wear It" image="1598R-12097698.jpg" smallImage="1598R-12097698_preview.jpg" unlockingPuzzleIds="1436R-348344">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Je n'y suis pour rien !" />
+          <Language key="it-IT" value="Me l’hanno fatto indossare" />
+          <Language key="de-DE" value="Widerwillig rausgeputzt" />
+          <Language key="es-ES" value="Me obligan a ir así" />
+          <Language key="pt-BR" value="Me Fizeram Vestir Isso" />
+          <Language key="ja-JP" value="着せてもらったの" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-48951" title="Where's the Beach?" image="4279R-48951.jpg" smallImage="4279R-48951_preview.jpg" unlockingPuzzleIds="1598R-12097698">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chat-peline" />
+          <Language key="it-IT" value="Dov’è la spiaggia?" />
+          <Language key="de-DE" value="Wo bitte geht es hier zum Strand?" />
+          <Language key="es-ES" value="¿Dónde está la playa?" />
+          <Language key="pt-BR" value="Cadê a Praia?" />
+          <Language key="ja-JP" value="ビーチはどっち？" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-62268" title="Party Animal" image="4279R-62268.jpg" smallImage="4279R-62268_preview.jpg" unlockingPuzzleIds="4279R-48951">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="C'est la fête" />
+          <Language key="it-IT" value="Facciamo festa" />
+          <Language key="de-DE" value="Da steppt der Hund" />
+          <Language key="es-ES" value="Fiera fiestera" />
+          <Language key="pt-BR" value="Bicho Festeiro" />
+          <Language key="ja-JP" value="パーティに出席" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-348418" title="Santa Claws" image="1436R-348418.jpg" smallImage="1436R-348418_preview.jpg" unlockingPuzzleIds="4279R-62268">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Petit chat-chat Noël" />
+          <Language key="it-IT" value="Artigli di Natale" />
+          <Language key="de-DE" value="Die Weihnachtskatze" />
+          <Language key="es-ES" value="Papá Gatunoel" />
+          <Language key="pt-BR" value="Papai Felinoel" />
+          <Language key="ja-JP" value="サンタさんニャ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

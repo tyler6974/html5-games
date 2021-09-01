@@ -1,0 +1,148 @@
+<Puzzles>
+  <Groups packId="LittleAnimalsPack">
+    <Group id="LittleAnimals" title="Little Animals" sentientId="238" revision="9" packImage="1802R-58313_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Petits animaux" />
+        <Language key="it-IT" value="Animaletti" />
+        <Language key="de-DE" value="Kleintiere" />
+        <Language key="es-ES" value="Animalitos" />
+        <Language key="pt-BR" value="Animais pequenos" />
+      </GroupLocalization>
+      <Puzzle id="1802R-58313" title="Chipmunk" image="1802R-58313.jpg" smallImage="1802R-58313_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tamia" />
+          <Language key="it-IT" value="Scoiattolo striato" />
+          <Language key="de-DE" value="Streifenhörnchen" />
+          <Language key="es-ES" value="Ardilla rayada" />
+          <Language key="pt-BR" value="Tâmia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-48867" title="Gray Squirrel" image="1828R-48867.jpg" smallImage="1828R-48867_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Écureuil gris" />
+          <Language key="it-IT" value="Scoiattolo grigio" />
+          <Language key="de-DE" value="Grauhörnchen" />
+          <Language key="es-ES" value="Ardilla gris" />
+          <Language key="pt-BR" value="Esquilo-cinzento" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-297695" title="Hoary Marmot" image="1848R-297695.jpg" smallImage="1848R-297695_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marmotte des Rocheuses" />
+          <Language key="it-IT" value="Marmotta caligata" />
+          <Language key="de-DE" value="Eisgraues Murmeltier" />
+          <Language key="es-ES" value="Marmota de las Rocosas" />
+          <Language key="pt-BR" value="Marmota da montanha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-3083" title="Rabbit" image="1815R-3083.jpg" smallImage="1815R-3083_preview.jpg" unlockingPuzzleIds="1802R-58313,1828R-48867,1848R-297695">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lapin" />
+          <Language key="it-IT" value="Coniglio" />
+          <Language key="de-DE" value="Kaninchen" />
+          <Language key="es-ES" value="Conejo" />
+          <Language key="pt-BR" value="Coelho" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-8863" title="Western Hedgehog" image="1828R-8863.jpg" smallImage="1828R-8863_preview.jpg" unlockingPuzzleIds="1815R-3083">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hérisson commun" />
+          <Language key="it-IT" value="Riccio occidentale" />
+          <Language key="de-DE" value="Braunbrustigel" />
+          <Language key="es-ES" value="Erizo europeo" />
+          <Language key="pt-BR" value="Ouriço-terrestre" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-311667" title="Chipmunk on a Log" image="4029R-311667.jpg" smallImage="4029R-311667_preview.jpg" unlockingPuzzleIds="1828R-8863">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tamia sur une bûche" />
+          <Language key="it-IT" value="Scoiattolo striato su un albero" />
+          <Language key="de-DE" value="Streifenhörnchen auf Baumstamm" />
+          <Language key="es-ES" value="Ardilla rayada sobre un tronco" />
+          <Language key="pt-BR" value="Tâmia em um tronco" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1778R-25314" title="Marmot" image="1778R-25314.jpg" smallImage="1778R-25314_preview.jpg" unlockingPuzzleIds="4029R-311667">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marmotte" />
+          <Language key="it-IT" value="Marmotta" />
+          <Language key="de-DE" value="Murmeltier" />
+          <Language key="es-ES" value="Marmota" />
+          <Language key="pt-BR" value="Marmota" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-356861" title="Chinchilla" image="1848R-356861.jpg" smallImage="1848R-356861_preview.jpg" unlockingPuzzleIds="1778R-25314">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chinchilla" />
+          <Language key="it-IT" value="Cincillà" />
+          <Language key="de-DE" value="Chinchilla" />
+          <Language key="es-ES" value="Chinchilla" />
+          <Language key="pt-BR" value="Chinchila" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-55611" title="Squirrel" image="1815R-55611.jpg" smallImage="1815R-55611_preview.jpg" unlockingPuzzleIds="1848R-356861">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Écureuil" />
+          <Language key="it-IT" value="Scoiattolo" />
+          <Language key="de-DE" value="Eichhörnchen" />
+          <Language key="es-ES" value="Ardilla" />
+          <Language key="pt-BR" value="Esquilo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

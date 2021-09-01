@@ -1,0 +1,334 @@
+﻿<Puzzles>
+  <Groups packId="HotAirBalloons2Pack">
+    <Group id="HotAirBalloons2" title="Hot Air Balloons 2" sentientId="333" revision="1" packImage="1589R-13409072_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Montgolfières" />
+        <Language key="it-IT" value="Mongolfiere" />
+        <Language key="de-DE" value="Heißluftballons" />
+        <Language key="es-ES" value="Globos aerostáticos" />
+        <Language key="pt-BR" value="Balões de Ar Quente" />
+	<Language key="ja-JP" value="熱気球" />
+      </GroupLocalization>
+      <Puzzle id="1589R-13409072" title="Liftoff" image="1589R-13409072.jpg" smallImage="1589R-13409072_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Envol" />
+          <Language key="it-IT" value="Decollo" />
+          <Language key="de-DE" value="Abheben" />
+          <Language key="es-ES" value="Despegue" />
+          <Language key="pt-BR" value="Decolagem" />
+	  <Language key="ja-JP" value="離陸" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-12597599" title="Yosemite National Park" image="1589R-12597599.jpg" smallImage="1589R-12597599_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national de Yosemite" />
+          <Language key="it-IT" value="Parco nazionale di Yosemite" />
+          <Language key="de-DE" value="Yosemite-Nationalpark" />
+          <Language key="es-ES" value="Parque nacional de Yosemite" />
+          <Language key="pt-BR" value="Parque Nacional de Yosemite" />
+	  <Language key="ja-JP" value="ヨセミテ国立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-14607" title="Triple Burner" image="4128R-14607.jpg" smallImage="4128R-14607_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Triple brûleur" />
+          <Language key="it-IT" value="Bruciatore triplo" />
+          <Language key="de-DE" value="Dreifachbrenner" />
+          <Language key="es-ES" value="Triple quemador" />
+          <Language key="pt-BR" value="Queimador Triplo" />
+          <Language key="ja-JP" value="トリプルバーナー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4422R-21748091" title="Luye, Taiwan" image="4422R-21748091.jpg" smallImage="4422R-21748091_preview.jpg" unlockingPuzzleIds="1589R-13409072,1589R-12597599,4128R-14607">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Luye, Taïwan" />
+          <Language key="it-IT" value="Luye, Taiwan" />
+          <Language key="de-DE" value="Luye, Taiwan" />
+          <Language key="es-ES" value="Luye, Taiwán" />
+          <Language key="pt-BR" value="Luye, Taiwan" />
+          <Language key="ja-JP" value="鹿野 (台湾)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13408978" title="Ground Crew" image="1589R-13408978.jpg" smallImage="1589R-13408978_preview.jpg" unlockingPuzzleIds="4422R-21748091">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Équipage au sol" />
+          <Language key="it-IT" value="Equipaggio di terra" />
+          <Language key="de-DE" value="Boden-Crew" />
+          <Language key="es-ES" value="Personal de tierra" />
+          <Language key="pt-BR" value="Equipe Terrestre" />
+          <Language key="ja-JP" value="グランドスタッフ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21537687" title="Goreme, Turkey" image="4450R-21537687.jpg" smallImage="4450R-21537687_preview.jpg" unlockingPuzzleIds="1589R-13408978">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Göreme, Turquie" />
+          <Language key="it-IT" value="Goreme, Turchia" />
+          <Language key="de-DE" value="Göreme, Türkei" />
+          <Language key="es-ES" value="Goreme, Turquía" />
+          <Language key="pt-BR" value="Goreme, Turquia" />
+          <Language key="ja-JP" value="ギョレメ (トルコ)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1890R-13952599" title="Inside the Balloon" image="1890R-13952599.jpg" smallImage="1890R-13952599_preview.jpg" unlockingPuzzleIds="4450R-21537687">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Intérieur d'un ballon" />
+          <Language key="it-IT" value="Dentro la mongolfiera" />
+          <Language key="de-DE" value="Ballon von innen" />
+          <Language key="es-ES" value="Dentro del globo" />
+          <Language key="pt-BR" value="Dentro do Balão" />
+          <Language key="ja-JP" value="気球の中" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11762426" title="Piedmont, Italy" image="1598R-11762426.jpg" smallImage="1598R-11762426_preview.jpg" unlockingPuzzleIds="1890R-13952599">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Piémont, Italie" />
+          <Language key="it-IT" value="Piemonte, Italia" />
+          <Language key="de-DE" value="Piemont, Italien" />
+          <Language key="es-ES" value="Piamonte, Italia" />
+          <Language key="pt-BR" value="Piemonte, Itália" />
+          <Language key="ja-JP" value="ピエモンテ (イタリア)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-12700005" title="Gas and Flame" image="4128R-12700005.jpg" smallImage="4128R-12700005_preview.jpg" unlockingPuzzleIds="1598R-11762426">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Plein gaz" />
+          <Language key="it-IT" value="Gas e fiamma" />
+          <Language key="de-DE" value="Gas und Flamme" />
+          <Language key="es-ES" value="Gas y llama" />
+          <Language key="pt-BR" value="Combustível e Chama" />
+          <Language key="ja-JP" value="ガスと炎" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-11447658" title="Rush Hour Traffic" image="1589R-11447658.jpg" smallImage="1589R-11447658_preview.jpg" unlockingPuzzleIds="4128R-12700005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rassemblement" />
+          <Language key="it-IT" value="Ora di punta" />
+          <Language key="de-DE" value="Hauptverkehrszeit" />
+          <Language key="es-ES" value="Hora punta" />
+          <Language key="pt-BR" value="Tráfego em Horário de Pico" />
+          <Language key="ja-JP" value="ラッシュアワー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-13299016" title="Tulip Fields" image="1672R-13299016.jpg" smallImage="1672R-13299016_preview.jpg" unlockingPuzzleIds="1589R-11447658">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Champs de tulipes" />
+          <Language key="it-IT" value="Campi di tulipani" />
+          <Language key="de-DE" value="Tulpenfelder" />
+          <Language key="es-ES" value="Campos de tulipanes" />
+          <Language key="pt-BR" value="Campos de Tulipas" />
+          <Language key="ja-JP" value="チューリップ畑" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-7491" title="Balloon Fiesta" image="1828R-7491.jpg" smallImage="1828R-7491_preview.jpg" unlockingPuzzleIds="1672R-13299016">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Montgolfières en fête" />
+          <Language key="it-IT" value="Festa di palloni" />
+          <Language key="de-DE" value="Ballonfeier" />
+          <Language key="es-ES" value="Fiesta de globos" />
+          <Language key="pt-BR" value="Festival de Balonismo" />
+          <Language key="ja-JP" value="熱気球の祝祭" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-12817163" title="Monument Valley" image="1589R-12817163.jpg" smallImage="1589R-12817163_preview.jpg" unlockingPuzzleIds="1828R-7491">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Monument Valley" />
+          <Language key="it-IT" value="Monument Valley" />
+          <Language key="de-DE" value="Monument Valley" />
+          <Language key="es-ES" value="Valle de los Monumentos" />
+          <Language key="pt-BR" value="Monument Valley" />
+          <Language key="ja-JP" value="モニュメント・バレー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13409062" title="Inflation" image="1589R-13409062.jpg" smallImage="1589R-13409062_preview.jpg" unlockingPuzzleIds="1589R-12817163">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gonflage" />
+          <Language key="it-IT" value="Gonfiamento" />
+          <Language key="de-DE" value="Aufwärmen" />
+          <Language key="es-ES" value="Inflado" />
+          <Language key="pt-BR" value="Enchimento" />
+          <Language key="ja-JP" value="ふくらませる" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11782959" title="Festival" image="1598R-11782959.jpg" smallImage="1598R-11782959_preview.jpg" unlockingPuzzleIds="1589R-13409062">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Festival" />
+          <Language key="it-IT" value="Festival" />
+          <Language key="de-DE" value="Festival" />
+          <Language key="es-ES" value="Festival" />
+          <Language key="pt-BR" value="Festival" />
+          <Language key="ja-JP" value="フェスティバル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-13169562" title="Up" image="1773R-13169562.jpg" smallImage="1773R-13169562_preview.jpg" unlockingPuzzleIds="1598R-11782959">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dans les airs" />
+          <Language key="it-IT" value="In alto" />
+          <Language key="de-DE" value="Hoch hinaus" />
+          <Language key="es-ES" value="Arriba" />
+          <Language key="pt-BR" value="Subindo" />
+          <Language key="ja-JP" value="上へ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-13299039" title="Woodburn, Oregon" image="1672R-13299039.jpg" smallImage="1672R-13299039_preview.jpg" unlockingPuzzleIds="1773R-13169562">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Woodburn, Oregon" />
+          <Language key="it-IT" value="Woodburn, Oregon" />
+          <Language key="de-DE" value="Woodburn, Oregon" />
+          <Language key="es-ES" value="Woodburn, Oregón" />
+          <Language key="pt-BR" value="Woodburn, Oregon" />
+          <Language key="ja-JP" value="ウッドバーン (オレゴン州)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-28104" title="Cappadocia, Turkey" image="1828R-28104.jpg" smallImage="1828R-28104_preview.jpg" unlockingPuzzleIds="1672R-13299039">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cappadoce, Turquie" />
+          <Language key="it-IT" value="Cappadocia, Turchia" />
+          <Language key="de-DE" value="Kappadokien, Türkei" />
+          <Language key="es-ES" value="Capadocia, Turquía" />
+          <Language key="pt-BR" value="Capadócia, Turquia" />
+          <Language key="ja-JP" value="カッパドキア (トルコ)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-7487" title="Prepare for Takeoff" image="1828R-7487.jpg" smallImage="1828R-7487_preview.jpg" unlockingPuzzleIds="1828R-28104">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paré au décollage" />
+          <Language key="it-IT" value="Pronti al decollo" />
+          <Language key="de-DE" value="Bereit zum Start" />
+          <Language key="es-ES" value="Prepárate para el despegue" />
+          <Language key="pt-BR" value="Preparando para Partir" />
+          <Language key="ja-JP" value="離陸準備" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11691739" title="Snowmass, Colorado" image="1598R-11691739.jpg" smallImage="1598R-11691739_preview.jpg" unlockingPuzzleIds="1828R-7487">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Snowmass, Colorado" />
+          <Language key="it-IT" value="Snowmass, Colorado" />
+          <Language key="de-DE" value="Snowmass, Colorado" />
+          <Language key="es-ES" value="Snowmass, Colorado" />
+          <Language key="pt-BR" value="Snowmass, Colorado" />
+          <Language key="ja-JP" value="スノーマス (コロラド州)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

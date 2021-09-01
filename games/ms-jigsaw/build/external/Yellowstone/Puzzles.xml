@@ -1,0 +1,574 @@
+﻿<Puzzles>
+  <Groups packId="YellowstonePack">
+    <Group id="Yellowstone" title="Yellowstone" sentientId="332" revision="1" packImage="1815R-12496460_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Yellowstone" />
+        <Language key="it-IT" value="Yellowstone" />
+        <Language key="de-DE" value="Yellowstone" />
+        <Language key="es-ES" value="Yellowstone" />
+        <Language key="pt-BR" value="Parque de Yellowstone" />
+        <Language key="ja-JP" value="イエローストーン" />
+      </GroupLocalization>
+      <Puzzle id="1815R-12496460" title="Grand Prismatic Spring" image="1815R-12496460.jpg" smallImage="1815R-12496460_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand Prismatic Spring" />
+          <Language key="it-IT" value="Sorgente Grand Prismatic" />
+          <Language key="de-DE" value="Grand Prismatic Spring" />
+          <Language key="es-ES" value="Gran fuente prismática" />
+          <Language key="pt-BR" value="Fonte Grand Prismatic" />
+          <Language key="ja-JP" value="グランド・プリズマティック・スプリング" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518482" title="Bison Crossing" image="1815R-12518482.jpg" smallImage="1815R-12518482_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bison sur la route" />
+          <Language key="it-IT" value="Attraversamento bisonti" />
+          <Language key="de-DE" value="Bison kreuzt" />
+          <Language key="es-ES" value="Bisonte cruzando" />
+          <Language key="pt-BR" value="Travessia de Bisões" />
+          <Language key="ja-JP" value="横切るバイソン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13117554" title="Lamar Valley" image="1491R-13117554.jpg" smallImage="1491R-13117554_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vallée de Lamar" />
+          <Language key="it-IT" value="Valle del Lamar" />
+          <Language key="de-DE" value="Lamar Valley" />
+          <Language key="es-ES" value="Valle Lamar" />
+          <Language key="pt-BR" value="Vale de Lamar" />
+          <Language key="ja-JP" value="ラマー・バレー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518934" title="Sapphire Pool" image="1815R-12518934.jpg" smallImage="1815R-12518934_preview.jpg" unlockingPuzzleIds="1815R-12496460,1815R-12518482,1491R-13117554">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sapphire Pool" />
+          <Language key="it-IT" value="Sapphire Pool" />
+          <Language key="de-DE" value="Sapphire Pool" />
+          <Language key="es-ES" value="Piscina del Zafiro" />
+          <Language key="pt-BR" value="Fonte Sapphire Pool" />
+          <Language key="ja-JP" value="サファイア・プール" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34073" title="Grizzly Bear" image="4094R-34073.jpg" smallImage="4094R-34073_preview.jpg" unlockingPuzzleIds="1815R-12518934">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grizzly" />
+          <Language key="it-IT" value="Orso grizzly" />
+          <Language key="de-DE" value="Grizzlybär" />
+          <Language key="es-ES" value="Oso grizzly" />
+          <Language key="pt-BR" value="Urso Pardo" />
+          <Language key="ja-JP" value="グリズリー・ベア" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-20689654" title="Lower Falls" image="4094R-20689654.jpg" smallImage="4094R-20689654_preview.jpg" unlockingPuzzleIds="4094R-34073">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lower Falls" />
+          <Language key="it-IT" value="Cascate inferiori" />
+          <Language key="de-DE" value="Lower Falls" />
+          <Language key="es-ES" value="Cascadas inferiores" />
+          <Language key="pt-BR" value="Quedas d’Água" />
+          <Language key="ja-JP" value="ロウワー・フォール" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518902" title="Black Pool" image="1815R-12518902.jpg" smallImage="1815R-12518902_preview.jpg" unlockingPuzzleIds="4094R-20689654">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Black Pool" />
+          <Language key="it-IT" value="Black Pool" />
+          <Language key="de-DE" value="Black Pool" />
+          <Language key="es-ES" value="Black Pool" />
+          <Language key="pt-BR" value="Fonte Black Pool" />
+          <Language key="ja-JP" value="ブラック・プール" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-13362443" title="Castle Geyser" image="1672R-13362443.jpg" smallImage="1672R-13362443_preview.jpg" unlockingPuzzleIds="1815R-12518902">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Castle Geyser" />
+          <Language key="it-IT" value="Geyser castello" />
+          <Language key="de-DE" value="Castle-Geysir" />
+          <Language key="es-ES" value="Castle Geyser" />
+          <Language key="pt-BR" value="Gêiser Castle" />
+          <Language key="ja-JP" value="キャッスル・ガイザー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12517806" title="Coyote" image="1815R-12517806.jpg" smallImage="1815R-12517806_preview.jpg" unlockingPuzzleIds="1672R-13362443">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coyote" />
+          <Language key="it-IT" value="Coyote" />
+          <Language key="de-DE" value="Kojote" />
+          <Language key="es-ES" value="Coyote" />
+          <Language key="pt-BR" value="Coiote" />
+          <Language key="ja-JP" value="コヨーテ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-21547717" title="Bison at Boiling River" image="4094R-21547717.jpg" smallImage="4094R-21547717_preview.jpg" unlockingPuzzleIds="1815R-12517806">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bison dans la Boiling River" />
+          <Language key="it-IT" value="Bisonte al Fiume bollente" />
+          <Language key="de-DE" value="Bison am Boiling River" />
+          <Language key="es-ES" value="Bisonte en Boiling River" />
+          <Language key="pt-BR" value="Bisão no Rio de Águas Quentes" />
+          <Language key="ja-JP" value="ボイリング・リバーにたたずむバイソン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11926694" title="Morning Glory Pool" image="1672R-11926694.jpg" smallImage="1672R-11926694_preview.jpg" unlockingPuzzleIds="4094R-21547717">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bassin de la belle-de-jour" />
+          <Language key="it-IT" value="Morning Glory Pool" />
+          <Language key="de-DE" value="Morning Glory Pool" />
+          <Language key="es-ES" value="Morning Glory Pool" />
+          <Language key="pt-BR" value="Fonte Morning Glory Pool" />
+          <Language key="ja-JP" value="モーニング・グローリー・プール" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-20671157" title="Elk" image="4094R-20671157.jpg" smallImage="4094R-20671157_preview.jpg" unlockingPuzzleIds="1672R-11926694">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Élan" />
+          <Language key="it-IT" value="Alce" />
+          <Language key="de-DE" value="Elch" />
+          <Language key="es-ES" value="Alce" />
+          <Language key="pt-BR" value="Alce" />
+          <Language key="ja-JP" value="ヘラジカ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21751064" title="Grand Prismatic Aerial" image="4450R-21751064.jpg" smallImage="4450R-21751064_preview.jpg" unlockingPuzzleIds="4094R-20671157">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand Prismatic vu d'en haut" />
+          <Language key="it-IT" value="Grand Prismatic Aerial" />
+          <Language key="de-DE" value="Grand Prismatic von oben" />
+          <Language key="es-ES" value="Vista aérea de la gran fuente prismática" />
+          <Language key="pt-BR" value="Vista Aérea da Grand Prismatic" />
+          <Language key="ja-JP" value="グランド・プリズマティックを上空から撮影" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13117546" title="Mammoth Geyser" image="1491R-13117546.jpg" smallImage="1491R-13117546_preview.jpg" unlockingPuzzleIds="4450R-21751064">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mammoth Geyser" />
+          <Language key="it-IT" value="Geyser mammut" />
+          <Language key="de-DE" value="Mammoth-Geysir" />
+          <Language key="es-ES" value="Mammoth Geyser" />
+          <Language key="pt-BR" value="Gêiser Mammoth" />
+          <Language key="ja-JP" value="マンモス・ガイザー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-3391" title="Edge of Grand Prismatic" image="4428R-3391.jpg" smallImage="4428R-3391_preview.jpg" unlockingPuzzleIds="1491R-13117546">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Berge du Grand Prismatic" />
+          <Language key="it-IT" value="Angolo del Grand Prismatic" />
+          <Language key="de-DE" value="Rand des Grand Prismatic" />
+          <Language key="es-ES" value="Borde de la gran fuente prismática" />
+          <Language key="pt-BR" value="Beirada da Grand Prismatic" />
+          <Language key="ja-JP" value="グランド・プリズマティックを端から撮影 " />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12517814" title="Bison Calf" image="1815R-12517814.jpg" smallImage="1815R-12517814_preview.jpg" unlockingPuzzleIds="4428R-3391">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jeune bison" />
+          <Language key="it-IT" value="Cucciolo di bisonte" />
+          <Language key="de-DE" value="Bisonkalb" />
+          <Language key="es-ES" value="Cría de bisonte" />
+          <Language key="pt-BR" value="Filhote de Bisão" />
+          <Language key="ja-JP" value="バイソンのこども" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12837991" title="Midway Geyser Basin" image="1672R-12837991.jpg" smallImage="1672R-12837991_preview.jpg" unlockingPuzzleIds="1815R-12517814">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Midway Geyser Basin" />
+          <Language key="it-IT" value="Bacino del geyser Midway" />
+          <Language key="de-DE" value="Midway Geyser Basin" />
+          <Language key="es-ES" value="Cuenca del Midway Geyser" />
+          <Language key="pt-BR" value="Bacia do Gêiser Midway" />
+          <Language key="ja-JP" value="ミッドウェイ・ガイザー・ベイスン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-20675762" title="Gentle Giant" image="4094R-20675762.jpg" smallImage="4094R-20675762_preview.jpg" unlockingPuzzleIds="1672R-12837991">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Doux géant" />
+          <Language key="it-IT" value="Gigante gentile" />
+          <Language key="de-DE" value="Sanfter Riese" />
+          <Language key="es-ES" value="Gigante amigable" />
+          <Language key="pt-BR" value="Gigante Gentil" />
+          <Language key="ja-JP" value="優しいバイソン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12517812" title="Pronghorns" image="1815R-12517812.jpg" smallImage="1815R-12517812_preview.jpg" unlockingPuzzleIds="4094R-20675762">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Antilopes d'Amérique" />
+          <Language key="it-IT" value="Antilocapre" />
+          <Language key="de-DE" value="Gabelböcke" />
+          <Language key="es-ES" value="Berrendos" />
+          <Language key="pt-BR" value="Antilocapras" />
+          <Language key="ja-JP" value="プロングホーン " />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518965" title="Prismatic Wide" image="1815R-12518965.jpg" smallImage="1815R-12518965_preview.jpg" unlockingPuzzleIds="1815R-12517812">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Panorama du Grand Prismatic" />
+          <Language key="it-IT" value="Prismatic Wide" />
+          <Language key="de-DE" value="Grand Prismatic im Querformat" />
+          <Language key="es-ES" value="Gran fuente prismática al completo" />
+          <Language key="pt-BR" value="Prismatic Ampla" />
+          <Language key="ja-JP" value="グランド・プリズマティックを広角で撮影" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11859392" title="Rock Formation" image="1672R-11859392.jpg" smallImage="1672R-11859392_preview.jpg" unlockingPuzzleIds="1815R-12518965">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Formation rocheuse" />
+          <Language key="it-IT" value="Formazione rocciosa" />
+          <Language key="de-DE" value="Felsformation" />
+          <Language key="es-ES" value="Formación rocosa" />
+          <Language key="pt-BR" value="Formação Rochosa" />
+          <Language key="ja-JP" value="岩層" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13996870" title="Blue Morning Glory" image="1491R-13996870.jpg" smallImage="1491R-13996870_preview.jpg" unlockingPuzzleIds="1672R-11859392">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Belle-de-jour bleue" />
+          <Language key="it-IT" value="Ipomea blu" />
+          <Language key="de-DE" value="Morning Glory in blau" />
+          <Language key="es-ES" value="Blue Morning Glory" />
+          <Language key="pt-BR" value="Ipomeia Azul" />
+          <Language key="ja-JP" value="青みが際立つモーニング・グローリー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518487" title="Family of Bison" image="1815R-12518487.jpg" smallImage="1815R-12518487_preview.jpg" unlockingPuzzleIds="1491R-13996870">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Famille de bisons" />
+          <Language key="it-IT" value="Famiglia di bisonti" />
+          <Language key="de-DE" value="Bisonfamilie" />
+          <Language key="es-ES" value="Familia de bisontes" />
+          <Language key="pt-BR" value="Família de Bisões" />
+          <Language key="ja-JP" value="バイソンの家族" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518903" title="Firehole Spring" image="1815R-12518903.jpg" smallImage="1815R-12518903_preview.jpg" unlockingPuzzleIds="1815R-12518487">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Firehole Spring" />
+          <Language key="it-IT" value="Sorgente Firehole" />
+          <Language key="de-DE" value="Firehole Spring" />
+          <Language key="es-ES" value="Firehole Spring" />
+          <Language key="pt-BR" value="Fonte Firehole" />
+          <Language key="ja-JP" value="ファイヤーホール・スプリング" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-47867" title="Grand Prismatic View" image="1828R-47867.jpg" smallImage="1828R-47867_preview.jpg" unlockingPuzzleIds="1815R-12518903">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vue sur le Grand Prismatic" />
+          <Language key="it-IT" value="Grand Prismatic View" />
+          <Language key="de-DE" value="Panorama des Grand Prismatic" />
+          <Language key="es-ES" value="Vista de la gran fuente prismática" />
+          <Language key="pt-BR" value="Vista da Grand Prismatic" />
+          <Language key="ja-JP" value="グランド・プリズマティックの遠景" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-20671152" title="Elk near River" image="4094R-20671152.jpg" smallImage="4094R-20671152_preview.jpg" unlockingPuzzleIds="1828R-47867">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Élan sur la rive" />
+          <Language key="it-IT" value="Alce vicino al fiume" />
+          <Language key="de-DE" value="Elch am Fluss" />
+          <Language key="es-ES" value="Alce cerca del río" />
+          <Language key="pt-BR" value="Alce à beira do Rio" />
+          <Language key="ja-JP" value="川辺にたたずむヘラジカ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-3420" title="Heart Lake" image="4428R-3420.jpg" smallImage="4428R-3420_preview.jpg" unlockingPuzzleIds="4094R-20671152">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Heart Lake" />
+          <Language key="it-IT" value="Heart Lake" />
+          <Language key="de-DE" value="Heart Lake" />
+          <Language key="es-ES" value="Heart Lake" />
+          <Language key="pt-BR" value="Lago Heart" />
+          <Language key="ja-JP" value="ハート湖" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12255940" title="Chromatic Spring" image="1815R-12255940.jpg" smallImage="1815R-12255940_preview.jpg" unlockingPuzzleIds="4428R-3420">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chromatic Spring" />
+          <Language key="it-IT" value="Sorgente cromatica" />
+          <Language key="de-DE" value="Chromatic Spring" />
+          <Language key="es-ES" value="Chromatic Spring" />
+          <Language key="pt-BR" value="Fonte Chromatic" />
+          <Language key="ja-JP" value="クロマティック・スプリング" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12517807" title="That's the Spot" image="1815R-12517807.jpg" smallImage="1815R-12517807_preview.jpg" unlockingPuzzleIds="1815R-12255940">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gratouilles" />
+          <Language key="it-IT" value="Ecco il posto" />
+          <Language key="de-DE" value="Kratz mich mal" />
+          <Language key="es-ES" value="Ese es el lugar" />
+          <Language key="pt-BR" value="Esse é o Local" />
+          <Language key="ja-JP" value="説明どおりの場所だ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11984808" title="Grand Prismatic Steam" image="1672R-11984808.jpg" smallImage="1672R-11984808_preview.jpg" unlockingPuzzleIds="1815R-12517807">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vapeurs du Grand Prismatic" />
+          <Language key="it-IT" value="Grand Prismatic Steam" />
+          <Language key="de-DE" value="Dampfendes Becken" />
+          <Language key="es-ES" value="Vapor de la gran fuente prismática" />
+          <Language key="pt-BR" value="Vapor da Grand Prismatic" />
+          <Language key="ja-JP" value="グランド・プリズマティックの細流 " />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12517794" title="American Badger" image="1815R-12517794.jpg" smallImage="1815R-12517794_preview.jpg" unlockingPuzzleIds="1672R-11984808">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Blaireau d'Amérique" />
+          <Language key="it-IT" value="Tasso americano" />
+          <Language key="de-DE" value="Silberdachs" />
+          <Language key="es-ES" value="Tejón norteamericano" />
+          <Language key="pt-BR" value="Texugo Americano" />
+          <Language key="ja-JP" value="アメリカアナグマ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518931" title="Biscuit Basin" image="1815R-12518931.jpg" smallImage="1815R-12518931_preview.jpg" unlockingPuzzleIds="1815R-12517794">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Biscuit Basin" />
+          <Language key="it-IT" value="Biscuit Basin" />
+          <Language key="de-DE" value="Biscuit Basin" />
+          <Language key="es-ES" value="Biscuit Basin" />
+          <Language key="pt-BR" value="Bacia de Biscuit" />
+          <Language key="ja-JP" value="ビスケット・ベイスン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4411R-12879" title="Artemisia Geyser" image="4411R-12879.jpg" smallImage="4411R-12879_preview.jpg" unlockingPuzzleIds="1815R-12518931">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Artemisia Geyser" />
+          <Language key="it-IT" value="Geyser Artemisia" />
+          <Language key="de-DE" value="Artemisia-Geysir" />
+          <Language key="es-ES" value="Artemisia Geyser" />
+          <Language key="pt-BR" value="Gêiser Artemisia" />
+          <Language key="ja-JP" value="アルテミシア・ガイザー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-20671151" title="Bison" image="4094R-20671151.jpg" smallImage="4094R-20671151_preview.jpg" unlockingPuzzleIds="4411R-12879">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bison" />
+          <Language key="it-IT" value="Bisonte" />
+          <Language key="de-DE" value="Bison" />
+          <Language key="es-ES" value="Bisonte" />
+          <Language key="pt-BR" value="Bisão" />
+          <Language key="ja-JP" value="バイソン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12518927" title="Geyser Creek Sunrise" image="1815R-12518927.jpg" smallImage="1815R-12518927_preview.jpg" unlockingPuzzleIds="4094R-20671151">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lever de soleil sur Geyser Creek" />
+          <Language key="it-IT" value="Alba a Geyser Creek" />
+          <Language key="de-DE" value="Sonnenaufgang über dem Geyser Creek" />
+          <Language key="es-ES" value="Amanecer en Geyser Creek" />
+          <Language key="pt-BR" value="Nascer do Sol na Enseada de Gêiseres" />
+          <Language key="ja-JP" value="ガイザー・クリークの日の出" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

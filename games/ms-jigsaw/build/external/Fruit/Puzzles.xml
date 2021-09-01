@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="FruitPack">
+    <Group id="Fruit" title="Fruit" sentientId="223" revision="11" packImage="4029R-320204_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Fruits" />
+        <Language key="it-IT" value="Frutta" />
+        <Language key="de-DE" value="Obst" />
+        <Language key="es-ES" value="Frutas" />
+        <Language key="pt-BR" value="Frutas" />
+      </GroupLocalization>
+      <Puzzle id="4029R-320204" title="Fruit" image="4029R-320204.jpg" smallImage="4029R-320204_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fruit" />
+          <Language key="it-IT" value="Frutta" />
+          <Language key="de-DE" value="Obst" />
+          <Language key="es-ES" value="Fruta" />
+          <Language key="pt-BR" value="Frutas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-170270" title="Fruit in a Bowl" image="1525R-170270.jpg" smallImage="1525R-170270_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Saladier de fruits" />
+          <Language key="it-IT" value="Cestino di frutta" />
+          <Language key="de-DE" value="Obst in der Schale" />
+          <Language key="es-ES" value="Fruta en un frutero" />
+          <Language key="pt-BR" value="Frutas em uma fruteira" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-05070" title="Oranges" image="1527R-05070.jpg" smallImage="1527R-05070_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Oranges" />
+          <Language key="it-IT" value="Arance" />
+          <Language key="de-DE" value="Orangen" />
+          <Language key="es-ES" value="Naranjas" />
+          <Language key="pt-BR" value="Laranjas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4286R-6999" title="Blueberries" image="4286R-6999.jpg" smallImage="4286R-6999_preview.jpg" unlockingPuzzleIds="4029R-320204,1525R-170270,1527R-05070">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Myrtilles" />
+          <Language key="it-IT" value="Mirtilli" />
+          <Language key="de-DE" value="Blaubeeren" />
+          <Language key="es-ES" value="Arándanos" />
+          <Language key="pt-BR" value="Mirtilos" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-307737" title="Kiwi" image="1436R-307737.jpg" smallImage="1436R-307737_preview.jpg" unlockingPuzzleIds="4286R-6999">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Kiwi" />
+          <Language key="it-IT" value="Kiwi" />
+          <Language key="de-DE" value="Kiwi" />
+          <Language key="es-ES" value="Kiwi" />
+          <Language key="pt-BR" value="Kiwi" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-281092" title="Fruit Variety" image="1436R-281092.jpg" smallImage="1436R-281092_preview.jpg" unlockingPuzzleIds="1436R-307737">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Variété de fruit" />
+          <Language key="it-IT" value="Frutta mista" />
+          <Language key="de-DE" value="Obstauswahl" />
+          <Language key="es-ES" value="Fruta variada" />
+          <Language key="pt-BR" value="Frutas variadas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-78141" title="White Peaches" image="1672R-78141.jpg" smallImage="1672R-78141_preview.jpg" unlockingPuzzleIds="1436R-281092">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pêches blanches" />
+          <Language key="it-IT" value="Pesche bianche" />
+          <Language key="de-DE" value="Pfirsiche" />
+          <Language key="es-ES" value="Melocotones" />
+          <Language key="pt-BR" value="Pêssegos" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1570R-141533" title="Strawberries" image="1570R-141533.jpg" smallImage="1570R-141533_preview.jpg" unlockingPuzzleIds="1672R-78141">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fraises" />
+          <Language key="it-IT" value="Fragole" />
+          <Language key="de-DE" value="Erdbeeren" />
+          <Language key="es-ES" value="Fresas" />
+          <Language key="pt-BR" value="Morangos" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1701R-50838" title="Mangosteen" image="1701R-50838.jpg" smallImage="1701R-50838_preview.jpg" unlockingPuzzleIds="1570R-141533">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mangoustan" />
+          <Language key="it-IT" value="Mangostano" />
+          <Language key="de-DE" value="Mangostanfrüchte" />
+          <Language key="es-ES" value="Mangostán" />
+          <Language key="pt-BR" value="Mangostão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-755391" title="Nectarine" image="1848R-755391.jpg" smallImage="1848R-755391_preview.jpg" unlockingPuzzleIds="1701R-50838">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Nectarine" />
+          <Language key="it-IT" value="Pescanoce" />
+          <Language key="de-DE" value="Nektarine" />
+          <Language key="es-ES" value="Nectarina" />
+          <Language key="pt-BR" value="Nectarina" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

@@ -1,0 +1,388 @@
+﻿<Puzzles>
+  <Groups packId="FlowerCloseupsPack">
+    <Group id="FlowerCloseups" title="Flower Closeups" sentientId="298" revision="3" packImage="4094R-35152_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Zoom sur les fleurs" />
+        <Language key="it-IT" value="Fiori in primo piano" />
+        <Language key="de-DE" value="Blumen-Nahaufnahmen" />
+        <Language key="es-ES" value="Flores de cerca" />
+        <Language key="pt-BR" value="Close nas flores" />
+      </GroupLocalization>
+      <Puzzle id="4094R-35152" title="Red Rose" image="4094R-35152.jpg" smallImage="4094R-35152_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rose rouge" />
+          <Language key="it-IT" value="Rosa rossa" />
+          <Language key="de-DE" value="Rote Rose" />
+          <Language key="es-ES" value="Rosa roja" />
+          <Language key="pt-BR" value="Rosa vermelha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-35173" title="Bee Careful" image="4094R-35173.jpg" smallImage="4094R-35173_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Abeille" />
+          <Language key="it-IT" value="Attenti all'ape" />
+          <Language key="de-DE" value="Fleißiges Bienchen" />
+          <Language key="es-ES" value="¡Bss! ¡Cuidado!" />
+          <Language key="pt-BR" value="Fim da picada" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-313534" title="Moth Orchid" image="1848R-313534.jpg" smallImage="1848R-313534_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orchidée papillon" />
+          <Language key="it-IT" value="Orchidea farfalla" />
+          <Language key="de-DE" value="Nachtfalter-Orchidee" />
+          <Language key="es-ES" value="Orquídea mariposa" />
+          <Language key="pt-BR" value="Orquídea de traça" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3902" title="Shasta Daisy" image="4097R-3902.jpg" smallImage="4097R-3902_preview.jpg" unlockingPuzzleIds="4094R-35152,4094R-35173,1848R-313534">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grande marguerite" />
+          <Language key="it-IT" value="Margheritona" />
+          <Language key="de-DE" value="Großblumige Margerite" />
+          <Language key="es-ES" value="Margarita californiana" />
+          <Language key="pt-BR" value="Margarida Shasta" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3942" title="Marigold" image="4097R-3942.jpg" smallImage="4097R-3942_preview.jpg" unlockingPuzzleIds="4097R-3902">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Souci" />
+          <Language key="it-IT" value="Calendula" />
+          <Language key="de-DE" value="Ringelblume" />
+          <Language key="es-ES" value="Caléndula" />
+          <Language key="pt-BR" value="Malmequer" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3936" title="Pink Chrysanthemum" image="4097R-3936.jpg" smallImage="4097R-3936_preview.jpg" unlockingPuzzleIds="4097R-3942">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chrysanthème rose" />
+          <Language key="it-IT" value="Crisantemo rosa" />
+          <Language key="de-DE" value="Rosafarbene Chrysantheme" />
+          <Language key="es-ES" value="Crisantemo rosa" />
+          <Language key="pt-BR" value="Crisântemo rosa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3962" title="Purple Chrysanthemum" image="4097R-3962.jpg" smallImage="4097R-3962_preview.jpg" unlockingPuzzleIds="4097R-3936">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chrysanthème violet" />
+          <Language key="it-IT" value="Crisantemo viola" />
+          <Language key="de-DE" value="Lilafarbene Chrysantheme" />
+          <Language key="es-ES" value="Crisantemo morado" />
+          <Language key="pt-BR" value="Crisântemo roxo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-39706" title="Thistle Blossom" image="1672R-39706.jpg" smallImage="1672R-39706_preview.jpg" unlockingPuzzleIds="4097R-3962">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chardon" />
+          <Language key="it-IT" value="Fiore di cardo" />
+          <Language key="de-DE" value="Distel" />
+          <Language key="es-ES" value="Flor de cardo" />
+          <Language key="pt-BR" value="Flor de cardo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-80757" title="Pink Rose" image="1828R-80757.jpg" smallImage="1828R-80757_preview.jpg" unlockingPuzzleIds="1672R-39706">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rose rose" />
+          <Language key="it-IT" value="Rosa rosa" />
+          <Language key="de-DE" value="Rosafarbene Rose" />
+          <Language key="es-ES" value="Rosa rosa" />
+          <Language key="pt-BR" value="Rosa rósea" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3859" title="Dandelion" image="4097R-3859.jpg" smallImage="4097R-3859_preview.jpg" unlockingPuzzleIds="1828R-80757">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pissenlit" />
+          <Language key="it-IT" value="Dente di leone" />
+          <Language key="de-DE" value="Pusteblume" />
+          <Language key="es-ES" value="Diente de león" />
+          <Language key="pt-BR" value="Dente-de-leão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-332360" title="Pink Orchid" image="1848R-332360.jpg" smallImage="1848R-332360_preview.jpg" unlockingPuzzleIds="4097R-3859">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orchidée rose" />
+          <Language key="it-IT" value="Orchidea rosa" />
+          <Language key="de-DE" value="Rosafarbene Orchidee" />
+          <Language key="es-ES" value="Orquídea rosa" />
+          <Language key="pt-BR" value="Orquídea rosa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-426215" title="Blue Water Lily" image="1436R-426215.jpg" smallImage="1436R-426215_preview.jpg" unlockingPuzzleIds="1848R-332360">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lotus bleu" />
+          <Language key="it-IT" value="Ninfea blu" />
+          <Language key="de-DE" value="Blaue Seerose" />
+          <Language key="es-ES" value="Nenúfar azul" />
+          <Language key="pt-BR" value="Nenúfar azul" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="482R-1746" title="Parrot Tulip" image="482R-1746.jpg" smallImage="482R-1746_preview.jpg" unlockingPuzzleIds="1436R-426215">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulipe perroquet" />
+          <Language key="it-IT" value="Tulipano rosso" />
+          <Language key="de-DE" value="Papageientulpe" />
+          <Language key="es-ES" value="Tulipán papagayo" />
+          <Language key="pt-BR" value="Tulipa de papagaio" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11791814" title="Chrysanthemum" image="1598R-11791814.jpg" smallImage="1598R-11791814_preview.jpg" unlockingPuzzleIds="482R-1746">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chrysanthème" />
+          <Language key="it-IT" value="Crisantemo" />
+          <Language key="de-DE" value="Chrysantheme" />
+          <Language key="es-ES" value="Crisantemo" />
+          <Language key="pt-BR" value="Crisântemo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3944" title="Cape Daisy" image="4097R-3944.jpg" smallImage="4097R-3944_preview.jpg" unlockingPuzzleIds="1598R-11791814">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marguerite du Cap" />
+          <Language key="it-IT" value="Margherita viola" />
+          <Language key="de-DE" value="Kapmargerite" />
+          <Language key="es-ES" value="Margarita africana" />
+          <Language key="pt-BR" value="Margarida-do-cabo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4279R-48701" title="Yellow Rose" image="4279R-48701.jpg" smallImage="4279R-48701_preview.jpg" unlockingPuzzleIds="4097R-3944">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rose jaune" />
+          <Language key="it-IT" value="Rosa gialla" />
+          <Language key="de-DE" value="Gelbe Rose" />
+          <Language key="es-ES" value="Rosa amarilla" />
+          <Language key="pt-BR" value="Rosa amarela" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3926" title="Pink Daisy" image="4097R-3926.jpg" smallImage="4097R-3926_preview.jpg" unlockingPuzzleIds="4279R-48701">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marguerite rose" />
+          <Language key="it-IT" value="Margherita rosa" />
+          <Language key="de-DE" value="Rosafarbenes Gänseblümchen" />
+          <Language key="es-ES" value="Margarita rosa" />
+          <Language key="pt-BR" value="Margarida rosa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4097R-3921" title="Red Gerber Daisy" image="4097R-3921.jpg" smallImage="4097R-3921_preview.jpg" unlockingPuzzleIds="4097R-3926">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gerbera rouge" />
+          <Language key="it-IT" value="Gerbera rossa" />
+          <Language key="de-DE" value="Rote Gerbera" />
+          <Language key="es-ES" value="Margarita gerbera roja" />
+          <Language key="pt-BR" value="Gérbera vermelha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-65281" title="Poinsettia" image="1828R-65281.jpg" smallImage="1828R-65281_preview.jpg" unlockingPuzzleIds="4097R-3921">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poinsettia" />
+          <Language key="it-IT" value="Stella di Natale" />
+          <Language key="de-DE" value="Weihnachtsstern" />
+          <Language key="es-ES" value="Flor de Pascua" />
+          <Language key="pt-BR" value="Poinsétia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-157194" title="Dahlia Hybrid" image="1815R-157194.jpg" smallImage="1815R-157194_preview.jpg" unlockingPuzzleIds="1828R-65281">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dahlia" />
+          <Language key="it-IT" value="Dalia ibrida" />
+          <Language key="de-DE" value="Dahlien-Hybrid" />
+          <Language key="es-ES" value="Dalia híbrida" />
+          <Language key="pt-BR" value="Dália híbrida" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11872628" title="Orchid" image="1598R-11872628.jpg" smallImage="1598R-11872628_preview.jpg" unlockingPuzzleIds="1815R-157194">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orchidée" />
+          <Language key="it-IT" value="Orchidea" />
+          <Language key="de-DE" value="Orchidee" />
+          <Language key="es-ES" value="Orquídea" />
+          <Language key="pt-BR" value="Orquídea" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-11309077" title="Tulip" image="1815R-11309077.jpg" smallImage="1815R-11309077_preview.jpg" unlockingPuzzleIds="1598R-11872628">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulipe" />
+          <Language key="it-IT" value="Tulipano" />
+          <Language key="de-DE" value="Tulpe" />
+          <Language key="es-ES" value="Tulipán" />
+          <Language key="pt-BR" value="Tulipa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1482R-2085" title="Yellow Poppy" image="1482R-2085.jpg" smallImage="1482R-2085_preview.jpg" unlockingPuzzleIds="1815R-11309077">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pavot jaune" />
+          <Language key="it-IT" value="Papavero giallo" />
+          <Language key="de-DE" value="Gelber Hornmohn" />
+          <Language key="es-ES" value="Amapola amarilla" />
+          <Language key="pt-BR" value="Papoula amarela" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4165R-1598" title="Dew Droplets on Rose" image="4165R-1598.jpg" smallImage="4165R-1598_preview.jpg" unlockingPuzzleIds="1482R-2085">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rose couverte de rosée" />
+          <Language key="it-IT" value="Gocce di rugiada su rosa" />
+          <Language key="de-DE" value="Tautropfen auf Rose" />
+          <Language key="es-ES" value="Rosa con gotas de rocío" />
+          <Language key="pt-BR" value="Gotículas na rosa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-90625" title="Lotus Flower" image="1841R-90625.jpg" smallImage="1841R-90625_preview.jpg" unlockingPuzzleIds="4165R-1598">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleur de lotus" />
+          <Language key="it-IT" value="Fiore di loto" />
+          <Language key="de-DE" value="Lotusblüte" />
+          <Language key="es-ES" value="Flor de loto" />
+          <Language key="pt-BR" value="Flor de lótus" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

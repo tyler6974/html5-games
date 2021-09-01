@@ -1,0 +1,148 @@
+<Puzzles>
+  <Groups packId="MusicPack">
+    <Group id="Music" title="Music" sentientId="242" revision="10" packImage="1672R-44291_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Musique" />
+        <Language key="it-IT" value="Musica" />
+        <Language key="de-DE" value="Musik" />
+        <Language key="es-ES" value="Música" />
+        <Language key="pt-BR" value="Música" />
+      </GroupLocalization>
+      <Puzzle id="1672R-44291" title="Drum Kit" image="1672R-44291.jpg" smallImage="1672R-44291_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Batterie" />
+          <Language key="it-IT" value="Batteria" />
+          <Language key="de-DE" value="Schlagzeug" />
+          <Language key="es-ES" value="Batería" />
+          <Language key="pt-BR" value="Bateria" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1570R-113846" title="Xylophone" image="1570R-113846.jpg" smallImage="1570R-113846_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Xylophone" />
+          <Language key="it-IT" value="Xilofono" />
+          <Language key="de-DE" value="Xylophon" />
+          <Language key="es-ES" value="Xilófono" />
+          <Language key="pt-BR" value="Xilofone" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1654R-48328" title="Guitars" image="1654R-48328.jpg" smallImage="1654R-48328_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Guitares" />
+          <Language key="it-IT" value="Chitarre" />
+          <Language key="de-DE" value="Gitarren" />
+          <Language key="es-ES" value="Guitarras" />
+          <Language key="pt-BR" value="Violões" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-216745" title="Violin" image="1598R-216745.jpg" smallImage="1598R-216745_preview.jpg" unlockingPuzzleIds="1672R-44291,1570R-113846,1654R-48328">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Violon" />
+          <Language key="it-IT" value="Violino" />
+          <Language key="de-DE" value="Violine" />
+          <Language key="es-ES" value="Violín" />
+          <Language key="pt-BR" value="Violino" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1599R-27918" title="Wind Instruments" image="1599R-27918.jpg" smallImage="1599R-27918_preview.jpg" unlockingPuzzleIds="1598R-216745">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Instruments à vent" />
+          <Language key="it-IT" value="Fiati" />
+          <Language key="de-DE" value="Blasinstrumente" />
+          <Language key="es-ES" value="Vientos" />
+          <Language key="pt-BR" value="Instrumentos de sopro" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-65806" title="Maracas and Sombrero" image="1672R-65806.jpg" smallImage="1672R-65806_preview.jpg" unlockingPuzzleIds="1599R-27918">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Maracas et sombrero" />
+          <Language key="it-IT" value="Maracas e sombrero" />
+          <Language key="de-DE" value="Maracas und Sombrero" />
+          <Language key="es-ES" value="Maracas y sombrero" />
+          <Language key="pt-BR" value="Maracas e sombrero" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-379729" title="Koto" image="4029R-379729.jpg" smallImage="4029R-379729_preview.jpg" unlockingPuzzleIds="1672R-65806">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Koto" />
+          <Language key="it-IT" value="Koto" />
+          <Language key="de-DE" value="Koto" />
+          <Language key="es-ES" value="Koto" />
+          <Language key="pt-BR" value="Koto" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1555R-10059" title="Microphone" image="1555R-10059.jpg" smallImage="1555R-10059_preview.jpg" unlockingPuzzleIds="4029R-379729">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Micro" />
+          <Language key="it-IT" value="Microfono" />
+          <Language key="de-DE" value="Mikrofon" />
+          <Language key="es-ES" value="Micrófono" />
+          <Language key="pt-BR" value="Microfone" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-223161" title="Saxophone" image="1647R-223161.jpg" smallImage="1647R-223161_preview.jpg" unlockingPuzzleIds="1555R-10059">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Saxophone" />
+          <Language key="it-IT" value="Sassofono" />
+          <Language key="de-DE" value="Saxophon" />
+          <Language key="es-ES" value="Saxofón" />
+          <Language key="pt-BR" value="Saxofone" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

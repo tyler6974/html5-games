@@ -1,0 +1,238 @@
+<Puzzles>
+  <Groups packId="OriandtheBlindForestPack">
+    <Group id="OriandtheBlindForest" title="Ori and the Blind Forest" sentientId="0" revision="4" packImage="01_Ori_and_Naru_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Ori and the Blind Forest" />
+        <Language key="it-IT" value="Ori and the Blind Forest" />
+        <Language key="de-DE" value="Ori and the Blind Forest" />
+        <Language key="es-ES" value="Ori and the Blind Forest" />
+        <Language key="pt-BR" value="Ori and the Blind Forest" />
+      </GroupLocalization>
+      <Puzzle id="01_Ori_and_Naru" title="Ori and Naru" image="01_Ori_and_Naru.jpg" smallImage="01_Ori_and_Naru_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ori and Naru" />
+          <Language key="it-IT" value="Ori and Naru" />
+          <Language key="de-DE" value="Ori and Naru" />
+          <Language key="es-ES" value="Ori and Naru" />
+          <Language key="pt-BR" value="Ori and Naru" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="02_Home" title="Home" image="02_Home.jpg" smallImage="02_Home_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Home" />
+          <Language key="it-IT" value="Home" />
+          <Language key="de-DE" value="Home" />
+          <Language key="es-ES" value="Home" />
+          <Language key="pt-BR" value="Home" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="03_Rock_Mover" title="Rock Mover" image="03_Rock_Mover.jpg" smallImage="03_Rock_Mover_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rock Mover" />
+          <Language key="it-IT" value="Rock Mover" />
+          <Language key="de-DE" value="Rock Mover" />
+          <Language key="es-ES" value="Rock Mover" />
+          <Language key="pt-BR" value="Rock Mover" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="04_Mt_Horu" title="Mt. Horu" image="04_Mt_Horu.jpg" smallImage="04_Mt_Horu_preview.jpg" unlockingPuzzleIds="01_Ori_and_Naru,02_Home,03_Rock_Mover">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mt. Horu" />
+          <Language key="it-IT" value="Mt. Horu" />
+          <Language key="de-DE" value="Mt. Horu" />
+          <Language key="es-ES" value="Mt. Horu" />
+          <Language key="pt-BR" value="Mt. Horu" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="05_Spirit_Tree" title="Spirit Tree" image="05_Spirit_Tree.jpg" smallImage="05_Spirit_Tree_preview.jpg" unlockingPuzzleIds="04_Mt_Horu">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Spirit Tree" />
+          <Language key="it-IT" value="Spirit Tree" />
+          <Language key="de-DE" value="Spirit Tree" />
+          <Language key="es-ES" value="Spirit Tree" />
+          <Language key="pt-BR" value="Spirit Tree" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="06_Spider_Cove" title="Spider Cove" image="06_Spider_Cove.jpg" smallImage="06_Spider_Cove_preview.jpg" unlockingPuzzleIds="05_Spirit_Tree">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Spider Cove" />
+          <Language key="it-IT" value="Spider Cove" />
+          <Language key="de-DE" value="Spider Cove" />
+          <Language key="es-ES" value="Spider Cove" />
+          <Language key="pt-BR" value="Spider Cove" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="07_Bridge" title="Bridge" image="07_Bridge.jpg" smallImage="07_Bridge_preview.jpg" unlockingPuzzleIds="06_Spider_Cove">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bridge" />
+          <Language key="it-IT" value="Bridge" />
+          <Language key="de-DE" value="Bridge" />
+          <Language key="es-ES" value="Bridge" />
+          <Language key="pt-BR" value="Bridge" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="08_Nibel" title="Nibel" image="08_Nibel.jpg" smallImage="08_Nibel_preview.jpg" unlockingPuzzleIds="07_Bridge">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Nibel" />
+          <Language key="it-IT" value="Nibel" />
+          <Language key="de-DE" value="Nibel" />
+          <Language key="es-ES" value="Nibel" />
+          <Language key="pt-BR" value="Nibel" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="09_Bash" title="Bash" image="09_Bash.jpg" smallImage="09_Bash_preview.jpg" unlockingPuzzleIds="08_Nibel">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bash" />
+          <Language key="it-IT" value="Bash" />
+          <Language key="de-DE" value="Bash" />
+          <Language key="es-ES" value="Bash" />
+          <Language key="pt-BR" value="Bash" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="10_Ginso_Tree" title="Ginso Tree" image="10_Ginso_Tree.jpg" smallImage="10_Ginso_Tree_preview.jpg" unlockingPuzzleIds="09_Bash">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ginso Tree" />
+          <Language key="it-IT" value="Ginso Tree" />
+          <Language key="de-DE" value="Ginso Tree" />
+          <Language key="es-ES" value="Ginso Tree" />
+          <Language key="pt-BR" value="Ginso Tree" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="11_Naru" title="Naru" image="11_Naru.jpg" smallImage="11_Naru_preview.jpg" unlockingPuzzleIds="10_Ginso_Tree">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Naru" />
+          <Language key="it-IT" value="Naru" />
+          <Language key="de-DE" value="Naru" />
+          <Language key="es-ES" value="Naru" />
+          <Language key="pt-BR" value="Naru" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="12_Misty_Woods" title="Misty Woods" image="12_Misty_Woods.jpg" smallImage="12_Misty_Woods_preview.jpg" unlockingPuzzleIds="11_Naru">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Misty Woods" />
+          <Language key="it-IT" value="Misty Woods" />
+          <Language key="de-DE" value="Misty Woods" />
+          <Language key="es-ES" value="Misty Woods" />
+          <Language key="pt-BR" value="Misty Woods" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="13_Water" title="Water" image="13_Water.jpg" smallImage="13_Water_preview.jpg" unlockingPuzzleIds="12_Misty_Woods">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Water" />
+          <Language key="it-IT" value="Water" />
+          <Language key="de-DE" value="Water" />
+          <Language key="es-ES" value="Water" />
+          <Language key="pt-BR" value="Water" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="14_Tree" title="Tree" image="14_Tree.jpg" smallImage="14_Tree_preview.jpg" unlockingPuzzleIds="13_Water">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tree" />
+          <Language key="it-IT" value="Tree" />
+          <Language key="de-DE" value="Tree" />
+          <Language key="es-ES" value="Tree" />
+          <Language key="pt-BR" value="Tree" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="15_Sorrows_Pass" title="Sorrow's Pass" image="15_Sorrows_Pass.jpg" smallImage="15_Sorrows_Pass_preview.jpg" unlockingPuzzleIds="14_Tree">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sorrows Pass" />
+          <Language key="it-IT" value="Sorrow's Pass" />
+          <Language key="de-DE" value="Sorrow's Pass" />
+          <Language key="es-ES" value="Sorrow's Pass" />
+          <Language key="pt-BR" value="Sorrow's Pass" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

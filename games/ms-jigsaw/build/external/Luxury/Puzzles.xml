@@ -1,0 +1,414 @@
+<Puzzles>
+  <Groups packId="LuxuryPack">
+    <Group id="Luxury" title="Luxury" sentientId="341" revision="1" packImage="1589R-13379435_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Luxe" />
+        <Language key="it-IT" value="Lusso" />
+        <Language key="de-DE" value="Luxus" />
+        <Language key="es-ES" value="Lujo" />
+        <Language key="pt-BR" value="Luxo" />
+        <Language key="ja-JP" value="高級" />
+      </GroupLocalization>
+      <Puzzle id="1589R-13379435" title="Esperanza Resort" image="1589R-13379435.jpg" smallImage="1589R-13379435_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Station balnéaire Esperanza" />
+          <Language key="it-IT" value="Esperanza Resort" />
+          <Language key="de-DE" value="Esperanza-Resort" />
+          <Language key="es-ES" value="Resort Esperanza" />
+          <Language key="pt-BR" value="Resort Esperanza" />
+          <Language key="ja-JP" value="エスペランサ リゾート" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13344376" title="Patio" image="1589R-13344376.jpg" smallImage="1589R-13344376_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Patio" />
+          <Language key="it-IT" value="Patio" />
+          <Language key="de-DE" value="Terrasse" />
+          <Language key="es-ES" value="Patio" />
+          <Language key="pt-BR" value="Pátio" />
+          <Language key="ja-JP" value="テラス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11509843" title="Poolside" image="4428R-11509843.jpg" smallImage="4428R-11509843_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Au bord de la piscine" />
+          <Language key="it-IT" value="Bordo piscina" />
+          <Language key="de-DE" value="Pool" />
+          <Language key="es-ES" value="Junto a la piscina" />
+          <Language key="pt-BR" value="Borda da Piscina" />
+          <Language key="ja-JP" value="プールサイド" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-154289" title="Spa Day" image="1589R-154289.jpg" smallImage="1589R-154289_preview.jpg" unlockingPuzzleIds="1589R-13379435,1589R-13344376,4428R-11509843">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Journée au spa" />
+          <Language key="it-IT" value="Giornata alle terme" />
+          <Language key="de-DE" value="Ein Tag im Spa" />
+          <Language key="es-ES" value="Día de spa" />
+          <Language key="pt-BR" value="Dia de Spa" />
+          <Language key="ja-JP" value="スパの 1 日" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12843153" title="Yachts" image="1672R-12843153.jpg" smallImage="1672R-12843153_preview.jpg" unlockingPuzzleIds="1589R-154289">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Yachts" />
+          <Language key="it-IT" value="Yacht" />
+          <Language key="de-DE" value="Jachten" />
+          <Language key="es-ES" value="Yates" />
+          <Language key="pt-BR" value="Iates" />
+          <Language key="ja-JP" value="ヨット" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-25868" title="Fancy Hotel" image="1589R-25868.jpg" smallImage="1589R-25868_preview.jpg" unlockingPuzzleIds="1672R-12843153">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Hôtel luxueux" />
+          <Language key="it-IT" value="Fancy Hotel" />
+          <Language key="de-DE" value="Schickes Hotel" />
+          <Language key="es-ES" value="Hotel de lujo" />
+          <Language key="pt-BR" value="Hotel Chique" />
+          <Language key="ja-JP" value="高級ホテル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12812033" title="Pampered" image="1598R-12812033.jpg" smallImage="1598R-12812033_preview.jpg" unlockingPuzzleIds="1589R-25868">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Se chouchouter" />
+          <Language key="it-IT" value="Coccolati" />
+          <Language key="de-DE" value="Gediegen" />
+          <Language key="es-ES" value="Cuidados" />
+          <Language key="pt-BR" value="Mimos" />
+          <Language key="ja-JP" value="至れり尽くせり" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-25825" title="Relaxing" image="1589R-25825.jpg" smallImage="1589R-25825_preview.jpg" unlockingPuzzleIds="1598R-12812033">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Détente" />
+          <Language key="it-IT" value="Rilassante" />
+          <Language key="de-DE" value="Entspannen" />
+          <Language key="es-ES" value="Relajante" />
+          <Language key="pt-BR" value="Relaxante" />
+          <Language key="ja-JP" value="リラックス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-2142" title="Entertainment Tonight" image="4428R-2142.jpg" smallImage="4428R-2142_preview.jpg" unlockingPuzzleIds="1589R-25825">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Soirée animée" />
+          <Language key="it-IT" value="Programma della serata" />
+          <Language key="de-DE" value="Abendunterhaltung" />
+          <Language key="es-ES" value="Entretenimiento nocturno" />
+          <Language key="pt-BR" value="Entretenimento à Noite" />
+          <Language key="ja-JP" value="夜の楽しみ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-12262685" title="Fire Pit" image="1589R-12262685.jpg" smallImage="1589R-12262685_preview.jpg" unlockingPuzzleIds="4428R-2142">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Braséro" />
+          <Language key="it-IT" value="Falò" />
+          <Language key="de-DE" value="Feuerstelle" />
+          <Language key="es-ES" value="Hoguera" />
+          <Language key="pt-BR" value="Fogueira" />
+          <Language key="ja-JP" value="たき火台" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13344367" title="Reflecting pool" image="1589R-13344367.jpg" smallImage="1589R-13344367_preview.jpg" unlockingPuzzleIds="1589R-12262685">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Reflets dans la piscine" />
+          <Language key="it-IT" value="Specchio d'acqua" />
+          <Language key="de-DE" value="Reflektierender Pool" />
+          <Language key="es-ES" value="Piscina con reflejos" />
+          <Language key="pt-BR" value="Espelho d'água" />
+          <Language key="ja-JP" value="リフレクティング プール" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-138536" title="Shopping" image="1589R-138536.jpg" smallImage="1589R-138536_preview.jpg" unlockingPuzzleIds="1589R-13344367">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Shopping" />
+          <Language key="it-IT" value="Shopping" />
+          <Language key="de-DE" value="Shoppen" />
+          <Language key="es-ES" value="Compras" />
+          <Language key="pt-BR" value="Compras" />
+          <Language key="ja-JP" value="ショッピング" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13408946" title="Stone House" image="1589R-13408946.jpg" smallImage="1589R-13408946_preview.jpg" unlockingPuzzleIds="1589R-138536">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Maison en pierre" />
+          <Language key="it-IT" value="Casa in pietra" />
+          <Language key="de-DE" value="Steinhaus" />
+          <Language key="es-ES" value="Casa de piedra" />
+          <Language key="pt-BR" value="Casa de Pedra" />
+          <Language key="ja-JP" value="石づくりの家" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11497709" title="Villa" image="4428R-11497709.jpg" smallImage="4428R-11497709_preview.jpg" unlockingPuzzleIds="1589R-13408946">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Villa" />
+          <Language key="it-IT" value="Villa" />
+          <Language key="de-DE" value="Villa" />
+          <Language key="es-ES" value="Villa" />
+          <Language key="pt-BR" value="Vila" />
+          <Language key="ja-JP" value="ヴィラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11511055" title="Modern" image="4428R-11511055.jpg" smallImage="4428R-11511055_preview.jpg" unlockingPuzzleIds="4428R-11497709">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Moderne" />
+          <Language key="it-IT" value="Contemporaneo" />
+          <Language key="de-DE" value="Modern" />
+          <Language key="es-ES" value="Moderna" />
+          <Language key="pt-BR" value="Moderno" />
+          <Language key="ja-JP" value="モダン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13408944" title="Estate" image="1589R-13408944.jpg" smallImage="1589R-13408944_preview.jpg" unlockingPuzzleIds="4428R-11511055">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Domaine" />
+          <Language key="it-IT" value="Tenuta" />
+          <Language key="de-DE" value="Anwesen" />
+          <Language key="es-ES" value="Finca" />
+          <Language key="pt-BR" value="Propriedade" />
+          <Language key="ja-JP" value="エステート" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-13113857" title="Veranda" image="1527R-13113857.jpg" smallImage="1527R-13113857_preview.jpg" unlockingPuzzleIds="1589R-13408944">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Terrasse" />
+          <Language key="it-IT" value="Veranda" />
+          <Language key="de-DE" value="Veranda" />
+          <Language key="es-ES" value="Terraza" />
+          <Language key="pt-BR" value="Varanda" />
+          <Language key="ja-JP" value="ベランダ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-804718" title="Manor" image="1848R-804718.jpg" smallImage="1848R-804718_preview.jpg" unlockingPuzzleIds="1527R-13113857">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Manoir" />
+          <Language key="it-IT" value="Maniero" />
+          <Language key="de-DE" value="Herrenhaus" />
+          <Language key="es-ES" value="Señorío" />
+          <Language key="pt-BR" value="Palacete" />
+          <Language key="ja-JP" value="洋館" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-82086" title="Massage" image="1795R-82086.jpg" smallImage="1795R-82086_preview.jpg" unlockingPuzzleIds="1848R-804718">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Massage" />
+          <Language key="it-IT" value="Massaggio" />
+          <Language key="de-DE" value="Massage" />
+          <Language key="es-ES" value="Masaje" />
+          <Language key="pt-BR" value="Massagem" />
+          <Language key="ja-JP" value="マッサージ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11496067" title="Swimming Pool" image="4428R-11496067.jpg" smallImage="4428R-11496067_preview.jpg" unlockingPuzzleIds="1795R-82086">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Piscine" />
+          <Language key="it-IT" value="Piscina" />
+          <Language key="de-DE" value="Swimmingpool" />
+          <Language key="es-ES" value="Piscina" />
+          <Language key="pt-BR" value="Piscina" />
+          <Language key="ja-JP" value="プール" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11510033" title="Grand Dedale" image="4428R-11510033.jpg" smallImage="4428R-11510033_preview.jpg" unlockingPuzzleIds="4428R-11496067">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand Dedale" />
+          <Language key="it-IT" value="Grand Dedale" />
+          <Language key="de-DE" value="Grand Dedale" />
+          <Language key="es-ES" value="Mansión europea" />
+          <Language key="pt-BR" value="Grand Dedale" />
+          <Language key="ja-JP" value="グランド デダル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11509871" title="Patio Lounge" image="4428R-11509871.jpg" smallImage="4428R-11509871_preview.jpg" unlockingPuzzleIds="4428R-11510033">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jardin patio" />
+          <Language key="it-IT" value="Patio Lounge" />
+          <Language key="de-DE" value="Lounge-Terrasse" />
+          <Language key="es-ES" value="Patio salón" />
+          <Language key="pt-BR" value="Saguão" />
+          <Language key="ja-JP" value="庭園ラウンジ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11507779" title="Retreat on Hove" image="4428R-11507779.jpg" smallImage="4428R-11507779_preview.jpg" unlockingPuzzleIds="4428R-11509871">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Retreat on Hove" />
+          <Language key="it-IT" value="Retreat on Hove" />
+          <Language key="de-DE" value="Retreat on Hove" />
+          <Language key="es-ES" value="Retiro en Hove" />
+          <Language key="pt-BR" value="Retreat on Hove" />
+          <Language key="ja-JP" value="ホーブの静養所" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-13113883" title="Mansion" image="1527R-13113883.jpg" smallImage="1527R-13113883_preview.jpg" unlockingPuzzleIds="4428R-11507779">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Résidence" />
+          <Language key="it-IT" value="Palazzo" />
+          <Language key="de-DE" value="Landhaus" />
+          <Language key="es-ES" value="Mansión" />
+          <Language key="pt-BR" value="Mansão" />
+          <Language key="ja-JP" value="屋敷" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1654R-47507" title="Bentley Convertible" image="1654R-47507.jpg" smallImage="1654R-47507_preview.jpg" unlockingPuzzleIds="1527R-13113883">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cabriolet Bentley" />
+          <Language key="it-IT" value="Bentley cabriolet" />
+          <Language key="de-DE" value="Bentley-Cabrio" />
+          <Language key="es-ES" value="Bentley convertible" />
+          <Language key="pt-BR" value="Bentley Conversível" />
+          <Language key="ja-JP" value="ベントレー コンバーチブル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

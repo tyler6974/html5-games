@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="LiquidPack">
+    <Group id="Liquid" title="Liquid" sentientId="237" revision="8" packImage="1848R-374659_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Liquides" />
+        <Language key="it-IT" value="Liquidi" />
+        <Language key="de-DE" value="Flüssiges" />
+        <Language key="es-ES" value="Líquido" />
+        <Language key="pt-BR" value="Líquidos" />
+      </GroupLocalization>
+      <Puzzle id="1848R-374659" title="Water" image="1848R-374659.jpg" smallImage="1848R-374659_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Eau" />
+          <Language key="it-IT" value="Acqua" />
+          <Language key="de-DE" value="Wasser" />
+          <Language key="es-ES" value="Agua" />
+          <Language key="pt-BR" value="Água" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-7012" title="Milk" image="1824R-7012.jpg" smallImage="1824R-7012_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lait" />
+          <Language key="it-IT" value="Latte" />
+          <Language key="de-DE" value="Milch" />
+          <Language key="es-ES" value="Leche" />
+          <Language key="pt-BR" value="Leite" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-7005" title="Peach Juice" image="1824R-7005.jpg" smallImage="1824R-7005_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jus de pêche" />
+          <Language key="it-IT" value="Succo di pesca" />
+          <Language key="de-DE" value="Pfirsichsaft" />
+          <Language key="es-ES" value="Zumo de melocotón" />
+          <Language key="pt-BR" value="Suco de pêssego" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1824R-7081" title="Kvass" image="1824R-7081.jpg" smallImage="1824R-7081_preview.jpg" unlockingPuzzleIds="1848R-374659,1824R-7012,1824R-7005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Kvas" />
+          <Language key="it-IT" value="Kvas" />
+          <Language key="de-DE" value="Kwas" />
+          <Language key="es-ES" value="Kvass" />
+          <Language key="pt-BR" value="Kvass" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-85819" title="Condensation" image="1672R-85819.jpg" smallImage="1672R-85819_preview.jpg" unlockingPuzzleIds="1824R-7081">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Condensation" />
+          <Language key="it-IT" value="Condensa" />
+          <Language key="de-DE" value="Kondenswasser" />
+          <Language key="es-ES" value="Condensación" />
+          <Language key="pt-BR" value="Condensação" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-310241" title="Fruits in Water" image="4029R-310241.jpg" smallImage="4029R-310241_preview.jpg" unlockingPuzzleIds="1672R-85819">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fruits dans de l'eau" />
+          <Language key="it-IT" value="Frutta nell'acqua" />
+          <Language key="de-DE" value="Obst im Wasser" />
+          <Language key="es-ES" value="Frutas en el agua" />
+          <Language key="pt-BR" value="Frutas na água" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-1140038" title="Reflection" image="1491R-1140038.jpg" smallImage="1491R-1140038_preview.jpg" unlockingPuzzleIds="4029R-310241">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Réverbération" />
+          <Language key="it-IT" value="Riflesso" />
+          <Language key="de-DE" value="Reflexion" />
+          <Language key="es-ES" value="Reflejo" />
+          <Language key="pt-BR" value="Reflexo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-575008" title="Water Drop" image="1527R-575008.jpg" smallImage="1527R-575008_preview.jpg" unlockingPuzzleIds="1491R-1140038">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Goutte d'eau" />
+          <Language key="it-IT" value="Goccia d'acqua" />
+          <Language key="de-DE" value="Wassertropfen" />
+          <Language key="es-ES" value="Gota de agua" />
+          <Language key="pt-BR" value="Gotas d'água" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-80632" title="Red Droplets" image="1672R-80632.jpg" smallImage="1672R-80632_preview.jpg" unlockingPuzzleIds="1527R-575008">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gouttelettes rouges" />
+          <Language key="it-IT" value="Gocce rosse" />
+          <Language key="de-DE" value="Rote Tröpfchen" />
+          <Language key="es-ES" value="Goteo rojo" />
+          <Language key="pt-BR" value="Gotículas vermelhas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-163754" title="Flowing Liquid" image="1647R-163754.jpg" smallImage="1647R-163754_preview.jpg" unlockingPuzzleIds="1672R-80632">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Liquide s'écoulant" />
+          <Language key="it-IT" value="Liquido fluido" />
+          <Language key="de-DE" value="Gemischte Flüssigkeiten" />
+          <Language key="es-ES" value="Líquido fluyendo" />
+          <Language key="pt-BR" value="Líquido fluido" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

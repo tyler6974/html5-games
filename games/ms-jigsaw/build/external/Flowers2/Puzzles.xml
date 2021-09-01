@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="Flowers2Pack">
+    <Group id="Flowers2" title="Flowers 2" sentientId="278" revision="3" packImage="1040FS-00001_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Fleurs 2" />
+        <Language key="it-IT" value="Fiori 2" />
+        <Language key="de-DE" value="Blumen 2" />
+        <Language key="es-ES" value="Flores 2" />
+        <Language key="pt-BR" value="Flores 2" />
+      </GroupLocalization>
+      <Puzzle id="1040FS-00001" title="Between the Tulips" image="1040FS-00001.jpg" smallImage="1040FS-00001_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Entre les tulipes" />
+          <Language key="it-IT" value="Tra i tulipani" />
+          <Language key="de-DE" value="Zwischen Tuplen" />
+          <Language key="es-ES" value="Entre tulipanes" />
+          <Language key="pt-BR" value="Entre as Túlipas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00002" title="Bumblebee" image="1040FS-00002.jpg" smallImage="1040FS-00002_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bourdon" />
+          <Language key="it-IT" value="Bombo" />
+          <Language key="de-DE" value="Hummel" />
+          <Language key="es-ES" value="Abejorro" />
+          <Language key="pt-BR" value="Polinização" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00003" title="Sunflowers" image="1040FS-00003.jpg" smallImage="1040FS-00003_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tournesols" />
+          <Language key="it-IT" value="Girasoli" />
+          <Language key="de-DE" value="Sonnenblumen" />
+          <Language key="es-ES" value="Girasoles" />
+          <Language key="pt-BR" value="Girassóis" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00004" title="Lily" image="1040FS-00004.jpg" smallImage="1040FS-00004_preview.jpg" unlockingPuzzleIds="1040FS-00001,1040FS-00002,1040FS-00003">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lys" />
+          <Language key="it-IT" value="Giglio" />
+          <Language key="de-DE" value="Lilie" />
+          <Language key="es-ES" value="Lirio" />
+          <Language key="pt-BR" value="Lírio de Água" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00005" title="Mt. Rainier" image="1040FS-00005.jpg" smallImage="1040FS-00005_preview.jpg" unlockingPuzzleIds="1040FS-00004">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mont Rainier" />
+          <Language key="it-IT" value="Monte Rainier" />
+          <Language key="de-DE" value="Mt. Rainier" />
+          <Language key="es-ES" value="Monte Rainier" />
+          <Language key="pt-BR" value="Flores no Monte Rainier" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00006" title="Pink Lotus" image="1040FS-00006.jpg" smallImage="1040FS-00006_preview.jpg" unlockingPuzzleIds="1040FS-00005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lotus rose" />
+          <Language key="it-IT" value="Loto rosa" />
+          <Language key="de-DE" value="Rosa Lotos" />
+          <Language key="es-ES" value="Loto rosa" />
+          <Language key="pt-BR" value="Lótus Rosa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00007" title="Beach Flowers" image="1040FS-00007.jpg" smallImage="1040FS-00007_preview.jpg" unlockingPuzzleIds="1040FS-00006">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs de plage" />
+          <Language key="it-IT" value="Fiori di spiaggia" />
+          <Language key="de-DE" value="Strandblumen" />
+          <Language key="es-ES" value="Flores de playa" />
+          <Language key="pt-BR" value="Flores de Praia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00008" title="Pink Flower" image="1040FS-00008.jpg" smallImage="1040FS-00008_preview.jpg" unlockingPuzzleIds="1040FS-00007">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleur rose" />
+          <Language key="it-IT" value="Fiore rosa" />
+          <Language key="de-DE" value="Rosa Blüte" />
+          <Language key="es-ES" value="Flor rosa" />
+          <Language key="pt-BR" value="Flor Rosada" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00009" title="Magenta" image="1040FS-00009.jpg" smallImage="1040FS-00009_preview.jpg" unlockingPuzzleIds="1040FS-00008">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Magenta" />
+          <Language key="it-IT" value="Magenta" />
+          <Language key="de-DE" value="Magenta" />
+          <Language key="es-ES" value="Magenta" />
+          <Language key="pt-BR" value="Rosa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1040FS-00010" title="Violet" image="1040FS-00010.jpg" smallImage="1040FS-00010_preview.jpg" unlockingPuzzleIds="1040FS-00009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Violette" />
+          <Language key="it-IT" value="Viola" />
+          <Language key="de-DE" value="Veilchen" />
+          <Language key="es-ES" value="Violeta" />
+          <Language key="pt-BR" value="Violeta" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

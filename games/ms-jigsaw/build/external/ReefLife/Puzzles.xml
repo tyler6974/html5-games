@@ -1,0 +1,334 @@
+﻿<Puzzles>
+  <Groups packId="ReefLifePack">
+    <Group id="ReefLife" title="Reef Life" sentientId="326" revision="1" packImage="1491R-13118908_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Récif corallien" />
+        <Language key="it-IT" value="Barriera corallina" />
+        <Language key="de-DE" value="Im Korallenriff" />
+        <Language key="es-ES" value="La vida en el arrecife" />
+        <Language key="pt-BR" value="Vida nos Recifes" />
+        <Language key="ja-JP" value="岩礁の生命" />
+      </GroupLocalization>
+      <Puzzle id="1491R-13118908" title="Spot-Tail Butterflyfish" image="1491R-13118908.jpg" smallImage="1491R-13118908_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poissons-papillons à point caudal" />
+          <Language key="it-IT" value="Pesce farfalla austriaco" />
+          <Language key="de-DE" value="Schwanzfleck-Falterfische" />
+          <Language key="es-ES" value="Pez mariposa" />
+          <Language key="pt-BR" value="Peixe Borboleta Manchado" />
+          <Language key="ja-JP" value="スポットテール・バタフライフィッシュ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12809523" title="Singapore Parrotfish" image="1491R-12809523.jpg" smallImage="1491R-12809523_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poissons-perroquets à gorge verte" />
+          <Language key="it-IT" value="Pesce pappagallo di Singapore" />
+          <Language key="de-DE" value="Grünwangen-Papageifische" />
+          <Language key="es-ES" value="Pez loro etobón" />
+          <Language key="pt-BR" value="Peixe Papagaio de Singapura" />
+          <Language key="ja-JP" value="シンガポール・ブダイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-12628929" title="Striped Squirrelfish" image="1439R-12628929.jpg" smallImage="1439R-12628929_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poissons-écureuils" />
+          <Language key="it-IT" value="Pesce scoiattolo" />
+          <Language key="de-DE" value="Hawaii-Husarenfische" />
+          <Language key="es-ES" value="Pez ardilla de Hawaii" />
+          <Language key="pt-BR" value="Peixe Esquilo Listrado" />
+          <Language key="ja-JP" value="イットウダイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1152682" title="Mandarin Dragonet" image="1439R-1152682.jpg" smallImage="1439R-1152682_preview.jpg" unlockingPuzzleIds="1491R-13118908,1491R-12809523,1439R-12628929">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson mandarin" />
+          <Language key="it-IT" value="Pesce mandarino" />
+          <Language key="de-DE" value="Mandarinfisch" />
+          <Language key="es-ES" value="Pez mandarín" />
+          <Language key="pt-BR" value="Peixe Mandarim" />
+          <Language key="ja-JP" value="ニシキテグリ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12809514" title="School of Butterflyfish" image="1491R-12809514.jpg" smallImage="1491R-12809514_preview.jpg" unlockingPuzzleIds="1439R-1152682">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Banc de poissons-papillons" />
+          <Language key="it-IT" value="Banco di pesci farfalla" />
+          <Language key="de-DE" value="Schwarm Falterfische" />
+          <Language key="es-ES" value="Banco de peces mariposa" />
+          <Language key="pt-BR" value="Cardume de Peixe Borboleta" />
+          <Language key="ja-JP" value="チョウチョウウオの群れ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1142990" title="Hawksbill Sea Turtle" image="1439R-1142990.jpg" smallImage="1439R-1142990_preview.jpg" unlockingPuzzleIds="1491R-12809514">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tortue imbriquée" />
+          <Language key="it-IT" value="Tartaruga embricata" />
+          <Language key="de-DE" value="Echte Karettschildkröte" />
+          <Language key="es-ES" value="Tortuga carey" />
+          <Language key="pt-BR" value="Tartaruga-de-pente" />
+          <Language key="ja-JP" value="タイマイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12809532" title="Two Wrasses" image="1491R-12809532.jpg" smallImage="1491R-12809532_preview.jpg" unlockingPuzzleIds="1439R-1142990">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Deux labres" />
+          <Language key="it-IT" value="Due labridi" />
+          <Language key="de-DE" value="Zwei Lippfische" />
+          <Language key="es-ES" value="Dos lábridos" />
+          <Language key="pt-BR" value="Dois Wrasses" />
+          <Language key="ja-JP" value="2匹のベラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13118888" title="Blackback and Bluecheek" image="1491R-13118888.jpg" smallImage="1491R-13118888_preview.jpg" unlockingPuzzleIds="1491R-12809532">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-papillon à dos noir et poissons-papillons jaunes" />
+          <Language key="it-IT" value="Pesce farfalla a dorso nero e mascherato" />
+          <Language key="de-DE" value="Schwarzrücken- und Maskenfalterfische" />
+          <Language key="es-ES" value="Pez mariposa de manchas negras y pez mariposa del mar Rojo" />
+          <Language key="pt-BR" value="Peixes Borboleta" />
+          <Language key="ja-JP" value="ブラックバックとブルーチーク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12809530" title="Daisy Parrotfish" image="1491R-12809530.jpg" smallImage="1491R-12809530_preview.jpg" unlockingPuzzleIds="1491R-13118888">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-perroquet grenat" />
+          <Language key="it-IT" value="Pesce pappagallo mediterraneo" />
+          <Language key="de-DE" value="Kugelkopf-Papageifisch" />
+          <Language key="es-ES" value="Pez loro margarita" />
+          <Language key="pt-BR" value="Peixe Papagaio Daisy" />
+          <Language key="ja-JP" value="ハゲブダイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12809537" title="Slingjaw Wrasse" image="1491R-12809537.jpg" smallImage="1491R-12809537_preview.jpg" unlockingPuzzleIds="1491R-12809530">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Labre à long museau" />
+          <Language key="it-IT" value="Labro boccalunga" />
+          <Language key="de-DE" value="Stülpmaullippfisch" />
+          <Language key="es-ES" value="Lábrido mandíbula en cabestrillo" />
+          <Language key="pt-BR" value="Peixe Wrasse" />
+          <Language key="ja-JP" value="ギチベラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13360770" title="Hooded Butterflyfish" image="1491R-13360770.jpg" smallImage="1491R-13360770_preview.jpg" unlockingPuzzleIds="1491R-12809537">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poissons-papillons à tête orange" />
+          <Language key="it-IT" value="Pesce farfalla larvato" />
+          <Language key="de-DE" value="Rotmeer-Baroness-Falterfische" />
+          <Language key="es-ES" value="Pez mariposa encapuchado" />
+          <Language key="pt-BR" value="Peixe Borboleta Encapuzado" />
+          <Language key="ja-JP" value="オレンジフェイス・バタフライフィッシュ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13360773" title="Scuba Diver" image="1491R-13360773.jpg" smallImage="1491R-13360773_preview.jpg" unlockingPuzzleIds="1491R-13360770">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Plongeur" />
+          <Language key="it-IT" value="Sub" />
+          <Language key="de-DE" value="Sporttaucher" />
+          <Language key="es-ES" value="Buceador" />
+          <Language key="pt-BR" value="Mergulhador" />
+          <Language key="ja-JP" value="スクーバダイバー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12112960" title="Angelfish" image="1672R-12112960.jpg" smallImage="1672R-12112960_preview.jpg" unlockingPuzzleIds="1491R-13360773">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-ange" />
+          <Language key="it-IT" value="Pesce angelo" />
+          <Language key="de-DE" value="Kaiserfisch" />
+          <Language key="es-ES" value="Pez ángel" />
+          <Language key="pt-BR" value="Peixe-anjo" />
+          <Language key="ja-JP" value="エンゼルフィッシュ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13360783" title="Branching Vase Sponge" image="1491R-13360783.jpg" smallImage="1491R-13360783_preview.jpg" unlockingPuzzleIds="1672R-12112960">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Éponges-vases ramifiées" />
+          <Language key="it-IT" value="Spugna ramificata" />
+          <Language key="de-DE" value="Verzweigter Vasenschwamm" />
+          <Language key="es-ES" value="Esponja de mar con vasos ramificada" />
+          <Language key="pt-BR" value="Esponja-Vaso Ramificada" />
+          <Language key="ja-JP" value="ザラカイメン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13360772" title="Crown Butterflyfish" image="1491R-13360772.jpg" smallImage="1491R-13360772_preview.jpg" unlockingPuzzleIds="1491R-13360783">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-papillon orange" />
+          <Language key="it-IT" value="Pesce farfalla coronato" />
+          <Language key="de-DE" value="Rotmeer-Falterfische" />
+          <Language key="es-ES" value="Pez mariposa de Eritrea" />
+          <Language key="pt-BR" value="Peixe Borboleta de Coroa" />
+          <Language key="ja-JP" value="クラウンドバタフライフィッシュ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11962711" title="Panda Butterflyfish" image="1672R-11962711.jpg" smallImage="1672R-11962711_preview.jpg" unlockingPuzzleIds="1491R-13360772">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-papillon des Philippines" />
+          <Language key="it-IT" value="Pesce farfalla panda" />
+          <Language key="de-DE" value="Panda-Falterfische" />
+          <Language key="es-ES" value="Pez mariposa de Filipinas" />
+          <Language key="pt-BR" value="Peixe Borboleta Panda" />
+          <Language key="ja-JP" value="クラカケチョウチョウウオ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11981532" title="Crescent Tail Bigeye" image="1672R-11981532.jpg" smallImage="1672R-11981532_preview.jpg" unlockingPuzzleIds="1672R-11962711">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Beauclaires miroirs" />
+          <Language key="it-IT" value="Pesce occhio grosso" />
+          <Language key="de-DE" value="Indopazifische Großaugenbarsche" />
+          <Language key="es-ES" value="Catalufa espejuelo" />
+          <Language key="pt-BR" value="Peixe Pargo" />
+          <Language key="ja-JP" value="ホウセキキントキ " />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-12159271" title="Emperor Angelfish" image="1672R-12159271.jpg" smallImage="1672R-12159271_preview.jpg" unlockingPuzzleIds="1672R-11981532">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-ange empereur" />
+          <Language key="it-IT" value="Pesce angelo imperatore" />
+          <Language key="de-DE" value="Imperator-Kaiserfisch" />
+          <Language key="es-ES" value="Pez ángel emperador" />
+          <Language key="pt-BR" value="Peixe-anjo Imperador" />
+          <Language key="ja-JP" value="タテジマキンチャクダイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13118912" title="Damselfish" image="1491R-13118912.jpg" smallImage="1491R-13118912_preview.jpg" unlockingPuzzleIds="1672R-12159271">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poissons-demoiselles" />
+          <Language key="it-IT" value="Pesce damigella" />
+          <Language key="de-DE" value="Riffbarsche" />
+          <Language key="es-ES" value="Pez damisela" />
+          <Language key="pt-BR" value="Castanheta" />
+          <Language key="ja-JP" value="スズメダイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13360768" title="Bluecheek Butterflyfish" image="1491R-13360768.jpg" smallImage="1491R-13360768_preview.jpg" unlockingPuzzleIds="1491R-13118912">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poisson-papillon jaune" />
+          <Language key="it-IT" value="Pesce farfalla mascherato" />
+          <Language key="de-DE" value="Maskenfalterfisch" />
+          <Language key="es-ES" value="Pez mariposa del mar Rojo" />
+          <Language key="pt-BR" value="Peixe Borboleta de Bochechas Azuis" />
+          <Language key="ja-JP" value="ゴールデンバタフライフィッシュ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

@@ -1,0 +1,88 @@
+<Puzzles>
+  <Groups packId="LosAngelesPack">
+    <Group id="LosAngeles" title="Los Angeles" sentientId="240" revision="11" packImage="1436R-303876_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Los Angeles" />
+        <Language key="it-IT" value="Los Angeles" />
+        <Language key="de-DE" value="Los Angeles" />
+        <Language key="es-ES" value="Los Ángeles" />
+        <Language key="pt-BR" value="Los Angeles" />
+      </GroupLocalization>
+      <Puzzle id="1436R-303876" title="Rodeo Drive, Beverly Hills" image="1436R-303876.jpg" smallImage="1436R-303876_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rodeo Drive, Beverly Hills" />
+          <Language key="it-IT" value="Rodeo Drive, Beverly Hills" />
+          <Language key="de-DE" value="Rodeo Drive, Beverly Hills" />
+          <Language key="es-ES" value="Rodeo Drive, Beverly Hills" />
+          <Language key="pt-BR" value="Rodeo Drive, Beverly Hills" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-128133" title="Griffith Observatory" image="1598R-128133.jpg" smallImage="1598R-128133_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Observatoire Griffith" />
+          <Language key="it-IT" value="Osservatorio Griffith" />
+          <Language key="de-DE" value="Griffith Observatory" />
+          <Language key="es-ES" value="Observatorio Griffith" />
+          <Language key="pt-BR" value="Observatório Griffith" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1647R-101189" title="Los Angeles Highway" image="1647R-101189.jpg" smallImage="1647R-101189_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Axe routier de Los Angeles" />
+          <Language key="it-IT" value="Los Angeles Highway" />
+          <Language key="de-DE" value="Los Angeles Highway" />
+          <Language key="es-ES" value="Autopista de Los Ángeles" />
+          <Language key="pt-BR" value="Las Vegas Boulevard" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-9965914" title="Santa Monica Harbor" image="1598R-9965914.jpg" smallImage="1598R-9965914_preview.jpg" unlockingPuzzleIds="1436R-303876,1598R-128133,1647R-101189">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jetée de Santa Monica" />
+          <Language key="it-IT" value="Baia di Santa Monica" />
+          <Language key="de-DE" value="Santa Monica Harbor" />
+          <Language key="es-ES" value="Puerto de Santa Mónica" />
+          <Language key="pt-BR" value="Porto de Santa Mônica" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-45902" title="Lifeguard Station, Marina del Rey" image="1828R-45902.jpg" smallImage="1828R-45902_preview.jpg" unlockingPuzzleIds="1598R-9965914">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cabine de sauveteur, Marina Del Rey" />
+          <Language key="it-IT" value="Postazione bagnini, Marina Del Rey" />
+          <Language key="de-DE" value="Rettungsschwimmerstation, Marina del Rey" />
+          <Language key="es-ES" value="Puesto de salvavidas, Marina del Rey" />
+          <Language key="pt-BR" value="Posto de salva-vidas, Marina Del Rey" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

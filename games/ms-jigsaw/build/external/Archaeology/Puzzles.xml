@@ -1,0 +1,238 @@
+﻿<Puzzles>
+  <Groups packId="ArchaeologyPack">
+    <Group id="Archaeology" title="Archaeology" sentientId="311" revision="1" packImage="1525R-11344272_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Archéologie" />
+        <Language key="it-IT" value="Archeologia" />
+        <Language key="de-DE" value="Archäologie" />
+        <Language key="es-ES" value="Arqueología" />
+        <Language key="pt-BR" value="Arqueologia" />
+      </GroupLocalization>
+      <Puzzle id="1525R-11344272" title="Ancient Egyptian Pyramid" image="1525R-11344272.jpg" smallImage="1525R-11344272_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pyramide d'Égypte antique" />
+          <Language key="it-IT" value="Antica piramide egizia" />
+          <Language key="de-DE" value="Ägyptische Pyramide" />
+          <Language key="es-ES" value="Pirámide egipcia" />
+          <Language key="pt-BR" value="Pirâmide do Egito Antigo" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-141052" title="Aztec Calendar Stone Carving" image="1589R-141052.jpg" smallImage="1589R-141052_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Calendrier aztèque" />
+          <Language key="it-IT" value="Calendario Azteco scolpito" />
+          <Language key="de-DE" value="Aztekisches Kalendersteinrelief" />
+          <Language key="es-ES" value="Calendario azteca de piedra" />
+          <Language key="pt-BR" value="Calendário asteca gravado em pedra" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-79367" title="Altun Ha, Belize" image="1672R-79367.jpg" smallImage="1672R-79367_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Altun Ha, Belize" />
+          <Language key="it-IT" value="Altun Ha, Belize" />
+          <Language key="de-DE" value="Altun Ha, Belize" />
+          <Language key="es-ES" value="Altun Ha, Belice" />
+          <Language key="pt-BR" value="Altún Ha, Belize" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4231R-7673" title="Temple of Isis, Egypt" image="4231R-7673.jpg" smallImage="4231R-7673_preview.jpg" unlockingPuzzleIds="1525R-11344272,1589R-141052,1672R-79367">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Temple d'Isis, Égypte" />
+          <Language key="it-IT" value="Tempio di Iside, Egitto" />
+          <Language key="de-DE" value="Isistempel, Ägypten" />
+          <Language key="es-ES" value="Templo de Isis, Egipto" />
+          <Language key="pt-BR" value="Templo de Ísis, Egito" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-15738" title="Fort Dunree, Ireland" image="1889R-15738.jpg" smallImage="1889R-15738_preview.jpg" unlockingPuzzleIds="4231R-7673">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fort Dunree, Irlande" />
+          <Language key="it-IT" value="Fort Dunree, Irlanda" />
+          <Language key="de-DE" value="Fort Dunree, Irland" />
+          <Language key="es-ES" value="Fuerte Dunree, Irlanda" />
+          <Language key="pt-BR" value="Forte Dunree, Irlanda" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-172389" title="Pula, Croatia" image="1773R-172389.jpg" smallImage="1773R-172389_preview.jpg" unlockingPuzzleIds="1889R-15738">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pula, Croatie" />
+          <Language key="it-IT" value="Pola, Croazia" />
+          <Language key="de-DE" value="Pula, Kroatien" />
+          <Language key="es-ES" value="Pula, Croacia" />
+          <Language key="pt-BR" value="Pula, Croácia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1812R-15092" title="Doe Castle, Ireland" image="1812R-15092.jpg" smallImage="1812R-15092_preview.jpg" unlockingPuzzleIds="1773R-172389">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Doe Castle, Irlande" />
+          <Language key="it-IT" value="Doe Castle, Irlanda" />
+          <Language key="de-DE" value="Doe Castle, Irland" />
+          <Language key="es-ES" value="Castillo de Doe, Irlanda" />
+          <Language key="pt-BR" value="Castelo de Doe, Irlanda" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-70015" title="Ephesus, Turkey" image="1889R-70015.jpg" smallImage="1889R-70015_preview.jpg" unlockingPuzzleIds="1812R-15092">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Éphèse, Turquie" />
+          <Language key="it-IT" value="Efeso, Turchia" />
+          <Language key="de-DE" value="Ephesus, Türkei" />
+          <Language key="es-ES" value="Éfeso, Turquía" />
+          <Language key="pt-BR" value="Éfeso, Turquia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-72324" title="Ancient Mayan Ruins" image="1795R-72324.jpg" smallImage="1795R-72324_preview.jpg" unlockingPuzzleIds="1889R-70015">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ruines mayas" />
+          <Language key="it-IT" value="Antiche rovine Maya" />
+          <Language key="de-DE" value="Maya-Ruine" />
+          <Language key="es-ES" value="Ruinas mayas" />
+          <Language key="pt-BR" value="Ruínas maias antigas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-1216484" title="Karnak Temple, Egypt" image="1527R-1216484.jpg" smallImage="1527R-1216484_preview.jpg" unlockingPuzzleIds="1795R-72324">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Temple de Karnak, Égypte" />
+          <Language key="it-IT" value="Tempio di Karnak, Egitto" />
+          <Language key="de-DE" value="Karnak-Tempel, Ägypten" />
+          <Language key="es-ES" value="Templo de Karnak, Egipto" />
+          <Language key="pt-BR" value="Templo de Karnak, Egito" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-514187" title="Castle Ruins in Switzerland" image="1848R-514187.jpg" smallImage="1848R-514187_preview.jpg" unlockingPuzzleIds="1527R-1216484">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ruines de château en Suisse" />
+          <Language key="it-IT" value="Castello in rovina, Svizzera" />
+          <Language key="de-DE" value="Schweizer Burgruine" />
+          <Language key="es-ES" value="Castillo en ruinas en Suiza" />
+          <Language key="pt-BR" value="Ruínas de castelo na Suíça" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1142480" title="Bunratty Castle, Ireland" image="1439R-1142480.jpg" smallImage="1439R-1142480_preview.jpg" unlockingPuzzleIds="1848R-514187">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bunratty Castle, Irlande" />
+          <Language key="it-IT" value="Castello di Bunratty, Irlanda" />
+          <Language key="de-DE" value="Bunratty Castle, Irland" />
+          <Language key="es-ES" value="Castillo de Bunratty, Irlanda" />
+          <Language key="pt-BR" value="Castelo de Bunratty, Irlanda" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-66109" title="Chichen Itza, Mexico" image="1795R-66109.jpg" smallImage="1795R-66109_preview.jpg" unlockingPuzzleIds="1439R-1142480">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chichén Itzá, Mexique" />
+          <Language key="it-IT" value="Chichen Itza, Messico" />
+          <Language key="de-DE" value="Chichén Itzá, Mexiko" />
+          <Language key="es-ES" value="Chichen Itza, México" />
+          <Language key="pt-BR" value="Chichén Itzá, México" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-80448" title="Dunluce Castle, Ireland" image="1889R-80448.jpg" smallImage="1889R-80448_preview.jpg" unlockingPuzzleIds="1795R-66109">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dunluce Castle, Irlande du Nord" />
+          <Language key="it-IT" value="Castello di Dunluce, Irlanda" />
+          <Language key="de-DE" value="Dunluce Castle, Irland" />
+          <Language key="es-ES" value="Castillo de Dunluce, Irlanda" />
+          <Language key="pt-BR" value="Castelo de Dunluce, Irlanda" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-66125" title="Mayan Pyramid" image="1795R-66125.jpg" smallImage="1795R-66125_preview.jpg" unlockingPuzzleIds="1889R-80448">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pyramide maya" />
+          <Language key="it-IT" value="Piramide Maya" />
+          <Language key="de-DE" value="Maya-Pyramide" />
+          <Language key="es-ES" value="Pirámide maya" />
+          <Language key="pt-BR" value="Pirâmide maia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

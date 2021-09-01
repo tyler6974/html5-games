@@ -1,0 +1,238 @@
+﻿<Puzzles>
+  <Groups packId="BarnsPack">
+    <Group id="Barns" title="Barns" sentientId="309" revision="1" packImage="1815R-12497937_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Granges" />
+        <Language key="it-IT" value="Granai" />
+        <Language key="de-DE" value="Scheunen" />
+        <Language key="es-ES" value="Graneros" />
+        <Language key="pt-BR" value="Celeiros" />
+      </GroupLocalization>
+      <Puzzle id="1815R-12497937" title="Idaho, USA" image="1815R-12497937.jpg" smallImage="1815R-12497937_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Idaho, États-Unis" />
+          <Language key="it-IT" value="Idaho, Stati Uniti" />
+          <Language key="de-DE" value="Idaho, USA" />
+          <Language key="es-ES" value="Idaho, EE. UU." />
+          <Language key="pt-BR" value="Idaho, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-71726" title="Quebec, Canada" image="1889R-71726.jpg" smallImage="1889R-71726_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Québec, Canada" />
+          <Language key="it-IT" value="Québec, Canada" />
+          <Language key="de-DE" value="Quebec, Kanada" />
+          <Language key="es-ES" value="Quebec, Canadá" />
+          <Language key="pt-BR" value="Quebec, Canadá" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-55657" title="Iron Hill, Quebec" image="1889R-55657.jpg" smallImage="1889R-55657_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Iron Hill, Québec" />
+          <Language key="it-IT" value="Iron Hill, Québec" />
+          <Language key="de-DE" value="Iron Hill, Quebec" />
+          <Language key="es-ES" value="Iron Hill, Quebec" />
+          <Language key="pt-BR" value="Iron Hill, Quebec, Canadá" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-41036" title="California, USA" image="1795R-41036.jpg" smallImage="1795R-41036_preview.jpg" unlockingPuzzleIds="1815R-12497937,1889R-71726,1889R-55657">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Californie, États-Unis" />
+          <Language key="it-IT" value="California, Stati Uniti" />
+          <Language key="de-DE" value="Kalifornien, USA" />
+          <Language key="es-ES" value="California, EE. UU." />
+          <Language key="pt-BR" value="Califórnia, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1482R-2814" title="North Cascades National Park" image="1482R-2814.jpg" smallImage="1482R-2814_preview.jpg" unlockingPuzzleIds="1795R-41036">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national des North Cascades" />
+          <Language key="it-IT" value="Parco nazionale delle North Cascades" />
+          <Language key="de-DE" value="North-Cascades-Nationalpark" />
+          <Language key="es-ES" value="Parque nacional North Cascades" />
+          <Language key="pt-BR" value="Parque Nacional North Cascades, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-119605" title="Osterseen Lakes, Germany" image="1815R-119605.jpg" smallImage="1815R-119605_preview.jpg" unlockingPuzzleIds="1482R-2814">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lacs Osterseen, Allemagne" />
+          <Language key="it-IT" value="Lago Osterseen, Germania" />
+          <Language key="de-DE" value="Osterseen, Deutschland" />
+          <Language key="es-ES" value="Lagos de Osterseen, Alemania" />
+          <Language key="pt-BR" value="Lagos Osterseen, Alemanha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-9989493" title="Carcass Island" image="1598R-9989493.jpg" smallImage="1598R-9989493_preview.jpg" unlockingPuzzleIds="1815R-119605">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Île Carcass" />
+          <Language key="it-IT" value="Carcass Island" />
+          <Language key="de-DE" value="Carcass Island" />
+          <Language key="es-ES" value="Isla de Carcass" />
+          <Language key="pt-BR" value="Ilha Carcass, Malvinas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-71455" title="Old Barn in Winter" image="1889R-71455.jpg" smallImage="1889R-71455_preview.jpg" unlockingPuzzleIds="1598R-9989493">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vieille grange en hiver" />
+          <Language key="it-IT" value="Vecchio fienile d’inverno" />
+          <Language key="de-DE" value="Alte Scheune im Winter" />
+          <Language key="es-ES" value="Viejo granero en otoño" />
+          <Language key="pt-BR" value="Celeiro velho no inverno" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-10044088" title="Dolomites, Italy" image="1598R-10044088.jpg" smallImage="1598R-10044088_preview.jpg" unlockingPuzzleIds="1889R-71455">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dolomites, Italie" />
+          <Language key="it-IT" value="Dolomiti, Italia" />
+          <Language key="de-DE" value="Dolomiten, Italien" />
+          <Language key="es-ES" value="Dolomitas, Italia" />
+          <Language key="pt-BR" value="Dolomitas, Itália" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-37104" title="Barn in Autumn" image="1795R-37104.jpg" smallImage="1795R-37104_preview.jpg" unlockingPuzzleIds="1598R-10044088">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grange en automne" />
+          <Language key="it-IT" value="Fienile in autunno" />
+          <Language key="de-DE" value="Scheune im Herbst" />
+          <Language key="es-ES" value="Granero en otoño" />
+          <Language key="pt-BR" value="Celeiro no outono" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4218R-1053" title="Grand Teton National Park" image="4218R-1053.jpg" smallImage="4218R-1053_preview.jpg" unlockingPuzzleIds="1795R-37104">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national du Grand Teton" />
+          <Language key="it-IT" value="Parco nazionale del Grand Teton" />
+          <Language key="de-DE" value="Grand-Teton-Nationalpark" />
+          <Language key="es-ES" value="Parque nacional Grand Teton" />
+          <Language key="pt-BR" value="Parque Nacional de Grand Teton, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-69732" title="Brome Lake, Quebec" image="1889R-69732.jpg" smallImage="1889R-69732_preview.jpg" unlockingPuzzleIds="4218R-1053">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac-Brome, Québec" />
+          <Language key="it-IT" value="Lago Brome, Québec" />
+          <Language key="de-DE" value="Brome Lake, Quebec" />
+          <Language key="es-ES" value="Lago Brome, Quebec" />
+          <Language key="pt-BR" value="Brome Lake, Quebec, Canadá" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-1205567" title="Red Barn and Corn Field" image="1527R-1205567.jpg" smallImage="1527R-1205567_preview.jpg" unlockingPuzzleIds="1889R-69732">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grange rouge et champ de maïs" />
+          <Language key="it-IT" value="Fienile rosso e campo di mais" />
+          <Language key="de-DE" value="Rote Scheune und Maisfeld" />
+          <Language key="es-ES" value="Granero rojo y campo de maíz" />
+          <Language key="pt-BR" value="Celeiro vermelho e milharal" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-23909" title="Wyoming, USA" image="1795R-23909.jpg" smallImage="1795R-23909_preview.jpg" unlockingPuzzleIds="1527R-1205567">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wyoming, États-Unis" />
+          <Language key="it-IT" value="Wyoming, Stati Uniti" />
+          <Language key="de-DE" value="Wyoming, USA" />
+          <Language key="es-ES" value="Wyoming, EE. UU." />
+          <Language key="pt-BR" value="Wyoming, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-78704" title="Early Morning Fog" image="1889R-78704.jpg" smallImage="1889R-78704_preview.jpg" unlockingPuzzleIds="1795R-23909">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dans la brume du matin" />
+          <Language key="it-IT" value="Nebbia mattutina" />
+          <Language key="de-DE" value="Morgennebel" />
+          <Language key="es-ES" value="Neblina matutina" />
+          <Language key="pt-BR" value="Neblina da manhã" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

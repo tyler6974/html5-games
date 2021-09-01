@@ -1,0 +1,110 @@
+﻿<Puzzles>
+  <Groups packId="HiddenObjectAderaPack">
+    <Group id="HiddenObjectAdera" title="Hidden Object: Adera" sentientId="327" revision="1" packImage="01-Adera_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Objet caché : Adera" />
+        <Language key="it-IT" value="Oggetto nascosto: Adera" />
+        <Language key="de-DE" value="Wimmelbild: Adera" />
+        <Language key="es-ES" value="Objeto oculto: Adera" />
+        <Language key="pt-BR" value="Adera (Objetos Escondidos)" />
+	<Language key="ja-JP" value="隠しオブジェクト: アデーラ" />
+      </GroupLocalization>
+      <Puzzle id="01-Adera" title="Find the Compass" image="01-Adera.jpg" smallImage="01-Adera_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Trouvez la boussole" />
+          <Language key="it-IT" value="Trova la bussola" />
+          <Language key="de-DE" value="Finde den Kompass" />
+          <Language key="es-ES" value="Encuentra la brújula" />
+          <Language key="pt-BR" value="Encontre a Bússola." />
+	  <Language key="ja-JP" value="コンパスを見つける" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4-Frogs" title="4 Frogs" image="4-Frogs.jpg" smallImage="4-Frogs_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="4 grenouilles" />
+          <Language key="it-IT" value="4 rane" />
+          <Language key="de-DE" value="4 Frösche" />
+          <Language key="es-ES" value="4 ranas" />
+          <Language key="pt-BR" value="4 de Sapos" />
+	  <Language key="ja-JP" value="カエル x 4" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4-Spades" title="4 Spades" image="4-Spades.jpg" smallImage="4-Spades_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="4 piques" />
+          <Language key="it-IT" value="4 picche" />
+          <Language key="de-DE" value="4 Pik" />
+          <Language key="es-ES" value="4 picas" />
+          <Language key="pt-BR" value="4 de Espadas" />
+	  <Language key="ja-JP" value="スペード x 4" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="7-Hearts" title="7 Hearts" image="7-Hearts.jpg" smallImage="7-Hearts_preview.jpg" unlockingPuzzleIds="01-Adera,4-Frogs,4-Spades">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="7 cœurs" />
+          <Language key="it-IT" value="7 cuori" />
+          <Language key="de-DE" value="7 Herz" />
+          <Language key="es-ES" value="7 corazones" />
+          <Language key="pt-BR" value="7 de Copas" />
+	  <Language key="ja-JP" value="ハート x 7" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="7-Clovers" title="7 Clovers" image="7-Clovers.jpg" smallImage="7-Clovers_preview.jpg" unlockingPuzzleIds="7-Hearts">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="7 trèfles" />
+          <Language key="it-IT" value="7 trifogli" />
+          <Language key="de-DE" value="7 Kreuz" />
+          <Language key="es-ES" value="7 tréboles" />
+          <Language key="pt-BR" value="7 de Trevos" />
+	  <Language key="ja-JP" value="クローバー x 7" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="3-Seahorses" title="3 Seahorses" image="3-Seahorses.jpg" smallImage="3-Seahorses_preview.jpg" unlockingPuzzleIds="7-Clovers">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="3 hippocampes" />
+          <Language key="it-IT" value="3 cavallucci marini" />
+          <Language key="de-DE" value="3 Seepferdchen" />
+          <Language key="es-ES" value="3 caballitos de mar" />
+          <Language key="pt-BR" value="3 de Cav. Marinhos" />
+	  <Language key="ja-JP" value="タツノオトシゴ x 3" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

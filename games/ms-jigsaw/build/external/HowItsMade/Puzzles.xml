@@ -1,0 +1,334 @@
+<Puzzles>
+  <Groups packId="HowItsMadePack">
+    <Group id="HowItsMade" title="How It's Made" sentientId="348" revision="2" packImage="1589R-13341321_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Savoir-faire" />
+        <Language key="it-IT" value="Come si fa" />
+        <Language key="de-DE" value="Wie Dinge angefertigt werden" />
+        <Language key="es-ES" value="Cómo se hace" />
+        <Language key="pt-BR" value="Como é Feito" />
+        <Language key="ja-JP" value="作り方" />
+      </GroupLocalization>
+      <Puzzle id="1589R-13341321" title="Model Sailboat" image="1589R-13341321.jpg" smallImage="1589R-13341321_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bateau miniature" />
+          <Language key="it-IT" value="Modellino di barca a vela" />
+          <Language key="de-DE" value="Modellsegelboot" />
+          <Language key="es-ES" value="Modelo de velero" />
+          <Language key="pt-BR" value="Modelo de Barco a Vela" />
+          <Language key="ja-JP" value="帆船の模型" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-1061157" title="Car Manufacturing" image="1491R-1061157.jpg" smallImage="1491R-1061157_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Construction automobile" />
+          <Language key="it-IT" value="Produzione di automobili" />
+          <Language key="de-DE" value="Autoherstellung" />
+          <Language key="es-ES" value="Manufactura de coches" />
+          <Language key="pt-BR" value="Produção de Carros" />
+          <Language key="ja-JP" value="自動車製造" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21537408" title="Horseshoeing" image="4450R-21537408.jpg" smallImage="4450R-21537408_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fer à cheval" />
+          <Language key="it-IT" value="Ferro di cavallo" />
+          <Language key="de-DE" value="Hufe beschlagen" />
+          <Language key="es-ES" value="Herraje" />
+          <Language key="pt-BR" value="Ferraduras" />
+          <Language key="ja-JP" value="蹄鉄づくり" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-13967982" title="Violin" image="1527R-13967982.jpg" smallImage="1527R-13967982_preview.jpg" unlockingPuzzleIds="1589R-13341321,1491R-1061157,4450R-21537408">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Violon" />
+          <Language key="it-IT" value="Violino" />
+          <Language key="de-DE" value="Geige" />
+          <Language key="es-ES" value="Violín" />
+          <Language key="pt-BR" value="Violino" />
+          <Language key="ja-JP" value="バイオリン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13818357" title="Welding" image="1589R-13818357.jpg" smallImage="1589R-13818357_preview.jpg" unlockingPuzzleIds="1527R-13967982">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Soudure" />
+          <Language key="it-IT" value="Saldatura" />
+          <Language key="de-DE" value="Schweißerei" />
+          <Language key="es-ES" value="Soldadura" />
+          <Language key="pt-BR" value="Soldagem" />
+          <Language key="ja-JP" value="溶接" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13631376" title="Guitar" image="1439R-13631376.jpg" smallImage="1439R-13631376_preview.jpg" unlockingPuzzleIds="1589R-13818357">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Guitare" />
+          <Language key="it-IT" value="Chitarra" />
+          <Language key="de-DE" value="Gitarre" />
+          <Language key="es-ES" value="Guitarra" />
+          <Language key="pt-BR" value="Guitarra" />
+          <Language key="ja-JP" value="ギター" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-13515665" title="Shoes" image="1815R-13515665.jpg" smallImage="1815R-13515665_preview.jpg" unlockingPuzzleIds="1439R-13631376">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaussures" />
+          <Language key="it-IT" value="Scarpe" />
+          <Language key="de-DE" value="Schuhe" />
+          <Language key="es-ES" value="Calzado" />
+          <Language key="pt-BR" value="Sapatos" />
+          <Language key="ja-JP" value="靴" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-13281618" title="Glassblowing" image="1815R-13281618.jpg" smallImage="1815R-13281618_preview.jpg" unlockingPuzzleIds="1815R-13515665">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Soufflage de verre" />
+          <Language key="it-IT" value="Soffiatura del vetro" />
+          <Language key="de-DE" value="Glasbläserei" />
+          <Language key="es-ES" value="Soplar cristal" />
+          <Language key="pt-BR" value="Modelagem de Vidro" />
+          <Language key="ja-JP" value="ガラス吹き" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-13413342" title="Glass" image="1773R-13413342.jpg" smallImage="1773R-13413342_preview.jpg" unlockingPuzzleIds="1815R-13281618">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Verre" />
+          <Language key="it-IT" value="Vetro" />
+          <Language key="de-DE" value="Glas" />
+          <Language key="es-ES" value="Cristal" />
+          <Language key="pt-BR" value="Vidro" />
+          <Language key="ja-JP" value="ガラス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1532R-11308" title="Sushi" image="1532R-11308.jpg" smallImage="1532R-11308_preview.jpg" unlockingPuzzleIds="1773R-13413342">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sushis" />
+          <Language key="it-IT" value="Sushi" />
+          <Language key="de-DE" value="Sushi" />
+          <Language key="es-ES" value="Sushi" />
+          <Language key="pt-BR" value="Sushi" />
+          <Language key="ja-JP" value="寿司" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-95159" title="Violin Neck" image="1815R-95159.jpg" smallImage="1815R-95159_preview.jpg" unlockingPuzzleIds="1532R-11308">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Manche de violon" />
+          <Language key="it-IT" value="Manico di violino" />
+          <Language key="de-DE" value="Geigenhals" />
+          <Language key="es-ES" value="Mango de violín" />
+          <Language key="pt-BR" value="Braço do Violino" />
+          <Language key="ja-JP" value="バイオリンのネック" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11587422" title="Pottery" image="1598R-11587422.jpg" smallImage="1598R-11587422_preview.jpg" unlockingPuzzleIds="1815R-95159">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poterie" />
+          <Language key="it-IT" value="Ceramica" />
+          <Language key="de-DE" value="Töpferei" />
+          <Language key="es-ES" value="Cerámica" />
+          <Language key="pt-BR" value="Cerâmica" />
+          <Language key="ja-JP" value="陶器" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-13239870" title="Skateboard" image="1773R-13239870.jpg" smallImage="1773R-13239870_preview.jpg" unlockingPuzzleIds="1598R-11587422">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Skateboard" />
+          <Language key="it-IT" value="Skateboard" />
+          <Language key="de-DE" value="Skateboard" />
+          <Language key="es-ES" value="Monopatín" />
+          <Language key="pt-BR" value="Skate" />
+          <Language key="ja-JP" value="スケートボード" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-13281595" title="Glass in Furnace" image="1815R-13281595.jpg" smallImage="1815R-13281595_preview.jpg" unlockingPuzzleIds="1773R-13239870">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Verre dans le four" />
+          <Language key="it-IT" value="Vetro in fornace" />
+          <Language key="de-DE" value="Glas im Schmelzofen" />
+          <Language key="es-ES" value="Cristal al horno" />
+          <Language key="pt-BR" value="Vidro na Fornalha" />
+          <Language key="ja-JP" value="炉内のガラス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11949712" title="Sandwiches" image="1598R-11949712.jpg" smallImage="1598R-11949712_preview.jpg" unlockingPuzzleIds="1815R-13281595">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sandwiches" />
+          <Language key="it-IT" value="Panino" />
+          <Language key="de-DE" value="Belegte Brote" />
+          <Language key="es-ES" value="Sándwiches" />
+          <Language key="pt-BR" value="Sanduíches" />
+          <Language key="ja-JP" value="サンドイッチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13991613" title="Guacamole" image="1598R-13991613.jpg" smallImage="1598R-13991613_preview.jpg" unlockingPuzzleIds="1598R-11949712">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Guacamole" />
+          <Language key="it-IT" value="Guacamole" />
+          <Language key="de-DE" value="Guacamole" />
+          <Language key="es-ES" value="Guacamole" />
+          <Language key="pt-BR" value="Guacamole" />
+          <Language key="ja-JP" value="ワカモレ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1663R-31143" title="Weaving" image="1663R-31143.jpg" smallImage="1663R-31143_preview.jpg" unlockingPuzzleIds="1598R-13991613">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tissage" />
+          <Language key="it-IT" value="Tessitura" />
+          <Language key="de-DE" value="Weben" />
+          <Language key="es-ES" value="Tejer" />
+          <Language key="pt-BR" value="Tecelagem" />
+          <Language key="ja-JP" value="機織り" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13972034" title="Bowl Painting" image="1598R-13972034.jpg" smallImage="1598R-13972034_preview.jpg" unlockingPuzzleIds="1663R-31143">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Peinture sur céramique" />
+          <Language key="it-IT" value="Pittura su ceramica" />
+          <Language key="de-DE" value="Keramik bemalen" />
+          <Language key="es-ES" value="Pintura de cuencos" />
+          <Language key="pt-BR" value="Pintura de Tigelas" />
+          <Language key="ja-JP" value="お椀の塗装" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1532R-73077" title="Pasta" image="1532R-73077.jpg" smallImage="1532R-73077_preview.jpg" unlockingPuzzleIds="1598R-13972034">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pâtes" />
+          <Language key="it-IT" value="Pasta" />
+          <Language key="de-DE" value="Pasta" />
+          <Language key="es-ES" value="Pasta" />
+          <Language key="pt-BR" value="Macarrão" />
+          <Language key="ja-JP" value="パスタ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-12455141" title="Glass Tubing" image="1773R-12455141.jpg" smallImage="1773R-12455141_preview.jpg" unlockingPuzzleIds="1532R-73077">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tube en verre" />
+          <Language key="it-IT" value="Tubo di vetro" />
+          <Language key="de-DE" value="Röhrenglas" />
+          <Language key="es-ES" value="Tubos de cristal" />
+          <Language key="pt-BR" value="Tubos de Vidro" />
+          <Language key="ja-JP" value="ガラス管" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

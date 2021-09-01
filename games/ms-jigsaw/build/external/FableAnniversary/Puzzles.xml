@@ -1,0 +1,343 @@
+<Puzzles>
+  <Groups packId="FableAnniversaryPack">
+    <Group id="FableAnniversary" title="Fable Anniversary" sentientId="267" revision="2" packImage="01_FableAnniversary_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Fable Anniversary" />
+        <Language key="it-IT" value="Fable Anniversary" />
+        <Language key="de-DE" value="Fable Anniversary" />
+        <Language key="es-ES" value="Fable Anniversary" />
+        <Language key="pt-BR" value="Fable Anniversary" />
+      </GroupLocalization>
+      <Puzzle id="01_FableAnniversary" title="Fable Anniversary" image="01_FableAnniversary.jpg" smallImage="01_FableAnniversary_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fable Anniversary" />
+          <Language key="it-IT" value="Fable Anniversary" />
+          <Language key="de-DE" value="Fable Anniversary" />
+          <Language key="es-ES" value="Fable Anniversary" />
+          <Language key="pt-BR" value="Fable Anniversary" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="02_Oakvale" title="Oakvale" image="02_Oakvale.jpg" smallImage="02_Oakvale_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Oakvale" />
+          <Language key="it-IT" value="Oakvale" />
+          <Language key="de-DE" value="Oakvale" />
+          <Language key="es-ES" value="Oakvale" />
+          <Language key="pt-BR" value="Oakvale" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="03_Necropolis" title="Necropolis" image="03_Necropolis.jpg" smallImage="03_Necropolis_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Necropolis" />
+          <Language key="it-IT" value="Necropolis" />
+          <Language key="de-DE" value="Necropolis" />
+          <Language key="es-ES" value="Necropolis" />
+          <Language key="pt-BR" value="Necropolis" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="04_Dragon" title="Dragon" image="04_Dragon.jpg" smallImage="04_Dragon_preview.jpg" unlockingPuzzleIds="01_FableAnniversary,02_Oakvale,03_Necropolis">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dragon" />
+          <Language key="it-IT" value="Dragon" />
+          <Language key="de-DE" value="Dragon" />
+          <Language key="es-ES" value="Dragon" />
+          <Language key="pt-BR" value="Dragon" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="05_BanditCamp" title="Bandit Camp" image="05_BanditCamp.jpg" smallImage="05_BanditCamp_preview.jpg" unlockingPuzzleIds="04_Dragon">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bandit Camp" />
+          <Language key="it-IT" value="Bandit Camp" />
+          <Language key="de-DE" value="Bandit Camp" />
+          <Language key="es-ES" value="Bandit Camp" />
+          <Language key="pt-BR" value="Bandit Camp" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="06_KnotHoleGlade" title="Knothole Glade" image="06_KnotHoleGlade.jpg" smallImage="06_KnotHoleGlade_preview.jpg" unlockingPuzzleIds="05_BanditCamp">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Knothole Glade" />
+          <Language key="it-IT" value="Knothole Glade" />
+          <Language key="de-DE" value="Knothole Glade" />
+          <Language key="es-ES" value="Knothole Glade" />
+          <Language key="pt-BR" value="Knothole Glade" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="07_Graduation" title="Graduation" image="07_Graduation.jpg" smallImage="07_Graduation_preview.jpg" unlockingPuzzleIds="06_KnotHoleGlade">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Graduation" />
+          <Language key="it-IT" value="Graduation" />
+          <Language key="de-DE" value="Graduation" />
+          <Language key="es-ES" value="Graduation" />
+          <Language key="pt-BR" value="Graduation" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="08_WaspQueen" title="Wasp Queen" image="08_WaspQueen.jpg" smallImage="08_WaspQueen_preview.jpg" unlockingPuzzleIds="07_Graduation">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wasp Queen" />
+          <Language key="it-IT" value="Wasp Queen" />
+          <Language key="de-DE" value="Wasp Queen" />
+          <Language key="es-ES" value="Wasp Queen" />
+          <Language key="pt-BR" value="Wasp Queen" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="09_Wardog" title="Wardog" image="09_Wardog.jpg" smallImage="09_Wardog_preview.jpg" unlockingPuzzleIds="08_WaspQueen">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wardog" />
+          <Language key="it-IT" value="Wardog" />
+          <Language key="de-DE" value="Wardog" />
+          <Language key="es-ES" value="Wardog" />
+          <Language key="pt-BR" value="Wardog" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="10_JackOfBlades" title="Jack of Blades" image="10_JackOfBlades.jpg" smallImage="10_JackOfBlades_preview.jpg" unlockingPuzzleIds="09_Wardog">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jack of Blades" />
+          <Language key="it-IT" value="Jack of Blades" />
+          <Language key="de-DE" value="Jack of Blades" />
+          <Language key="es-ES" value="Jack of Blades" />
+          <Language key="pt-BR" value="Jack of Blades" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="11_Darkwood" title="Darkwood" image="11_Darkwood.jpg" smallImage="11_Darkwood_preview.jpg" unlockingPuzzleIds="10_JackOfBlades">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Darkwood" />
+          <Language key="it-IT" value="Darkwood" />
+          <Language key="de-DE" value="Darkwood" />
+          <Language key="es-ES" value="Darkwood" />
+          <Language key="pt-BR" value="Darkwood" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="12_Whisper" title="Whisper" image="12_Whisper.jpg" smallImage="12_Whisper_preview.jpg" unlockingPuzzleIds="11_Darkwood">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Whisper" />
+          <Language key="it-IT" value="Whisper" />
+          <Language key="de-DE" value="Whisper" />
+          <Language key="es-ES" value="Whisper" />
+          <Language key="pt-BR" value="Whisper" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="13_The-Guild" title="The Guild" image="13_The-Guild.jpg" smallImage="13_The-Guild_preview.jpg" unlockingPuzzleIds="12_Whisper">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="The Guild" />
+          <Language key="it-IT" value="The Guild" />
+          <Language key="de-DE" value="The Guild" />
+          <Language key="es-ES" value="The Guild" />
+          <Language key="pt-BR" value="The Guild" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="14_Nostro" title="Nostro" image="14_Nostro.jpg" smallImage="14_Nostro_preview.jpg" unlockingPuzzleIds="13_The-Guild">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Nostro" />
+          <Language key="it-IT" value="Nostro" />
+          <Language key="de-DE" value="Nostro" />
+          <Language key="es-ES" value="Nostro" />
+          <Language key="pt-BR" value="Nostro" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="15_Badass" title="Warrior" image="15_Badass.jpg" smallImage="15_Badass_preview.jpg" unlockingPuzzleIds="14_Nostro">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Warrior" />
+          <Language key="it-IT" value="Warrior" />
+          <Language key="de-DE" value="Warrior" />
+          <Language key="es-ES" value="Warrior" />
+          <Language key="pt-BR" value="Warrior" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="16_Snowspire" title="Snowspire" image="16_Snowspire.jpg" smallImage="16_Snowspire_preview.jpg" unlockingPuzzleIds="15_Badass">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Snowspire" />
+          <Language key="it-IT" value="Snowspire" />
+          <Language key="de-DE" value="Snowspire" />
+          <Language key="es-ES" value="Snowspire" />
+          <Language key="pt-BR" value="Snowspire" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="17_Bowerstone" title="Bowerstone" image="17_Bowerstone.jpg" smallImage="17_Bowerstone_preview.jpg" unlockingPuzzleIds="16_Snowspire">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bowerstone" />
+          <Language key="it-IT" value="Bowerstone" />
+          <Language key="de-DE" value="Bowerstone" />
+          <Language key="es-ES" value="Bowerstone" />
+          <Language key="pt-BR" value="Bowerstone" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="18_LychfieldGraveyard" title="Lychfield Graveyard" image="18_LychfieldGraveyard.jpg" smallImage="18_LychfieldGraveyard_preview.jpg" unlockingPuzzleIds="17_Bowerstone">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lychfield Graveyard" />
+          <Language key="it-IT" value="Lychfield Graveyard" />
+          <Language key="de-DE" value="Lychfield Graveyard" />
+          <Language key="es-ES" value="Lychfield Graveyard" />
+          <Language key="pt-BR" value="Lychfield Graveyard" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="19_EvilHero" title="Evil Hero" image="19_EvilHero.jpg" smallImage="19_EvilHero_preview.jpg" unlockingPuzzleIds="18_LychfieldGraveyard">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Evil Hero" />
+          <Language key="it-IT" value="Evil Hero" />
+          <Language key="de-DE" value="Evil Hero" />
+          <Language key="es-ES" value="Evil Hero" />
+          <Language key="pt-BR" value="Evil Hero" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="20_GreatwoodLake" title="Greatwood Lake" image="20_GreatwoodLake.jpg" smallImage="20_GreatwoodLake_preview.jpg" unlockingPuzzleIds="19_EvilHero">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Greatwood Lake" />
+          <Language key="it-IT" value="Greatwood Lake" />
+          <Language key="de-DE" value="Greatwood Lake" />
+          <Language key="es-ES" value="Greatwood Lake" />
+          <Language key="pt-BR" value="Greatwood Lake" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="21_Spellcaster" title="Spellcaster" image="21_Spellcaster.jpg" smallImage="21_Spellcaster_preview.jpg" unlockingPuzzleIds="20_GreatwoodLake">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Spellcaster" />
+          <Language key="it-IT" value="Spellcaster" />
+          <Language key="de-DE" value="Spellcaster" />
+          <Language key="es-ES" value="Spellcaster" />
+          <Language key="pt-BR" value="Spellcaster" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="22_TrollCharge" title="Troll Charge" image="22_TrollCharge.jpg" smallImage="22_TrollCharge_preview.jpg" unlockingPuzzleIds="21_Spellcaster">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Troll Charge" />
+          <Language key="it-IT" value="Troll Charge" />
+          <Language key="de-DE" value="Troll Charge" />
+          <Language key="es-ES" value="Troll Charge" />
+          <Language key="pt-BR" value="Troll Charge" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

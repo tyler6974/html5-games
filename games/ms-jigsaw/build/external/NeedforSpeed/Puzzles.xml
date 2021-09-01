@@ -1,0 +1,94 @@
+<Puzzles>
+  <Groups packId="NeedforSpeedPack">
+    <Group id="NeedforSpeed" title="Need for Speed" sentientId="353" revision="1" packImage="4428R-4174_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="" />
+        <Language key="it-IT" value="" />
+        <Language key="de-DE" value="" />
+        <Language key="es-ES" value="" />
+        <Language key="pt-BR" value="" />
+        <Language key="ja-JP" value="" />
+      </GroupLocalization>
+      <Puzzle id="4428R-4174" title="Photo Finish" image="4428R-4174.jpg" smallImage="4428R-4174_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13741980" title="Falling to Earth" image="1439R-13741980.jpg" smallImage="1439R-13741980_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1574R-34012" title="Wheeee" image="1574R-34012.jpg" smallImage="1574R-34012_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-11508465" title="Stay in your lane" image="4428R-11508465.jpg" smallImage="4428R-11508465_preview.jpg" unlockingPuzzleIds="4428R-4174,1439R-13741980,1574R-34012">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-3130" title="Blast Off!" image="4128R-3130.jpg" smallImage="4128R-3130_preview.jpg" unlockingPuzzleIds="4428R-11508465">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

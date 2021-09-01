@@ -1,0 +1,253 @@
+<Puzzles>
+  <Groups packId="SpringPack">
+    <Group id="Spring" title="Spring" sentientId="254" revision="8" packImage="1848R-355744_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Printemps" />
+        <Language key="it-IT" value="Primavera" />
+        <Language key="de-DE" value="Frühling" />
+        <Language key="es-ES" value="Primavera" />
+        <Language key="pt-BR" value="Primavera" />
+      </GroupLocalization>
+      <Puzzle id="1848R-355744" title="Crocuses" image="1848R-355744.jpg" smallImage="1848R-355744_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Crocus" />
+          <Language key="it-IT" value="Crocus" />
+          <Language key="de-DE" value="Krokusse" />
+          <Language key="es-ES" value="Azafrán" />
+          <Language key="pt-BR" value="Açafrão" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-63704" title="Japanese White-eye" image="1802R-63704.jpg" smallImage="1802R-63704_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Zostérops du Japon" />
+          <Language key="it-IT" value="Occhialino del Giappone" />
+          <Language key="de-DE" value="Japanbrillenvogel" />
+          <Language key="es-ES" value="Ojiblanco japonés" />
+          <Language key="pt-BR" value="Mejiro" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-303270" title="Bee" image="1848R-303270.jpg" smallImage="1848R-303270_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Abeille" />
+          <Language key="it-IT" value="Ape" />
+          <Language key="de-DE" value="Biene" />
+          <Language key="es-ES" value="Abeja" />
+          <Language key="pt-BR" value="Abelha" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4029R-347242" title="Blooming Flowers" image="4029R-347242.jpg" smallImage="4029R-347242_preview.jpg" unlockingPuzzleIds="1848R-355744,1802R-63704,1848R-303270">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs en éclosion" />
+          <Language key="it-IT" value="Ramo fiorito" />
+          <Language key="de-DE" value="Blühender Strauch" />
+          <Language key="es-ES" value="Flores abriéndose" />
+          <Language key="pt-BR" value="Flores" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-146147" title="Park in Spring" image="1802R-146147.jpg" smallImage="1802R-146147_preview.jpg" unlockingPuzzleIds="4029R-347242">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc au printemps" />
+          <Language key="it-IT" value="Parco in primavera" />
+          <Language key="de-DE" value="Park im Frühling" />
+          <Language key="es-ES" value="Parque en primavera" />
+          <Language key="pt-BR" value="Parque na primavera" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-38200" title="Tulips" image="1828R-38200.jpg" smallImage="1828R-38200_preview.jpg" unlockingPuzzleIds="1802R-146147">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tulipes" />
+          <Language key="it-IT" value="Tulipani" />
+          <Language key="de-DE" value="Tulpen" />
+          <Language key="es-ES" value="Tulipanes" />
+          <Language key="pt-BR" value="Tulipas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-104526" title="Japanese Walnut Tree" image="1802R-104526.jpg" smallImage="1802R-104526_preview.jpg" unlockingPuzzleIds="1828R-38200">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Noyer du Japon" />
+          <Language key="it-IT" value="Noce giapponese" />
+          <Language key="de-DE" value="Japanischer Walnussbaum" />
+          <Language key="es-ES" value="Nogal japonés" />
+          <Language key="pt-BR" value="Nogueira japonesa" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-255921" title="Anemone" image="1436R-255921.jpg" smallImage="1436R-255921_preview.jpg" unlockingPuzzleIds="1802R-104526">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Anémone" />
+          <Language key="it-IT" value="Anemone" />
+          <Language key="de-DE" value="Anemone" />
+          <Language key="es-ES" value="Anémona" />
+          <Language key="pt-BR" value="Anêmona" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-429705" title="Snowdrops" image="1436R-429705.jpg" smallImage="1436R-429705_preview.jpg" unlockingPuzzleIds="1436R-255921">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Perce-neige" />
+          <Language key="it-IT" value="Bucaneve" />
+          <Language key="de-DE" value="Schneeglöckchen" />
+          <Language key="es-ES" value="Campanillas de invierno" />
+          <Language key="pt-BR" value="Galanthus" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-291507" title="Churfirsten Mountain Range" image="1848R-291507.jpg" smallImage="1848R-291507_preview.jpg" unlockingPuzzleIds="1436R-429705">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Churfirsten" />
+          <Language key="it-IT" value="Gruppo del Churfirsten" />
+          <Language key="de-DE" value="Churfirsten-Bergkette" />
+          <Language key="es-ES" value="Cordillera de Churfirsten" />
+          <Language key="pt-BR" value="Cordilheira de Churfirsten" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-60694" title="Crystal Springs Rhododendron Garden" image="1889R-60694.jpg" smallImage="1889R-60694_preview.jpg" unlockingPuzzleIds="1848R-291507">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rhododendrons des Crystal Springs" />
+          <Language key="it-IT" value="Giardino dei rododendri, Crystal Springs" />
+          <Language key="de-DE" value="Crystal Springs Rhododendron Garden" />
+          <Language key="es-ES" value="Jardín de rododendros de Crystal Springs" />
+          <Language key="pt-BR" value="Crystal Springs Rhododendron Garden" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1802R-16905" title="Cherry Blossoms" image="1802R-16905.jpg" smallImage="1802R-16905_preview.jpg" unlockingPuzzleIds="1889R-60694">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleurs de cerisier" />
+          <Language key="it-IT" value="Fiori di ciliegio" />
+          <Language key="de-DE" value="Kirschblüten" />
+          <Language key="es-ES" value="Cerezos en flor" />
+          <Language key="pt-BR" value="Flores de cerejeira" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-516545" title="Elk at Yellowstone National Park" image="1848R-516545.jpg" smallImage="1848R-516545_preview.jpg" unlockingPuzzleIds="1802R-16905">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wapiti, Parc national de Yellowstone" />
+          <Language key="it-IT" value="Wapiti, parco nazionale di Yellowstone" />
+          <Language key="de-DE" value="Elche im Yellowstone National Park" />
+          <Language key="es-ES" value="Alce en el PN. Yellowstone" />
+          <Language key="pt-BR" value="Alce no Parque Nacional de Yellowstone" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-291011" title="Lilac in Bloom" image="1436R-291011.jpg" smallImage="1436R-291011_preview.jpg" unlockingPuzzleIds="1848R-516545">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lilas en fleur" />
+          <Language key="it-IT" value="Lillà in fiore" />
+          <Language key="de-DE" value="Blühender Flieder" />
+          <Language key="es-ES" value="Lilas" />
+          <Language key="pt-BR" value="Lilás" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-302482" title="Blue Ridge Parkway, USA" image="1436R-302482.jpg" smallImage="1436R-302482_preview.jpg" unlockingPuzzleIds="1436R-291011">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Blue Ridge Parkway, États-Unis" />
+          <Language key="it-IT" value="Blue Ridge Parkway, USA" />
+          <Language key="de-DE" value="Blue Ridge Parkway, USA" />
+          <Language key="es-ES" value="Blue Ridge Parkway, EE. UU." />
+          <Language key="pt-BR" value="Blue Ridge Parkway, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-202202" title="Field with Sprouting Crops" image="1525R-202202.jpg" smallImage="1525R-202202_preview.jpg" unlockingPuzzleIds="1436R-302482">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Champ florissant" />
+          <Language key="it-IT" value="Campo con germogli di grano" />
+          <Language key="de-DE" value="Feld mit aufgehender Saat" />
+          <Language key="es-ES" value="Sembrado con cosecha brotando" />
+          <Language key="pt-BR" value="Campo com a colheita brotando" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

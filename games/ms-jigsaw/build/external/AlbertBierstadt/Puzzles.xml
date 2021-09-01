@@ -1,0 +1,163 @@
+<Puzzles>
+  <Groups packId="AlbertBierstadtPack">
+    <Group id="AlbertBierstadt" title="Albert Bierstadt" sentientId="270" revision="8" packImage="1031AB-00001_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Albert Bierstadt" />
+        <Language key="it-IT" value="Albert Bierstadt" />
+        <Language key="de-DE" value="Albert Bierstadt" />
+        <Language key="es-ES" value="Albert Bierstadt" />
+        <Language key="pt-BR" value="Albert Bierstadt" />
+      </GroupLocalization>
+      <Puzzle id="1031AB-00001" title="Mt. Rosalie" image="1031AB-00001.jpg" smallImage="1031AB-00001_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mont Rosalie" />
+          <Language key="it-IT" value="Monte Rosalie" />
+          <Language key="de-DE" value="Mt. Rosalie" />
+          <Language key="es-ES" value="Monte Rosalie" />
+          <Language key="pt-BR" value="Monte Rosalie" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00002" title="Mount Corcoran" image="1031AB-00002.jpg" smallImage="1031AB-00002_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mont Corcoran" />
+          <Language key="it-IT" value="Monte Corcoran" />
+          <Language key="de-DE" value="Mount Corcoran" />
+          <Language key="es-ES" value="Monte Corcoran" />
+          <Language key="pt-BR" value="Monte Corcoran" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00003" title="Lander's Peak" image="1031AB-00003.jpg" smallImage="1031AB-00003_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sommet de Lander" />
+          <Language key="it-IT" value="Picco Lander" />
+          <Language key="de-DE" value="Lander's Peak" />
+          <Language key="es-ES" value="Cima de Lander" />
+          <Language key="pt-BR" value="Pico Lander" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00004" title="California Spring" image="1031AB-00004.jpg" smallImage="1031AB-00004_preview.jpg" unlockingPuzzleIds="1031AB-00001,1031AB-00002,1031AB-00003">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Printemps californien" />
+          <Language key="it-IT" value="Primavera californiana" />
+          <Language key="de-DE" value="Frühling in Kalifornien" />
+          <Language key="es-ES" value="Primavera en California" />
+          <Language key="pt-BR" value="Primavera na Califórnia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00005" title="Western Kansas" image="1031AB-00005.jpg" smallImage="1031AB-00005_preview.jpg" unlockingPuzzleIds="1031AB-00004">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Kansas de l'ouest" />
+          <Language key="it-IT" value="Kansas occidentale" />
+          <Language key="de-DE" value="Western Kansas" />
+          <Language key="es-ES" value="Oeste de Kansas" />
+          <Language key="pt-BR" value="Kansas Ocidental" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00006" title="Nassau Harbor" image="1031AB-00006.jpg" smallImage="1031AB-00006_preview.jpg" unlockingPuzzleIds="1031AB-00005">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Port de Nassau" />
+          <Language key="it-IT" value="Nassau Harbor" />
+          <Language key="de-DE" value="Nassau Harbor" />
+          <Language key="es-ES" value="Puerto de Nasáu" />
+          <Language key="pt-BR" value="Porto de Nassau" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00007" title="Yosemite Valley" image="1031AB-00007.jpg" smallImage="1031AB-00007_preview.jpg" unlockingPuzzleIds="1031AB-00006">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="La vallée de Yosemite" />
+          <Language key="it-IT" value="Yosemite Valley" />
+          <Language key="de-DE" value="Yosemite Valley" />
+          <Language key="es-ES" value="Valle de Yosemite" />
+          <Language key="pt-BR" value="O Vale de Yosemite" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00008" title="Cathedral Rock" image="1031AB-00008.jpg" smallImage="1031AB-00008_preview.jpg" unlockingPuzzleIds="1031AB-00007">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="La cathédrale de rochers" />
+          <Language key="it-IT" value="Roccia Cattedrale" />
+          <Language key="de-DE" value="Cathedral Rock" />
+          <Language key="es-ES" value="Roca Catedral" />
+          <Language key="pt-BR" value="Pico Catedral" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00009" title="Sunset over the River" image="1031AB-00009.jpg" smallImage="1031AB-00009_preview.jpg" unlockingPuzzleIds="1031AB-00008">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coucher de soleil sur la rivière" />
+          <Language key="it-IT" value="Tramonto sul fiume" />
+          <Language key="de-DE" value="Sonnenuntergang am Fluss" />
+          <Language key="es-ES" value="Anochecer en el río" />
+          <Language key="pt-BR" value="Pôr do Sol sobre o Rio" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1031AB-00010" title="Sierra Nevada" image="1031AB-00010.jpg" smallImage="1031AB-00010_preview.jpg" unlockingPuzzleIds="1031AB-00009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sierra Nevada" />
+          <Language key="it-IT" value="Sierra Nevada" />
+          <Language key="de-DE" value="Sierra Nevada" />
+          <Language key="es-ES" value="Sierra Nevada" />
+          <Language key="pt-BR" value="Sierra Nevada" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

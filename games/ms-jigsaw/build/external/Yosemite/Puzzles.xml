@@ -1,0 +1,174 @@
+<Puzzles>
+  <Groups packId="YosemitePack">
+    <Group id="Yosemite" title="Yosemite" sentientId="355" revision="1" packImage="1598R-11854133_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="" />
+        <Language key="it-IT" value="" />
+        <Language key="de-DE" value="" />
+        <Language key="es-ES" value="" />
+        <Language key="pt-BR" value="" />
+        <Language key="ja-JP" value="" />
+      </GroupLocalization>
+      <Puzzle id="1598R-11854133" title="El Capitan at Sunset" image="1598R-11854133.jpg" smallImage="1598R-11854133_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13017910" title="Tunnel Tree" image="1589R-13017910.jpg" smallImage="1589R-13017910_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13377157" title="Merced River" image="1589R-13377157.jpg" smallImage="1589R-13377157_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13990286" title="Bridalveil Falls" image="1598R-13990286.jpg" smallImage="1598R-13990286_preview.jpg" unlockingPuzzleIds="1598R-11854133,1589R-13017910,1589R-13377157">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13971813" title="El Capitan" image="1598R-13971813.jpg" smallImage="1598R-13971813_preview.jpg" unlockingPuzzleIds="1598R-13990286">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13340744" title="Half Dome" image="1589R-13340744.jpg" smallImage="1589R-13340744_preview.jpg" unlockingPuzzleIds="1598R-13971813">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13985521" title="Yosemite Falls" image="1598R-13985521.jpg" smallImage="1598R-13985521_preview.jpg" unlockingPuzzleIds="1589R-13340744">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-14899664" title="Glacier Point" image="1598R-14899664.jpg" smallImage="1598R-14899664_preview.jpg" unlockingPuzzleIds="1598R-13985521">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1778R-21721959" title="Yosemite Valley" image="1778R-21721959.jpg" smallImage="1778R-21721959_preview.jpg" unlockingPuzzleIds="1598R-14899664">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13985520" title="Moonbow Reflection" image="1598R-13985520.jpg" smallImage="1598R-13985520_preview.jpg" unlockingPuzzleIds="1778R-21721959">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="" />
+          <Language key="it-IT" value="" />
+          <Language key="de-DE" value="" />
+          <Language key="es-ES" value="" />
+          <Language key="pt-BR" value="" />
+          <Language key="ja-JP" value="" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

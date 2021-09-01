@@ -1,0 +1,253 @@
+<Puzzles>
+  <Groups packId="OceansPack">
+    <Group id="Oceans" title="Oceans" sentientId="244" revision="10" packImage="1527R-1206472_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Océans" />
+        <Language key="it-IT" value="Oceani" />
+        <Language key="de-DE" value="Ozeane" />
+        <Language key="es-ES" value="Mares" />
+        <Language key="pt-BR" value="Oceanos" />
+      </GroupLocalization>
+      <Puzzle id="1527R-1206472" title="Sunset Cliffs, USA" image="1527R-1206472.jpg" smallImage="1527R-1206472_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sunset Cliffs, États-Unis" />
+          <Language key="it-IT" value="Sunset Cliffs, USA" />
+          <Language key="de-DE" value="Sunset Cliffs, USA" />
+          <Language key="es-ES" value="Sunset Cliffs, EE. UU" />
+          <Language key="pt-BR" value="Sunset Cliffs, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-399079" title="Phalasarna, Greece" image="1848R-399079.jpg" smallImage="1848R-399079_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Phalasarna, Grèce" />
+          <Language key="it-IT" value="Falasarna, Grecia" />
+          <Language key="de-DE" value="Phalasarna, Griechenland" />
+          <Language key="es-ES" value="Phalasarna, Grecia" />
+          <Language key="pt-BR" value="Phalasarna, Grécia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-235046" title="Cornwall, England" image="1527R-235046.jpg" smallImage="1527R-235046_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cornouailles, Angleterre" />
+          <Language key="it-IT" value="Cornovaglia, Inghilterra" />
+          <Language key="de-DE" value="Cornwall, England" />
+          <Language key="es-ES" value="Cornualles, Inglaterra" />
+          <Language key="pt-BR" value="Cornualha, Inglaterra" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-502510" title="Komodo National Park, Indonesia" image="1848R-502510.jpg" smallImage="1848R-502510_preview.jpg" unlockingPuzzleIds="1527R-1206472,1848R-399079,1527R-235046">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national de Komodo, Indonésie" />
+          <Language key="it-IT" value="Parco nazionale di Komodo, Indonesia" />
+          <Language key="de-DE" value="Nationalpark Komodo, Indonesien" />
+          <Language key="es-ES" value="Parque Nacional de Komodo, Indonesia" />
+          <Language key="pt-BR" value="Parque Nacional de Komodo, Indonésia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4411R-9957" title="Sunset over the Ocean, Indonesia" image="4411R-9957.jpg" smallImage="4411R-9957_preview.jpg" unlockingPuzzleIds="1848R-502510">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coucher de soleil sur l'océan, Indonésie" />
+          <Language key="it-IT" value="Tramonto sul mare, Indonesia" />
+          <Language key="de-DE" value="Sonnenuntergang überm Ozean, Indonesien" />
+          <Language key="es-ES" value="Puesta de sol en el mar, Indonesia" />
+          <Language key="pt-BR" value="Pôr do sol no oceano, Indonésia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-446313" title="Poor Knights Islands, New Zealand" image="1436R-446313.jpg" smallImage="1436R-446313_preview.jpg" unlockingPuzzleIds="4411R-9957">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poor Knights Islands, Nouvelle-Zélande" />
+          <Language key="it-IT" value="Poor Knights Islands, Nuova Zelanda" />
+          <Language key="de-DE" value="Poor Knights Islands, Neuseeland" />
+          <Language key="es-ES" value="Islas Poor Knights, Nueva Zelanda" />
+          <Language key="pt-BR" value="Poor Knights Islands, Nova Zelândia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-73629" title="Bacuit Archipelago, Philippines" image="1889R-73629.jpg" smallImage="1889R-73629_preview.jpg" unlockingPuzzleIds="1436R-446313">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Archipel de Bacuit, Philippines" />
+          <Language key="it-IT" value="Arcipelago di Bacuit, Filippine" />
+          <Language key="de-DE" value="Bacuit-Archipel, Philippinen" />
+          <Language key="es-ES" value="Archipiélago de Bacuit, Filipinas" />
+          <Language key="pt-BR" value="Arquipélago de Bacuit, Filipinas" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1654R-24901" title="Coral Reef" image="1654R-24901.jpg" smallImage="1654R-24901_preview.jpg" unlockingPuzzleIds="1889R-73629">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Barrière de corail" />
+          <Language key="it-IT" value="Barriera corallina" />
+          <Language key="de-DE" value="Korallenriff" />
+          <Language key="es-ES" value="Arrecife de coral" />
+          <Language key="pt-BR" value="Recife de coral" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-127152" title="Whytecliff Park, Canada" image="1841R-127152.jpg" smallImage="1841R-127152_preview.jpg" unlockingPuzzleIds="1654R-24901">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Whytecliff Park, Canada" />
+          <Language key="it-IT" value="Whytecliff Park, Canada" />
+          <Language key="de-DE" value="Whytecliff Park, Kanada" />
+          <Language key="es-ES" value="Whytecliff Park, Canadá" />
+          <Language key="pt-BR" value="Whytecliff Park, Canadá" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1527R-1183194" title="Olympic National Park, USA" image="1527R-1183194.jpg" smallImage="1527R-1183194_preview.jpg" unlockingPuzzleIds="1841R-127152">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national Olympique, États-Unis" />
+          <Language key="it-IT" value="Parco nazionale di Olympic, USA" />
+          <Language key="de-DE" value="Olympic National Park, USA" />
+          <Language key="es-ES" value="Parque Nacional Olympic, EE. UU." />
+          <Language key="pt-BR" value="Parque Nacional Olympic, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1397R-1022" title="Ocean Sunset View" image="1397R-1022.jpg" smallImage="1397R-1022_preview.jpg" unlockingPuzzleIds="1527R-1183194">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vue de l'océan au crépuscule" />
+          <Language key="it-IT" value="Tramonto sull'oceano" />
+          <Language key="de-DE" value="Sonnenuntergang überm Ozean" />
+          <Language key="es-ES" value="Puesta de sol en el mar" />
+          <Language key="pt-BR" value="Vista do pôr do sol no oceano" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-46605" title="Coral Reef, Indonesia" image="1828R-46605.jpg" smallImage="1828R-46605_preview.jpg" unlockingPuzzleIds="1397R-1022">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Barrière de corail, Indonésie" />
+          <Language key="it-IT" value="Barriera corallina, Indonesia" />
+          <Language key="de-DE" value="Korallenriff, Indonesien" />
+          <Language key="es-ES" value="Arrecife de coral, Indonesia" />
+          <Language key="pt-BR" value="Recife de coral, Indonésia" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6136" title="Longjaw Squirrelfish" image="4239R-6136.jpg" smallImage="4239R-6136_preview.jpg" unlockingPuzzleIds="1828R-46605">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Marignon soldat" />
+          <Language key="it-IT" value="Pesce scoiattolo" />
+          <Language key="de-DE" value="Gelber Husar" />
+          <Language key="es-ES" value="Candil mariano" />
+          <Language key="pt-BR" value="Neoniphon marianus" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1555R-227009" title="Palm Trees" image="1555R-227009.jpg" smallImage="1555R-227009_preview.jpg" unlockingPuzzleIds="4239R-6136">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Palmiers" />
+          <Language key="it-IT" value="Palme" />
+          <Language key="de-DE" value="Palmen" />
+          <Language key="es-ES" value="Palmeras" />
+          <Language key="pt-BR" value="Palmeiras" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-12733" title="Petit Bot Bay, Guernsey" image="1889R-12733.jpg" smallImage="1889R-12733_preview.jpg" unlockingPuzzleIds="1555R-227009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Baie du Petit Bot, Guernesey" />
+          <Language key="it-IT" value="Baia di Petit Bot, Guernsey" />
+          <Language key="de-DE" value="Petit Bot Bay, Guernsey" />
+          <Language key="es-ES" value="Bahía Petit Bot, Guernsey" />
+          <Language key="pt-BR" value="Petit Bot Bay, Guernsey" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1889R-87559" title="Palm Trees on the Shore, USA" image="1889R-87559.jpg" smallImage="1889R-87559_preview.jpg" unlockingPuzzleIds="1889R-12733">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Palmiers en bord de mer, États-Unis" />
+          <Language key="it-IT" value="Palme sulla spiaggia, USA" />
+          <Language key="de-DE" value="Palmen am Strand, USA" />
+          <Language key="es-ES" value="Palmeras en la costa, EE. UU." />
+          <Language key="pt-BR" value="Palmeiras na praia, EUA" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

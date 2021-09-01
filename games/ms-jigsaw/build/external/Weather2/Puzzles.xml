@@ -1,0 +1,254 @@
+﻿<Puzzles>
+  <Groups packId="Weather2Pack">
+    <Group id="Weather2" title="Weather 2" sentientId="310" revision="2" packImage="1527R-1217221_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Phénomènes météorologiques 2" />
+        <Language key="it-IT" value="Tempo 2" />
+        <Language key="de-DE" value="Wetter 2" />
+        <Language key="es-ES" value="Clima 2" />
+        <Language key="pt-BR" value="Clima 2" />
+        <Language key="ja-JP" value="天候2" />
+      </GroupLocalization>
+      <Puzzle id="1527R-1217221" title="Hurricane Elena, Gulf of Mexico" image="1527R-1217221.jpg" smallImage="1527R-1217221_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ouragan Elena, golfe du Mexique" />
+          <Language key="it-IT" value="Uragano Elena, Golfo del Messico" />
+          <Language key="de-DE" value="Hurrikan Elena, Golf von Mexiko" />
+          <Language key="es-ES" value="Huracán Elena, golfo de México" />
+          <Language key="pt-BR" value="Furacão Elena, Golfo do México" />
+          <Language key="ja-JP" value="メキシコ湾のハリケーン・エレナ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-94944" title="Würzburg, Germany" image="1815R-94944.jpg" smallImage="1815R-94944_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Wurtzbourg, Allemagne" />
+          <Language key="it-IT" value="Würzburg, Germania" />
+          <Language key="de-DE" value="Würzburg, Deutschland" />
+          <Language key="es-ES" value="Würzburgo, Alemania" />
+          <Language key="pt-BR" value="Wurtzburgo, Alemanha" />
+          <Language key="ja-JP" value="ドイツのヴュルツブルク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34677" title="Red Poppies in the Rain" image="4094R-34677.jpg" smallImage="4094R-34677_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coquelicots sous la pluie" />
+          <Language key="it-IT" value="Tulipani rossi sotto la pioggia" />
+          <Language key="de-DE" value="Klatschmohn im Regen" />
+          <Language key="es-ES" value="Amapolas rojas bajo la lluvia" />
+          <Language key="pt-BR" value="Papoulas vermelhas sob a chuva" />
+          <Language key="ja-JP" value="雨に濡れるヒナゲシ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1557R-369149" title="Tornado over Desert Lake" image="1557R-369149.jpg" smallImage="1557R-369149_preview.jpg" unlockingPuzzleIds="1527R-1217221,1815R-94944,4094R-34677">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tornade sur un lac" />
+          <Language key="it-IT" value="Tornado su Desert Lake" />
+          <Language key="de-DE" value="Tornado über Wüstensee" />
+          <Language key="es-ES" value="Tornado sobre un lago" />
+          <Language key="pt-BR" value="Tornado sobre Lago do Deserto" />
+          <Language key="ja-JP" value="デザート・レイクのトルネード" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-79075" title="Dandenong Ranges National Park" image="1815R-79075.jpg" smallImage="1815R-79075_preview.jpg" unlockingPuzzleIds="1557R-369149">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national des monts Dandenong" />
+          <Language key="it-IT" value="Parco nazionale Dandenong Ranges" />
+          <Language key="de-DE" value="Dandenong-Ranges-Nationalpark" />
+          <Language key="es-ES" value="Parque nacional de Dandenong" />
+          <Language key="pt-BR" value="Parque Nacional de Dandenong Ranges" />
+          <Language key="ja-JP" value="ダンデノン・レンジズ国立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34055" title="Lightning over Water" image="4094R-34055.jpg" smallImage="4094R-34055_preview.jpg" unlockingPuzzleIds="1815R-79075">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orage sur l'eau" />
+          <Language key="it-IT" value="Fulmini sull’acqua" />
+          <Language key="de-DE" value="Blitze über Wasser" />
+          <Language key="es-ES" value="Rayo sobre el agua" />
+          <Language key="pt-BR" value="Raio sobre a água" />
+          <Language key="ja-JP" value="水上の稲妻" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-34631" title="Aurora Borealis" image="4094R-34631.jpg" smallImage="4094R-34631_preview.jpg" unlockingPuzzleIds="4094R-34055">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Aurore boréale" />
+          <Language key="it-IT" value="Aurora Boreale" />
+          <Language key="de-DE" value="Aurora Borealis" />
+          <Language key="es-ES" value="Aurora Boreal" />
+          <Language key="pt-BR" value="Aurora boreal" />
+          <Language key="ja-JP" value="オーロラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-50159" title="Painted Hills of Oregon" image="1795R-50159.jpg" smallImage="1795R-50159_preview.jpg" unlockingPuzzleIds="4094R-34631">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Painted Hills, Oregon" />
+          <Language key="it-IT" value="Painted Hills dell’Oregon" />
+          <Language key="de-DE" value="Painted Hills, Oregon" />
+          <Language key="es-ES" value="Painted Hills, Oregón" />
+          <Language key="pt-BR" value="Painted Hills, Oregon, EUA" />
+          <Language key="ja-JP" value="オレゴン州のペインテッド・ヒルズ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1841R-90899" title="Darwin's Finch" image="1841R-90899.jpg" smallImage="1841R-90899_preview.jpg" unlockingPuzzleIds="1795R-50159">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pinson de Darwin" />
+          <Language key="it-IT" value="Fringuelli di Darwin" />
+          <Language key="de-DE" value="Darwinfinken" />
+          <Language key="es-ES" value="Pinzón de Darwin" />
+          <Language key="pt-BR" value="Fringilídeo de Darwin" />
+          <Language key="ja-JP" value="ダーウィンフィンチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-207917" title="Olive Trees in Italy" image="1773R-207917.jpg" smallImage="1773R-207917_preview.jpg" unlockingPuzzleIds="1841R-90899">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Oliviers en Italie" />
+          <Language key="it-IT" value="Ulivi in Italia" />
+          <Language key="de-DE" value="Olivenbäume in Italien" />
+          <Language key="es-ES" value="Olivos en Italia" />
+          <Language key="pt-BR" value="Oliveiras na Itália" />
+          <Language key="ja-JP" value="イタリアのオリーブの木" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-74631" title="Dramatic Sky at Sunset" image="1795R-74631.jpg" smallImage="1795R-74631_preview.jpg" unlockingPuzzleIds="1773R-207917">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ciel de crépuscule" />
+          <Language key="it-IT" value="Cielo teatrale al tramonto" />
+          <Language key="de-DE" value="Spektakulärer Sonnenuntergang" />
+          <Language key="es-ES" value="Cielo y puesta de sol" />
+          <Language key="pt-BR" value="Pôr do sol dramático" />
+          <Language key="ja-JP" value="日没時の雄大な空" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-35908" title="Badlands National Park, South Dakota" image="1795R-35908.jpg" smallImage="1795R-35908_preview.jpg" unlockingPuzzleIds="1795R-74631">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc national des Badlands, Dakota du Sud" />
+          <Language key="it-IT" value="Parco nazionale delle Badlands, Dakota del Sud" />
+          <Language key="de-DE" value="Badlands-Nationalpark, South Dakota" />
+          <Language key="es-ES" value="Parque de Badlands, Dakota del Sur" />
+          <Language key="pt-BR" value="Parque Nacional Badlands, Dakota do Sul, EUA" />
+          <Language key="ja-JP" value="サウスダコタ州のバッドランズ国立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-4069" title="Grand Canyon in Arizona" image="4239R-4069.jpg" smallImage="4239R-4069_preview.jpg" unlockingPuzzleIds="1795R-35908">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand Canyon, Arizona" />
+          <Language key="it-IT" value="Grand Canyon in Arizona" />
+          <Language key="de-DE" value="Grand Canyon, Arizona" />
+          <Language key="es-ES" value="Gran Cañón de Arizona" />
+          <Language key="pt-BR" value="Grand Canyon, Arizona, EUA" />
+          <Language key="ja-JP" value="アリゾナ州のグランド・キャニオン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-152141" title="Morning Mist in Bavaria" image="1815R-152141.jpg" smallImage="1815R-152141_preview.jpg" unlockingPuzzleIds="4239R-4069">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Brume matinale en Bavière" />
+          <Language key="it-IT" value="Foschia mattutina in Baviera" />
+          <Language key="de-DE" value="Morgennebel in Bayern" />
+          <Language key="es-ES" value="Neblina matutina en Baviera" />
+          <Language key="pt-BR" value="Névoa da manhã, Bavária, Alemanha" />
+          <Language key="ja-JP" value="バイエルンの朝霧" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-118459" title="River Tyne, England" image="1815R-118459.jpg" smallImage="1815R-118459_preview.jpg" unlockingPuzzleIds="1815R-152141">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="La Tyne, Angleterre" />
+          <Language key="it-IT" value="Fiume Tyrne, Inghilterra" />
+          <Language key="de-DE" value="Tyne, England" />
+          <Language key="es-ES" value="Río Tyne, Inglaterra" />
+          <Language key="pt-BR" value="Rio Tyne, Inglaterra" />
+          <Language key="ja-JP" value="イギリスのタイン川" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

@@ -1,0 +1,20 @@
+{"frames": {
+
+"mobile_bg/background.jpg":
+{
+	"frame": {"x":2,"y":2,"w":2048,"h":1157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":1157},
+	"sourceSize": {"w":2048,"h":1157}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mobile_bg.png",
+	"format": "RGBA8888",
+	"size": {"w":2052,"h":1161},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7de5d2f36567051eafe84d88093e0507:50c46423752d552374867cec8d34b863:c6a5da0ad816f9b8c61a88fa9307dfb7$"
+}
+}

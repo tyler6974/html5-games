@@ -1,0 +1,254 @@
+<Puzzles>
+  <Groups packId="ColorfulBirdsPack">
+    <Group id="ColorfulBirds" title="Colorful Birds" sentientId="360" revision="2" packImage="1491R-11628341_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Oiseaux hauts en couleur" />
+        <Language key="it-IT" value="Uccelli colorati" />
+        <Language key="de-DE" value="Bunte Vögel" />
+        <Language key="es-ES" value="Aves coloridas" />
+        <Language key="pt-BR" value="Pássaros Coloridos" />
+        <Language key="ja-JP" value="カラフルな鳥" />
+      </GroupLocalization>
+      <Puzzle id="1491R-11628341" title="Preening" image="1491R-11628341.jpg" smallImage="1491R-11628341_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lissage de plumes" />
+          <Language key="it-IT" value="Preening" />
+          <Language key="de-DE" value="Federputz" />
+          <Language key="es-ES" value="Acicalándose" />
+          <Language key="pt-BR" value="Alisando" />
+          <Language key="ja-JP" value="毛づくろい" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11605967" title="Hidey Hole" image="1491R-11605967.jpg" smallImage="1491R-11605967_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cache-cache" />
+          <Language key="it-IT" value="Nascondiglio" />
+          <Language key="de-DE" value="Im Baumversteck" />
+          <Language key="es-ES" value="Escondrijo" />
+          <Language key="pt-BR" value="Esconderijo" />
+          <Language key="ja-JP" value="隠れ家" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-21688103" title="Flying Home" image="4094R-21688103.jpg" smallImage="4094R-21688103_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Retour à la maison" />
+          <Language key="it-IT" value="In volo verso casa" />
+          <Language key="de-DE" value="Luftiges Zuhause" />
+          <Language key="es-ES" value="Volviendo a casa" />
+          <Language key="pt-BR" value="Voando para Casa" />
+          <Language key="ja-JP" value="飛んで帰る" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1525R-234031" title="Macaw on Branch" image="1525R-234031.jpg" smallImage="1525R-234031_preview.jpg" unlockingPuzzleIds="1491R-11628341,1491R-11605967,4094R-21688103">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ara perché" />
+          <Language key="it-IT" value="Ara sul ramo" />
+          <Language key="de-DE" value="Ara auf einem Ast" />
+          <Language key="es-ES" value="Guacamayo en una rama" />
+          <Language key="pt-BR" value="Arara no Galho" />
+          <Language key="ja-JP" value="枝の上のコンゴウインコ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13974735" title="Peacock" image="1598R-13974735.jpg" smallImage="1598R-13974735_preview.jpg" unlockingPuzzleIds="1525R-234031">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paon" />
+          <Language key="it-IT" value="Pavone" />
+          <Language key="de-DE" value="Pfau" />
+          <Language key="es-ES" value="Pavo real" />
+          <Language key="pt-BR" value="Pavão" />
+          <Language key="ja-JP" value="クジャク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-13999306" title="Wing Feathers" image="1491R-13999306.jpg" smallImage="1491R-13999306_preview.jpg" unlockingPuzzleIds="1598R-13974735">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Jolies plumes" />
+          <Language key="it-IT" value="Piume di ali" />
+          <Language key="de-DE" value="Bunte Federn" />
+          <Language key="es-ES" value="Plumas de ala" />
+          <Language key="pt-BR" value="Penas da Asa" />
+          <Language key="ja-JP" value="翼の羽" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12060341" title="Scarlet Macaw" image="1598R-12060341.jpg" smallImage="1598R-12060341_preview.jpg" unlockingPuzzleIds="1491R-13999306">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ara rouge" />
+          <Language key="it-IT" value="Ara scarlatta" />
+          <Language key="de-DE" value="Hellroter Ara" />
+          <Language key="es-ES" value="Guacamayo macao" />
+          <Language key="pt-BR" value="Araracanga" />
+          <Language key="ja-JP" value="コンゴウインコ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11906374" title="Home Sweet Home" image="1672R-11906374.jpg" smallImage="1672R-11906374_preview.jpg" unlockingPuzzleIds="1598R-12060341">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bien chez soi" />
+          <Language key="it-IT" value="Casa dolce casa" />
+          <Language key="de-DE" value="Im sicheren Nest" />
+          <Language key="es-ES" value="Hogar, dulce hogar" />
+          <Language key="pt-BR" value="Lar Doce Lar" />
+          <Language key="ja-JP" value="楽しき我が家" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1609R-28340" title="Keel-billed Toucan" image="1609R-28340.jpg" smallImage="1609R-28340_preview.jpg" unlockingPuzzleIds="1672R-11906374">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Toucan à carène" />
+          <Language key="it-IT" value="Tucano carenato" />
+          <Language key="de-DE" value="Fischertukan" />
+          <Language key="es-ES" value="Tucán pico iris" />
+          <Language key="pt-BR" value="Tucano-de-bico-arco-íris" />
+          <Language key="ja-JP" value="サンショクキムネオオハシ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11759422" title="Flock on Rock" image="1672R-11759422.jpg" smallImage="1672R-11759422_preview.jpg" unlockingPuzzleIds="1609R-28340">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Volée sur un rocher" />
+          <Language key="it-IT" value="Stormo su roccia" />
+          <Language key="de-DE" value="Schwarm auf Stein" />
+          <Language key="es-ES" value="Bandada en roca" />
+          <Language key="pt-BR" value="Aves na Pedra" />
+          <Language key="ja-JP" value="岩に集合" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12802170" title="Red Parrot Feathers" image="1491R-12802170.jpg" smallImage="1491R-12802170_preview.jpg" unlockingPuzzleIds="1672R-11759422">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Plumes de perroquet rouge" />
+          <Language key="it-IT" value="Piume di pappagallo rosso" />
+          <Language key="de-DE" value="Bunte Papageienfedern" />
+          <Language key="es-ES" value="Plumas de loro rojas" />
+          <Language key="pt-BR" value="Penas de Papagaio Vermelho" />
+          <Language key="ja-JP" value="赤いオウムの羽" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12802169" title="Blue-and-gold Macaw" image="1491R-12802169.jpg" smallImage="1491R-12802169_preview.jpg" unlockingPuzzleIds="1491R-12802170">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ara bleu et jaune" />
+          <Language key="it-IT" value="Ara blu e oro" />
+          <Language key="de-DE" value="Gelbbrustara" />
+          <Language key="es-ES" value="Guacamayo azul y dorado" />
+          <Language key="pt-BR" value="Arara-canindé" />
+          <Language key="ja-JP" value="ルリコンゴウインコ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-13564840" title="Airborn Altercation" image="1672R-13564840.jpg" smallImage="1672R-13564840_preview.jpg" unlockingPuzzleIds="1491R-12802169">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Duel dans les airs" />
+          <Language key="it-IT" value="Lite in aria" />
+          <Language key="de-DE" value="Fliegender Tanz" />
+          <Language key="es-ES" value="Altercado aéreo" />
+          <Language key="pt-BR" value="Briga no Ar" />
+          <Language key="ja-JP" value="空中でのケンカ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-13123162" title="Hyacinth Macaw" image="1672R-13123162.jpg" smallImage="1672R-13123162_preview.jpg" unlockingPuzzleIds="1672R-13564840">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ara hyacinthe" />
+          <Language key="it-IT" value="Ara giacinto" />
+          <Language key="de-DE" value="Hyazinth-Ara" />
+          <Language key="es-ES" value="Guacamayo azul" />
+          <Language key="pt-BR" value="Arara-azul-grande" />
+          <Language key="ja-JP" value="スミレコンゴウインコ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1795R-13677436" title="Peacock Feathers" image="1795R-13677436.jpg" smallImage="1795R-13677436_preview.jpg" unlockingPuzzleIds="1672R-13123162">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Plumes de paon" />
+          <Language key="it-IT" value="Piume di pavone" />
+          <Language key="de-DE" value="Pfauenfedern" />
+          <Language key="es-ES" value="Plumas de pavo real" />
+          <Language key="pt-BR" value="Penas de Pavão" />
+          <Language key="ja-JP" value="クジャクの羽" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

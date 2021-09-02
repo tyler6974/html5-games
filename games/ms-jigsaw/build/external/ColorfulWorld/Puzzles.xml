@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="ColorfulWorldPack">
-    <Group id="ColorfulWorld" title="Colorful World" sentientId="214" revision="12" packImage="1491R-1163904_preview.jpg">
+    <Group id="ColorfulWorld" title="Colorful World" sentientId="214" revision="1" packImage="1491R-1163904_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Le monde en couleurs" />
         <Language key="it-IT" value="Mondo a colori" />
         <Language key="de-DE" value="Welt der Farben" />
         <Language key="es-ES" value="Mundo de colores" />
         <Language key="pt-BR" value="Mundo colorido" />
+        <Language key="ja-JP" value="カラフル" />
       </GroupLocalization>
       <Puzzle id="1491R-1163904" title="Art Materials" image="1491R-1163904.jpg" smallImage="1491R-1163904_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Zeichenstifte" />
           <Language key="es-ES" value="Material artístico" />
           <Language key="pt-BR" value="Materiais artísticos" />
+          <Language key="ja-JP" value="画材" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Strandhütten" />
           <Language key="es-ES" value="Casetas de playa" />
           <Language key="pt-BR" value="Cabanas de praia" />
+          <Language key="ja-JP" value="浜辺の小屋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Ballons" />
           <Language key="es-ES" value="Globos" />
           <Language key="pt-BR" value="Balões" />
+          <Language key="ja-JP" value="風船玉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Regenbogen" />
           <Language key="es-ES" value="Arco iris" />
           <Language key="pt-BR" value="Arco-íris" />
+          <Language key="ja-JP" value="虹" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Makronenkekse" />
           <Language key="es-ES" value="Macarones" />
           <Language key="pt-BR" value="Macaroons" />
+          <Language key="ja-JP" value="マカロン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Farben" />
           <Language key="es-ES" value="Pintura de colores" />
           <Language key="pt-BR" value="Tinta colorida" />
+          <Language key="ja-JP" value="色とりどりの絵の具" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Nähmaterialien" />
           <Language key="es-ES" value="Material de costura" />
           <Language key="pt-BR" value="Materiais de costura" />
+          <Language key="ja-JP" value="手芸用品" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Billardkugeln" />
           <Language key="es-ES" value="Bolas de billar" />
           <Language key="pt-BR" value="Bolas de sinuca" />
+          <Language key="ja-JP" value="ビリヤードボール" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Clown" />
           <Language key="es-ES" value="Payaso" />
           <Language key="pt-BR" value="Palhaço" />
+          <Language key="ja-JP" value="ピエロ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Mardi-Gras-Karnevalsmasken" />
           <Language key="es-ES" value="Máscaras de carnaval" />
           <Language key="pt-BR" value="Máscaras de carnaval" />
+          <Language key="ja-JP" value="マルディグラ カーニバルの仮面" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Bunte Schüsseln" />
           <Language key="es-ES" value="Cuencos tintados" />
           <Language key="pt-BR" value="Tigelas coloridas" />
+          <Language key="ja-JP" value="彩色された器" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Papageien" />
           <Language key="es-ES" value="Papagayos" />
           <Language key="pt-BR" value="Araras" />
+          <Language key="ja-JP" value="オウム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Chinesische Puppen" />
           <Language key="es-ES" value="Muñecas chinas" />
           <Language key="pt-BR" value="Marionetes chinesas" />
+          <Language key="ja-JP" value="中国の操り人形" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Schwalbenschwanz" />
           <Language key="es-ES" value="Mariposa cometa" />
           <Language key="pt-BR" value="Borboleta cauda-de-andorinha" />
+          <Language key="ja-JP" value="アゲハチョウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Partyhütchen" />
           <Language key="es-ES" value="Gorros de fiesta" />
           <Language key="pt-BR" value="Chapéus de festa" />
+          <Language key="ja-JP" value="パーティーハット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -233,13 +249,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1654R-19625" title="Blue Tang on Coral Reef" image="1654R-19625.jpg" smallImage="1654R-19625_preview.jpg" unlockingPuzzleIds="1598R-197794">
+      <Puzzle id="1654R-19625" title="Blue Tang On Coral Reef" image="1654R-19625.jpg" smallImage="1654R-19625_preview.jpg" unlockingPuzzleIds="1598R-197794">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Chirurgien bleu sur barrière de corail" />
           <Language key="it-IT" value="Pesce chirurgo blu e barriera corallina" />
           <Language key="de-DE" value="Doktorfisch im Korallenriff" />
           <Language key="es-ES" value="Pez cirujano azul en arrecife de coral" />
           <Language key="pt-BR" value="Cirurgião-azul-claro em recife de coral" />
+          <Language key="ja-JP" value="サンゴ礁の青い熱帯魚" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Blumenstrauß" />
           <Language key="es-ES" value="Ramillete" />
           <Language key="pt-BR" value="Buquê" />
+          <Language key="ja-JP" value="花束" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Geburtstags-Cupcakes" />
           <Language key="es-ES" value="Madalenas de cumpleaños" />
           <Language key="pt-BR" value="Bolos de aniversário" />
+          <Language key="ja-JP" value="バースデー カップケーキ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Ölfarbe" />
           <Language key="es-ES" value="Pintura al óleo" />
           <Language key="pt-BR" value="Tinta a óleo" />
+          <Language key="ja-JP" value="油彩" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Weißbrusttukan" />
           <Language key="es-ES" value="Tucán de pico rojo" />
           <Language key="pt-BR" value="Tucano-de-peito-branco" />
+          <Language key="ja-JP" value="シロムネオオハシ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Tropische Fische" />
           <Language key="es-ES" value="Pez tropical" />
           <Language key="pt-BR" value="Peixes tropicais" />
+          <Language key="ja-JP" value="熱帯魚" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Parsons Chamäleon" />
           <Language key="es-ES" value="Camaleón de Parson" />
           <Language key="pt-BR" value="Camaleão de Parson" />
+          <Language key="ja-JP" value="パーソンカメレオン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Mandarinenplantage" />
           <Language key="es-ES" value="Mandarinos" />
           <Language key="pt-BR" value="Plantação de tangerinas" />
+          <Language key="ja-JP" value="ミカン畑" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="Farbenfroher Nachtisch" />
           <Language key="es-ES" value="Gelatina arco iris" />
           <Language key="pt-BR" value="Gelatina colorida" />
+          <Language key="ja-JP" value="虹色のゼリー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Blaureiher" />
           <Language key="es-ES" value="Garza azulada" />
           <Language key="pt-BR" value="Garça-azul-grande" />
+          <Language key="ja-JP" value="オオアオサギ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Tropischer Strand" />
           <Language key="es-ES" value="Playa tropical" />
           <Language key="pt-BR" value="Praia tropical" />
+          <Language key="ja-JP" value="トロピカルビーチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -405,6 +432,7 @@
           <Language key="de-DE" value="Herbstliche Bäume" />
           <Language key="es-ES" value="Árboles otoñales" />
           <Language key="pt-BR" value="Árvores de outono" />
+          <Language key="ja-JP" value="秋の木々" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -420,6 +448,7 @@
           <Language key="de-DE" value="Feldblumen" />
           <Language key="es-ES" value="Flores silvestres" />
           <Language key="pt-BR" value="Flores do campo" />
+          <Language key="ja-JP" value="野の花" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -435,6 +464,7 @@
           <Language key="de-DE" value="Saucenflaschen" />
           <Language key="es-ES" value="Salsas" />
           <Language key="pt-BR" value="Recipientes de molho" />
+          <Language key="ja-JP" value="調味料入れ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

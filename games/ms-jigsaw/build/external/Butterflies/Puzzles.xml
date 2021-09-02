@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="ButterfliesPack">
-    <Group id="Butterflies" title="Butterflies" sentientId="209" revision="11" packImage="1815R-55703_preview.jpg">
+    <Group id="Butterflies" title="Butterflies" sentientId="209" revision="1" packImage="1815R-55703_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Papillons" />
         <Language key="it-IT" value="Farfalle" />
         <Language key="de-DE" value="Schmetterlinge" />
         <Language key="es-ES" value="Mariposas" />
         <Language key="pt-BR" value="Borboletas" />
+        <Language key="ja-JP" value="蝶" />
       </GroupLocalization>
       <Puzzle id="1815R-55703" title="Peacock" image="1815R-55703.jpg" smallImage="1815R-55703_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Tagpfauenauge" />
           <Language key="es-ES" value="Mariposa pavo real" />
           <Language key="pt-BR" value="Inachis io" />
+          <Language key="ja-JP" value="クジャクチョウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Junonia orithya" />
           <Language key="es-ES" value="Junonia orithya" />
           <Language key="pt-BR" value="Junonia orithya" />
+          <Language key="ja-JP" value="アオタテハモドキ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Cethosia biblis" />
           <Language key="es-ES" value="Cethosia biblis" />
           <Language key="pt-BR" value="Cethosia biblis" />
+          <Language key="ja-JP" value="ウスベニハレギチョウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Großer Schwalbenschwanz" />
           <Language key="es-ES" value="Mariposa cometa gigante" />
           <Language key="pt-BR" value="Papilio cresphontes" />
+          <Language key="ja-JP" value="クレスフォンテスタス キアゲハ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Kaiser-Schwalbenschwanz" />
           <Language key="es-ES" value="Papilio ophidicephalus" />
           <Language key="pt-BR" value="Papilio ophidicephalus" />
+          <Language key="ja-JP" value="オオサカハチアゲハ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Polyommatus Icarus" />
           <Language key="es-ES" value="Polyommatus icarus" />
           <Language key="pt-BR" value="Polyommatus icarus" />
+          <Language key="ja-JP" value="イカルスヒメシジミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Aster Dumosus" />
           <Language key="es-ES" value="Aster dumosus" />
           <Language key="pt-BR" value="Aster dumosus" />
+          <Language key="ja-JP" value="アスタ－ デュモサス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Danaus gilippus" />
           <Language key="es-ES" value="Mariposa reina" />
           <Language key="pt-BR" value="Borboleta rainha" />
+          <Language key="ja-JP" value="ジョオウマダラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -128,13 +137,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1525R-164666" title="Pollination of Flowers" image="1525R-164666.jpg" smallImage="1525R-164666_preview.jpg" unlockingPuzzleIds="1525R-47168">
+      <Puzzle id="1525R-164666" title="Pollination Of Flowers" image="1525R-164666.jpg" smallImage="1525R-164666_preview.jpg" unlockingPuzzleIds="1525R-47168">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Pollinisation des fleurs" />
           <Language key="it-IT" value="Impollinazione dei fiori" />
           <Language key="de-DE" value="Bestäubung von Blumen" />
           <Language key="es-ES" value="Polinización de flores" />
           <Language key="pt-BR" value="Polinização de flores" />
+          <Language key="ja-JP" value="花粉の媒介" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Monarch" />
           <Language key="es-ES" value="Mariposa monarca" />
           <Language key="pt-BR" value="Borboleta-monarca" />
+          <Language key="ja-JP" value="オオカバマダラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

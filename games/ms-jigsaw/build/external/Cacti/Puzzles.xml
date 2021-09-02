@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="CactiPack">
-    <Group id="Cacti" title="Cacti" sentientId="324" revision="2" packImage="1815R-11461132_preview.jpg">
+    <Group id="Cacti" title="Cacti" sentientId="324" revision="1" packImage="1815R-11461132_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Cactus" />
         <Language key="it-IT" value="Cacti" />

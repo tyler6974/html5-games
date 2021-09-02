@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="CarsPack">
-    <Group id="Cars" title="Cars" sentientId="210" revision="9" packImage="4029R-109455_preview.jpg">
+    <Group id="Cars" title="Cars" sentientId="210" revision="1" packImage="4029R-109455_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Voitures" />
         <Language key="it-IT" value="Auto" />
         <Language key="de-DE" value="Autos" />
         <Language key="es-ES" value="Coches" />
         <Language key="pt-BR" value="Carros" />
+        <Language key="ja-JP" value="自動車" />
       </GroupLocalization>
       <Puzzle id="4029R-109455" title="Racing Car" image="4029R-109455.jpg" smallImage="4029R-109455_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Rennwagen" />
           <Language key="es-ES" value="Coche de carreras" />
           <Language key="pt-BR" value="Carro de corrida" />
+          <Language key="ja-JP" value="レーシングカー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Klassisches italienisches Auto" />
           <Language key="es-ES" value="Coche italiano clásico" />
           <Language key="pt-BR" value="Carro italiano clássico" />
+          <Language key="ja-JP" value="イタリアのクラシックカー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Stretch-Limousine" />
           <Language key="es-ES" value="Limusina" />
           <Language key="pt-BR" value="Limusine" />
+          <Language key="ja-JP" value="リムジン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Blauer Oldtimer" />
           <Language key="es-ES" value="Coche antiguo azul" />
           <Language key="pt-BR" value="Carro vintage azul" />
+          <Language key="ja-JP" value="ヴィンテージカー 青" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Roter Oldtimer" />
           <Language key="es-ES" value="Coche antiguo rojo" />
           <Language key="pt-BR" value="Carro vintage vermelho" />
+          <Language key="ja-JP" value="ヴィンテージカー 赤" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Luxuscabrio" />
           <Language key="es-ES" value="Descapotable de lujo" />
           <Language key="pt-BR" value="Carro conversível de luxo" />
+          <Language key="ja-JP" value="高級コンバーチブル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Kartfahren" />
           <Language key="es-ES" value="Kart" />
           <Language key="pt-BR" value="Kart" />
+          <Language key="ja-JP" value="レーシングカート" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -113,13 +121,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1741R-8046" title="Car Parked on a Lawn" image="1741R-8046.jpg" smallImage="1741R-8046_preview.jpg" unlockingPuzzleIds="1663R-21605">
+      <Puzzle id="1741R-8046" title="Car Parked In A lawn" image="1741R-8046.jpg" smallImage="1741R-8046_preview.jpg" unlockingPuzzleIds="1663R-21605">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Voiture garée sur une pelouse" />
           <Language key="it-IT" value="Auto parcheggiata in giardino" />
           <Language key="de-DE" value="Auf Rasen geparktes Auto" />
           <Language key="es-ES" value="Coche aparcado en el césped" />
           <Language key="pt-BR" value="Carro estacionado na grama" />
+          <Language key="ja-JP" value="芝生の上の車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Tachometer" />
           <Language key="es-ES" value="Tacómetro" />
           <Language key="pt-BR" value="Tacômetro" />
+          <Language key="ja-JP" value="タコメーター" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Cabrio" />
           <Language key="es-ES" value="Descapotable" />
           <Language key="pt-BR" value="Carro conversível" />
+          <Language key="ja-JP" value="カブリオレ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Echter Oldtimer" />
           <Language key="es-ES" value="Coche clásico antiguo" />
           <Language key="pt-BR" value="Carro clássico antigo" />
+          <Language key="ja-JP" value="年代物のクラシックカー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Auf der Rennstrecke" />
           <Language key="es-ES" value="Circuito de carreras" />
           <Language key="pt-BR" value="Pista de corrida" />
+          <Language key="ja-JP" value="競走路" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Rotes Auto vor Haus" />
           <Language key="es-ES" value="Coche rojo junto a una casa" />
           <Language key="pt-BR" value="Carro vermelho próximo à casa" />
+          <Language key="ja-JP" value="家の近くの赤い車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Oldtimer mit geschwungenen Kotflügeln" />
           <Language key="es-ES" value="Coche antiguo" />
           <Language key="pt-BR" value="Carro antigo" />
+          <Language key="ja-JP" value="アンティークカー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="BMW M5" />
           <Language key="es-ES" value="BMW M5" />
           <Language key="pt-BR" value="BMW M5" />
+          <Language key="ja-JP" value="BMW M5" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="SUV" />
           <Language key="es-ES" value="Todoterreno" />
           <Language key="pt-BR" value="Veículo utilitário esportivo" />
+          <Language key="ja-JP" value="SUV" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Mazda 6" />
           <Language key="es-ES" value="Mazda 6" />
           <Language key="pt-BR" value="Mazda 6" />
+          <Language key="ja-JP" value="マツダ 6 （アテンザ）" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Pontiac Firehawk Firebird" />
           <Language key="es-ES" value="Pontiac Firehawk Firebird" />
           <Language key="pt-BR" value="Pontiac Firehawk Firebird" />
+          <Language key="ja-JP" value="ポンティアック ファイヤーホーク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Crossfire SRT-6" />
           <Language key="es-ES" value="Crossfire SRT-6" />
           <Language key="pt-BR" value="Crossfire SRT-6" />
+          <Language key="ja-JP" value="クロスファイア SRT-6" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Acura RSX Type-S" />
           <Language key="es-ES" value="Acura RSX Type-S" />
           <Language key="pt-BR" value="Acura RSX Type-S" />
+          <Language key="ja-JP" value="アキュラ RSX Type-S" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Rotes Cabrio" />
           <Language key="es-ES" value="Descapotable rojo" />
           <Language key="pt-BR" value="Conversível vermelho" />
+          <Language key="ja-JP" value="コンバーチブル 赤" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Audi S4" />
           <Language key="es-ES" value="Audi S4" />
           <Language key="pt-BR" value="Audi S4" />
+          <Language key="ja-JP" value="Audi S4" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

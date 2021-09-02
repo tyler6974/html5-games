@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="BridgesPack">
-    <Group id="Bridges" title="Bridges" sentientId="208" revision="10" packImage="1598R-10032927_preview.jpg">
+    <Group id="Bridges" title="Bridges" sentientId="208" revision="1" packImage="1598R-10032927_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Ponts" />
         <Language key="it-IT" value="Ponti" />
         <Language key="de-DE" value="Brücken" />
         <Language key="es-ES" value="Puentes" />
         <Language key="pt-BR" value="Pontes" />
+        <Language key="ja-JP" value="橋" />
       </GroupLocalization>
       <Puzzle id="1598R-10032927" title="Bayonne Bridge, USA" image="1598R-10032927.jpg" smallImage="1598R-10032927_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Bayonne Bridge, USA" />
           <Language key="es-ES" value="Puente de Bayonne, EE. UU." />
           <Language key="pt-BR" value="Ponte Bayonne, EUA" />
+          <Language key="ja-JP" value="アメリカ ベイヨン橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Vincent Thomas Bridge, USA" />
           <Language key="es-ES" value="Puente Vincent Thomas, EE. UU." />
           <Language key="pt-BR" value="Ponte Vincent Thomas, EUA" />
+          <Language key="ja-JP" value="アメリカ ヴィンセントトーマス橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Ponte Sant'Angelo, Italien" />
           <Language key="es-ES" value="Puente Santágelo, Italia" />
           <Language key="pt-BR" value="Ponte Sant'Angelo, Itália" />
+          <Language key="ja-JP" value="イタリア サンタンジェロ橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Tower Bridge, England" />
           <Language key="es-ES" value="Tower Bridge, Inglaterra" />
           <Language key="pt-BR" value="Tower Bridge, Inglaterra" />
+          <Language key="ja-JP" value="イギリス タワーブリッジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Alte Harburger Elbbrücke, Deutschland" />
           <Language key="es-ES" value="Puente de Harburgo en el Elba, Alemania" />
           <Language key="pt-BR" value="Ponte Old Harburg Elbe, Alemanha" />
+          <Language key="ja-JP" value="ドイツ ハンブルク旧市街エルベ橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Champlain Bridge, USA" />
           <Language key="es-ES" value="Puente de Champlain, EE. UU." />
           <Language key="pt-BR" value="Ponte Champlain, EUA" />
+          <Language key="ja-JP" value="アメリカ シャンプレーン橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Eitai-Brücke, Japan" />
           <Language key="es-ES" value="Puente Eitai, Japón" />
           <Language key="pt-BR" value="Ponte Eitai, Japão" />
+          <Language key="ja-JP" value="日本 永代橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Kettenbrücke, Ungarn" />
           <Language key="es-ES" value="Puente colgante, Hungría" />
           <Language key="pt-BR" value="Ponte Chain, Hungria" />
+          <Language key="ja-JP" value="ハンガリー くさり橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Nijūbashi-Brücke, Japan" />
           <Language key="es-ES" value="Puente Nijūbashi, Japón" />
           <Language key="pt-BR" value="Ponte Nijūbashi, Japão" />
+          <Language key="ja-JP" value="日本 二重橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Manhattan Bridge, USA" />
           <Language key="es-ES" value="Puente de Manhattan, EE. UU." />
           <Language key="pt-BR" value="Ponte de Manhattan, EUA" />
+          <Language key="ja-JP" value="アメリカ マンハッタン橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Yaquina Bay Bridge, USA" />
           <Language key="es-ES" value="Puente en bahía de Yaquina, EE. UU." />
           <Language key="pt-BR" value="Ponte de Yaquina Bay, EUA" />
+          <Language key="ja-JP" value="アメリカ ヤキーナベイブリッジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Roosevelt Lake Bridge, USA" />
           <Language key="es-ES" value="Puente del lago Roosevelt, EE. UU." />
           <Language key="pt-BR" value="Ponte de Roosevelt Lake, EUA" />
+          <Language key="ja-JP" value="アメリカ ルーズベルト湖の橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -188,13 +201,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-9979875" title="Bridge of Angels, Italy" image="1598R-9979875.jpg" smallImage="1598R-9979875_preview.jpg" unlockingPuzzleIds="1555R-344062">
+      <Puzzle id="1598R-9979875" title="Bridge Of Angels, Italy" image="1598R-9979875.jpg" smallImage="1598R-9979875_preview.jpg" unlockingPuzzleIds="1555R-344062">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Pont Saint-Ange, Italie" />
           <Language key="it-IT" value="Ponte degli Angeli, Italia" />
           <Language key="de-DE" value="Engelsbrücke, Italien" />
           <Language key="es-ES" value="Puente de los Ángeles, Italia" />
           <Language key="pt-BR" value="Ponte dos Anjos, Itália" />
+          <Language key="ja-JP" value="イタリア サンタンジェロ橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Autobahnüberführung" />
           <Language key="es-ES" value="Paso elevado de autopista" />
           <Language key="pt-BR" value="Ponte Suspensa" />
+          <Language key="ja-JP" value="高速道路の高架" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Hohenzollernbrücke, Deutschland" />
           <Language key="es-ES" value="Puente de Hohenzollern, Alemania" />
           <Language key="pt-BR" value="Ponte Hohenzollern, Alemanha" />
+          <Language key="ja-JP" value="ドイツ ホーエンツォレルン橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Golden Gate Bridge, USA" />
           <Language key="es-ES" value="Puente Golden Gate, EE. UU." />
           <Language key="pt-BR" value="Golden Gate Bridge, EUA" />
+          <Language key="ja-JP" value="米国 ゴールデンゲートブリッジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

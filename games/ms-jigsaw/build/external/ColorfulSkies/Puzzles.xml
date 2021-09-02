@@ -1,0 +1,334 @@
+<Puzzles>
+  <Groups packId="ColorfulSkiesPack">
+    <Group id="ColorfulSkies" title="Colorful Skies" sentientId="373" revision="1" packImage="1038706831_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Cieux colorés" />
+        <Language key="it-IT" value="Cieli colorati" />
+        <Language key="de-DE" value="Farbenfrohe Himmel" />
+        <Language key="es-ES" value="Cielos coloridos" />
+        <Language key="pt-BR" value="Céus Coloridos" />
+        <Language key="ja-JP" value="カラフルな空" />
+      </GroupLocalization>
+      <Puzzle id="1038706831" title="Peaceful River" image="1038706831.jpg" smallImage="1038706831_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rivière paisible" />
+          <Language key="it-IT" value="Fiume tranquillo" />
+          <Language key="de-DE" value="Friedlicher Fluss" />
+          <Language key="es-ES" value="Río tranquilo" />
+          <Language key="pt-BR" value="Rio Pacífico" />
+          <Language key="ja-JP" value="穏やかな川" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1217588020" title="Double Arch" image="1217588020.jpg" smallImage="1217588020_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Double arche" />
+          <Language key="it-IT" value="Doppio arco" />
+          <Language key="de-DE" value="Sterne und Stein" />
+          <Language key="es-ES" value="Arco doble" />
+          <Language key="pt-BR" value="Arco Duplo" />
+          <Language key="ja-JP" value="ダブル アーチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1021223902" title="Lofoten Islands" image="1021223902.jpg" smallImage="1021223902_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Îles Lofoten" />
+          <Language key="it-IT" value="Isole Lofoten" />
+          <Language key="de-DE" value="Die Lofoten" />
+          <Language key="es-ES" value="Islas Lofoten" />
+          <Language key="pt-BR" value="Ilhas Lofoten" />
+          <Language key="ja-JP" value="ロフォーテン諸島" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="796014109" title="Ukrainian Sunrise" image="796014109.jpg" smallImage="796014109_preview.jpg" unlockingPuzzleIds="1038706831,1217588020,1021223902">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lever de soleil ukrainien" />
+          <Language key="it-IT" value="Alba ucraina" />
+          <Language key="de-DE" value="Ukrainischer Sonnenaufgang" />
+          <Language key="es-ES" value="Amanecer ucraniano" />
+          <Language key="pt-BR" value="Nascer do Sol na Ucrânia" />
+          <Language key="ja-JP" value="ウクライナの日の出" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="720033130" title="Tucson, Arizona" image="720033130.jpg" smallImage="720033130_preview.jpg" unlockingPuzzleIds="796014109">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tucson, Arizona" />
+          <Language key="it-IT" value="Tucson, Arizona" />
+          <Language key="de-DE" value="Tucson, Arizona" />
+          <Language key="es-ES" value="Tucson, Arizona" />
+          <Language key="pt-BR" value="Tucson, Arizona" />
+          <Language key="ja-JP" value="ツーソン (アリゾナ州)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="281493026" title="Storm over Beirut" image="281493026.jpg" smallImage="281493026_preview.jpg" unlockingPuzzleIds="720033130">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tempête au-dessus de Beyrouth" />
+          <Language key="it-IT" value="Tempesta su Beirut" />
+          <Language key="de-DE" value="Sturm über Beirut" />
+          <Language key="es-ES" value="Tormenta sobre Beirut" />
+          <Language key="pt-BR" value="Tempestade em Beirute" />
+          <Language key="ja-JP" value="ベイルートの嵐" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="539361220" title="Sun and Rain" image="539361220.jpg" smallImage="539361220_preview.jpg" unlockingPuzzleIds="281493026">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Soleil et pluie" />
+          <Language key="it-IT" value="Pioggia con il sole" />
+          <Language key="de-DE" value="Sonne und Regen" />
+          <Language key="es-ES" value="Sol y lluvia" />
+          <Language key="pt-BR" value="Sol e Chuva" />
+          <Language key="ja-JP" value="太陽と雨" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1082085389" title="Camelback Mountain" image="1082085389.jpg" smallImage="1082085389_preview.jpg" unlockingPuzzleIds="539361220">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Camelback Mountain" />
+          <Language key="it-IT" value="Monte Camelback" />
+          <Language key="de-DE" value="Camelback Mountain" />
+          <Language key="es-ES" value="Montaña Camelback" />
+          <Language key="pt-BR" value="Montanha Camelback" />
+          <Language key="ja-JP" value="キャメルバック マウンテン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="664923949" title="Myrland Nights" image="664923949.jpg" smallImage="664923949_preview.jpg" unlockingPuzzleIds="1082085389">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Nuits à Myrland" />
+          <Language key="it-IT" value="Notti di Myrland" />
+          <Language key="de-DE" value="Nordlichter in Myrland" />
+          <Language key="es-ES" value="Noches de Myrland" />
+          <Language key="pt-BR" value="Noites em Myrland" />
+          <Language key="ja-JP" value="ミランドの夜" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="654424525" title="Lake Vacation" image="654424525.jpg" smallImage="654424525_preview.jpg" unlockingPuzzleIds="664923949">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vacances au lac" />
+          <Language key="it-IT" value="Vacanza sul lago" />
+          <Language key="de-DE" value="Urlaub am See" />
+          <Language key="es-ES" value="Vacaciones en el lago" />
+          <Language key="pt-BR" value="Férias no Lago" />
+          <Language key="ja-JP" value="湖の休日" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="200853905" title="Ternopil, Ukraine" image="200853905.jpg" smallImage="200853905_preview.jpg" unlockingPuzzleIds="654424525">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ternopil, Ukraine" />
+          <Language key="it-IT" value="Ternopil, Ucraina" />
+          <Language key="de-DE" value="Ternopil, Ukraine" />
+          <Language key="es-ES" value="Ternopil, Ucrania" />
+          <Language key="pt-BR" value="Ternopil, Ucrânia" />
+          <Language key="ja-JP" value="テルノーピリ (ウクライナ)" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="778898581" title="Tempest" image="778898581.jpg" smallImage="778898581_preview.jpg" unlockingPuzzleIds="200853905">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tempête" />
+          <Language key="it-IT" value="Tempesta" />
+          <Language key="de-DE" value="Blitzschlag" />
+          <Language key="es-ES" value="Tempestad" />
+          <Language key="pt-BR" value="Tempestade" />
+          <Language key="ja-JP" value="テンペスト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1529329994" title="Quiet Day" image="1529329994.jpg" smallImage="1529329994_preview.jpg" unlockingPuzzleIds="778898581">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Journée tranquille" />
+          <Language key="it-IT" value="Giornata tranquilla" />
+          <Language key="de-DE" value="Ruhiger Tag" />
+          <Language key="es-ES" value="Día tranquilo" />
+          <Language key="pt-BR" value="Dia Calmo" />
+          <Language key="ja-JP" value="静かな日" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="288545615" title="Gosaikunda Lake" image="288545615.jpg" smallImage="288545615_preview.jpg" unlockingPuzzleIds="1529329994">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac de Gosaikund" />
+          <Language key="it-IT" value="Lago Gosaikunda" />
+          <Language key="de-DE" value="Gosainkunda" />
+          <Language key="es-ES" value="Lago Gosaikunda" />
+          <Language key="pt-BR" value="Lago Gosaikunda" />
+          <Language key="ja-JP" value="ゴサイクンダ湖" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="225664120" title="Delicate Arch" image="225664120.jpg" smallImage="225664120_preview.jpg" unlockingPuzzleIds="288545615">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Arche délicate" />
+          <Language key="it-IT" value="Arco Delicato" />
+          <Language key="de-DE" value="Steinbogen" />
+          <Language key="es-ES" value="Arco delicado" />
+          <Language key="pt-BR" value="Arco Delicado" />
+          <Language key="ja-JP" value="デリケート アーチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="241717330" title="Jokulsarlon Lagoon" image="241717330.jpg" smallImage="241717330_preview.jpg" unlockingPuzzleIds="225664120">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lagune de Jokulsarlon" />
+          <Language key="it-IT" value="Laguna di Jokulsarlon" />
+          <Language key="de-DE" value="Gletscherflusslagune" />
+          <Language key="es-ES" value="Laguna Jökulsárlón" />
+          <Language key="pt-BR" value="Lagoa Jokulsarlon" />
+          <Language key="ja-JP" value="ヨークルサルロン湖" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="91163159" title="End of the Day" image="91163159.jpg" smallImage="91163159_preview.jpg" unlockingPuzzleIds="241717330">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fin de la journée" />
+          <Language key="it-IT" value="Fine del giorno" />
+          <Language key="de-DE" value="Ein Tag endet" />
+          <Language key="es-ES" value="Final del día" />
+          <Language key="pt-BR" value="Fim do Dia" />
+          <Language key="ja-JP" value="一日の終わり" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1029714697" title="Milky Way" image="1029714697.jpg" smallImage="1029714697_preview.jpg" unlockingPuzzleIds="91163159">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Voie lactée" />
+          <Language key="it-IT" value="Via Lattea" />
+          <Language key="de-DE" value="Milchstraße" />
+          <Language key="es-ES" value="Vía Láctea" />
+          <Language key="pt-BR" value="Via Láctea" />
+          <Language key="ja-JP" value="天の川" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="281958416" title="Carribean Sunset" image="281958416.jpg" smallImage="281958416_preview.jpg" unlockingPuzzleIds="1029714697">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Coucher du soleil caribéen" />
+          <Language key="it-IT" value="Tramonto ai Caraibi" />
+          <Language key="de-DE" value="Karibischer Sonnenuntergang" />
+          <Language key="es-ES" value="Atardecer caribeño" />
+          <Language key="pt-BR" value="Pôr do Sol no Caribe" />
+          <Language key="ja-JP" value="カリビアンの夕暮れ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1634989018" title="Shores of Sevastopol" image="1634989018.jpg" smallImage="1634989018_preview.jpg" unlockingPuzzleIds="281958416">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rivages de Sébastopol" />
+          <Language key="it-IT" value="Baie di Sebastopoli" />
+          <Language key="de-DE" value="Ufer von Sewastopol" />
+          <Language key="es-ES" value="Costas de Sebastopol" />
+          <Language key="pt-BR" value="Costa de Sevastopol" />
+          <Language key="ja-JP" value="セヴァストポリの海岸" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

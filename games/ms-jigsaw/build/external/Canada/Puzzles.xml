@@ -1,6 +1,6 @@
-<Puzzles>
+﻿<Puzzles>
   <Groups packId="CanadaPack">
-    <Group id="Canada" title="Canada" sentientId="0" revision="3" packImage="1482R-3013_preview.jpg">
+    <Group id="Canada" title="Canada" sentientId="317" revision="1" packImage="1482R-3013_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Canada" />
         <Language key="it-IT" value="Canada" />
@@ -203,12 +203,12 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1672R-45877" title="Oxtongue River" image="1672R-45877.jpg" smallImage="1672R-45877_preview.jpg" unlockingPuzzleIds="4428R-11630">
+      <Puzzle id="1672R-45877" title="Oxtounge River" image="1672R-45877.jpg" smallImage="1672R-45877_preview.jpg" unlockingPuzzleIds="4428R-11630">
         <PuzzleLocalization>
           <Language key="fr-FR" value="L'Oxtongue" />
           <Language key="it-IT" value="Oxtongue River" />
           <Language key="de-DE" value="Oxtongue River" />
-          <Language key="es-ES" value="Río Oxtongue" />
+          <Language key="es-ES" value="Río Oxtounge" />
           <Language key="pt-BR" value="Rio Oxtongue" />
         </PuzzleLocalization>
         <Difficulty>

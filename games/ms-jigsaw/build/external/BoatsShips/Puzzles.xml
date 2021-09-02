@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="BoatsShipsPack">
-    <Group id="BoatsShips" title="Boats &amp; Ships" sentientId="207" revision="9" packImage="1436R-449851_preview.jpg">
+    <Group id="BoatsShips" title="Boats &amp; Ships" sentientId="207" revision="1" packImage="1436R-449851_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Barques et bateaux" />
         <Language key="it-IT" value="Barche e navi" />
         <Language key="de-DE" value="Boote und Schiffe" />
         <Language key="es-ES" value="Embarcaciones" />
         <Language key="pt-BR" value="Barcos e navios" />
+        <Language key="ja-JP" value="船" />
       </GroupLocalization>
-      <Puzzle id="1436R-449851" title="Yacht Sailing along Akamas Peninsula" image="1436R-449851.jpg" smallImage="1436R-449851_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1436R-449851" title="Yacht Sailing Along Akamas Peninsula" image="1436R-449851.jpg" smallImage="1436R-449851_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Yacht voguant sur la péninsule d'Akamas" />
           <Language key="it-IT" value="Yacht nella penisola di Akamas" />
           <Language key="de-DE" value="Yacht an der Akamas-Halbinsel" />
           <Language key="es-ES" value="Yate costeando la península de Akamas" />
           <Language key="pt-BR" value="Iate velejando na Península de Akamas" />
+          <Language key="ja-JP" value="アカマス半島沿岸を航行するヨット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -23,13 +25,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-26823" title="Boats in Lake Daigenta" image="1802R-26823.jpg" smallImage="1802R-26823_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1802R-26823" title="Boats In Lake Daigenta" image="1802R-26823.jpg" smallImage="1802R-26823_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bateaux sur le lac Daigenta" />
           <Language key="it-IT" value="Barche sul lago Daigenta" />
           <Language key="de-DE" value="Boote im Daigenta-See" />
           <Language key="es-ES" value="Barcas en el lago Daigenta" />
           <Language key="pt-BR" value="Barcos no Lago Daigenta" />
+          <Language key="ja-JP" value="大源太湖のボート" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -38,13 +41,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-519875" title="Fishing Boat on the Lake Almotjonna" image="1848R-519875.jpg" smallImage="1848R-519875_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1848R-519875" title="Fishing Boat On The Lake Almotjonna" image="1848R-519875.jpg" smallImage="1848R-519875_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bateau de pêche sur le lac Almotjonna" />
           <Language key="it-IT" value="Peschereccio sul lago Almotjonna" />
           <Language key="de-DE" value="Fischerboot auf dem Almotjonna-See" />
           <Language key="es-ES" value="Barca de pesca en el lago Almotjonna" />
           <Language key="pt-BR" value="Barco de pesca no Lago Almotjonna" />
+          <Language key="ja-JP" value="湖の釣り船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Segelyacht" />
           <Language key="es-ES" value="Velero" />
           <Language key="pt-BR" value="Iate à vela" />
+          <Language key="ja-JP" value="帆走するヨット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Yacht-Detail" />
           <Language key="es-ES" value="Aparejo de velero" />
           <Language key="pt-BR" value="Equipamento de iate" />
+          <Language key="ja-JP" value="ヨットの装備" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-299012" title="Merchant Boat on the Mekong River" image="1848R-299012.jpg" smallImage="1848R-299012_preview.jpg" unlockingPuzzleIds="4029R-252808">
+      <Puzzle id="1848R-299012" title="Merchant Boat On The Mekong River" image="1848R-299012.jpg" smallImage="1848R-299012_preview.jpg" unlockingPuzzleIds="4029R-252808">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Navire marchand sur le Mékong" />
           <Language key="it-IT" value="Nave mercantile sul fiume Mekong" />
           <Language key="de-DE" value="Händlerschiff auf dem Mekong" />
           <Language key="es-ES" value="Barco mercante en el río Mekong" />
           <Language key="pt-BR" value="Barco mercador no Rio Mekong" />
+          <Language key="ja-JP" value="メコン川の商船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -98,13 +105,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1647R-40810" title="Docked Freighter along Wharf" image="1647R-40810.jpg" smallImage="1647R-40810_preview.jpg" unlockingPuzzleIds="1848R-299012">
+      <Puzzle id="1647R-40810" title="Docked Freighter Along Wharf" image="1647R-40810.jpg" smallImage="1647R-40810_preview.jpg" unlockingPuzzleIds="1848R-299012">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Cargo à quai" />
           <Language key="it-IT" value="Trasportatore ormeggiato in porto" />
           <Language key="de-DE" value="Am Kai angedockter Frachter" />
           <Language key="es-ES" value="Carguero atracado en el muelle" />
           <Language key="pt-BR" value="Navio cargueiro atracado" />
+          <Language key="ja-JP" value="埠頭に停泊する貨物船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -113,13 +121,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-399076" title="Port of Rethymno, Crete" image="1848R-399076.jpg" smallImage="1848R-399076_preview.jpg" unlockingPuzzleIds="1647R-40810">
+      <Puzzle id="1848R-399076" title="Port Of Rethymno, Crete" image="1848R-399076.jpg" smallImage="1848R-399076_preview.jpg" unlockingPuzzleIds="1647R-40810">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Port de Réthymnon, Crète" />
           <Language key="it-IT" value="Porto di Rethymno, Creta" />
           <Language key="de-DE" value="Hafen von Rethymno, Kreta" />
           <Language key="es-ES" value="Puerto de Rétino, Creta" />
           <Language key="pt-BR" value="Porto de Retimno, Creta" />
+          <Language key="ja-JP" value="クレタ島 レシムノン港" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -128,13 +137,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1663R-30450" title="Life Belt on a Boat" image="1663R-30450.jpg" smallImage="1663R-30450_preview.jpg" unlockingPuzzleIds="1848R-399076">
+      <Puzzle id="1663R-30450" title="Life Belt On A Boat" image="1663R-30450.jpg" smallImage="1663R-30450_preview.jpg" unlockingPuzzleIds="1848R-399076">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bouée de sauvetage sur un bateau" />
           <Language key="it-IT" value="Salvagente su una nave" />
           <Language key="de-DE" value="Rettungsring auf Boot" />
           <Language key="es-ES" value="Salvavidas de un barco" />
           <Language key="pt-BR" value="Boia salva-vidas de um barco" />
+          <Language key="ja-JP" value="船の救命具" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Luxusyacht" />
           <Language key="es-ES" value="Yate de lujo" />
           <Language key="pt-BR" value="Iate de luxo" />
+          <Language key="ja-JP" value="豪華クルーザー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

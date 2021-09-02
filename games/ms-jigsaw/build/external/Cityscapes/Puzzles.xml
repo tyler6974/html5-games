@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="CityscapesPack">
-    <Group id="Cityscapes" title="Cityscapes" sentientId="213" revision="8" packImage="110814934_preview.jpg">
+    <Group id="Cityscapes" title="Cityscapes" sentientId="213" revision="1" packImage="110814934_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Paysages urbains" />
         <Language key="it-IT" value="Paesaggi urbani" />

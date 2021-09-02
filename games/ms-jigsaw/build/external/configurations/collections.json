@@ -1,6 +1,6 @@
 {
   "packId":"Defaults",
-  "puzzlesCount": 2264,
+  "puzzlesCount": 2284,
   "packs":
   [
     {
@@ -1866,6 +1866,21 @@
         {"key":"es-ES", "value": "Escaladores"},
         {"key":"pt-BR", "value": "Botas de Alpinismo"},
         {"key":"ja-JP", "value": "クライマー"}
+      ]
+    },
+    {
+      "id": "AncientRuins",
+      "packImage": "389136313_preview.jpg",
+	  "newTagExpiration": "12.10.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Ancient Ruins"},
+        {"key":"fr-FR", "value": "Ruines antiques"},
+        {"key":"it-IT", "value": "Antiche rovine"},
+        {"key":"de-DE", "value": "Uralte Ruinen"},
+        {"key":"es-ES", "value": "Ruinas antiguas"},
+        {"key":"pt-BR", "value": "Ruínas Antigas"},
+        {"key":"ja-JP", "value": "古代遺跡"}
       ]
     }
   ]

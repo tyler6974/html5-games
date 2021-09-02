@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="AustraliaPack">
-    <Group id="Australia" title="Australia" sentientId="203" revision="10" packImage="1439R-1101274_preview.jpg">
+    <Group id="Australia" title="Australia" sentientId="203" revision="1" packImage="1439R-1101274_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Australie" />
         <Language key="it-IT" value="Australia" />
         <Language key="de-DE" value="Australien" />
         <Language key="es-ES" value="Australia" />
         <Language key="pt-BR" value="Austrália" />
+        <Language key="ja-JP" value="オーストラリア" />
       </GroupLocalization>
       <Puzzle id="1439R-1101274" title="Sydney Opera House" image="1439R-1101274.jpg" smallImage="1439R-1101274_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Sydney Opera House" />
           <Language key="es-ES" value="Casa de la Ópera de Sídney" />
           <Language key="pt-BR" value="Ópera de Sydney" />
+          <Language key="ja-JP" value="シドニーオペラハウス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Dales Gorge, Karijini-Nationalpark" />
           <Language key="es-ES" value="Garganta de Dales, PN. Karijini" />
           <Language key="pt-BR" value="Dales Gorge, Parque Nacional de Karijini" />
+          <Language key="ja-JP" value="カリジニ国立公園 デールズゴージ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Pinnacles Desert" />
           <Language key="es-ES" value="Desierto de los Pináculos" />
           <Language key="pt-BR" value="Deserto dos Pináculos" />
+          <Language key="ja-JP" value="ピナクル砂漠" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Sydney-Stadtansicht" />
           <Language key="es-ES" value="Vista de Sídney" />
           <Language key="pt-BR" value="Vista de Sydney" />
+          <Language key="ja-JP" value="シドニー景観" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Straßenschild" />
           <Language key="es-ES" value="Señal de tráfico" />
           <Language key="pt-BR" value="Placa de estrada" />
+          <Language key="ja-JP" value="道路標識" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10072167" title="Boats on the Shore of Gordon's Bay" image="1598R-10072167.jpg" smallImage="1598R-10072167_preview.jpg" unlockingPuzzleIds="1598R-10086749">
+      <Puzzle id="1598R-10072167" title="Boats On The Shore Of Gordon's Bay" image="1598R-10072167.jpg" smallImage="1598R-10072167_preview.jpg" unlockingPuzzleIds="1598R-10086749">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bateaux sur la rive de Gordon's Bay" />
           <Language key="it-IT" value="Barche sulla riva di Gordon's Bay" />
           <Language key="de-DE" value="Boote am Ufer der Gordon's Bay" />
           <Language key="es-ES" value="Barcas en la playa de la bahía de Gordon" />
           <Language key="pt-BR" value="Barcos às margens de Gordon's Bay" />
+          <Language key="ja-JP" value="ゴードン湾の岸の小舟" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Freycinet-Nationalpark, Tasmanien" />
           <Language key="es-ES" value="Parque Nacional de Freycinet, Tasmania" />
           <Language key="pt-BR" value="Parque Nacional de Freycinet, Tasmânia" />
+          <Language key="ja-JP" value="タスマニア フレシネ国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Evercreech Rivulet, Tasmanien" />
           <Language key="es-ES" value="Arroyo Evercreech, Tasmania" />
           <Language key="pt-BR" value="Evercreech Rivulet, Tasmânia" />
+          <Language key="ja-JP" value="タスマニア エバークリーチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -128,13 +137,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-41732" title="Beach at Freycinet National Park" image="1828R-41732.jpg" smallImage="1828R-41732_preview.jpg" unlockingPuzzleIds="1828R-10058">
+      <Puzzle id="1828R-41732" title="Beach At Freycinet National Park" image="1828R-41732.jpg" smallImage="1828R-41732_preview.jpg" unlockingPuzzleIds="1828R-10058">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Plage du parc national Freycinet" />
           <Language key="it-IT" value="Parco nazionale di Freycinet, spiaggia" />
           <Language key="de-DE" value="Strand im Freycinet-Nationalpark" />
           <Language key="es-ES" value="Playa del Parque de Freycinet, Tasmania" />
           <Language key="pt-BR" value="Praia no Parque Nacional de Freycinet" />
+          <Language key="ja-JP" value="フレシネ国立公園の浜" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Noosa Heads, Queensland" />
           <Language key="es-ES" value="Noosa Heads, Queensland" />
           <Language key="pt-BR" value="Noosa Heads, Queensland" />
+          <Language key="ja-JP" value="クイーンズランド ヌーサヘッズ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -158,13 +169,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-64515" title="Sand Dunes in Australia" image="1828R-64515.jpg" smallImage="1828R-64515_preview.jpg" unlockingPuzzleIds="1778R-23689">
+      <Puzzle id="1828R-64515" title="Sand Dunes In Australia" image="1828R-64515.jpg" smallImage="1828R-64515_preview.jpg" unlockingPuzzleIds="1778R-23689">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Dunes de sable en Australie" />
           <Language key="it-IT" value="Dune di sabbia in Australia" />
           <Language key="de-DE" value="Sanddünen in Australien" />
           <Language key="es-ES" value="Dunas de arena en Australia" />
           <Language key="pt-BR" value="Dunas de areia na Austrália" />
+          <Language key="ja-JP" value="オーストラリアの砂丘" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Hughenden, Queensland" />
           <Language key="es-ES" value="Hughenden, Queensland" />
           <Language key="pt-BR" value="Hughenden, Queensland" />
+          <Language key="ja-JP" value="クイーンズランド ヒューエンデン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Telescope Compact Array" />
           <Language key="es-ES" value="Telescope Compact Array" />
           <Language key="pt-BR" value="Telescope Compact Array" />
+          <Language key="ja-JP" value="コンパクト電波干渉計" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -203,13 +217,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-304403" title="Maria Island National Park, Tasmania" image="1848R-304403.jpg" smallImage="1848R-304403_preview.jpg" unlockingPuzzleIds="4094R-34461">
+      <Puzzle id="1848R-304403" title="Maria Island Nationalpark, Tasmania" image="1848R-304403.jpg" smallImage="1848R-304403_preview.jpg" unlockingPuzzleIds="4094R-34461">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Parc national de Maria Island, Tasmanie" />
           <Language key="it-IT" value="Parco nazionale Maria Island, Tasmania" />
           <Language key="de-DE" value="Maria-Island-Nationalpark, Tasmanien" />
           <Language key="es-ES" value="Parque Nacional Isla María, Tasmania" />
           <Language key="pt-BR" value="Parque Nacional de Ilha Maria, Tasmânia" />
+          <Language key="ja-JP" value="タスマニア マリア島国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Windmühle, Queensland" />
           <Language key="es-ES" value="Molino de viento, Queensland" />
           <Language key="pt-BR" value="Moinho, Queensland" />
+          <Language key="ja-JP" value="クイーンズランド 風車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Sydney Opera House" />
           <Language key="es-ES" value="Casa de la Ópera de Sídney" />
           <Language key="pt-BR" value="Ópera de Sydney" />
+          <Language key="ja-JP" value="シドニーオペラハウス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -248,13 +265,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4411R-9747" title="Wooden Boat in Harbor" image="4411R-9747.jpg" smallImage="4411R-9747_preview.jpg" unlockingPuzzleIds="1397R-75134">
+      <Puzzle id="4411R-9747" title="Wooden Boat In Harbor" image="4411R-9747.jpg" smallImage="4411R-9747_preview.jpg" unlockingPuzzleIds="1397R-75134">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bateau en bois au port" />
           <Language key="it-IT" value="Barca ormeggiata" />
           <Language key="de-DE" value="Holzschiff im Hafen" />
           <Language key="es-ES" value="Barco de madera en el puerto" />
           <Language key="pt-BR" value="Barco de madeira no porto" />
+          <Language key="ja-JP" value="港の木造船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Pinnacles Desert" />
           <Language key="es-ES" value="Desierto de los Pináculos" />
           <Language key="pt-BR" value="Deserto dos Pináculos" />
+          <Language key="ja-JP" value="ピナクル砂漠" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Sydney Harbour Bridge" />
           <Language key="es-ES" value="Puente del puerto de Sídney" />
           <Language key="pt-BR" value="Ponte da Baía de Sydney" />
+          <Language key="ja-JP" value="シドニーハーバーブリッジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Zwei Lastzüge" />
           <Language key="es-ES" value="Dos trenes de carretera" />
           <Language key="pt-BR" value="Dois rodotrens" />
+          <Language key="ja-JP" value="2 台の連結トレーラー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Koala" />
           <Language key="es-ES" value="Koala" />
           <Language key="pt-BR" value="Coala" />
+          <Language key="ja-JP" value="コアラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

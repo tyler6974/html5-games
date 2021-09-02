@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="ActionPack">
-    <Group id="Action" title="Action" sentientId="294" revision="2" packImage="1527R-611006_preview.jpg">
+    <Group id="Action" title="Action" sentientId="294" revision="1" packImage="1527R-611006_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Action" />
         <Language key="it-IT" value="Azioni" />

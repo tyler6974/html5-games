@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="AntarcticaPack">
-    <Group id="Antarctica" title="Antarctica" sentientId="201" revision="8" packImage="1482R-1550_preview.jpg">
+    <Group id="Antarctica" title="Antarctica" sentientId="201" revision="1" packImage="1482R-1550_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Antarctique" />
         <Language key="it-IT" value="Antartide" />
         <Language key="de-DE" value="Antarktis" />
         <Language key="es-ES" value="Antártida" />
         <Language key="pt-BR" value="Antártida" />
+        <Language key="ja-JP" value="南極" />
       </GroupLocalization>
       <Puzzle id="1482R-1550" title="South Sandwich Islands" image="1482R-1550.jpg" smallImage="1482R-1550_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Südliche Sandwich-Inseln" />
           <Language key="es-ES" value="Islas Sandwich del Sur" />
           <Language key="pt-BR" value="Ilhas Sandwich do Sul" />
+          <Language key="ja-JP" value="サウスサンドイッチ諸島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Rongé Island" />
           <Language key="es-ES" value="Isla de Rongé" />
           <Language key="pt-BR" value="Ilha Rongé" />
+          <Language key="ja-JP" value="ロンジェ島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Königspinguinkolonie" />
           <Language key="es-ES" value="Colonia de pingüinos rey" />
           <Language key="pt-BR" value="Colônia dos Pinguins Rei" />
+          <Language key="ja-JP" value="キングペンギンの群れ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Packeis" />
           <Language key="es-ES" value="Hielo a la deriva" />
           <Language key="pt-BR" value="Blocos de gelo" />
+          <Language key="ja-JP" value="流氷" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Drakestraße" />
           <Language key="es-ES" value="Paso de Drake" />
           <Language key="pt-BR" value="Passagem de Drake" />
+          <Language key="ja-JP" value="ドレーク海峡" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Half Moon Island" />
           <Language key="es-ES" value="Isla Media Luna" />
           <Language key="pt-BR" value="Ilha de Half Moon" />
+          <Language key="ja-JP" value="ハーフムーン島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Königspinguin" />
           <Language key="es-ES" value="Pingüino rey" />
           <Language key="pt-BR" value="Pinguim-rei" />
+          <Language key="ja-JP" value="キングペンギン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Eisbrecher" />
           <Language key="es-ES" value="Buque rompehielos" />
           <Language key="pt-BR" value="Navio quebra-gelo" />
+          <Language key="ja-JP" value="砕氷船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Whalers Bay, Antarktis" />
           <Language key="es-ES" value="Caleta Balleneros, Antártida" />
           <Language key="pt-BR" value="Whalers Bay, Antártida" />
+          <Language key="ja-JP" value="南極 ホエーラーズ湾" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Kaiserpinguine" />
           <Language key="es-ES" value="Pingüinos emperador" />
           <Language key="pt-BR" value="Pinguins-imperadores" />
+          <Language key="ja-JP" value="コウテイペンギン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Eselspinguine" />
           <Language key="es-ES" value="Pingüinos juanito" />
           <Language key="pt-BR" value="Pinguins-gentoo" />
+          <Language key="ja-JP" value="ジェンツーペンギン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Antarktischer Seebär mit Jungtieren" />
           <Language key="es-ES" value="León marino antártico con cachorros" />
           <Language key="pt-BR" value="Lobo-marinho-antártico com filhotes" />
+          <Language key="ja-JP" value="ナンキョクオットセイの親子" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -188,13 +201,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-40161" title="Cargo Ship in McMurdo Sound" image="1828R-40161.jpg" smallImage="1828R-40161_preview.jpg" unlockingPuzzleIds="1815R-77800">
+      <Puzzle id="1828R-40161" title="Cargo Ship In McMurdo Sound" image="1828R-40161.jpg" smallImage="1828R-40161_preview.jpg" unlockingPuzzleIds="1815R-77800">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Cargo dans le détroit de McMurdo" />
           <Language key="it-IT" value="Nave da carico nel canale McMurdo" />
           <Language key="de-DE" value="Frachter im McMurdo-Sund" />
           <Language key="es-ES" value="Carguero en el estrecho de McMurdo" />
           <Language key="pt-BR" value="Navio cargueiro no Estreito de McMurdo" />
+          <Language key="ja-JP" value="マクマード湾の貨物船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -203,13 +217,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-273561" title="Ship in Paradise Bay" image="1436R-273561.jpg" smallImage="1436R-273561_preview.jpg" unlockingPuzzleIds="1828R-40161">
+      <Puzzle id="1436R-273561" title="Ship In Paradise Bay" image="1436R-273561.jpg" smallImage="1436R-273561_preview.jpg" unlockingPuzzleIds="1828R-40161">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bateau dans Paradise Bay" />
           <Language key="it-IT" value="Nave a Paradise Bay" />
           <Language key="de-DE" value="Schiff in der Paradise Bay" />
           <Language key="es-ES" value="Barco en la bahía Paraíso" />
           <Language key="pt-BR" value="Navio em Paradise Bay" />
+          <Language key="ja-JP" value="パラダイス湾の船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Eisberg" />
           <Language key="es-ES" value="Iceberg" />
           <Language key="pt-BR" value="Iceberg" />
+          <Language key="ja-JP" value="氷山" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Eissturmvogel" />
           <Language key="es-ES" value="Fulmar" />
           <Language key="pt-BR" value="Fulmar" />
+          <Language key="ja-JP" value="フルマカモメ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

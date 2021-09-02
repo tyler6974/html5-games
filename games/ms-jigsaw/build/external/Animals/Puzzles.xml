@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="AnimalsPack">
-    <Group id="Animals" title="Animals" sentientId="275" revision="4" packImage="1041AS-00001_preview.jpg">
+    <Group id="Animals" title="Animals" sentientId="275" revision="1" packImage="1041AS-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Animaux" />
         <Language key="it-IT" value="Animali" />
@@ -368,7 +368,7 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1041AS-00025" title="Leopard Log" image="1041AS-00025.jpg" smallImage="1041AS-00025_preview.jpg" unlockingPuzzleIds="1041AS-00024">
+      <Puzzle id="1041AS-00025" title="Lepoard Log" image="1041AS-00025.jpg" smallImage="1041AS-00025_preview.jpg" unlockingPuzzleIds="1041AS-00024">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Léopard sur rondin" />
           <Language key="it-IT" value="Tronco del leopardo" />

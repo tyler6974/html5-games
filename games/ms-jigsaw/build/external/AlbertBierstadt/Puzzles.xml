@@ -1,6 +1,6 @@
-<Puzzles>
+﻿<Puzzles>
   <Groups packId="AlbertBierstadtPack">
-    <Group id="AlbertBierstadt" title="Albert Bierstadt" sentientId="270" revision="8" packImage="1031AB-00001_preview.jpg">
+    <Group id="AlbertBierstadt" title="Albert Bierstadt" sentientId="270" revision="1" packImage="1031AB-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Albert Bierstadt" />
         <Language key="it-IT" value="Albert Bierstadt" />

@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="BeautifulNaturePack">
-    <Group id="BeautifulNature" title="Beautiful Nature" sentientId="206" revision="9" packImage="1672R-57843_preview.jpg">
+    <Group id="BeautifulNature" title="Beautiful Nature" sentientId="206" revision="1" packImage="1672R-57843_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Merveilles naturelles" />
         <Language key="it-IT" value="Meraviglie della natura" />
         <Language key="de-DE" value="Schönheit der Natur" />
         <Language key="es-ES" value="Bellezas de la naturaleza" />
         <Language key="pt-BR" value="Natureza" />
+        <Language key="ja-JP" value="美しい自然" />
       </GroupLocalization>
       <Puzzle id="1672R-57843" title="Garden of the Gods, USA" image="1672R-57843.jpg" smallImage="1672R-57843_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Garden of the Gods, USA" />
           <Language key="es-ES" value="Jardín de los Dioses, EE. UU." />
           <Language key="pt-BR" value="Garden of the Gods, EUA" />
+          <Language key="ja-JP" value="アメリカ 神々の園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Nuorilang-Wasserfall, China" />
           <Language key="es-ES" value="Cascada de Nuorilang, China" />
           <Language key="pt-BR" value="Cachoeira de Nuorilang, China" />
+          <Language key="ja-JP" value="中国 諾日朗瀑布" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Blatt" />
           <Language key="es-ES" value="Hoja" />
           <Language key="pt-BR" value="Folha" />
+          <Language key="ja-JP" value="葉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Asperatus-Wolkenformation" />
           <Language key="es-ES" value="Nubes asperatus" />
           <Language key="pt-BR" value="Nuvens Asperatus" />
+          <Language key="ja-JP" value="アスペラトゥス波状雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Perito-Moreno-Gletscher, Argentinien" />
           <Language key="es-ES" value="Glaciar Perito Moreno, Argentina" />
           <Language key="pt-BR" value="Geleira Perito Moreno, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン ペリトモレノ氷河" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Altai-Gebirge, Sibirien" />
           <Language key="es-ES" value="Montes Altai, Siberia" />
           <Language key="pt-BR" value="Cordilheira de Altai, Sibéria" />
+          <Language key="ja-JP" value="シベリア アルタイ山脈" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Namib-Naukluft-Nationalpark" />
           <Language key="es-ES" value="PN. Namib-Naukluft, Namibia" />
           <Language key="pt-BR" value="Parque Nacional de Namib-Naukluft" />
+          <Language key="ja-JP" value="ナミブ ナウクルフト国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Antelope Canyon, USA" />
           <Language key="es-ES" value="Cañón del Antílope, EE. UU." />
           <Language key="pt-BR" value="Cânion Antelope, EUA" />
+          <Language key="ja-JP" value="アメリカ アンテロープキャニオン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Schwarzwald, Deutschland" />
           <Language key="es-ES" value="Selva Negra, Alemania" />
           <Language key="pt-BR" value="Floresta Negra, Alemanha" />
+          <Language key="ja-JP" value="ドイツ シュヴァルツヴァルト" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Death Valley, USA" />
           <Language key="es-ES" value="Valle de la Muerte, EE. UU." />
           <Language key="pt-BR" value="Vale da Morte, EUA" />
+          <Language key="ja-JP" value="アメリカ デスバレー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Sternentulpen" />
           <Language key="es-ES" value="Tulipanes estrellados" />
           <Language key="pt-BR" value="Tulipas abertas" />
+          <Language key="ja-JP" value="スターチューリップ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Zion-Nationalpark, USA" />
           <Language key="es-ES" value="Parque Nacional de Zion, EE. UU." />
           <Language key="pt-BR" value="Parque Nacional de Zion, EUA" />
+          <Language key="ja-JP" value="アメリカ ザイオン国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Erg Tihoulahoun, Algerien" />
           <Language key="es-ES" value="Erg Tihoulahoun, Argelia" />
           <Language key="pt-BR" value="Erg Tihoulahoun, Argélia" />
+          <Language key="ja-JP" value="アルジェリア 大砂丘" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Chichi-jima-Insel, Japan" />
           <Language key="es-ES" value="Isla Chichi-jima, Japón" />
           <Language key="pt-BR" value="Chichi-jima, Japão" />
+          <Language key="ja-JP" value="日本 父島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Joshua-Tree-Nationalpark, USA" />
           <Language key="es-ES" value="Parque Nacional Joshua Tree, EE. UU." />
           <Language key="pt-BR" value="Parque Nacional de Joshua Tree, EUA" />
+          <Language key="ja-JP" value="米国 ジョシュアツリー国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Lady-Knox-Geysir, Neuseeland" />
           <Language key="es-ES" value="Géiser Lady Knox, Nueva Zelanda" />
           <Language key="pt-BR" value="Gêiser Lady Knox, Nova Zelândia" />
+          <Language key="ja-JP" value="NZ レディノックス間欠泉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Sannoh Rocks, Japan" />
           <Language key="es-ES" value="Rocas de Sannoh, Japón" />
           <Language key="pt-BR" value="Rochas de Sannoh, Japão" />
+          <Language key="ja-JP" value="日本 三王岩" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Bayou, Louisiana, USA" />
           <Language key="es-ES" value="Bayou, Luisiana, EE. UU." />
           <Language key="pt-BR" value="Bayou, Louisiana, EUA" />
+          <Language key="ja-JP" value="アメリカ ルイジアナ州 バイユー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Arches-Nationalpark, USA" />
           <Language key="es-ES" value="Parque Nacional de los Arcos, EE. UU." />
           <Language key="pt-BR" value="Parque Nacional dos Arcos, EUA" />
+          <Language key="ja-JP" value="アメリカ アーチーズ国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -293,13 +313,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-97701" title="Fallen Leaves with Frost" image="1802R-97701.jpg" smallImage="1802R-97701_preview.jpg" unlockingPuzzleIds="1778R-21965">
+      <Puzzle id="1802R-97701" title="Fallen Leaves With Frost" image="1802R-97701.jpg" smallImage="1802R-97701_preview.jpg" unlockingPuzzleIds="1778R-21965">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Feuilles mortes gelées" />
           <Language key="it-IT" value="Brina sul fogliame" />
           <Language key="de-DE" value="Reifbedecktes Laub" />
           <Language key="es-ES" value="Hojas caídas con escarcha" />
           <Language key="pt-BR" value="Folhas caídas com gelo" />
+          <Language key="ja-JP" value="霜のついた落ち葉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Sequoia-Nationalpark, USA" />
           <Language key="es-ES" value="Parque Nacional de las Secuoyas, EE. UU." />
           <Language key="pt-BR" value="Parque Nacional da Sequoia, EUA" />
+          <Language key="ja-JP" value="アメリカ セコイア国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Zwergmispel" />
           <Language key="es-ES" value="Cotoneaster" />
           <Language key="pt-BR" value="Cotoneáster" />
+          <Language key="ja-JP" value="コトネアスター" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Murnau" />
           <Language key="es-ES" value="Murnau" />
           <Language key="pt-BR" value="Murnau" />
+          <Language key="ja-JP" value="ムルナウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="Hirschkäfer" />
           <Language key="es-ES" value="Ciervo volador" />
           <Language key="pt-BR" value="Lucano" />
+          <Language key="ja-JP" value="クワガタムシ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Waimea Bay, Hawaii" />
           <Language key="es-ES" value="Bahía Waimea, Hawái" />
           <Language key="pt-BR" value="Waimea Bay, Havaí" />
+          <Language key="ja-JP" value="ハワイ ワイメア湾" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Mammutbäume, USA" />
           <Language key="es-ES" value="Redwoods, EE. UU." />
           <Language key="pt-BR" value="Sequoias, EUA" />
+          <Language key="ja-JP" value="アメリカ セコイアの林" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -405,6 +432,7 @@
           <Language key="de-DE" value="Hochkönig, Österreich" />
           <Language key="es-ES" value="Hochkönig, Austria" />
           <Language key="pt-BR" value="Hochkönig, Áustria" />
+          <Language key="ja-JP" value="オーストリア ホッホケーニッヒ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -420,6 +448,7 @@
           <Language key="de-DE" value="Seestern" />
           <Language key="es-ES" value="Estrella de mar" />
           <Language key="pt-BR" value="Estrela-do-mar" />
+          <Language key="ja-JP" value="ヒトデ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -435,6 +464,7 @@
           <Language key="de-DE" value="Wasserfall, Tschechische Republik" />
           <Language key="es-ES" value="Cascada, República Checa" />
           <Language key="pt-BR" value="Cachoeira, República Tcheca" />
+          <Language key="ja-JP" value="チェコ共和国 滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -443,13 +473,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1672R-16067" title="Forest of Bowland, England" image="1672R-16067.jpg" smallImage="1672R-16067_preview.jpg" unlockingPuzzleIds="1848R-299861">
+      <Puzzle id="1672R-16067" title="Forest Of Bowland, England" image="1672R-16067.jpg" smallImage="1672R-16067_preview.jpg" unlockingPuzzleIds="1848R-299861">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Forêt de Bowland, Angleterre" />
           <Language key="it-IT" value="Foresta di Bowland, Inghilterra" />
           <Language key="de-DE" value="Forest of Bowland, England" />
           <Language key="es-ES" value="Bosque de Bowland, Inglaterra" />
           <Language key="pt-BR" value="Floresta de Bowland, Inglaterra" />
+          <Language key="ja-JP" value="イギリス ボーランドの森" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -465,6 +496,7 @@
           <Language key="de-DE" value="Mexikanischer Achat" />
           <Language key="es-ES" value="Ágata mexicana" />
           <Language key="pt-BR" value="Ágata mexicana" />
+          <Language key="ja-JP" value="メキシコ産のメノウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -480,6 +512,7 @@
           <Language key="de-DE" value="Koloa, Hawaii" />
           <Language key="es-ES" value="Koloa, Hawaii" />
           <Language key="pt-BR" value="Koloa, Havaí" />
+          <Language key="ja-JP" value="ハワイ コロア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -495,6 +528,7 @@
           <Language key="de-DE" value="Lanzarote, Spanien" />
           <Language key="es-ES" value="Lanzarote, España" />
           <Language key="pt-BR" value="Lanzarote, Espanha" />
+          <Language key="ja-JP" value="スペイン ランサローテ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -510,6 +544,7 @@
           <Language key="de-DE" value="Fuji, Japan" />
           <Language key="es-ES" value="Fuji, Japón" />
           <Language key="pt-BR" value="Fuji, Japão" />
+          <Language key="ja-JP" value="日本 富士山" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -525,6 +560,7 @@
           <Language key="de-DE" value="Bryce-Canyon-Nationalpark, USA" />
           <Language key="es-ES" value="Parque Nacional del Cañón Bryce, EE. UU." />
           <Language key="pt-BR" value="Parque Nacional de Bryce Canyon, EUA" />
+          <Language key="ja-JP" value="米国 ブライスキャニオン国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -540,6 +576,7 @@
           <Language key="de-DE" value="Hanauma Bay, USA" />
           <Language key="es-ES" value="Bahía de Hanauma, EE. UU." />
           <Language key="pt-BR" value="Hanauma Bay, EUA" />
+          <Language key="ja-JP" value="アメリカ ハナウマ湾" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -555,6 +592,7 @@
           <Language key="de-DE" value="Papagei, Costa Rica" />
           <Language key="es-ES" value="Papagayo, Costa Rica" />
           <Language key="pt-BR" value="Arara, Costa Rica" />
+          <Language key="ja-JP" value="コスタリカ オウム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -563,13 +601,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1525R-205449" title="Altai Mountains with Snow, Siberia" image="1525R-205449.jpg" smallImage="1525R-205449_preview.jpg" unlockingPuzzleIds="1491R-1020737">
+      <Puzzle id="1525R-205449" title="Altai Mountains With Snow, Siberia" image="1525R-205449.jpg" smallImage="1525R-205449_preview.jpg" unlockingPuzzleIds="1491R-1020737">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Altaï enneigé, Sibérie" />
           <Language key="it-IT" value="Monti Altai innevati, Siberia" />
           <Language key="de-DE" value="Schneebedecktes Altai-Gebirge, Sibirien" />
           <Language key="es-ES" value="Montes Altai nevados, Siberia" />
           <Language key="pt-BR" value="Cordilheira de Altai com neve, Sibéria" />
+          <Language key="ja-JP" value="シベリア 雪のアルタイ山脈" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

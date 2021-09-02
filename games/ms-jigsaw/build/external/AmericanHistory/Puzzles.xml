@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="AmericanHistoryPack">
-    <Group id="AmericanHistory" title="American History" sentientId="274" revision="6" packImage="1031AH-00001_preview.jpg">
+    <Group id="AmericanHistory" title="American History" sentientId="274" revision="1" packImage="1031AH-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Histoire de l'Amérique" />
         <Language key="it-IT" value="Storia americana" />

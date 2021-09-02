@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="ArchitecturePack">
-    <Group id="Architecture" title="Architecture" sentientId="202" revision="11" packImage="1436R-348887_preview.jpg">
+    <Group id="Architecture" title="Acrhitecture" sentientId="202" revision="1" packImage="1436R-348887_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Architecture" />
         <Language key="it-IT" value="Architettura" />
         <Language key="de-DE" value="Architektur" />
         <Language key="es-ES" value="Arquitectura" />
         <Language key="pt-BR" value="Arquitetura" />
+        <Language key="ja-JP" value="建築" />
       </GroupLocalization>
       <Puzzle id="1436R-348887" title="All Saints Cathedral" image="1436R-348887.jpg" smallImage="1436R-348887_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="All Saints Cathedral" />
           <Language key="es-ES" value="Catedral de Todos los Santos" />
           <Language key="pt-BR" value="All Saints Cathedral" />
+          <Language key="ja-JP" value="オールセインツ大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Pittsburgh" />
           <Language key="es-ES" value="Pittsburgh" />
           <Language key="pt-BR" value="Pittsburgh" />
+          <Language key="ja-JP" value="ピッツバーグ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Arno und Ponte Vecchio" />
           <Language key="es-ES" value="Río Arno y Ponte Vecchio" />
           <Language key="pt-BR" value="Rio Arno e Ponte Vecchio" />
+          <Language key="ja-JP" value="アルノ川とヴェッキオ橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Börse in Brüssel" />
           <Language key="es-ES" value="Edificio de la Bolsa en Bruselas" />
           <Language key="pt-BR" value="Bolsa de Valores de Bruxelas" />
+          <Language key="ja-JP" value="ブリュッセル証券取引所" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Provinz Jiangsu" />
           <Language key="es-ES" value="Provincia de Jiangsu" />
           <Language key="pt-BR" value="Província de Jiangsu" />
+          <Language key="ja-JP" value="江蘇省" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4292R-149382" title="Museum of Arts and Traditions, Sevilla" image="4292R-149382.jpg" smallImage="4292R-149382_preview.jpg" unlockingPuzzleIds="1768R-14070">
+      <Puzzle id="4292R-149382" title="Museum Of Arts And Traditions, Sevilla" image="4292R-149382.jpg" smallImage="4292R-149382_preview.jpg" unlockingPuzzleIds="1768R-14070">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Musée des Arts et Traditions, Séville" />
           <Language key="it-IT" value="Museo delle arti e tradizioni, Siviglia" />
           <Language key="de-DE" value="Museum für volkstümliche Kunst, Sevilla" />
           <Language key="es-ES" value="Museo de Artes y Costumbres Populares, Sevilla" />
           <Language key="pt-BR" value="Museu de Artes e Tradições de Sevilha" />
+          <Language key="ja-JP" value="セビリア民俗博物館" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Chiang-Kai-shek-Gedächtnishalle" />
           <Language key="es-ES" value="Salón Conmemorativo de Chiang Kai-shek" />
           <Language key="pt-BR" value="Memorial de Chiang Kai-shek" />
+          <Language key="ja-JP" value="中正紀念堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Atlanta" />
           <Language key="es-ES" value="Atlanta" />
           <Language key="pt-BR" value="Atlanta" />
+          <Language key="ja-JP" value="アトランタ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Santorin" />
           <Language key="es-ES" value="Santorini" />
           <Language key="pt-BR" value="Santorini" />
+          <Language key="ja-JP" value="サントリーニ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Canale della Giudecca" />
           <Language key="es-ES" value="Canale della Giudecca" />
           <Language key="pt-BR" value="Canal de Giudecca" />
+          <Language key="ja-JP" value="ジュデッカ運河" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Markusdom" />
           <Language key="es-ES" value="Catedral de San Marcos" />
           <Language key="pt-BR" value="Basílica de São Marcos" />
+          <Language key="ja-JP" value="サンマルコ大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Markusdom" />
           <Language key="es-ES" value="Catedral de San Marcos" />
           <Language key="pt-BR" value="Basílica de São Marcos" />
+          <Language key="ja-JP" value="サンマルコ大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Florenz" />
           <Language key="es-ES" value="Florencia" />
           <Language key="pt-BR" value="Florença" />
+          <Language key="ja-JP" value="フィレンツェ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Kathedrale von Florenz" />
           <Language key="es-ES" value="Catedral de Florencia" />
           <Language key="pt-BR" value="Catedral de Florença" />
+          <Language key="ja-JP" value="サンタマリアデルフィオーレ大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -218,13 +233,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1657R-15394" title="Skyscrapers in Singapore" image="1657R-15394.jpg" smallImage="1657R-15394_preview.jpg" unlockingPuzzleIds="1647R-169814">
+      <Puzzle id="1657R-15394" title="Skyscrapers In Singapore" image="1657R-15394.jpg" smallImage="1657R-15394_preview.jpg" unlockingPuzzleIds="1647R-169814">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Gratte-ciels de Singapour" />
           <Language key="it-IT" value="Grattacieli a Singapore" />
           <Language key="de-DE" value="Wolkenkratzer in Singapur" />
           <Language key="es-ES" value="Rascacielos de Singapur" />
           <Language key="pt-BR" value="Arranha-céus em Cingapura" />
+          <Language key="ja-JP" value="シンガポールの摩天楼" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -233,13 +249,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-8304" title="Overpass and Underpass" image="1889R-8304.jpg" smallImage="1889R-8304_preview.jpg" unlockingPuzzleIds="1657R-15394">
+      <Puzzle id="1889R-8304" title="Overpass And Underpass" image="1889R-8304.jpg" smallImage="1889R-8304_preview.jpg" unlockingPuzzleIds="1657R-15394">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Échangeur routier" />
           <Language key="it-IT" value="Ponte e sottopasso" />
           <Language key="de-DE" value="Über- und Unterführung" />
           <Language key="es-ES" value="Paso elevado y paso inferior" />
           <Language key="pt-BR" value="Viaduto e Passagem Subterrânea" />
+          <Language key="ja-JP" value="立体交差道路" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Nakanoshima" />
           <Language key="es-ES" value="Nakanoshima" />
           <Language key="pt-BR" value="Nakanoshima" />
+          <Language key="ja-JP" value="中之島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -263,13 +281,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-270948" title="Thatched House, Korean Architecture" image="4029R-270948.jpg" smallImage="4029R-270948_preview.jpg" unlockingPuzzleIds="1802R-59287">
+      <Puzzle id="4029R-270948" title="Thatched House, Korea Architecture" image="4029R-270948.jpg" smallImage="4029R-270948_preview.jpg" unlockingPuzzleIds="1802R-59287">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Chaumière, architecture coréenne" />
           <Language key="it-IT" value="Tetto di paglia, architettura coreana" />
           <Language key="de-DE" value="Strohhütte, Korea" />
           <Language key="es-ES" value="Casa con techo de paja, Corea" />
           <Language key="pt-BR" value="Casa de Palha de Arquitetura Coreana" />
+          <Language key="ja-JP" value="わらぶきの家 韓国の建築" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Löwen" />
           <Language key="es-ES" value="Lovaina" />
           <Language key="pt-BR" value="Lovaina" />
+          <Language key="ja-JP" value="ルーベン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Kronach, Bayern, Deutschland" />
           <Language key="es-ES" value="Kronach, Baviera, Alemania" />
           <Language key="pt-BR" value="Kronach, Baviera, Alemanha" />
+          <Language key="ja-JP" value="ドイツ バイエルン クローナッハ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -308,13 +329,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-37141" title="Library of Parliament, Ottawa, Canada" image="1889R-37141.jpg" smallImage="1889R-37141_preview.jpg" unlockingPuzzleIds="1848R-517274">
+      <Puzzle id="1889R-37141" title="Library Of Parliament, Ottawa, Canada" image="1889R-37141.jpg" smallImage="1889R-37141_preview.jpg" unlockingPuzzleIds="1848R-517274">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bibliothèque du Parlement, Canada" />
           <Language key="it-IT" value="Biblioteca del Parlamento, Ottawa Canada" />
           <Language key="de-DE" value="Parlamentsbibliothek, Ottawa, Kanada" />
           <Language key="es-ES" value="Biblioteca del Parlamento, Ottawa, Canadá" />
           <Language key="pt-BR" value="Biblioteca do Parlamento, Ottawa, Canadá" />
+          <Language key="ja-JP" value="カナダ オタワ 国会図書館" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Trebon, Böhmen, Tschechische Republik" />
           <Language key="es-ES" value="Trebon, Bohemia, República Checa" />
           <Language key="pt-BR" value="Třeboň, Boêmia, República Tcheca" />
+          <Language key="ja-JP" value="チェコ ボヘミア トシェボニュ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -338,13 +361,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1525R-194832" title="Girona, Spain" image="1525R-194832.jpg" smallImage="1525R-194832_preview.jpg" unlockingPuzzleIds="1815R-73500">
+      <Puzzle id="1525R-194832" title="Spain, Girona" image="1525R-194832.jpg" smallImage="1525R-194832_preview.jpg" unlockingPuzzleIds="1815R-73500">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Gérone, Espagne" />
           <Language key="it-IT" value="Girona, Spagna" />
           <Language key="de-DE" value="Girona, Spanien" />
           <Language key="es-ES" value="Gerona, España" />
           <Language key="pt-BR" value="Girona, Espanha" />
+          <Language key="ja-JP" value="スペイン ジローナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="Sri-Inderapura-Siak-Palast" />
           <Language key="es-ES" value="Palacio de Sri Inderapura Siak" />
           <Language key="pt-BR" value="Palácio de Siak Sri Indrrapura" />
+          <Language key="ja-JP" value="シアク スリ インドラプラ宮殿" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Bahnhof, Yilan, Taiwan" />
           <Language key="es-ES" value="Estación de tren, Yilan, Taiwán" />
           <Language key="pt-BR" value="Estação Ferroviária, Yilan, Taiwan" />
+          <Language key="ja-JP" value="台湾 宜蘭県 鉄道の駅" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -383,13 +409,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10011461" title="Arc de Triomf, Barcelona, Spain" image="1598R-10011461.jpg" smallImage="1598R-10011461_preview.jpg" unlockingPuzzleIds="1397R-85242">
+      <Puzzle id="1598R-10011461" title="L'Arc de Triumph, Barcelona, Spain" image="1598R-10011461.jpg" smallImage="1598R-10011461_preview.jpg" unlockingPuzzleIds="1397R-85242">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Arc de Triomphe, Barcelone, Espagne" />
           <Language key="it-IT" value="Arco di Trionfo, Barcellona, Spagna" />
           <Language key="de-DE" value="Arc de Triomf, Barcelona, Spanien" />
           <Language key="es-ES" value="Arco del Triunfo, Barcelona, España" />
           <Language key="pt-BR" value="Arco do Triunfo, Barcelona, Espanha" />
+          <Language key="ja-JP" value="スペイン バルセロナ 凱旋門" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -405,6 +432,7 @@
           <Language key="de-DE" value="Via Antonio Gramsci, Santa Margherita" />
           <Language key="es-ES" value="Via Antonio Gramsci, Santa Margherita" />
           <Language key="pt-BR" value="Via Antonio Gramsci, Santa Margherita" />
+          <Language key="ja-JP" value="イタリア アントニオグラムシ通り" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -413,13 +441,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1815R-5200" title="Hamburg, Germany" image="1815R-5200.jpg" smallImage="1815R-5200_preview.jpg" unlockingPuzzleIds="1663R-54189">
+      <Puzzle id="1815R-5200" title="Germany, Hamburg" image="1815R-5200.jpg" smallImage="1815R-5200_preview.jpg" unlockingPuzzleIds="1663R-54189">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Hambourg, Allemagne" />
           <Language key="it-IT" value="Amburgo, Germania" />
           <Language key="de-DE" value="Hamburg, Deutschland" />
           <Language key="es-ES" value="Hamburgo, Alemania" />
           <Language key="pt-BR" value="Hamburgo, Alemanha" />
+          <Language key="ja-JP" value="ハンブルグ ドイツ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

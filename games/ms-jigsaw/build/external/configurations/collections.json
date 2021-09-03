@@ -989,7 +989,7 @@
       "id": "HowItsMade",
       "packImage": "1589R-13341321_preview.jpg",
       "localization": [
-        {"key":"en-US", "value": "How Its Made"},
+        {"key":"en-US", "value": "How It's Made"},
         {"key":"fr-FR", "value": "Savoir-faire"},
         {"key":"it-IT", "value": "Come si fa"},
         {"key":"de-DE", "value": "Wie Dinge angefertigt werden"},

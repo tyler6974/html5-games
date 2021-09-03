@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="LittleAnimalsPack">
-    <Group id="LittleAnimals" title="Little Animals" sentientId="238" revision="9" packImage="1802R-58313_preview.jpg">
+    <Group id="LittleAnimals" title="Little Animals" sentientId="238" revision="1" packImage="1802R-58313_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Petits animaux" />
         <Language key="it-IT" value="Animaletti" />
         <Language key="de-DE" value="Kleintiere" />
         <Language key="es-ES" value="Animalitos" />
         <Language key="pt-BR" value="Animais pequenos" />
+        <Language key="ja-JP" value="小動物" />
       </GroupLocalization>
       <Puzzle id="1802R-58313" title="Chipmunk" image="1802R-58313.jpg" smallImage="1802R-58313_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Streifenhörnchen" />
           <Language key="es-ES" value="Ardilla rayada" />
           <Language key="pt-BR" value="Tâmia" />
+          <Language key="ja-JP" value="シマリス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Grauhörnchen" />
           <Language key="es-ES" value="Ardilla gris" />
           <Language key="pt-BR" value="Esquilo-cinzento" />
+          <Language key="ja-JP" value="ハイイロリス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Eisgraues Murmeltier" />
           <Language key="es-ES" value="Marmota de las Rocosas" />
           <Language key="pt-BR" value="Marmota da montanha" />
+          <Language key="ja-JP" value="シラガマーモット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Kaninchen" />
           <Language key="es-ES" value="Conejo" />
           <Language key="pt-BR" value="Coelho" />
+          <Language key="ja-JP" value="ウサギ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Braunbrustigel" />
           <Language key="es-ES" value="Erizo europeo" />
           <Language key="pt-BR" value="Ouriço-terrestre" />
+          <Language key="ja-JP" value="ヨーロッパハリネズミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-311667" title="Chipmunk on a Log" image="4029R-311667.jpg" smallImage="4029R-311667_preview.jpg" unlockingPuzzleIds="1828R-8863">
+      <Puzzle id="4029R-311667" title="Chipmunk On A Log" image="4029R-311667.jpg" smallImage="4029R-311667_preview.jpg" unlockingPuzzleIds="1828R-8863">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Tamia sur une bûche" />
           <Language key="it-IT" value="Scoiattolo striato su un albero" />
           <Language key="de-DE" value="Streifenhörnchen auf Baumstamm" />
           <Language key="es-ES" value="Ardilla rayada sobre un tronco" />
           <Language key="pt-BR" value="Tâmia em um tronco" />
+          <Language key="ja-JP" value="丸木の上のシマリス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Murmeltier" />
           <Language key="es-ES" value="Marmota" />
           <Language key="pt-BR" value="Marmota" />
+          <Language key="ja-JP" value="マーモット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Chinchilla" />
           <Language key="es-ES" value="Chinchilla" />
           <Language key="pt-BR" value="Chinchila" />
+          <Language key="ja-JP" value="チンチラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Eichhörnchen" />
           <Language key="es-ES" value="Ardilla" />
           <Language key="pt-BR" value="Esquilo" />
+          <Language key="ja-JP" value="リス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

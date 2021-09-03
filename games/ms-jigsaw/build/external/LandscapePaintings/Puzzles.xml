@@ -1,6 +1,6 @@
-<Puzzles>
+﻿<Puzzles>
   <Groups packId="LandscapePaintingsPack">
-    <Group id="LandscapePaintings" title="Landscape Paintings" sentientId="271" revision="5" packImage="1031LS-00001_preview.jpg">
+    <Group id="LandscapePaintings" title="Landscape Paintings" sentientId="271" revision="1" packImage="1031LS-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Peintures de paysages" />
         <Language key="it-IT" value="Quadri di paesaggi" />

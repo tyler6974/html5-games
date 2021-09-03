@@ -1,6 +1,6 @@
-﻿<Puzzles>
+<Puzzles>
   <Groups packId="Landscapes2Pack">
-    <Group id="Landscapes2" title="Landscapes 2" sentientId="280" revision="4" packImage="1041LS-00001_preview.jpg">
+    <Group id="Landscapes2" title="Landscapes 2" sentientId="280" revision="1" packImage="1041LS-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Paysages 2" />
         <Language key="it-IT" value="Paesaggi 2" />

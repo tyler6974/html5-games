@@ -1,0 +1,254 @@
+<Puzzles>
+  <Groups packId="HowItsMade2Pack">
+    <Group id="HowItsMade2" title="How It's Made 2" sentientId="356" revision="1" packImage="1589R-42376_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Savoir-faire 2" />
+        <Language key="it-IT" value="Come si fa 2" />
+        <Language key="de-DE" value="Wie Dinge angefertigt werden 2" />
+        <Language key="es-ES" value="Cómo se hace 2" />
+        <Language key="pt-BR" value="Como é Feito 2" />
+        <Language key="ja-JP" value="作り方 2" />
+      </GroupLocalization>
+      <Puzzle id="1589R-42376" title="Cookies" image="1589R-42376.jpg" smallImage="1589R-42376_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Biscuits" />
+          <Language key="it-IT" value="Biscotti" />
+          <Language key="de-DE" value="Kekse" />
+          <Language key="es-ES" value="Galletas" />
+          <Language key="pt-BR" value="Biscoitos" />
+          <Language key="ja-JP" value="クッキー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-155420" title="Glassblowing" image="1773R-155420.jpg" smallImage="1773R-155420_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Soufflage de verre" />
+          <Language key="it-IT" value="Soffiatura del vetro" />
+          <Language key="de-DE" value="Glasbläserei" />
+          <Language key="es-ES" value="Soplar cristal" />
+          <Language key="pt-BR" value="Modelagem de Vidro" />
+          <Language key="ja-JP" value="ガラス吹き" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11621463" title="Cowboy Boots" image="1491R-11621463.jpg" smallImage="1491R-11621463_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Santiags" />
+          <Language key="it-IT" value="Stivali da cowboy" />
+          <Language key="de-DE" value="Cowboystiefel" />
+          <Language key="es-ES" value="Botas de vaquero" />
+          <Language key="pt-BR" value="Botas de Caubói" />
+          <Language key="ja-JP" value="カウボーイ ブーツ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12520913" title="Pottery" image="1815R-12520913.jpg" smallImage="1815R-12520913_preview.jpg" unlockingPuzzleIds="1589R-42376,1773R-155420,1491R-11621463">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Poterie" />
+          <Language key="it-IT" value="Ceramica" />
+          <Language key="de-DE" value="Töpferei" />
+          <Language key="es-ES" value="Cerámica" />
+          <Language key="pt-BR" value="Cerâmica" />
+          <Language key="ja-JP" value="陶器" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12242543" title="Veggie Roll" image="1815R-12242543.jpg" smallImage="1815R-12242543_preview.jpg" unlockingPuzzleIds="1815R-12520913">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rouleaux végétariens" />
+          <Language key="it-IT" value="Involtino vegetale" />
+          <Language key="de-DE" value="Veggie-Sushi" />
+          <Language key="es-ES" value="Rollo vegano" />
+          <Language key="pt-BR" value="Rolinho de Vegetais" />
+          <Language key="ja-JP" value="野菜巻き" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-13631377" title="Guitar" image="1439R-13631377.jpg" smallImage="1439R-13631377_preview.jpg" unlockingPuzzleIds="1815R-12242543">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Guitare" />
+          <Language key="it-IT" value="Chitarra" />
+          <Language key="de-DE" value="Gitarre" />
+          <Language key="es-ES" value="Guitarra" />
+          <Language key="pt-BR" value="Guitarra" />
+          <Language key="ja-JP" value="ギター" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13114645" title="Fruit Pie" image="1598R-13114645.jpg" smallImage="1598R-13114645_preview.jpg" unlockingPuzzleIds="1439R-13631377">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tarte aux fruits" />
+          <Language key="it-IT" value="Torta alla frutta" />
+          <Language key="de-DE" value="Obstkuchen" />
+          <Language key="es-ES" value="Pastel de fruta" />
+          <Language key="pt-BR" value="Torta de Fruta" />
+          <Language key="ja-JP" value="フルーツパイ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-13515685" title="Shoes" image="1815R-13515685.jpg" smallImage="1815R-13515685_preview.jpg" unlockingPuzzleIds="1598R-13114645">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaussures" />
+          <Language key="it-IT" value="Scarpe" />
+          <Language key="de-DE" value="Schuhe" />
+          <Language key="es-ES" value="Calzado" />
+          <Language key="pt-BR" value="Sapatos" />
+          <Language key="ja-JP" value="靴" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11758255" title="Cigars" image="1598R-11758255.jpg" smallImage="1598R-11758255_preview.jpg" unlockingPuzzleIds="1815R-13515685">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cigares" />
+          <Language key="it-IT" value="Sigari" />
+          <Language key="de-DE" value="Zigarren" />
+          <Language key="es-ES" value="Cigarros" />
+          <Language key="pt-BR" value="Charutos" />
+          <Language key="ja-JP" value="葉巻" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1845R-739" title="Cotton Candy" image="1845R-739.jpg" smallImage="1845R-739_preview.jpg" unlockingPuzzleIds="1598R-11758255">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Barbe à papa" />
+          <Language key="it-IT" value="Zucchero filato" />
+          <Language key="de-DE" value="Zuckerwatte" />
+          <Language key="es-ES" value="Algodón de azúcar" />
+          <Language key="pt-BR" value="Algodão Doce" />
+          <Language key="ja-JP" value="綿菓子" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13971532" title="Sandwiches" image="1598R-13971532.jpg" smallImage="1598R-13971532_preview.jpg" unlockingPuzzleIds="1845R-739">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sandwiches" />
+          <Language key="it-IT" value="Panini" />
+          <Language key="de-DE" value="Belegte Brote" />
+          <Language key="es-ES" value="Sándwiches" />
+          <Language key="pt-BR" value="Sanduíches" />
+          <Language key="ja-JP" value="サンドイッチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21537393" title="Horseshoe" image="4450R-21537393.jpg" smallImage="4450R-21537393_preview.jpg" unlockingPuzzleIds="1598R-13971532">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fer à cheval" />
+          <Language key="it-IT" value="Ferro di cavallo" />
+          <Language key="de-DE" value="Hufeisen" />
+          <Language key="es-ES" value="Herradura" />
+          <Language key="pt-BR" value="Ferradura" />
+          <Language key="ja-JP" value="蹄鉄" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-11302241" title="Violin" image="1815R-11302241.jpg" smallImage="1815R-11302241_preview.jpg" unlockingPuzzleIds="4450R-21537393">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Violon" />
+          <Language key="it-IT" value="Violino" />
+          <Language key="de-DE" value="Geige" />
+          <Language key="es-ES" value="Violín" />
+          <Language key="pt-BR" value="Violino" />
+          <Language key="ja-JP" value="バイオリン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-13994993" title="Frieze" image="1598R-13994993.jpg" smallImage="1598R-13994993_preview.jpg" unlockingPuzzleIds="1815R-11302241">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Frise" />
+          <Language key="it-IT" value="Fregio" />
+          <Language key="de-DE" value="Stuck" />
+          <Language key="es-ES" value="Friso" />
+          <Language key="pt-BR" value="Friso" />
+          <Language key="ja-JP" value="フリーズ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-12455130" title="Glass Tube" image="1773R-12455130.jpg" smallImage="1773R-12455130_preview.jpg" unlockingPuzzleIds="1598R-13994993">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tube en verre" />
+          <Language key="it-IT" value="Tubo di vetro" />
+          <Language key="de-DE" value="Glasröhre" />
+          <Language key="es-ES" value="Tubo de cristal" />
+          <Language key="pt-BR" value="Tubo de Vidro" />
+          <Language key="ja-JP" value="ガラス管" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

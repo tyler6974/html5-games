@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="LondonPack">
-    <Group id="London" title="London" sentientId="239" revision="10" packImage="1815R-86218_preview.jpg">
+    <Group id="London" title="London" sentientId="239" revision="1" packImage="1815R-86218_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Londres" />
         <Language key="it-IT" value="Londra" />
         <Language key="de-DE" value="London" />
         <Language key="es-ES" value="Londres" />
         <Language key="pt-BR" value="Londres" />
+        <Language key="ja-JP" value="ロンドン" />
       </GroupLocalization>
-      <Puzzle id="1815R-86218" title="Elizabeth Tower and Westminster Bridge" image="1815R-86218.jpg" smallImage="1815R-86218_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1815R-86218" title="Elizabeth Tower And Westminster Bridge" image="1815R-86218.jpg" smallImage="1815R-86218_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Tour Elizabeth et pont de Westminster" />
           <Language key="it-IT" value="Elizabeth Tower e ponte di Westminster" />
           <Language key="de-DE" value="Elizabeth Tower und Westminster Bridge" />
           <Language key="es-ES" value="Elizabeth Tower y puente de Westminster" />
           <Language key="pt-BR" value="Elizabeth Tower e Ponte de Westminster" />
+          <Language key="ja-JP" value="エリザベスタワーと橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Tower Bridge" />
           <Language key="es-ES" value="Tower Bridge" />
           <Language key="pt-BR" value="Tower Bridge" />
+          <Language key="ja-JP" value="タワーブリッジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Rote Telefonzellen" />
           <Language key="es-ES" value="Cabinas de teléfono rojas" />
           <Language key="pt-BR" value="Cabines telefônicas vermelhas" />
+          <Language key="ja-JP" value="赤い電話ボックス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -53,13 +57,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-12537" title="St James´s Park in Spring" image="1802R-12537.jpg" smallImage="1802R-12537_preview.jpg" unlockingPuzzleIds="1815R-86218,1598R-9975845,1828R-74005">
+      <Puzzle id="1802R-12537" title="St James´ Park in Spring" image="1802R-12537.jpg" smallImage="1802R-12537_preview.jpg" unlockingPuzzleIds="1815R-86218,1598R-9975845,1828R-74005">
         <PuzzleLocalization>
           <Language key="fr-FR" value="St James's Park au printemps" />
           <Language key="it-IT" value="St James's Park in primavera" />
           <Language key="de-DE" value="St James´ Park im Frühling" />
           <Language key="es-ES" value="St James Park en primavera" />
           <Language key="pt-BR" value="St. James' Park na primavera" />
+          <Language key="ja-JP" value="春のセントジェームズパーク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Londoner Taxi" />
           <Language key="es-ES" value="Taxi de Londres" />
           <Language key="pt-BR" value="Táxi de Londres" />
+          <Language key="ja-JP" value="ロンドンのタクシー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Canary Wharf" />
           <Language key="es-ES" value="Canary Wharf" />
           <Language key="pt-BR" value="Canary Wharf" />
+          <Language key="ja-JP" value="カナリーウォーフ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -98,13 +105,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1672R-78527" title="Trains at Liverpool Street Station, London" image="1672R-78527.jpg" smallImage="1672R-78527_preview.jpg" unlockingPuzzleIds="1609R-31982">
+      <Puzzle id="1672R-78527" title="Trains At Liverpool Street Station, London" image="1672R-78527.jpg" smallImage="1672R-78527_preview.jpg" unlockingPuzzleIds="1609R-31982">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Trains, Gare Liverpool Street, Londres" />
           <Language key="it-IT" value="Treni alla stazione di Liverpool Street" />
           <Language key="de-DE" value="Liverpool Street Station, London" />
           <Language key="es-ES" value="Trenes de Liverpool Street, Londres" />
           <Language key="pt-BR" value="Trens na Liverpool Str. Station, Londres" />
+          <Language key="ja-JP" value="ロンドン リバプールストリート駅" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Bedford Square, Bloomsbury" />
           <Language key="es-ES" value="Bedford Square, Bloomsbury" />
           <Language key="pt-BR" value="Bedford Square, Bloomsbury" />
+          <Language key="ja-JP" value="ベッドフォード スクエア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Elizabeth Tower Clock" />
           <Language key="es-ES" value="Reloj de Elizabeth Tower" />
           <Language key="pt-BR" value="Relógio da Elizabeth Tower" />
+          <Language key="ja-JP" value="エリザベスタワーの大時計" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="St. Paul's Cathedral" />
           <Language key="es-ES" value="Catedral de St. Paul" />
           <Language key="pt-BR" value="Catedral de São Paulo" />
+          <Language key="ja-JP" value="セントポール大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -158,13 +169,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-441286" title="City of London View" image="1436R-441286.jpg" smallImage="1436R-441286_preview.jpg" unlockingPuzzleIds="1527R-1090996">
+      <Puzzle id="1436R-441286" title="City Of London View" image="1436R-441286.jpg" smallImage="1436R-441286_preview.jpg" unlockingPuzzleIds="1527R-1090996">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Vue de la ville de Londres" />
           <Language key="it-IT" value="Skyline della City di Londra" />
           <Language key="de-DE" value="Ansicht der City of London" />
           <Language key="es-ES" value="Vista de la City de Londres" />
           <Language key="pt-BR" value="Vista da cidade de Londres" />
+          <Language key="ja-JP" value="ロンドンの景観" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Household Cavalry" />
           <Language key="es-ES" value="La Caballería Real" />
           <Language key="pt-BR" value="Cavalaria Real" />
+          <Language key="ja-JP" value="近衛騎兵隊" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Doppeldeckerbusse" />
           <Language key="es-ES" value="Autobuses de dos pisos" />
           <Language key="pt-BR" value="Ônibus de dois andares" />
+          <Language key="ja-JP" value="二階建てバス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Berühmtes Underground -Schild" />
           <Language key="es-ES" value="Famoso cartel del metro" />
           <Language key="pt-BR" value="Sinal famoso do metrô" />
+          <Language key="ja-JP" value="有名な地下鉄の看板" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Victoria Memorial" />
           <Language key="es-ES" value="Victoria Memorial" />
           <Language key="pt-BR" value="Victoria Memorial" />
+          <Language key="ja-JP" value="ヴィクトリア女王記念碑" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="LiquidPack">
-    <Group id="Liquid" title="Liquid" sentientId="237" revision="8" packImage="1848R-374659_preview.jpg">
+    <Group id="Liquid" title="Liquid" sentientId="237" revision="1" packImage="1848R-374659_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Liquides" />
         <Language key="it-IT" value="Liquidi" />
         <Language key="de-DE" value="Flüssiges" />
         <Language key="es-ES" value="Líquido" />
         <Language key="pt-BR" value="Líquidos" />
+        <Language key="ja-JP" value="液体" />
       </GroupLocalization>
       <Puzzle id="1848R-374659" title="Water" image="1848R-374659.jpg" smallImage="1848R-374659_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Wasser" />
           <Language key="es-ES" value="Agua" />
           <Language key="pt-BR" value="Água" />
+          <Language key="ja-JP" value="水" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Milch" />
           <Language key="es-ES" value="Leche" />
           <Language key="pt-BR" value="Leite" />
+          <Language key="ja-JP" value="牛乳" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Pfirsichsaft" />
           <Language key="es-ES" value="Zumo de melocotón" />
           <Language key="pt-BR" value="Suco de pêssego" />
+          <Language key="ja-JP" value="桃の果汁" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Kwas" />
           <Language key="es-ES" value="Kvass" />
           <Language key="pt-BR" value="Kvass" />
+          <Language key="ja-JP" value="クワス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Kondenswasser" />
           <Language key="es-ES" value="Condensación" />
           <Language key="pt-BR" value="Condensação" />
+          <Language key="ja-JP" value="圧縮" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-310241" title="Fruits in Water" image="4029R-310241.jpg" smallImage="4029R-310241_preview.jpg" unlockingPuzzleIds="1672R-85819">
+      <Puzzle id="4029R-310241" title="Fruits In Water" image="4029R-310241.jpg" smallImage="4029R-310241_preview.jpg" unlockingPuzzleIds="1672R-85819">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Fruits dans de l'eau" />
           <Language key="it-IT" value="Frutta nell'acqua" />
           <Language key="de-DE" value="Obst im Wasser" />
           <Language key="es-ES" value="Frutas en el agua" />
           <Language key="pt-BR" value="Frutas na água" />
+          <Language key="ja-JP" value="水中の果物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Reflexion" />
           <Language key="es-ES" value="Reflejo" />
           <Language key="pt-BR" value="Reflexo" />
+          <Language key="ja-JP" value="反射" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Wassertropfen" />
           <Language key="es-ES" value="Gota de agua" />
           <Language key="pt-BR" value="Gotas d'água" />
+          <Language key="ja-JP" value="水の落下" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Rote Tröpfchen" />
           <Language key="es-ES" value="Goteo rojo" />
           <Language key="pt-BR" value="Gotículas vermelhas" />
+          <Language key="ja-JP" value="赤いしずく" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Gemischte Flüssigkeiten" />
           <Language key="es-ES" value="Líquido fluyendo" />
           <Language key="pt-BR" value="Líquido fluido" />
+          <Language key="ja-JP" value="流れる液体" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

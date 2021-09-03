@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="JapanPack">
-    <Group id="Japan" title="Japan" sentientId="232" revision="6" packImage="1802R-135709_preview.jpg">
+    <Group id="Japan" title="Japan" sentientId="232" revision="1" packImage="1802R-135709_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Japon" />
         <Language key="it-IT" value="Giappone" />
         <Language key="de-DE" value="Japan" />
         <Language key="es-ES" value="Japón" />
         <Language key="pt-BR" value="Japão" />
+        <Language key="ja-JP" value="日本" />
       </GroupLocalization>
       <Puzzle id="1802R-135709" title="Hirosaki Castle" image="1802R-135709.jpg" smallImage="1802R-135709_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Burg Hirosaki" />
           <Language key="es-ES" value="Castillo de Hirosaki" />
           <Language key="pt-BR" value="Castelo Hirosaki" />
+          <Language key="ja-JP" value="弘前城" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Teezeremonie" />
           <Language key="es-ES" value="Ceremonia del té" />
           <Language key="pt-BR" value="Cerimônia do Chá" />
+          <Language key="ja-JP" value="茶の湯" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Murasaki Shikibu Park" />
           <Language key="es-ES" value="Parque Murasaki Shikibu" />
           <Language key="pt-BR" value="Parque Murasaki Shikibu" />
+          <Language key="ja-JP" value="紫式部公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Shogi-Spielsteine" />
           <Language key="es-ES" value="Fichas de shogi" />
           <Language key="pt-BR" value="Peças de Shogi" />
+          <Language key="ja-JP" value="将棋の駒" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-347350" title="Tosoki and Plate" image="1436R-347350.jpg" smallImage="1436R-347350_preview.jpg" unlockingPuzzleIds="1436R-342291">
+      <Puzzle id="1436R-347350" title="Tosoki And Plate" image="1436R-347350.jpg" smallImage="1436R-347350_preview.jpg" unlockingPuzzleIds="1436R-342291">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Assiette et Tosoki" />
           <Language key="it-IT" value="Servizio da tè" />
           <Language key="de-DE" value="Tosoki und Teller" />
           <Language key="es-ES" value="Tosoki con bandeja" />
           <Language key="pt-BR" value="Tosoki e Prato" />
+          <Language key="ja-JP" value="屠蘇器と皿" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Murasaki Shikibu Garten" />
           <Language key="es-ES" value="Jardín Murasaki Shikibu" />
           <Language key="pt-BR" value="Jardim Murasaki Shikibu" />
+          <Language key="ja-JP" value="紫式部公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Otaru-Kanal" />
           <Language key="es-ES" value="Canal de Otaru" />
           <Language key="pt-BR" value="Canal Otaru" />
+          <Language key="ja-JP" value="小樽運河" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -113,13 +121,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1888R-8001" title="Seafood and Sushi" image="1888R-8001.jpg" smallImage="1888R-8001_preview.jpg" unlockingPuzzleIds="1802R-31449">
+      <Puzzle id="1888R-8001" title="Seafood And Sushi" image="1888R-8001.jpg" smallImage="1888R-8001_preview.jpg" unlockingPuzzleIds="1802R-31449">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Sushis et fruits de mer" />
           <Language key="it-IT" value="Sushi" />
           <Language key="de-DE" value="Meeresfrüchte und Sushi" />
           <Language key="es-ES" value="Sushi" />
           <Language key="pt-BR" value="Frutos do Mar e Sushi" />
+          <Language key="ja-JP" value="魚介類と寿司" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -128,13 +137,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-107566" title="Arrows in a Samurai's Costume" image="1598R-107566.jpg" smallImage="1598R-107566_preview.jpg" unlockingPuzzleIds="1888R-8001">
+      <Puzzle id="1598R-107566" title="Arrows In A Samurai's Costume" image="1598R-107566.jpg" smallImage="1598R-107566_preview.jpg" unlockingPuzzleIds="1888R-8001">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Flèches dans une armure de samouraï" />
           <Language key="it-IT" value="Frecce in un costume da samurai" />
           <Language key="de-DE" value="Pfeile in einem Samuraikostüm" />
           <Language key="es-ES" value="Flechas de un traje de samurái" />
           <Language key="pt-BR" value="Flechas em um Traje de Samurai" />
+          <Language key="ja-JP" value="侍装束に矢" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Dorf Oshino" />
           <Language key="es-ES" value="Aldea de Oshino" />
           <Language key="pt-BR" value="Vila Oshino" />
+          <Language key="ja-JP" value="忍野村" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -158,13 +169,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-335379" title="Geisha with Umbrella" image="1436R-335379.jpg" smallImage="1436R-335379_preview.jpg" unlockingPuzzleIds="4029R-237770">
+      <Puzzle id="1436R-335379" title="Geisha With Umbrella" image="1436R-335379.jpg" smallImage="1436R-335379_preview.jpg" unlockingPuzzleIds="4029R-237770">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Geisha sous une ombrelle" />
           <Language key="it-IT" value="Geisha con l'ombrello" />
           <Language key="de-DE" value="Geisha mit Schirm" />
           <Language key="es-ES" value="Geisha con sombrilla" />
           <Language key="pt-BR" value="Gueixa com Guarda-chuva" />
+          <Language key="ja-JP" value="傘を持つ芸者" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Goldener Tempel" />
           <Language key="es-ES" value="Templo Dorado" />
           <Language key="pt-BR" value="Templo Dourado" />
+          <Language key="ja-JP" value="金閣寺" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Gepflasterte Straße" />
           <Language key="es-ES" value="Calle empedrada" />
           <Language key="pt-BR" value="Rua de Pedras" />
+          <Language key="ja-JP" value="玉石を敷いた道" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Koi" />
           <Language key="es-ES" value="Carpa koi" />
           <Language key="pt-BR" value="Carpa Japonesa" />
+          <Language key="ja-JP" value="鯉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Traditionelles Schuhwerk" />
           <Language key="es-ES" value="Calzado tradicional" />
           <Language key="pt-BR" value="Calçado Tradicional" />
+          <Language key="ja-JP" value="下駄" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -233,13 +249,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-110095" title="Josankei Hot Springs in Autumn" image="1802R-110095.jpg" smallImage="1802R-110095_preview.jpg" unlockingPuzzleIds="1701R-36371">
+      <Puzzle id="1802R-110095" title="Josankei Hot Springs In Autumn" image="1802R-110095.jpg" smallImage="1802R-110095_preview.jpg" unlockingPuzzleIds="1701R-36371">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Sources chaudes de Josankei, automne" />
           <Language key="it-IT" value="Terme di Jozankei in autunno" />
           <Language key="de-DE" value="Jozankei-Quellen im Herbst" />
           <Language key="es-ES" value="Otoño en los baños termales de Josankei" />
           <Language key="pt-BR" value="Termas Josankei no Outono" />
+          <Language key="ja-JP" value="秋の定山渓温泉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Wadakura Fountain Park, Chiyoda, Tokio" />
           <Language key="es-ES" value="Parque de la Fuente Wadakura, Chiyoda, Tokio" />
           <Language key="pt-BR" value="Parque Wadakura, Chiyoda, Tóquio" />
+          <Language key="ja-JP" value="東京 千代田区 和田倉噴水公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Sushi-Schiffchen" />
           <Language key="es-ES" value="Barco de sushi" />
           <Language key="pt-BR" value="Barco de Sushi" />
+          <Language key="ja-JP" value="寿司の舟盛り" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Osaka-Stadtansicht" />
           <Language key="es-ES" value="Paisaje urbano de Osaka" />
           <Language key="pt-BR" value="Paisagem de Osaka" />
+          <Language key="ja-JP" value="大阪の景観" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Odaiba Seaside Park, Minato Ward, Tokio" />
           <Language key="es-ES" value="Parque marítimo de Odaiba, barrio de Minato, Tokio" />
           <Language key="pt-BR" value="Parque Marinho de Odaiba, Minato, Tóquio" />
+          <Language key="ja-JP" value="東京 港区 お台場海浜公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Kammon-Brücke" />
           <Language key="es-ES" value="Puente Kanmonkyo" />
           <Language key="pt-BR" value="Ponte Kanmonkyô" />
+          <Language key="ja-JP" value="関門橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Chow mein (Ostasiatisches Gericht)" />
           <Language key="es-ES" value="Chow mein de Asia oriental" />
           <Language key="pt-BR" value="Prato de Chow Mein do Leste Asiático" />
+          <Language key="ja-JP" value="焼きそば" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

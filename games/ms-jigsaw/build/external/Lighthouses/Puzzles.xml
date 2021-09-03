@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="LighthousesPack">
-    <Group id="Lighthouses" title="Lighthouses" sentientId="236" revision="9" packImage="1778R-20633_preview.jpg">
+    <Group id="Lighthouses" title="Lighthouses" sentientId="236" revision="1" packImage="1778R-20633_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Phares" />
         <Language key="it-IT" value="Fari" />
         <Language key="de-DE" value="Leuchttürme" />
         <Language key="es-ES" value="Faros" />
         <Language key="pt-BR" value="Faróis" />
+        <Language key="ja-JP" value="灯台" />
       </GroupLocalization>
       <Puzzle id="1778R-20633" title="Hilton Head Island, USA" image="1778R-20633.jpg" smallImage="1778R-20633_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Hilton Head Island, USA" />
           <Language key="es-ES" value="Isla Hilton Head, EE. UU." />
           <Language key="pt-BR" value="Hilton Head Island, EUA" />
+          <Language key="ja-JP" value="米国 ヒルトンヘッドアイランド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Lofoten, Norwegen" />
           <Language key="es-ES" value="Lofoten, Noruega" />
           <Language key="pt-BR" value="Lofoten, Noruega" />
+          <Language key="ja-JP" value="ノルウェー ロフォーテン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Point Reyes National Seashore, USA" />
           <Language key="es-ES" value="Litoral Nacional de Punta Reyes, EE. UU." />
           <Language key="pt-BR" value="Point Reyes National Seashore, EUA" />
+          <Language key="ja-JP" value="アメリカ ポイントレイズ国定海岸" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Cape Bonavista, Kanada" />
           <Language key="es-ES" value="Cabo Bonavista, Canadá" />
           <Language key="pt-BR" value="Cape Bonavista, Canadá" />
+          <Language key="ja-JP" value="カナダ ボナヴィスタ岬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Oregon, USA" />
           <Language key="es-ES" value="oregón, EE. UU." />
           <Language key="pt-BR" value="Oregon, EUA" />
+          <Language key="ja-JP" value="アメリカ オレゴン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

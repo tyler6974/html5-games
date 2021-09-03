@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="IrelandPack">
-    <Group id="Ireland" title="Ireland" sentientId="230" revision="9" packImage="1436R-89015_preview.jpg">
+    <Group id="Ireland" title="Ireland" sentientId="230" revision="1" packImage="1436R-89015_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Irlande" />
         <Language key="it-IT" value="Irlanda" />
         <Language key="de-DE" value="Irland" />
         <Language key="es-ES" value="Irlanda" />
         <Language key="pt-BR" value="Irlanda" />
+        <Language key="ja-JP" value="アイルランド" />
       </GroupLocalization>
       <Puzzle id="1436R-89015" title="Ha´penny Bridge, Dublin" image="1436R-89015.jpg" smallImage="1436R-89015_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Ha´penny Bridge, Dublin" />
           <Language key="es-ES" value="Puente Ha'penny, Dublín" />
           <Language key="pt-BR" value="Ha´penny Bridge, Dublin" />
+          <Language key="ja-JP" value="ダブリン ハーフペニー橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Irisches Cottage" />
           <Language key="es-ES" value="Casa de campo irlandesa" />
           <Language key="pt-BR" value="Chalé rural irlandês" />
+          <Language key="ja-JP" value="アイルランドの田舎家" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="County Kerry, Dingle Harbour" />
           <Language key="es-ES" value="Condado de Kerry, puerto de Dingle" />
           <Language key="pt-BR" value="Condado de Kerry, Porto de Dingle" />
+          <Language key="ja-JP" value="ケリー州 ディングル港" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Trinity College, Dublin" />
           <Language key="es-ES" value="Trinity College, Dublín" />
           <Language key="pt-BR" value="Trinity College, Dublin" />
+          <Language key="ja-JP" value="ダブリン トリニティカレッジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Ramponiertes Fischerboot, Connemara" />
           <Language key="es-ES" value="Barco de pesca desvencijado, Connemara" />
           <Language key="pt-BR" value="Barco de pesca velho, Connemara" />
+          <Language key="ja-JP" value="コネマラ 古びた釣り船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-29063" title="River Liffey in County Wicklow" image="1889R-29063.jpg" smallImage="1889R-29063_preview.jpg" unlockingPuzzleIds="1828R-37556">
+      <Puzzle id="1889R-29063" title="River Liffey In County Wicklow" image="1889R-29063.jpg" smallImage="1889R-29063_preview.jpg" unlockingPuzzleIds="1828R-37556">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Liffey, Comté de Wicklow" />
           <Language key="it-IT" value="Fiume Liffey nella contea di Wicklow" />
           <Language key="de-DE" value="River Liffey im County Wicklow" />
           <Language key="es-ES" value="Río Liffey, condado de Wicklow" />
           <Language key="pt-BR" value="Rio Liffey no Condado de Wicklow" />
+          <Language key="ja-JP" value="ウィックロー州のリフィー川" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Traditioneller Bauernhof, Dingle" />
           <Language key="es-ES" value="Granja tradicional, Dingle" />
           <Language key="pt-BR" value="Fazenda tradicional, Dingle" />
+          <Language key="ja-JP" value="ディングル 伝統的な農家" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -113,13 +121,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10081727" title="Farming Land in Dingle Peninsula" image="1598R-10081727.jpg" smallImage="1598R-10081727_preview.jpg" unlockingPuzzleIds="1889R-36127">
+      <Puzzle id="1598R-10081727" title="Farming land in Dingle Peninsula" image="1598R-10081727.jpg" smallImage="1598R-10081727_preview.jpg" unlockingPuzzleIds="1889R-36127">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Terres agricoles, Péninsule de Dingle" />
           <Language key="it-IT" value="Terre coltivate nella penisola di Dingle" />
           <Language key="de-DE" value="Ackerland auf der Dingle-Halbinsel" />
           <Language key="es-ES" value="Tierra de labor, península de Dingle" />
           <Language key="pt-BR" value="Terreno agrícola na Península de Dingle" />
+          <Language key="ja-JP" value="ディングル半島の農地" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Irische Inneneinrichtung" />
           <Language key="es-ES" value="Interior irlandés" />
           <Language key="pt-BR" value="Interior irlandês" />
+          <Language key="ja-JP" value="アイルランド風のインテリア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -143,13 +153,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-75782" title="The Monastery of Clonmacnoise" image="1889R-75782.jpg" smallImage="1889R-75782_preview.jpg" unlockingPuzzleIds="1525R-179754">
+      <Puzzle id="1889R-75782" title="The Monastery Of Clonmacnoise" image="1889R-75782.jpg" smallImage="1889R-75782_preview.jpg" unlockingPuzzleIds="1525R-179754">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Le monastère de Clonmacnois" />
           <Language key="it-IT" value="Monastero di Clonmacnoise" />
           <Language key="de-DE" value="Klosteranlage von Clonmacnoise" />
           <Language key="es-ES" value="Monasterio de Clonmacnoise" />
           <Language key="pt-BR" value="Monastério de Clonmacnoise" />
+          <Language key="ja-JP" value="クロンマクノイズ修道院" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Royal Canal, County Meath" />
           <Language key="es-ES" value="Canal real, condado de Meath" />
           <Language key="pt-BR" value="Royal Canal, Condado de Meath" />
+          <Language key="ja-JP" value="ミース州 ロイヤル運河" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Heuballen" />
           <Language key="es-ES" value="Bala de paja" />
           <Language key="pt-BR" value="Feno" />
+          <Language key="ja-JP" value="干し草の山" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Newgrange, County Meath" />
           <Language key="es-ES" value="Newgrange, County Meath" />
           <Language key="pt-BR" value="Newgrange, Condado de Meath" />
+          <Language key="ja-JP" value="ミース州 ニューグレンジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Slemish, Co Antrim" />
           <Language key="es-ES" value="Slemish, condado de Antrim" />
           <Language key="pt-BR" value="Slemish, Condado de Antrim" />
+          <Language key="ja-JP" value="アントリム州 スレミッシュ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -218,13 +233,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1672R-51868" title="River Liffey in Dublin" image="1672R-51868.jpg" smallImage="1672R-51868_preview.jpg" unlockingPuzzleIds="1812R-14080">
+      <Puzzle id="1672R-51868" title="River Liffey In Dublin" image="1672R-51868.jpg" smallImage="1672R-51868_preview.jpg" unlockingPuzzleIds="1812R-14080">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Liffey à Dublin" />
           <Language key="it-IT" value="Fiume Liffey a Dublino" />
           <Language key="de-DE" value="River Liffey in Dublin" />
           <Language key="es-ES" value="Río Liffey en Dublín" />
           <Language key="pt-BR" value="Rio Liffey em Dublin" />
+          <Language key="ja-JP" value="ダブリンのリフィー川" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Rock of Cashel, County Tipperary" />
           <Language key="es-ES" value="Rock of Cashel, condado de Tipperary" />
           <Language key="pt-BR" value="Castelo de Cashel, Condado de Tipperary" />
+          <Language key="ja-JP" value="ティペラリー ロックオブカシェル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Dingle, County Kerry" />
           <Language key="es-ES" value="Dingle, condado de Kerry" />
           <Language key="pt-BR" value="Dingle, Condado de Kerry" />
+          <Language key="ja-JP" value="ケリー州 ディングル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -263,13 +281,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-641039" title="Fishing Port of Howth, County Fingal" image="1848R-641039.jpg" smallImage="1848R-641039_preview.jpg" unlockingPuzzleIds="1436R-434956">
+      <Puzzle id="1848R-641039" title="Fishing Port Of Howth, County Fingal" image="1848R-641039.jpg" smallImage="1848R-641039_preview.jpg" unlockingPuzzleIds="1436R-434956">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Port de pêche de Howth, Comté de Fingal" />
           <Language key="it-IT" value="Porto di Howth, contea di Fingal" />
           <Language key="de-DE" value="Fischereihafen von Howth, County Fingal" />
           <Language key="es-ES" value="Zona pesquera de Howth, condado Fingal" />
           <Language key="pt-BR" value="Porto de Howth, Condado de Fingal" />
+          <Language key="ja-JP" value="フィンガル州 ホースの漁港" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -278,13 +297,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1795R-31096" title="Christ Church Cathedral in Dublin" image="1795R-31096.jpg" smallImage="1795R-31096_preview.jpg" unlockingPuzzleIds="1848R-641039">
+      <Puzzle id="1795R-31096" title="Christ Church Cathedral In Dublin" image="1795R-31096.jpg" smallImage="1795R-31096_preview.jpg" unlockingPuzzleIds="1848R-641039">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Cathédrale de la Sainte-Trinité à Dublin" />
           <Language key="it-IT" value="Cattedrale di Christ Church a Dublino" />
           <Language key="de-DE" value="Christ Church Cathedral in Dublin" />
           <Language key="es-ES" value="Catedral Christ Church, Dublín" />
           <Language key="pt-BR" value="Catedral da Santíssima Trindade, Dublin" />
+          <Language key="ja-JP" value="クライストチャーチ大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Holzzaun, Irland" />
           <Language key="es-ES" value="Valla de madera, Irlanda" />
           <Language key="pt-BR" value="Cerca de madeira, Irlanda" />
+          <Language key="ja-JP" value="アイルランド 木の柵" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -308,13 +329,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-517392" title="Rows of Black Peat, Birr, Leinster" image="1848R-517392.jpg" smallImage="1848R-517392_preview.jpg" unlockingPuzzleIds="1889R-77171">
+      <Puzzle id="1848R-517392" title="Rows Of Black Peat, Birr, Leinster" image="1848R-517392.jpg" smallImage="1848R-517392_preview.jpg" unlockingPuzzleIds="1889R-77171">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Rangées de tourbe noire, Birr, Leinster" />
           <Language key="it-IT" value="Torba nera allineata, Birr, Leinster" />
           <Language key="de-DE" value="Torf in Birr, Leinster" />
           <Language key="es-ES" value="Hileras de turba, Birr, Leinster" />
           <Language key="pt-BR" value="Turfeira negra, Birr, Leinster" />
+          <Language key="ja-JP" value="レンスター ビル 並んだ泥炭" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -323,13 +345,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-11667" title="Sheep, Ballymena, Ireland" image="1889R-11667.jpg" smallImage="1889R-11667_preview.jpg" unlockingPuzzleIds="1848R-517392">
+      <Puzzle id="1889R-11667" title="Sheeps, Ballymena, Ireland" image="1889R-11667.jpg" smallImage="1889R-11667_preview.jpg" unlockingPuzzleIds="1848R-517392">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Moutons, Ballymena, Irlande" />
           <Language key="it-IT" value="Pecore, Ballymena, Irlanda" />
           <Language key="de-DE" value="Schafe, Ballymena, Irland" />
           <Language key="es-ES" value="Ovejas, Ballymena, Irlanda" />
           <Language key="pt-BR" value="Ovelhas, Ballymena, Irlanda" />
+          <Language key="ja-JP" value="アイルランド バリミーナ ヒツジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

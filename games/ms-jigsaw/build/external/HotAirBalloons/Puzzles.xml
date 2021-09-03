@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="HotAirBalloonsPack">
-    <Group id="HotAirBalloons" title="Hot Air Balloons" sentientId="229" revision="11" packImage="1598R-126315_preview.jpg">
+    <Group id="HotAirBalloons" title="Hot Air Balloons" sentientId="229" revision="1" packImage="1598R-126315_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Montgolfières" />
         <Language key="it-IT" value="Mongolfiere" />
         <Language key="de-DE" value="Heißluftballons" />
         <Language key="es-ES" value="Globos aerostáticos" />
         <Language key="pt-BR" value="Balões de ar quente" />
+        <Language key="ja-JP" value="熱気球" />
       </GroupLocalization>
       <Puzzle id="1598R-126315" title="Hot Air Balloon" image="1598R-126315.jpg" smallImage="1598R-126315_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Heißluftballon" />
           <Language key="es-ES" value="Globo de aire caliente" />
           <Language key="pt-BR" value="Balão de ar quente" />
+          <Language key="ja-JP" value="熱気球" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -23,13 +25,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-330442" title="Burners from Below" image="1848R-330442.jpg" smallImage="1848R-330442_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1848R-330442" title="Burners From Below" image="1848R-330442.jpg" smallImage="1848R-330442_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Brûleurs de dessous" />
           <Language key="it-IT" value="Bruciatori visti dal basso" />
           <Language key="de-DE" value="Brenner von unten" />
           <Language key="es-ES" value="Quemadores desde abajo" />
           <Language key="pt-BR" value="Queimadores vistos de baixo" />
+          <Language key="ja-JP" value="バーナー 仰観" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -38,13 +41,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1841R-87944" title="View from Below" image="1841R-87944.jpg" smallImage="1841R-87944_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1841R-87944" title="View From Below" image="1841R-87944.jpg" smallImage="1841R-87944_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Vue de dessous" />
           <Language key="it-IT" value="Vista dal basso" />
           <Language key="de-DE" value="Ansicht von unten" />
           <Language key="es-ES" value="Vista desde abajo" />
           <Language key="pt-BR" value="Vista de baixo" />
+          <Language key="ja-JP" value="機体 仰観" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Bunter Heißluftballon" />
           <Language key="es-ES" value="Globo colorido" />
           <Language key="pt-BR" value="Festival de balões de ar quente" />
+          <Language key="ja-JP" value="熱気球フェスティバル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Brenner" />
           <Language key="es-ES" value="Quemadores" />
           <Language key="pt-BR" value="Queimadores" />
+          <Language key="ja-JP" value="バーナー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-79169" title="Balloons in a Blue Sky" image="1802R-79169.jpg" smallImage="1802R-79169_preview.jpg" unlockingPuzzleIds="1848R-289221">
+      <Puzzle id="1802R-79169" title="Balloons In A Blue Sky" image="1802R-79169.jpg" smallImage="1802R-79169_preview.jpg" unlockingPuzzleIds="1848R-289221">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Ballons sur ciel bleu" />
           <Language key="it-IT" value="Mongolfiere nel cielo azzurro" />
           <Language key="de-DE" value="Ballons am blauen Himmel" />
           <Language key="es-ES" value="Globos en el cielo azul" />
           <Language key="pt-BR" value="Balões em um céu azul" />
+          <Language key="ja-JP" value="青空を飛ぶ気球" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Gestreifter Heißluftballon" />
           <Language key="es-ES" value="Globo a rayas" />
           <Language key="pt-BR" value="Balão de ar quente listrado" />
+          <Language key="ja-JP" value="しま模様の熱気球" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -113,13 +121,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1647R-36181" title="Hot Air Balloons at Sunset" image="1647R-36181.jpg" smallImage="1647R-36181_preview.jpg" unlockingPuzzleIds="1491R-1146246">
+      <Puzzle id="1647R-36181" title="Hot Air Balloons At Sunset" image="1647R-36181.jpg" smallImage="1647R-36181_preview.jpg" unlockingPuzzleIds="1491R-1146246">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Montgolfières au crépuscule" />
           <Language key="it-IT" value="Mongolfiere al tramonto" />
           <Language key="de-DE" value="Heißluftballons beim Sonnenuntergang" />
           <Language key="es-ES" value="Globos al atardecer" />
           <Language key="pt-BR" value="Balões de ar quente no pôr do sol" />
+          <Language key="ja-JP" value="夕焼けの熱気球" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -128,13 +137,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-451407" title="Hot Air Balloons over Goreme" image="1436R-451407.jpg" smallImage="1436R-451407_preview.jpg" unlockingPuzzleIds="1647R-36181">
+      <Puzzle id="1436R-451407" title="Hot Air Balloons Over Goreme" image="1436R-451407.jpg" smallImage="1436R-451407_preview.jpg" unlockingPuzzleIds="1647R-36181">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Montgolfières survolant Göreme" />
           <Language key="it-IT" value="Mongolfiere sopra Goreme" />
           <Language key="de-DE" value="Heißluftballons über Göreme" />
           <Language key="es-ES" value="Globos sobre Goreme" />
           <Language key="pt-BR" value="Balões de ar quente sobre Göreme" />
+          <Language key="ja-JP" value="ギョレメ上空の熱気球" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Rosa Heißluftballon" />
           <Language key="es-ES" value="Globo de aire caliente rosa" />
           <Language key="pt-BR" value="Balão de ar quente rosa" />
+          <Language key="ja-JP" value="ピンクの熱気球" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

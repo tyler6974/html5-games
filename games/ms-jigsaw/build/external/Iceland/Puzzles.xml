@@ -1,6 +1,6 @@
-<Puzzles>
+﻿<Puzzles>
   <Groups packId="IcelandPack">
-    <Group id="Iceland" title="Iceland" sentientId="0" revision="2" packImage="1828R-82854_preview.jpg">
+    <Group id="Iceland" title="Iceland" sentientId="299" revision="1" packImage="1828R-82854_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Islande" />
         <Language key="it-IT" value="Islanda" />

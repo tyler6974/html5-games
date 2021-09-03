@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="LasVegasPack">
-    <Group id="LasVegas" title="Las Vegas" sentientId="235" revision="8" packImage="1598R-479_preview.jpg">
+    <Group id="LasVegas" title="Las Vegas" sentientId="235" revision="1" packImage="1598R-479_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Las Vegas" />
         <Language key="it-IT" value="Las Vegas" />
         <Language key="de-DE" value="Las Vegas" />
         <Language key="es-ES" value="Las Vegas" />
         <Language key="pt-BR" value="Las Vegas" />
+        <Language key="ja-JP" value="ラスベガス" />
       </GroupLocalization>
       <Puzzle id="1598R-479" title="Poker" image="1598R-479.jpg" smallImage="1598R-479_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Poker" />
           <Language key="es-ES" value="Póquer" />
           <Language key="pt-BR" value="Pôquer" />
+          <Language key="ja-JP" value="ポーカー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="New York Hotel" />
           <Language key="es-ES" value="Hotel New York" />
           <Language key="pt-BR" value="New York Hotel" />
+          <Language key="ja-JP" value="ニューヨーク ニューヨーク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -38,13 +41,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-504405" title="Hoover Dam near Las Vegas" image="1848R-504405.jpg" smallImage="1848R-504405_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1848R-504405" title="Hoover Dam Near Las Vegas" image="1848R-504405.jpg" smallImage="1848R-504405_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Barrage Hoover près de Las Vegas" />
           <Language key="it-IT" value="Diga di Hoover vicino a Las Vegas" />
           <Language key="de-DE" value="Hoover Dam nahe Las Vegas" />
           <Language key="es-ES" value="Presa de Hoover, cerca de Las Vegas" />
           <Language key="pt-BR" value="Represa Hoover perto de Las Vegas" />
+          <Language key="ja-JP" value="ラスべカス近郊のフーバーダム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -53,13 +57,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1647R-78025" title="The Venetian and Treasure Island" image="1647R-78025.jpg" smallImage="1647R-78025_preview.jpg" unlockingPuzzleIds="1598R-479,1436R-302286,1848R-504405">
+      <Puzzle id="1647R-78025" title="The Venetian And Treasure Island" image="1647R-78025.jpg" smallImage="1647R-78025_preview.jpg" unlockingPuzzleIds="1598R-479,1436R-302286,1848R-504405">
         <PuzzleLocalization>
           <Language key="fr-FR" value="The Venetian et Treasure Island" />
           <Language key="it-IT" value="Hotel Venetian e Treasure Island" />
           <Language key="de-DE" value="The Venetian und Treasure Island" />
           <Language key="es-ES" value="The Venetian y Treasure Island" />
           <Language key="pt-BR" value="The Venetian e Treasure Island" />
+          <Language key="ja-JP" value="ベネチアンとトレジャーアイランド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1701R-28031" title="Welcome to Nevada" image="1701R-28031.jpg" smallImage="1701R-28031_preview.jpg" unlockingPuzzleIds="1647R-78025">
+      <Puzzle id="1701R-28031" title="Welcome To Nevada" image="1701R-28031.jpg" smallImage="1701R-28031_preview.jpg" unlockingPuzzleIds="1647R-78025">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bienvenue dans le Nevada" />
           <Language key="it-IT" value="Benvenuti in Nevada" />
           <Language key="de-DE" value="Welcome-to-Nevada-Schild" />
           <Language key="es-ES" value="Binevenida a Nevada" />
           <Language key="pt-BR" value="Bem-vindo a Nevada" />
+          <Language key="ja-JP" value="ネバダ州へようこそ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-38523" title="Caesars Palace Hotel and Casino" image="1828R-38523.jpg" smallImage="1828R-38523_preview.jpg" unlockingPuzzleIds="1701R-28031">
+      <Puzzle id="1828R-38523" title="Caesars Palace Hotel And Casino" image="1828R-38523.jpg" smallImage="1828R-38523_preview.jpg" unlockingPuzzleIds="1701R-28031">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Caesars Palace Hotel And Casino" />
           <Language key="it-IT" value="Hotel e Casinò Caesars Palace" />
           <Language key="de-DE" value="Caesars Palace Hotel und Casino" />
           <Language key="es-ES" value="Hotel y casino Caesars Palace" />
           <Language key="pt-BR" value="Caesars Palace Hotel And Casino" />
+          <Language key="ja-JP" value="シーザースパレス ホテル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Roulettekessel" />
           <Language key="es-ES" value="Ruleta" />
           <Language key="pt-BR" value="Roleta" />
+          <Language key="ja-JP" value="ルーレット盤" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Im Stadtzentrum" />
           <Language key="es-ES" value="Complejo CityCenter" />
           <Language key="pt-BR" value="City Center Complex" />
+          <Language key="ja-JP" value="中心街の建造物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Checks-Cashed-Schild" />
           <Language key="es-ES" value="Cartel de cambio de cheques" />
           <Language key="pt-BR" value="Sinal de troca de cheque" />
+          <Language key="ja-JP" value="「小切手換金」の看板" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Tod Motor Motel" />
           <Language key="es-ES" value="Tod Motor Motel" />
           <Language key="pt-BR" value="Tod Motor Motel" />
+          <Language key="ja-JP" value="トッド モーター モーテル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Las Vegas Strip" />
           <Language key="es-ES" value="Las Vegas Strip" />
           <Language key="pt-BR" value="Las Vegas Strip" />
+          <Language key="ja-JP" value="ラスベガス ストリップ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Chinatown" />
           <Language key="es-ES" value="Chinatown" />
           <Language key="pt-BR" value="Chinatown" />
+          <Language key="ja-JP" value="チャイナタウン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -188,13 +201,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4084R-1013" title="Coins in a Fountain" image="4084R-1013.jpg" smallImage="4084R-1013_preview.jpg" unlockingPuzzleIds="1397R-74910">
+      <Puzzle id="4084R-1013" title="Coins In A Fountain" image="4084R-1013.jpg" smallImage="4084R-1013_preview.jpg" unlockingPuzzleIds="1397R-74910">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Pièces dans une fontaine" />
           <Language key="it-IT" value="Monete in una fontana" />
           <Language key="de-DE" value="Münzen in einem Brunnen" />
           <Language key="es-ES" value="Fuente con monedas" />
           <Language key="pt-BR" value="Moedas em uma fonte" />
+          <Language key="ja-JP" value="噴水のコイン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -203,13 +217,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-38530" title="Caesars Palace Hotel and Casino" image="1828R-38530.jpg" smallImage="1828R-38530_preview.jpg" unlockingPuzzleIds="4084R-1013">
+      <Puzzle id="1828R-38530" title="Caesars Palace Hotel And Casino" image="1828R-38530.jpg" smallImage="1828R-38530_preview.jpg" unlockingPuzzleIds="4084R-1013">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Caesars Palace Hotel And Casino" />
           <Language key="it-IT" value="Hotel e Casinò Caesars Palace" />
           <Language key="de-DE" value="Caesars Palace Hotel und Casino" />
           <Language key="es-ES" value="Hotel y casino Caesars Palace" />
           <Language key="pt-BR" value="Caesars Palace Hotel And Casino" />
+          <Language key="ja-JP" value="シーザースパレス ホテル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Monumente" />
           <Language key="es-ES" value="Copia de monumento" />
           <Language key="pt-BR" value="Fachada de monumento" />
+          <Language key="ja-JP" value="正面のモニュメント" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Illuminierte Stadtansicht Las Vegas" />
           <Language key="es-ES" value="Iluminación urbana de Las Vegas" />
           <Language key="pt-BR" value="Paisagem iluminada de Las Vegas" />
+          <Language key="ja-JP" value="ラスベガスの夜景" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

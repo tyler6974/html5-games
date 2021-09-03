@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="ItalyPack">
-    <Group id="Italy" title="Italy" sentientId="231" revision="15" packImage="1436R-429902_preview.jpg">
+    <Group id="Italy" title="Italy" sentientId="231" revision="1" packImage="1436R-429902_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Italie" />
         <Language key="it-IT" value="Italia" />
         <Language key="de-DE" value="Italien" />
         <Language key="es-ES" value="Italia" />
         <Language key="pt-BR" value="Itália" />
+        <Language key="ja-JP" value="イタリア" />
       </GroupLocalization>
       <Puzzle id="1436R-429902" title="Lago d´Orta Omegna" image="1436R-429902.jpg" smallImage="1436R-429902_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Lago d´Orta Omegna" />
           <Language key="es-ES" value="Lago d´Orta, Omegna" />
           <Language key="pt-BR" value="Lago d´Orta Omegna" />
+          <Language key="ja-JP" value="オメーニャ オルタ湖" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Orta San Giulio, Piemont" />
           <Language key="es-ES" value="Orta San Giulio, Piamonte" />
           <Language key="pt-BR" value="Orta San Giulio, Piemonte" />
+          <Language key="ja-JP" value="ピエモンテ州 オルタサンジュリオ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Venedig" />
           <Language key="es-ES" value="Venecia" />
           <Language key="pt-BR" value="Veneza" />
+          <Language key="ja-JP" value="ベネチア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Siena, Toskana" />
           <Language key="es-ES" value="Siena, Toscana" />
           <Language key="pt-BR" value="Siena, Toscana" />
+          <Language key="ja-JP" value="トスカナ州 シエナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1669R-14342" title="Cathedral Baptistery, Pisa" image="1669R-14342.jpg" smallImage="1669R-14342_preview.jpg" unlockingPuzzleIds="1701R-20641">
+      <Puzzle id="1669R-14342" title="Baptistery And Of Cathedral, Pisa" image="1669R-14342.jpg" smallImage="1669R-14342_preview.jpg" unlockingPuzzleIds="1701R-20641">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Baptistère et cathédrale de Pise" />
           <Language key="it-IT" value="Battistero e Duomo, Pisa" />
           <Language key="de-DE" value="Baptisterium und Dom, Pisa" />
           <Language key="es-ES" value="Baptisterio y catedral, Pisa" />
           <Language key="pt-BR" value="Batistério e catedral, Pisa" />
+          <Language key="ja-JP" value="ピサの洗礼堂と大聖堂" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Diverse italienische Speisen" />
           <Language key="es-ES" value="Platos italianos" />
           <Language key="pt-BR" value="Pratos italianos variados" />
+          <Language key="ja-JP" value="さまざまなイタリア料理" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Tiramisu" />
           <Language key="es-ES" value="Tiramisú" />
           <Language key="pt-BR" value="Tiramisù" />
+          <Language key="ja-JP" value="ティラミス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -113,13 +121,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-39211" title="Gondola in Venice" image="1889R-39211.jpg" smallImage="1889R-39211_preview.jpg" unlockingPuzzleIds="4051R-2036">
+      <Puzzle id="1889R-39211" title="Gondola In Venice" image="1889R-39211.jpg" smallImage="1889R-39211_preview.jpg" unlockingPuzzleIds="4051R-2036">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Gondole à Venise" />
           <Language key="it-IT" value="Gondola a Venezia" />
           <Language key="de-DE" value="Gondel in Venedig" />
           <Language key="es-ES" value="Góndola en Venecia" />
           <Language key="pt-BR" value="Gôndola em Veneza" />
+          <Language key="ja-JP" value="ベネチアのゴンドラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Promenade in Cannobio, Piemont" />
           <Language key="es-ES" value="Paseo de Cannobio, Piamonte" />
           <Language key="pt-BR" value="Passeio de Cannobio, Piemonte" />
+          <Language key="ja-JP" value="ピエモンテ州 カンノービオの歩道" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -143,13 +153,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-68535" title="Trattoria on the Canal, Venice" image="1889R-68535.jpg" smallImage="1889R-68535_preview.jpg" unlockingPuzzleIds="1436R-440383">
+      <Puzzle id="1889R-68535" title="Trattoria On The Canal, Venice" image="1889R-68535.jpg" smallImage="1889R-68535_preview.jpg" unlockingPuzzleIds="1436R-440383">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Trattoria sur le canal, Venise" />
           <Language key="it-IT" value="Trattoria sul canale, Venezia" />
           <Language key="de-DE" value="Trattoria am Kanal, Venedig" />
           <Language key="es-ES" value="Trattoria en el canal, Venecia" />
           <Language key="pt-BR" value="Trattoria no canal, Veneza" />
+          <Language key="ja-JP" value="ベネチア 運河沿いのトラットリア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Siena" />
           <Language key="es-ES" value="Siena" />
           <Language key="pt-BR" value="Siena" />
+          <Language key="ja-JP" value="シエナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -173,13 +185,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-440188" title="Shop with Decorative Items" image="1436R-440188.jpg" smallImage="1436R-440188_preview.jpg" unlockingPuzzleIds="1436R-160066">
+      <Puzzle id="1436R-440188" title="Shop With Decorative Items" image="1436R-440188.jpg" smallImage="1436R-440188_preview.jpg" unlockingPuzzleIds="1436R-160066">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Boutique d'objets décoratifs" />
           <Language key="it-IT" value="Negozio decorato" />
           <Language key="de-DE" value="Geschäft mit Dekorationsartikeln" />
           <Language key="es-ES" value="Tienda con objetos decorativos" />
           <Language key="pt-BR" value="Loja com itens decorativos" />
+          <Language key="ja-JP" value="装飾された店" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="San Quirico d'Orcia, Toskana" />
           <Language key="es-ES" value="San Quirico d'Orcia, Toscana" />
           <Language key="pt-BR" value="San Quirico d'Orcia, Toscana" />
+          <Language key="ja-JP" value="トスカナ州 サンクイリコドルチャ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Türme der Domkirche" />
           <Language key="es-ES" value="Torres de la iglesia del Duomo" />
           <Language key="pt-BR" value="Torres de duomo" />
+          <Language key="ja-JP" value="大聖堂の塔" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -218,13 +233,30 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1663R-10541" title="City by the Sea" image="1663R-10541.jpg" smallImage="1663R-10541_preview.jpg" unlockingPuzzleIds="1527R-014271">
+      <Puzzle id="1532R-37197" title="Biscuit" image="1532R-37197.jpg" smallImage="1532R-37197_preview.jpg" unlockingPuzzleIds="1527R-014271">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Biscuit" />
+          <Language key="it-IT" value="Biscotto" />
+          <Language key="de-DE" value="Keks" />
+          <Language key="es-ES" value="Galleta" />
+          <Language key="pt-BR" value="Biscuit" />
+          <Language key="ja-JP" value="クッキー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1663R-10541" title="City by the sea" image="1663R-10541.jpg" smallImage="1663R-10541_preview.jpg" unlockingPuzzleIds="1532R-37197">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Ville balnéaire" />
           <Language key="it-IT" value="Paese affacciato sul mare" />
           <Language key="de-DE" value="Stadt am Meer" />
           <Language key="es-ES" value="Ciudad junto al mar" />
           <Language key="pt-BR" value="Cidade litorânea" />
+          <Language key="ja-JP" value="海沿いの町" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -233,13 +265,30 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-393242" title="Monterosso" image="1848R-393242.jpg" smallImage="1848R-393242_preview.jpg" unlockingPuzzleIds="1663R-10541">
+      <Puzzle id="1848R-375774" title="Piz Boe peak" image="1848R-375774.jpg" smallImage="1848R-375774_preview.jpg" unlockingPuzzleIds="1663R-10541">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sommet du Piz Boè" />
+          <Language key="it-IT" value="Vetta del Piz Boè" />
+          <Language key="de-DE" value="Gipfel des Piz Boè" />
+          <Language key="es-ES" value="Monte Piz Boe" />
+          <Language key="pt-BR" value="Pico de Piz Boè" />
+          <Language key="ja-JP" value="ピッツボエ山頂" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-393242" title="Monterosso" image="1848R-393242.jpg" smallImage="1848R-393242_preview.jpg" unlockingPuzzleIds="1848R-375774">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Monterosso" />
           <Language key="it-IT" value="Monterosso" />
           <Language key="de-DE" value="Monterosso" />
           <Language key="es-ES" value="Monterosso" />
           <Language key="pt-BR" value="Monterosso" />
+          <Language key="ja-JP" value="モンテロッソ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -255,6 +304,7 @@
           <Language key="de-DE" value="Corniglia" />
           <Language key="es-ES" value="Corniglia" />
           <Language key="pt-BR" value="Corniglia" />
+          <Language key="ja-JP" value="コルニリア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +320,7 @@
           <Language key="de-DE" value="Amalfi-Küste" />
           <Language key="es-ES" value="Costa de Amalfi" />
           <Language key="pt-BR" value="Costa de Amalfi" />
+          <Language key="ja-JP" value="アマルフィ海岸" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -278,13 +329,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-1248" title="Portofino" image="1598R-1248.jpg" smallImage="1598R-1248_preview.jpg" unlockingPuzzleIds="1598R-10093003">
+      <Puzzle id="1436R-432278" title="Camogli" image="1436R-432278.jpg" smallImage="1436R-432278_preview.jpg" unlockingPuzzleIds="1598R-10093003">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="Portofino" />
-          <Language key="it-IT" value="Portofino" />
-          <Language key="de-DE" value="Portofino" />
-          <Language key="es-ES" value="Portofino" />
-          <Language key="pt-BR" value="Portofino" />
+          <Language key="fr-FR" value="Camogli" />
+          <Language key="it-IT" value="Camogli" />
+          <Language key="de-DE" value="Camogli" />
+          <Language key="es-ES" value="Camogli" />
+          <Language key="pt-BR" value="Camogli" />
+          <Language key="ja-JP" value="カモーリ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -293,13 +345,30 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1815R-111998" title="National Park of Sesto Dolomites" image="1815R-111998.jpg" smallImage="1815R-111998_preview.jpg" unlockingPuzzleIds="1598R-1248">
+      <Puzzle id="1598R-1248" title="Portofino" image="1598R-1248.jpg" smallImage="1598R-1248_preview.jpg" unlockingPuzzleIds="1436R-432278">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Portofino" />
+          <Language key="it-IT" value="Portofino" />
+          <Language key="de-DE" value="Portofino" />
+          <Language key="es-ES" value="Portofino" />
+          <Language key="pt-BR" value="Portofino" />
+          <Language key="ja-JP" value="ポルトフィーノ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-111998" title="National Park Of Sesto Dolomites" image="1815R-111998.jpg" smallImage="1815R-111998_preview.jpg" unlockingPuzzleIds="1598R-1248">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Parc National des Dolomites de Sesto" />
           <Language key="it-IT" value="Parco naturale Dolomiti di Sesto" />
           <Language key="de-DE" value="Naturpark der Sextener Dolomiten" />
           <Language key="es-ES" value="Parque Nacional de Sesto, Dolomitas" />
           <Language key="pt-BR" value="Parque Nacional dos Dolomitas de Sesto" />
+          <Language key="ja-JP" value="ドロミテ国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

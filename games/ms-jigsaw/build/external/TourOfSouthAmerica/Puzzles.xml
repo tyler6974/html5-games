@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="TourOfSouthAmericaPack">
-    <Group id="TourOfSouthAmerica" title="Tour of South America" sentientId="260" revision="11" packImage="1701R-37985_preview.jpg">
+    <Group id="TourOfSouthAmerica" title="Tour of South America" sentientId="260" revision="1" packImage="1701R-37985_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Balade en Amérique du Sud" />
         <Language key="it-IT" value="Tour Sud America" />
         <Language key="de-DE" value="Tour durch Südamerika" />
         <Language key="es-ES" value="Viaje por América del Sur" />
         <Language key="pt-BR" value="Tour da América do Sul" />
+        <Language key="ja-JP" value="南米旅行" />
       </GroupLocalization>
       <Puzzle id="1701R-37985" title="Mate Cups, Argentina" image="1701R-37985.jpg" smallImage="1701R-37985_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Mate-Trinkgefäße, Argentinien" />
           <Language key="es-ES" value="Tazas de mate, Argentina" />
           <Language key="pt-BR" value="Cumbuca de mate, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン マテ茶の茶器" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -23,13 +25,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10072780" title="Rio de Janeiro, Brazil" image="1598R-10072780.jpg" smallImage="1598R-10072780_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1598R-10072780" title="Rio De Janeiro, Brazil" image="1598R-10072780.jpg" smallImage="1598R-10072780_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="Rio de Janeiro, Brésil" />
-          <Language key="it-IT" value="Rio de Janeiro, Brasile" />
+          <Language key="fr-FR" value="Rio De Janeiro, Brésil" />
+          <Language key="it-IT" value="Rio De Janeiro, Brasile" />
           <Language key="de-DE" value="Rio de Janeiro, Brasilien" />
-          <Language key="es-ES" value="Río de Janeiro, Brasil" />
+          <Language key="es-ES" value="Río De Janeiro, Brasil" />
           <Language key="pt-BR" value="Rio de Janeiro, Brasil" />
+          <Language key="ja-JP" value="ブラジル リオデジャネイロ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Cartagena, Kolumbien" />
           <Language key="es-ES" value="Cartagena, Colombia" />
           <Language key="pt-BR" value="Cartagena, Colômbia" />
+          <Language key="ja-JP" value="コロンビア カルタヘナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Willka Tika, Peru" />
           <Language key="es-ES" value="Willka Tika, Perú" />
           <Language key="pt-BR" value="Willka Tika, Peru" />
+          <Language key="ja-JP" value="ペルー ウィリカティカ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Buenos Aires, Argentinien" />
           <Language key="es-ES" value="Buenos Aires, Argentina" />
           <Language key="pt-BR" value="Buenos Aires, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン ブエノスアイレス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Iglesia San Marcos, Chile" />
           <Language key="es-ES" value="Iglesia de San Marcos, Chile" />
           <Language key="pt-BR" value="Iglesia San Marcos, Chile" />
+          <Language key="ja-JP" value="チリ サンマルコス教会" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="La Paz, Bolivien" />
           <Language key="es-ES" value="La Paz, Bolivia" />
           <Language key="pt-BR" value="La Paz, Bolívia" />
+          <Language key="ja-JP" value="ボリビア ラパス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Salta, Argentinien" />
           <Language key="es-ES" value="Salta, Argentina" />
           <Language key="pt-BR" value="Salta, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン サルタ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -128,13 +137,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-296176" title="Chacabuco, Chile" image="1848R-296176.jpg" smallImage="1848R-296176_preview.jpg" unlockingPuzzleIds="1848R-734107">
+      <Puzzle id="1848R-296176" title="Chacabuco, Chilie" image="1848R-296176.jpg" smallImage="1848R-296176_preview.jpg" unlockingPuzzleIds="1848R-734107">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Chacabuco, Chili" />
           <Language key="it-IT" value="Chacabuco, Cile" />
           <Language key="de-DE" value="Chacabuco, Chile" />
           <Language key="es-ES" value="Chacabuco, Chilie" />
           <Language key="pt-BR" value="Chacabuco, Chile" />
+          <Language key="ja-JP" value="チリ チャカブコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Uyuni-Hochland, Bolivien" />
           <Language key="es-ES" value="Tierras altas de Uyuni, Bolivia" />
           <Language key="pt-BR" value="Uyuni, Bolívia" />
+          <Language key="ja-JP" value="ボリビア ウユニ高原" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -158,13 +169,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-317359" title="Galápagos Islands, Ecuador" image="1848R-317359.jpg" smallImage="1848R-317359_preview.jpg" unlockingPuzzleIds="1848R-341816">
+      <Puzzle id="1848R-317359" title="Galapagos Islands, Ecuador" image="1848R-317359.jpg" smallImage="1848R-317359_preview.jpg" unlockingPuzzleIds="1848R-341816">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Îles Galápagos, Équateur" />
           <Language key="it-IT" value="Isole Galapagos, Ecuador" />
           <Language key="de-DE" value="Galapagosinseln, Ecuador" />
           <Language key="es-ES" value="Islas Galápagos, Ecuador" />
           <Language key="pt-BR" value="Ilhas Galápagos, Equador" />
+          <Language key="ja-JP" value="エクアドル ガラパゴス諸島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Osterinsel, Chile" />
           <Language key="es-ES" value="Isla de Pascua, Chile" />
           <Language key="pt-BR" value="Ilha de Páscoa, Chile" />
+          <Language key="ja-JP" value="チリ イースター島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Choquequirao, Peru" />
           <Language key="es-ES" value="Choquequirao, Perú" />
           <Language key="pt-BR" value="Choquequirao, Peru" />
+          <Language key="ja-JP" value="ペルー チョケキラオ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Iglesia San Francisco, Chile" />
           <Language key="es-ES" value="Iglesia de San Francisco, Chile" />
           <Language key="pt-BR" value="Iglesia San Francisco, Chile" />
+          <Language key="ja-JP" value="チリ サンフランシスコ教会" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Patagonien, Argentinien" />
           <Language key="es-ES" value="Patagonia, Argentina" />
           <Language key="pt-BR" value="Patagônia, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン パタゴニア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Salinas Grandes, Argentinien" />
           <Language key="es-ES" value="Salinas Grandes, Argentina" />
           <Language key="pt-BR" value="Salinas Grandes, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン サリナスグランデス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Mount Fitz Roy, Argentinien" />
           <Language key="es-ES" value="Monte Fitz Roy, Argentina" />
           <Language key="pt-BR" value="Monte Fitz Roy, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン フィッツロイ山" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Sicuani, Peru" />
           <Language key="es-ES" value="Sicuani, Perú" />
           <Language key="pt-BR" value="Sicuani, Peru" />
+          <Language key="ja-JP" value="ペルー シクアニ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Museum Pachamama, Argentinien" />
           <Language key="es-ES" value="Museo Pachamama, Argentina" />
           <Language key="pt-BR" value="Museu Pachamama, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン パチャママ博物館" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -293,13 +313,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1647R-96751" title="Ruins of Machu Picchu, Peru" image="1647R-96751.jpg" smallImage="1647R-96751_preview.jpg" unlockingPuzzleIds="1848R-350444">
+      <Puzzle id="1647R-96751" title="Ruins Of Machu Picchu, Peru" image="1647R-96751.jpg" smallImage="1647R-96751_preview.jpg" unlockingPuzzleIds="1848R-350444">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Ruines de Machu Picchu, Pérou" />
           <Language key="it-IT" value="Rovine di Machu Picchu, Perù" />
           <Language key="de-DE" value="Machu Picchu, Peru" />
           <Language key="es-ES" value="Ruinas del Machu Picchu, Perú" />
           <Language key="pt-BR" value="Ruínas de Machu Picchu, Peru" />
+          <Language key="ja-JP" value="ペルー マチュピチュ遺跡" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -308,13 +329,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10022378" title="Sacred Valley of the Incas, Peru" image="1598R-10022378.jpg" smallImage="1598R-10022378_preview.jpg" unlockingPuzzleIds="1647R-96751">
+      <Puzzle id="1598R-10022378" title="Sacred Valley Of The Incas, Peru" image="1598R-10022378.jpg" smallImage="1598R-10022378_preview.jpg" unlockingPuzzleIds="1647R-96751">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Vallée sacrée des Incas, Pérou" />
           <Language key="it-IT" value="Valle sacra degli Incas, Perù" />
           <Language key="de-DE" value="Heiligies Inkadorf, Peru" />
           <Language key="es-ES" value="Valle Sagrado de los Incas, Perú" />
           <Language key="pt-BR" value="Vale Sagrado dos Incas, Peru" />
+          <Language key="ja-JP" value="ペルー インカの聖なる谷" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Torres del Paine National Park, Chile" />
           <Language key="es-ES" value="Parque nacional Torres del Paine, Chile" />
           <Language key="pt-BR" value="Parque Nacional Torres del Paine, Chile" />
+          <Language key="ja-JP" value="チリ トーレスデルパイネ国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Cusco, Peru" />
           <Language key="es-ES" value="Cuzco, Perú" />
           <Language key="pt-BR" value="Cusco, Peru" />
+          <Language key="ja-JP" value="ペルー クスコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="San Telmo District, Argentinien" />
           <Language key="es-ES" value="Distrito de San Telmo, Argentina" />
           <Language key="pt-BR" value="San Telmo, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン サンテルモ地区" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Iguassu Falls, Brasilien" />
           <Language key="es-ES" value="Cataratas ded Iguazú, Brasil" />
           <Language key="pt-BR" value="Cataratas do Iguaçu, Brasil" />
+          <Language key="ja-JP" value="ブラジル イグアス滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Calafate, Argentinien" />
           <Language key="es-ES" value="Calafate, Argentina" />
           <Language key="pt-BR" value="Calafate, Argentina" />
+          <Language key="ja-JP" value="アルゼンチン エル カラファテ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -398,13 +425,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1815R-60317" title="Land Iguana, Galápagos Islands" image="1815R-60317.jpg" smallImage="1815R-60317_preview.jpg" unlockingPuzzleIds="1436R-281574">
+      <Puzzle id="1815R-60317" title="Land Iguana, Galapagos Islands" image="1815R-60317.jpg" smallImage="1815R-60317_preview.jpg" unlockingPuzzleIds="1436R-281574">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Iguane terrestre des Galápagos" />
           <Language key="it-IT" value="Iguana di terra, Isole Galapagos" />
           <Language key="de-DE" value="Leguan, Galapagosinseln" />
           <Language key="es-ES" value="Land Iguana, Galapagos Islands" />
           <Language key="pt-BR" value="Iguana-amarela, Ilhas Galápagos" />
+          <Language key="ja-JP" value="ガラパゴス諸島 リクイグアナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -420,6 +448,7 @@
           <Language key="de-DE" value="Leopardus Wiedii, Brasilien" />
           <Language key="es-ES" value="Gato tigre, Brasil" />
           <Language key="pt-BR" value="Gato-maracajá, Brasil" />
+          <Language key="ja-JP" value="ブラジル マーゲイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -435,6 +464,7 @@
           <Language key="de-DE" value="Machu Picchu, Peru" />
           <Language key="es-ES" value="Machu Picchu, Perú" />
           <Language key="pt-BR" value="Machu Picchu, Peru" />
+          <Language key="ja-JP" value="ペルー マチュピチュ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

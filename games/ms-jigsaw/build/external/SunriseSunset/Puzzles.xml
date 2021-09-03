@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="SunriseSunsetPack">
-    <Group id="SunriseSunset" title="Sunrise, Sunset" sentientId="293" revision="2" packImage="1439R-1154053_preview.jpg">
+    <Group id="SunriseSunset" title="Sunrise, Sunset" sentientId="293" revision="1" packImage="1439R-1154053_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Aubes et crépuscules" />
         <Language key="it-IT" value="Alba e tramonto" />

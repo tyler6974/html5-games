@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="WaterfallsPack">
-    <Group id="Waterfalls" title="Waterfalls" sentientId="262" revision="9" packImage="1848R-772081_preview.jpg">
+    <Group id="Waterfalls" title="Waterfalls" sentientId="262" revision="1" packImage="1848R-772081_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Chutes d'eau" />
         <Language key="it-IT" value="Cascate" />
         <Language key="de-DE" value="Wasserfälle" />
         <Language key="es-ES" value="Cascadas" />
         <Language key="pt-BR" value="Cachoeiras" />
+        <Language key="ja-JP" value="滝" />
       </GroupLocalization>
       <Puzzle id="1848R-772081" title="Seljalandsfoss Waterfall, Iceland" image="1848R-772081.jpg" smallImage="1848R-772081_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Seljalandsfoss-Wasserfall, Island" />
           <Language key="es-ES" value="Cascada Seljalandsfoss, Islandia" />
           <Language key="pt-BR" value="Seljalandsfoss, Islândia" />
+          <Language key="ja-JP" value="アイスランド セリャランスフォス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Landschaft im Gebirge" />
           <Language key="es-ES" value="Paisaje de montaña" />
           <Language key="pt-BR" value="Paisagem montanhosa" />
+          <Language key="ja-JP" value="山の風景" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Wasserfallkaskade" />
           <Language key="es-ES" value="Cascadas" />
           <Language key="pt-BR" value="Cascata" />
+          <Language key="ja-JP" value="段々滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -53,13 +57,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-37095" title="Rhododendrons and Waterfall, USA" image="1889R-37095.jpg" smallImage="1889R-37095_preview.jpg" unlockingPuzzleIds="1848R-772081,1525R-202350,4286R-3087">
+      <Puzzle id="1889R-37095" title="Rododendrons And Waterfall, USA" image="1889R-37095.jpg" smallImage="1889R-37095_preview.jpg" unlockingPuzzleIds="1848R-772081,1525R-202350,4286R-3087">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Rhododendrons et cascade, États-Unis" />
           <Language key="it-IT" value="Rododendri e cascata, USA" />
           <Language key="de-DE" value="Rododendron und Wasserfall, USA" />
           <Language key="es-ES" value="Rhododendrons y cascadas, EE.UU." />
           <Language key="pt-BR" value="Rododendros e cachoeira, EUA" />
+          <Language key="ja-JP" value="アメリカ ツツジと滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Rochester Falls, Afrika" />
           <Language key="es-ES" value="Cataratas de Rochester, África" />
           <Language key="pt-BR" value="Cataratas Rochester, África" />
+          <Language key="ja-JP" value="アフリカ ロチェスターの滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Iguazu Falls, Brasilien" />
           <Language key="es-ES" value="Cataratas de Iguazu, Brasil" />
           <Language key="pt-BR" value="Cataratas do Iguaçu, Brasil" />
+          <Language key="ja-JP" value="ブラジル イグアス滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Detian-Wasserfall, China" />
           <Language key="es-ES" value="Cascadas de Detian, China" />
           <Language key="pt-BR" value="Cataratas Detian, China" />
+          <Language key="ja-JP" value="中国 徳天瀑布" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Märchenwald, Deutschland" />
           <Language key="es-ES" value="Bosque encantado, Alemania" />
           <Language key="pt-BR" value="Floresta dos Contos de Fadas, Alemanha" />
+          <Language key="ja-JP" value="ドイツ メルヘンの森" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Lower Glen Alpine Falls, USA" />
           <Language key="es-ES" value="Cataratas alpinas de Lower Glen, EE.UU." />
           <Language key="pt-BR" value="Lower Glen Alpine Falls, EUA" />
+          <Language key="ja-JP" value="米国 グレンアルパイン滝 上滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Plitvice-Wasserfall, Kroatien" />
           <Language key="es-ES" value="Cascada de los Lagos Plitvice, Croacia" />
           <Language key="pt-BR" value="Cachoeira dos Lagos de Plitvice, Croácia" />
+          <Language key="ja-JP" value="クロアチア プリトビッツエ湖の滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

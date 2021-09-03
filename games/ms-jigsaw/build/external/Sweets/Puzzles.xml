@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="SweetsPack">
-    <Group id="Sweets" title="Sweets" sentientId="256" revision="10" packImage="1532R-34089_preview.jpg">
+    <Group id="Sweets" title="Sweets" sentientId="256" revision="1" packImage="1532R-34089_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Sucreries" />
         <Language key="it-IT" value="Dolciumi" />
         <Language key="de-DE" value="Süßes" />
         <Language key="es-ES" value="Dulces" />
         <Language key="pt-BR" value="Doces" />
+        <Language key="ja-JP" value="スイーツ" />
       </GroupLocalization>
       <Puzzle id="1532R-34089" title="Strawberry Cake" image="1532R-34089.jpg" smallImage="1532R-34089_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Erdbeertorte" />
           <Language key="es-ES" value="Tarta de fresa" />
           <Language key="pt-BR" value="Bolo de morango" />
+          <Language key="ja-JP" value="ストロベリーケーキ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -23,13 +25,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1799R-5849" title="Gingerbread Men in a Tray" image="1799R-5849.jpg" smallImage="1799R-5849_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1799R-5849" title="Gingerbread Nen In A Tray" image="1799R-5849.jpg" smallImage="1799R-5849_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Plateau de bonhommes en pain d'épices" />
           <Language key="it-IT" value="Vassoio di omini di pan di zenzero" />
           <Language key="de-DE" value="Lebkuchenfiguren auf Tablett" />
           <Language key="es-ES" value="Bandeja de galletas de jengibre" />
           <Language key="pt-BR" value="Biscoitos de gengibre em uma bandeja" />
+          <Language key="ja-JP" value="ジンジャーブレッドマン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -38,13 +41,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-87302" title="Bowl of Fruit for Picnic" image="1828R-87302.jpg" smallImage="1828R-87302_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1828R-87302" title="Bowl Of Fruit On Picnic" image="1828R-87302.jpg" smallImage="1828R-87302_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bol de fruits pour pique-nique" />
           <Language key="it-IT" value="Ciotola di frutta per picnic" />
           <Language key="de-DE" value="Obstschale beim Picknick" />
           <Language key="es-ES" value="Cuenco de frutas de picnic" />
           <Language key="pt-BR" value="Tigela de frutas em um piquenique" />
+          <Language key="ja-JP" value="ボウルに盛りつけた果物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Gefülltes Gebäck" />
           <Language key="es-ES" value="Tartas" />
           <Language key="pt-BR" value="Tortas" />
+          <Language key="ja-JP" value="パイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Kekse" />
           <Language key="es-ES" value="Galletas" />
           <Language key="pt-BR" value="Biscoitos" />
+          <Language key="ja-JP" value="クッキー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

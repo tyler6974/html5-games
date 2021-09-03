@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="SurfacesPack">
-    <Group id="Surfaces" title="Surfaces" sentientId="255" revision="6" packImage="4286R-3753_preview.jpg">
+    <Group id="Surfaces" title="Surfaces" sentientId="255" revision="1" packImage="4286R-3753_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Surfaces" />
         <Language key="it-IT" value="Superfici" />
         <Language key="de-DE" value="Oberflächen" />
         <Language key="es-ES" value="Superficies" />
         <Language key="pt-BR" value="Superfícies" />
+        <Language key="ja-JP" value="表面" />
       </GroupLocalization>
-      <Puzzle id="4286R-3753" title="Leaf with Raindrops" image="4286R-3753.jpg" smallImage="4286R-3753_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="4286R-3753" title="Leaf With Raindrops" image="4286R-3753.jpg" smallImage="4286R-3753_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Feuille avec gouttes de pluie" />
           <Language key="it-IT" value="Foglia con gocce di pioggia" />
           <Language key="de-DE" value="Blatt mit Regentropfen" />
           <Language key="es-ES" value="Hoja con gotas de lluvia" />
           <Language key="pt-BR" value="Folha com gotas de chuva" />
+          <Language key="ja-JP" value="雨粒のついた葉" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Sedimentgestein" />
           <Language key="es-ES" value="Roca sedimentaria" />
           <Language key="pt-BR" value="Rocha sedimentar" />
+          <Language key="ja-JP" value="堆積岩" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -38,13 +41,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-85740" title="Layers of Rock" image="1889R-85740.jpg" smallImage="1889R-85740_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1889R-85740" title="Layers Of Rock" image="1889R-85740.jpg" smallImage="1889R-85740_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Couches rocheuses" />
           <Language key="it-IT" value="Strati di roccia" />
           <Language key="de-DE" value="Gesteinsschichten" />
           <Language key="es-ES" value="Capas de roca" />
           <Language key="pt-BR" value="Camadas de rocha" />
+          <Language key="ja-JP" value="岩の層" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Steinmauer" />
           <Language key="es-ES" value="Muro de piedra" />
           <Language key="pt-BR" value="Muro de pedra" />
+          <Language key="ja-JP" value="石の壁" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Gebänderter Achat" />
           <Language key="es-ES" value="Ágata de Ojo Laguna" />
           <Language key="pt-BR" value="Ágata mexicana" />
+          <Language key="ja-JP" value="レース模様のメノウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Kiesel" />
           <Language key="es-ES" value="Guijarros" />
           <Language key="pt-BR" value="Pedregulhos" />
+          <Language key="ja-JP" value="玉砂利" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -98,13 +105,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-774290" title="Rusted Metal with Flaking Paint" image="1848R-774290.jpg" smallImage="1848R-774290_preview.jpg" unlockingPuzzleIds="4029R-230051">
+      <Puzzle id="1848R-774290" title="Rusted Metal With Flaking Paint" image="1848R-774290.jpg" smallImage="1848R-774290_preview.jpg" unlockingPuzzleIds="4029R-230051">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Métal rouillé et peinture écaillée" />
           <Language key="it-IT" value="Metallo arrugginito e vernice scrostata" />
           <Language key="de-DE" value="Rostiges Metall mit absplitternder Farbe" />
           <Language key="es-ES" value="Metal oxidado con láminas pintadas" />
           <Language key="pt-BR" value="Metal enferrujado com tinta descascada" />
+          <Language key="ja-JP" value="ペンキがはげてさびた金属" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Weißer Kiesel" />
           <Language key="es-ES" value="Un guijarro blanco" />
           <Language key="pt-BR" value="Um pedregulho branco" />
+          <Language key="ja-JP" value="1 粒の白い砂利" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Geriffeltes Metall" />
           <Language key="es-ES" value="Metal acanalado" />
           <Language key="pt-BR" value="Metal texturizado" />
+          <Language key="ja-JP" value="うねのある金属" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Holzverkleidung" />
           <Language key="es-ES" value="Paneles de madera" />
           <Language key="pt-BR" value="Tábuas de madeira" />
+          <Language key="ja-JP" value="木の 壁板" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -158,13 +169,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-241197" title="Moss on a Stone Wall" image="1598R-241197.jpg" smallImage="1598R-241197_preview.jpg" unlockingPuzzleIds="1647R-30464">
+      <Puzzle id="1598R-241197" title="Moss On A Stone Wall" image="1598R-241197.jpg" smallImage="1598R-241197_preview.jpg" unlockingPuzzleIds="1647R-30464">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Mousse sur un mur de pierre" />
           <Language key="it-IT" value="Muschio su muro di pietra" />
           <Language key="de-DE" value="Moos auf Steinmauer" />
           <Language key="es-ES" value="Musco en una pared de piedra" />
           <Language key="pt-BR" value="Musgo em um muro de pedra" />
+          <Language key="ja-JP" value="石壁のコケ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Holzmaserung" />
           <Language key="es-ES" value="Trozos de madera" />
           <Language key="pt-BR" value="Anéis de madeira" />
+          <Language key="ja-JP" value="木目模様" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Marmor" />
           <Language key="es-ES" value="Mármol" />
           <Language key="pt-BR" value="Mármore" />
+          <Language key="ja-JP" value="大理石" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Wasser im Swimmingpool" />
           <Language key="es-ES" value="Agua de piscina" />
           <Language key="pt-BR" value="Água de piscina" />
+          <Language key="ja-JP" value="プールの水" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -218,13 +233,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1569R-12103" title="Foam on Water" image="1569R-12103.jpg" smallImage="1569R-12103_preview.jpg" unlockingPuzzleIds="1436R-300079">
+      <Puzzle id="1569R-12103" title="Foam On Water" image="1569R-12103.jpg" smallImage="1569R-12103_preview.jpg" unlockingPuzzleIds="1436R-300079">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Mousse sur de l'eau" />
           <Language key="it-IT" value="Schiuma sull'acqua" />
           <Language key="de-DE" value="Schaum auf Wasser" />
           <Language key="es-ES" value="Espuma sobre el agua" />
           <Language key="pt-BR" value="Espuma na água" />
+          <Language key="ja-JP" value="水面の泡" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Rosa Achat" />
           <Language key="es-ES" value="Ágata rosa" />
           <Language key="pt-BR" value="Ágata rosa" />
+          <Language key="ja-JP" value="ピンクのメノウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Marmor in Nahaufnahme" />
           <Language key="es-ES" value="Mármol estrecho" />
           <Language key="pt-BR" value="Close-up de mármore" />
+          <Language key="ja-JP" value="大理石のクローズアップ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Violetter Stoff" />
           <Language key="es-ES" value="Tejido morado" />
           <Language key="pt-BR" value="Tecido roxo" />
+          <Language key="ja-JP" value="紫の生地" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Holz" />
           <Language key="es-ES" value="Madera" />
           <Language key="pt-BR" value="Madeira" />
+          <Language key="ja-JP" value="木材" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Ananas" />
           <Language key="es-ES" value="Piña" />
           <Language key="pt-BR" value="Abacaxi" />
+          <Language key="ja-JP" value="パイナップル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Zölestin" />
           <Language key="es-ES" value="Celestina" />
           <Language key="pt-BR" value="Celestita" />
+          <Language key="ja-JP" value="天青石" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Mehrfarbiger Achat" />
           <Language key="es-ES" value="Ágata multicolor" />
           <Language key="pt-BR" value="Ágata multicolorida" />
+          <Language key="ja-JP" value="多色のメノウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Marmor" />
           <Language key="es-ES" value="Mármol" />
           <Language key="pt-BR" value="Mármore" />
+          <Language key="ja-JP" value="大理石" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="Gestrickter Stoff" />
           <Language key="es-ES" value="Tejido de punto" />
           <Language key="pt-BR" value="Tecido" />
+          <Language key="ja-JP" value="ニット織物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Teeflecken" />
           <Language key="es-ES" value="Manchas de té" />
           <Language key="pt-BR" value="Manchas de chá" />
+          <Language key="ja-JP" value="紅茶のシミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Zerknittertes rotes Papier" />
           <Language key="es-ES" value="Papel rojo arrugado" />
           <Language key="pt-BR" value="Papel amassado vermelho" />
+          <Language key="ja-JP" value="しわくちゃの赤い紙" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -405,6 +432,7 @@
           <Language key="de-DE" value="Bunte Schwämme" />
           <Language key="es-ES" value="Esponjas coloreadas" />
           <Language key="pt-BR" value="Esponjas coloridas" />
+          <Language key="ja-JP" value="着色されたスポンジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -420,6 +448,7 @@
           <Language key="de-DE" value="Schlangenhaut" />
           <Language key="es-ES" value="Piel de serpiente" />
           <Language key="pt-BR" value="Pele de serpente" />
+          <Language key="ja-JP" value="ヘビの革" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -435,6 +464,7 @@
           <Language key="de-DE" value="Lollo Biondo" />
           <Language key="es-ES" value="Lactuca sativa" />
           <Language key="pt-BR" value="Alface americana" />
+          <Language key="ja-JP" value="サニーレタス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -450,6 +480,7 @@
           <Language key="de-DE" value="The Wave (Sandstein-Formation)" />
           <Language key="es-ES" value="Las ondas" />
           <Language key="pt-BR" value="A Onda" />
+          <Language key="ja-JP" value="起伏" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

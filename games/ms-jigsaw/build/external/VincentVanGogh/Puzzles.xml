@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="VincentVanGoghPack">
-    <Group id="VincentVanGogh" title="Vincent Van Gogh" sentientId="273" revision="6" packImage="1031VG-00001_preview.jpg">
+    <Group id="VincentVanGogh" title="Vincent Van Gogh" sentientId="273" revision="1" packImage="1031VG-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Vincent Van Gogh" />
         <Language key="it-IT" value="Vincent Van Gogh" />

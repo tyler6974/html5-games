@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="TrainsPack">
-    <Group id="Trains" title="Trains" sentientId="261" revision="10" packImage="1663R-9238_preview.jpg">
+    <Group id="Trains" title="Trains" sentientId="261" revision="1" packImage="1663R-9238_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Trains" />
         <Language key="it-IT" value="Treni" />
         <Language key="de-DE" value="Züge" />
         <Language key="es-ES" value="Trenes" />
         <Language key="pt-BR" value="Trens" />
+        <Language key="ja-JP" value="列車" />
       </GroupLocalization>
-      <Puzzle id="1663R-9238" title="High-Speed Train" image="1663R-9238.jpg" smallImage="1663R-9238_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1663R-9238" title="Hi Speed Train" image="1663R-9238.jpg" smallImage="1663R-9238_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Train à grande vitesse" />
           <Language key="it-IT" value="Treno ad alta velocità" />
           <Language key="de-DE" value="Hochgeschwindigkeitszug" />
           <Language key="es-ES" value="Tren de alta velocidad" />
           <Language key="pt-BR" value="Trem-bala" />
+          <Language key="ja-JP" value="高速鉄道" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Nahverkehrszug" />
           <Language key="es-ES" value="Tren de cercanías" />
           <Language key="pt-BR" value="Trem metropolitano" />
+          <Language key="ja-JP" value="通勤列車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Alte Lokomotive, Chile" />
           <Language key="es-ES" value="Locomotora vieja estación, Chile" />
           <Language key="pt-BR" value="Locomotiva antiga, Chile" />
+          <Language key="ja-JP" value="チリ 旧型機関車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Bahnübergang" />
           <Language key="es-ES" value="Paso a nivel" />
           <Language key="pt-BR" value="Passagem em nível" />
+          <Language key="ja-JP" value="踏切" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Güterzug mit vier Lokomotiven" />
           <Language key="es-ES" value="Cuatro trenes carga locomotoras" />
           <Language key="pt-BR" value="Quatro locomotivas puxando trem" />
+          <Language key="ja-JP" value="4 両連結機関車の貨物列車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-213609" title="Train in California, USA" image="1598R-213609.jpg" smallImage="1598R-213609_preview.jpg" unlockingPuzzleIds="1647R-65649">
+      <Puzzle id="1598R-213609" title="Train In California, USA" image="1598R-213609.jpg" smallImage="1598R-213609_preview.jpg" unlockingPuzzleIds="1647R-65649">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Train de Californie, États-Unis" />
           <Language key="it-IT" value="Treno in California, USA" />
           <Language key="de-DE" value="Zug in Kalifornien, USA" />
           <Language key="es-ES" value="Tren en California, EE.UU." />
           <Language key="pt-BR" value="Trem na Califórnia, EUA" />
+          <Language key="ja-JP" value="アメリカ カリフォルニアの列車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Schafberg Mountain Railway" />
           <Language key="es-ES" value="Ferrocarril de la montaña Schafberg" />
           <Language key="pt-BR" value="Ferrovia de Schafberg" />
+          <Language key="ja-JP" value="シャーフベルク登山鉄道" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Dampfmaschinenmuseum, Deutschland" />
           <Language key="es-ES" value="Museo de la máquina de vapor, Alemania" />
           <Language key="pt-BR" value="Museu de Locomotivas a Vapor, Alemanha" />
+          <Language key="ja-JP" value="ドイツ 蒸気機関車博物館" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Hochgeschwindigkeitslinien, Japan" />
           <Language key="es-ES" value="Líneas de alta velocidad, Japón" />
           <Language key="pt-BR" value="Linhas do trem-bala, Japão" />
+          <Language key="ja-JP" value="日本 新幹線" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -143,13 +153,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-8158" title="Train to Grand Canyon, USA" image="4029R-8158.jpg" smallImage="4029R-8158_preview.jpg" unlockingPuzzleIds="1436R-334598">
+      <Puzzle id="4029R-8158" title="Train To Grand Canyon, USA" image="4029R-8158.jpg" smallImage="4029R-8158_preview.jpg" unlockingPuzzleIds="1436R-334598">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Train vers le Grand Canyon, États-Unis" />
           <Language key="it-IT" value="Treno per il Grand Canyon, USA" />
           <Language key="de-DE" value="Zug zum Grand Canyon, USA" />
           <Language key="es-ES" value="Tren al Grán Cañón, EE.UU." />
           <Language key="pt-BR" value="Trem para o Grand Canyon, EUA" />
+          <Language key="ja-JP" value="米国 グランドキャニオン行の列車" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

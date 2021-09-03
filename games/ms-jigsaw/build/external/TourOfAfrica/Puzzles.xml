@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="TourOfAfricaPack">
-    <Group id="TourOfAfrica" title="Tour of Africa" sentientId="258" revision="6" packImage="4438R-1550_preview.jpg">
+    <Group id="TourOfAfrica" title="Tour of Africa" sentientId="258" revision="1" packImage="4438R-1550_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Balade en Afrique" />
         <Language key="it-IT" value="Tour Africa" />
         <Language key="de-DE" value="Tour durch Afrika" />
         <Language key="es-ES" value="Viaje por África" />
         <Language key="pt-BR" value="Tour da África" />
+        <Language key="ja-JP" value="アフリカ旅行" />
       </GroupLocalization>
       <Puzzle id="4438R-1550" title="Zebras, Kenya" image="4438R-1550.jpg" smallImage="4438R-1550_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Zebras, Kenia" />
           <Language key="es-ES" value="Cebras, Kenya" />
           <Language key="pt-BR" value="Zebras, Quênia" />
+          <Language key="ja-JP" value="ケニア シマウマ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Erg-Chebbi-Wüste, Marokko" />
           <Language key="es-ES" value="Desuerti de Erg Chebbi, Marruecos" />
           <Language key="pt-BR" value="Erg Chebbi, Marrocos" />
+          <Language key="ja-JP" value="モロッコ シェビ大砂丘" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Afrikanischer Elefant, Botsuana" />
           <Language key="es-ES" value="Elefante africano, Botsuana" />
           <Language key="pt-BR" value="Elefante-africano, Botswana" />
+          <Language key="ja-JP" value="ボツワナ アフリカゾウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Chobe-Flussufer, Botsuana" />
           <Language key="es-ES" value="Orilla del río Chobe, Botsuana" />
           <Language key="pt-BR" value="Margem do Rio Chobe, Botswana" />
+          <Language key="ja-JP" value="ボツワナ チョベ川の岸" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -68,13 +73,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1436R-312175" title="Kasbah Amridil, Morocco" image="1436R-312175.jpg" smallImage="1436R-312175_preview.jpg" unlockingPuzzleIds="1828R-3485">
+      <Puzzle id="1436R-312175" title="Kasbah Amerhidl, Morocco" image="1436R-312175.jpg" smallImage="1436R-312175_preview.jpg" unlockingPuzzleIds="1828R-3485">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="Kasbah Amridil, Maroc" />
-          <Language key="it-IT" value="Kasbah di Amridil, Marocco" />
-          <Language key="de-DE" value="Kasbah Amridil, Marokko" />
-          <Language key="es-ES" value="Kasbah Amridil, Marruecos" />
-          <Language key="pt-BR" value="Kasbah Amridil, Marrocos" />
+          <Language key="fr-FR" value="Kasbah Amerhidil, Maroc" />
+          <Language key="it-IT" value="Kasbah di Amerhidil, Marocco" />
+          <Language key="de-DE" value="Kasbah Amerhidl, Marokko" />
+          <Language key="es-ES" value="Kasbah Amerhidl, Marruecos" />
+          <Language key="pt-BR" value="Kasbah Amerhidl, Marrocos" />
+          <Language key="ja-JP" value="モロッコ イミグディールカスバ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Löwe, Namibia" />
           <Language key="es-ES" value="León, Namibia" />
           <Language key="pt-BR" value="Leão, Namíbia" />
+          <Language key="ja-JP" value="ナミビア ライオン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Ziesel, Südafrika" />
           <Language key="es-ES" value="Ardillas de Ciudad del Cabo, Sudáfrica" />
           <Language key="pt-BR" value="Esquilos-terrestres-do-cabo, Áfr. do Sul" />
+          <Language key="ja-JP" value="南アフリカ ケープアラゲジリス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Gepard, Namibia" />
           <Language key="es-ES" value="Guepardo, Namibia" />
           <Language key="pt-BR" value="Guepardo, Namíbia" />
+          <Language key="ja-JP" value="ナミビア チーター" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Serengeti, Tansania" />
           <Language key="es-ES" value="Serengeti, Tanzania" />
           <Language key="pt-BR" value="Serengeti, Tanzânia" />
+          <Language key="ja-JP" value="タンザニア セレンゲティ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Namib-Wüste, Namibia" />
           <Language key="es-ES" value="Desierto de Namib, Namibia" />
           <Language key="pt-BR" value="Deserto da Namíbia" />
+          <Language key="ja-JP" value="ナミビア ナミブ砂漠" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Thomson-Gazelle, Tansania" />
           <Language key="es-ES" value="Gacela de Thomson, Tanzania" />
           <Language key="pt-BR" value="Gazela-de-thomson, Tanzânia" />
+          <Language key="ja-JP" value="タンザニア トムソンガゼル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Maitlands Beach, Südafrika" />
           <Language key="es-ES" value="Playa de Maitlands, Sudáfrica" />
           <Language key="pt-BR" value="Maitlands, África do Sul" />
+          <Language key="ja-JP" value="南アフリカ メートランドの海岸" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Löwenjunges, Kenia" />
           <Language key="es-ES" value="Club de leones, Kenia" />
           <Language key="pt-BR" value="Leão filhote, Quênia" />
+          <Language key="ja-JP" value="ケニア ライオンの子" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Victoria Falls, Simbabwe" />
           <Language key="es-ES" value="Cataratas Victoria, Zimbabue" />
           <Language key="pt-BR" value="Cataratas Vitória, Zimbábue" />
+          <Language key="ja-JP" value="ジンバブエ ビクトリアの滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Grüne Meerkatze, Südafrika" />
           <Language key="es-ES" value="Cercopiteco verde, Sudáfrica" />
           <Language key="pt-BR" value="Macaco-vervet, África do Sul" />
+          <Language key="ja-JP" value="南アフリカ サバンナモンキー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Anse Lazio, Seychellen" />
           <Language key="es-ES" value="Anse Lazio, Seychelles" />
           <Language key="pt-BR" value="Anse Lazio, Seychelles" />
+          <Language key="ja-JP" value="セイシェル アンス ラジオ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Breitmaulnashorn, Südafrika" />
           <Language key="es-ES" value="Rinocerontes blancos, Sudáfrica" />
           <Language key="pt-BR" value="Rinoceronte-branco, África do Sul" />
+          <Language key="ja-JP" value="南アフリカ シロサイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Trommeln, Südafrika" />
           <Language key="es-ES" value="Tambores, Sudáfrica" />
           <Language key="pt-BR" value="Tambor, África do Sul" />
+          <Language key="ja-JP" value="南アフリカ ドラム演奏" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Antilopen" />
           <Language key="es-ES" value="Antílopes" />
           <Language key="pt-BR" value="Antílopes" />
+          <Language key="ja-JP" value="アンテロープ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Western Cape Province, Südafrika" />
           <Language key="es-ES" value="Provincia de Cape Town, Sudáfrica" />
           <Language key="pt-BR" value="Província do Cabo Ocidental, Áfr. do Sul" />
+          <Language key="ja-JP" value="南アフリカ 西ケープ州" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Elenantilope, Kenia" />
           <Language key="es-ES" value="Taurotragus, Kenia" />
           <Language key="pt-BR" value="Elande, Quênia" />
+          <Language key="ja-JP" value="ケニア エランド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Elefant, Kenia" />
           <Language key="es-ES" value="Elefante, Kenia" />
           <Language key="pt-BR" value="Elefante, Quênia" />
+          <Language key="ja-JP" value="ケニア ゾウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Merzouga, Marokko" />
           <Language key="es-ES" value="Merzouga, Marruecos" />
           <Language key="pt-BR" value="Merzouga, Marrocos" />
+          <Language key="ja-JP" value="モロッコ メルズーガ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -353,13 +377,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-222220" title="Ksar of Aït Benhaddou, Morocco" image="1598R-222220.jpg" smallImage="1598R-222220_preview.jpg" unlockingPuzzleIds="1848R-292795">
+      <Puzzle id="1598R-222220" title="Ksar Of Aït Benhaddou, Morocco" image="1598R-222220.jpg" smallImage="1598R-222220_preview.jpg" unlockingPuzzleIds="1848R-292795">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Ksar Aït-ben-Haddou, Maroc" />
           <Language key="it-IT" value="Ksar di Aït Benhaddou, Marocco" />
           <Language key="de-DE" value="Ksar Of Aït Benhaddou, Marokko" />
           <Language key="es-ES" value="Ksar Of Aït Benhaddou, Marruecos" />
           <Language key="pt-BR" value="Ksar Aït Benhaddou, Marrocos" />
+          <Language key="ja-JP" value="モロッコ アイトベンハドゥの集落" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -368,13 +393,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1896R-17420" title="Traditional Fishing Boat, South Africa" image="1896R-17420.jpg" smallImage="1896R-17420_preview.jpg" unlockingPuzzleIds="1598R-222220">
+      <Puzzle id="1896R-17420" title="Traditional fishing boat, South Africa" image="1896R-17420.jpg" smallImage="1896R-17420_preview.jpg" unlockingPuzzleIds="1598R-222220">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bateau de pêche, Afrique du Sud" />
           <Language key="it-IT" value="Barca da pesca tradizionale, Sudafrica" />
           <Language key="de-DE" value="Traditionelles Fischerboot, Südafrika" />
           <Language key="es-ES" value="Barca de pesca tradicional, Sudáfrica" />
           <Language key="pt-BR" value="Barco de pesca tradicional, Áfr. do Sul" />
+          <Language key="ja-JP" value="南アフリカ 伝統的な漁船" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Chamäleon (Calumma globifer), Madagaskar" />
           <Language key="es-ES" value="Calumma parsonii, Madagascar" />
           <Language key="pt-BR" value="Calumma globifer, Madagáscar" />
+          <Language key="ja-JP" value="マダガスカル コブハナカメレオン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -405,6 +432,7 @@
           <Language key="de-DE" value="Geparden, Botsuana" />
           <Language key="es-ES" value="Guepardo, Botsuana" />
           <Language key="pt-BR" value="Guepardos, Botswana" />
+          <Language key="ja-JP" value="ボツワナ チーター" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -420,6 +448,7 @@
           <Language key="de-DE" value="Giraffen, Tansania" />
           <Language key="es-ES" value="Jirafas, Tanzania" />
           <Language key="pt-BR" value="Girafas, Tanzânia" />
+          <Language key="ja-JP" value="タンザニア キリン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -428,13 +457,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1574R-015232" title="Anse Patates Beach, La Digue, Seychelles" image="1574R-015232.jpg" smallImage="1574R-015232_preview.jpg" unlockingPuzzleIds="1525R-185071">
+      <Puzzle id="1574R-015232" title="Anse Patates La Digue, Seychelles" image="1574R-015232.jpg" smallImage="1574R-015232_preview.jpg" unlockingPuzzleIds="1525R-185071">
         <PuzzleLocalization>
           <Language key="fr-FR" value="La Digue d'Anse Patates, Seychelles" />
-          <Language key="it-IT" value="Anse Patates, La Digue, Seychelles" />
-          <Language key="de-DE" value="Anse Patates, La Digue, Seychellen" />
-          <Language key="es-ES" value="Anse Patates, La Digue, Seychelles" />
-          <Language key="pt-BR" value="Anse Patates, La Digue, Seychelles" />
+          <Language key="it-IT" value="Anse Patates La Digue, Seychelles" />
+          <Language key="de-DE" value="Anse Patates La Digue, Seychellen" />
+          <Language key="es-ES" value="Anse Patates La Digue, Seychelles" />
+          <Language key="pt-BR" value="Anse Patates La Digue, Seychelles" />
+          <Language key="ja-JP" value="セイシェル アンス パタテ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -450,6 +480,7 @@
           <Language key="de-DE" value="Clifton Beach, Südafrika" />
           <Language key="es-ES" value="Playa Clifton, Sudáfrica" />
           <Language key="pt-BR" value="Praia de Clifton, África do Sul" />
+          <Language key="ja-JP" value="南アフリカ クリフトンビーチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

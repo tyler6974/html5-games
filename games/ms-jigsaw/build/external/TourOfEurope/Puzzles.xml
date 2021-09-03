@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="TourOfEuropePack">
-    <Group id="TourOfEurope" title="Tour of Europe" sentientId="259" revision="6" packImage="1647R-144750_preview.jpg">
+    <Group id="TourOfEurope" title="Tour of Europe" sentientId="259" revision="1" packImage="1647R-144750_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Tour d'Europe" />
         <Language key="it-IT" value="Giro d'Europa" />
         <Language key="de-DE" value="Tour durch Europa" />
         <Language key="es-ES" value="Viaje por Europa" />
         <Language key="pt-BR" value="Tour da Europa" />
+        <Language key="ja-JP" value="ヨーロッパ旅行" />
       </GroupLocalization>
       <Puzzle id="1647R-144750" title="Wurzburg, Germany" image="1647R-144750.jpg" smallImage="1647R-144750_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Würzburg, Deutschland" />
           <Language key="es-ES" value="Wurzburgo, Alemania" />
           <Language key="pt-BR" value="Wurzburgo, Alemanha" />
+          <Language key="ja-JP" value="ドイツ ヴュルツブルク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Madrid" />
           <Language key="es-ES" value="Madrid" />
           <Language key="pt-BR" value="Madri" />
+          <Language key="ja-JP" value="マドリード" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Finnland" />
           <Language key="es-ES" value="Finlandia" />
           <Language key="pt-BR" value="Finlândia" />
+          <Language key="ja-JP" value="フィンランド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Kanaren" />
           <Language key="es-ES" value="Islas Canarias" />
           <Language key="pt-BR" value="Ilhas Canárias" />
+          <Language key="ja-JP" value="カナリア諸島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Spessart" />
           <Language key="es-ES" value="Spessart" />
           <Language key="pt-BR" value="Spessart" />
+          <Language key="ja-JP" value="シュペッサルト" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Lipník nad Bečvou" />
           <Language key="es-ES" value="Lipník nad Bečvou" />
           <Language key="pt-BR" value="Lipník nad Bečvou" />
+          <Language key="ja-JP" value="プニーク ナド ベチヴォウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Bad Bergzabern" />
           <Language key="es-ES" value="Bad Bergzabern" />
           <Language key="pt-BR" value="Bad Bergzabern" />
+          <Language key="ja-JP" value="バート ベルクツァバン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Mykonos" />
           <Language key="es-ES" value="Miconos" />
           <Language key="pt-BR" value="Míconos" />
+          <Language key="ja-JP" value="ミコノス島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Luzern" />
           <Language key="es-ES" value="Lucerna" />
           <Language key="pt-BR" value="Lucerna" />
+          <Language key="ja-JP" value="ルツェルン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Keukenhof" />
           <Language key="es-ES" value="Keukenhof" />
           <Language key="pt-BR" value="Keukenhof" />
+          <Language key="ja-JP" value="キューケンホフ公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -158,13 +169,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1848R-279693" title="House in Austria" image="1848R-279693.jpg" smallImage="1848R-279693_preview.jpg" unlockingPuzzleIds="1848R-368398">
+      <Puzzle id="1848R-279693" title="House In Austria" image="1848R-279693.jpg" smallImage="1848R-279693_preview.jpg" unlockingPuzzleIds="1848R-368398">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Maison autrichienne" />
           <Language key="it-IT" value="Casa austriaca" />
           <Language key="de-DE" value="Haus in Österreich" />
           <Language key="es-ES" value="Casa austríaca" />
           <Language key="pt-BR" value="Casa na Áustria" />
+          <Language key="ja-JP" value="オーストリアの家" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Oberalppass" />
           <Language key="es-ES" value="Paso de Oberalp" />
           <Language key="pt-BR" value="Passo do Oberalp" />
+          <Language key="ja-JP" value="オーバーアルプ峠" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Nyhavn-Kanal" />
           <Language key="es-ES" value="Canal de Nyhavn" />
           <Language key="pt-BR" value="Canal Nyhavn" />
+          <Language key="ja-JP" value="ニューハウン運河" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Pula" />
           <Language key="es-ES" value="Pula" />
           <Language key="pt-BR" value="Pula" />
+          <Language key="ja-JP" value="プーラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Königliches Dramatisches Theater" />
           <Language key="es-ES" value="Teatro Dramático Real" />
           <Language key="pt-BR" value="Teatro Dramático Real da Suécia" />
+          <Language key="ja-JP" value="王立劇場" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Villefranche-sur-Mer" />
           <Language key="es-ES" value="Villfranche-sur-Mer" />
           <Language key="pt-BR" value="Villefranche-sur-Mer" />
+          <Language key="ja-JP" value="ヴィルフランシュ シュル メール" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Stara Fuzina" />
           <Language key="es-ES" value="Stara Fuzina" />
           <Language key="pt-BR" value="Stara Fužina" />
+          <Language key="ja-JP" value="スタラフズィナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Plomari" />
           <Language key="es-ES" value="Plomari" />
           <Language key="pt-BR" value="Plomari" />
+          <Language key="ja-JP" value="プロマリ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Peloponnes" />
           <Language key="es-ES" value="Peloponeso" />
           <Language key="pt-BR" value="Peloponeso" />
+          <Language key="ja-JP" value="ペロポネソス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Flam" />
           <Language key="es-ES" value="Flam" />
           <Language key="pt-BR" value="Flåm" />
+          <Language key="ja-JP" value="フロム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Nordlichter" />
           <Language key="es-ES" value="Aurora boreal" />
           <Language key="pt-BR" value="Aurora Boreal" />
+          <Language key="ja-JP" value="オーロラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Riga" />
           <Language key="es-ES" value="Riga" />
           <Language key="pt-BR" value="Riga" />
+          <Language key="ja-JP" value="リガ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Capri" />
           <Language key="es-ES" value="Capri" />
           <Language key="pt-BR" value="Capri" />
+          <Language key="ja-JP" value="カプリ島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="Piazza Motta, Tessin, Schweiz" />
           <Language key="es-ES" value="Piazza Motta, Tesino, Suiza" />
           <Language key="pt-BR" value="Piazza Motta, Ticino, Suiça" />
+          <Language key="ja-JP" value="スイス ティチーノ州 モッタ広場" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Seefeld, Tirol, Österreich" />
           <Language key="es-ES" value="Seefeld, Tirol, Austria" />
           <Language key="pt-BR" value="Seefeld, Tirol, Áustria" />
+          <Language key="ja-JP" value="オーストリア ゼーフェルト" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Oberpfalz, Bayern, Deutschland" />
           <Language key="es-ES" value="Alto Palatinado, Baviera, Alemania" />
           <Language key="pt-BR" value="Alto Palatinado, Baviera, Alemanha" />
+          <Language key="ja-JP" value="ドイツ オーバープファルツ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -405,6 +432,7 @@
           <Language key="de-DE" value="Löwen, Flämisch-Brabant, Belgien" />
           <Language key="es-ES" value="Lovaina, Bravante Flamenco, Bélgica" />
           <Language key="pt-BR" value="Lovaina, Brabante Flamengo, Bélgica" />
+          <Language key="ja-JP" value="ベルギー ルーベン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -420,6 +448,7 @@
           <Language key="de-DE" value="Brügge, Belgien" />
           <Language key="es-ES" value="Brujas, Bélgica" />
           <Language key="pt-BR" value="Bruges, Bélgica" />
+          <Language key="ja-JP" value="ベルギー ブルージュ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -435,6 +464,7 @@
           <Language key="de-DE" value="Lissabon, Portugal" />
           <Language key="es-ES" value="Lisboa, Portugal" />
           <Language key="pt-BR" value="Lisboa, Portugal" />
+          <Language key="ja-JP" value="ポルトガル リスボン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -450,6 +480,7 @@
           <Language key="de-DE" value="Agios Nikolaos, Kreta, Griechenland" />
           <Language key="es-ES" value="Agios Nikolaos, Creta, islas griegas" />
           <Language key="pt-BR" value="São Nicolau, Creta, Grécia" />
+          <Language key="ja-JP" value="クレタ島 アギオス ニコラオス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

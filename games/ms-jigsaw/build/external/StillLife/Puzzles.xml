@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="StillLifePack">
-    <Group id="StillLife" title="Still Life" sentientId="272" revision="6" packImage="1031ST-00001_preview.jpg">
+    <Group id="StillLife" title="Still Life" sentientId="272" revision="1" packImage="1031ST-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Nature morte" />
         <Language key="it-IT" value="Natura morta" />

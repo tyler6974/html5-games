@@ -1,6 +1,6 @@
 {
   "packId":"Defaults",
-  "puzzlesCount": 2284,
+  "puzzlesCount": 2309,
   "packs":
   [
     {
@@ -1881,6 +1881,21 @@
         {"key":"es-ES", "value": "Ruinas antiguas"},
         {"key":"pt-BR", "value": "Ruínas Antigas"},
         {"key":"ja-JP", "value": "古代遺跡"}
+      ]
+    },
+    {
+      "id": "Bowling",
+      "packImage": "1828R-72951_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Bowling"},
+        {"key":"fr-FR", "value": "Bowling"},
+        {"key":"it-IT", "value": "Bowling"},
+        {"key":"de-DE", "value": "Bowling"},
+        {"key":"es-ES", "value": "Bolos"},
+        {"key":"pt-BR", "value": "Boliche"},
+        {"key":"ja-JP", "value": "ボウリング"}
       ]
     }
   ]

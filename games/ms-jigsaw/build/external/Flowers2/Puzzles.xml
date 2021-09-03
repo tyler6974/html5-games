@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="Flowers2Pack">
-    <Group id="Flowers2" title="Flowers 2" sentientId="278" revision="3" packImage="1040FS-00001_preview.jpg">
+    <Group id="Flowers2" title="Flowers 2" sentientId="278" revision="1" packImage="1040FS-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Fleurs 2" />
         <Language key="it-IT" value="Fiori 2" />

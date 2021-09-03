@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="HorsesPack">
-    <Group id="Horses" title="Horses" sentientId="228" revision="8" packImage="1436R-308436_preview.jpg">
+    <Group id="Horses" title="Horses" sentientId="228" revision="1" packImage="1436R-308436_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Chevaux" />
         <Language key="it-IT" value="Cavalli" />
         <Language key="de-DE" value="Pferde" />
         <Language key="es-ES" value="Caballos" />
         <Language key="pt-BR" value="Cavalos" />
+        <Language key="ja-JP" value="馬" />
       </GroupLocalization>
-      <Puzzle id="1436R-308436" title="Horse in a Meadow, Scotland" image="1436R-308436.jpg" smallImage="1436R-308436_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1436R-308436" title="Horse In A Meadow, Scotland" image="1436R-308436.jpg" smallImage="1436R-308436_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Cheval dans une prairie, Écosse" />
           <Language key="it-IT" value="Cavallo in un campo, Scozia" />
           <Language key="de-DE" value="Pferd auf einer Wiese, Schottland" />
           <Language key="es-ES" value="Caballo en un prado, Escocia" />
           <Language key="pt-BR" value="Cavalo em um prado, Escócia" />
+          <Language key="ja-JP" value="スコットランド 草原の馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Wildpferde" />
           <Language key="es-ES" value="Caballos salvajes" />
           <Language key="pt-BR" value="Cavalos selvagens" />
+          <Language key="ja-JP" value="野生の馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Württemberger Warmblut" />
           <Language key="es-ES" value="Caballo Württemberg" />
           <Language key="pt-BR" value="Cavalo de Württemberg" />
+          <Language key="ja-JP" value="ヴュルテンベルク種の馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Zwei Lusitanos" />
           <Language key="es-ES" value="Dos caballos lusitanos" />
           <Language key="pt-BR" value="Dois puros-sangues lusitanos" />
+          <Language key="ja-JP" value="ルシターノ種の馬 2 頭" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-25392" title="Horse with a Harness" image="1889R-25392.jpg" smallImage="1889R-25392_preview.jpg" unlockingPuzzleIds="4279R-61008">
+      <Puzzle id="1889R-25392" title="Horse With A Harness" image="1889R-25392.jpg" smallImage="1889R-25392_preview.jpg" unlockingPuzzleIds="4279R-61008">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Cheval harnaché" />
           <Language key="it-IT" value="Cavallo con finimenti" />
           <Language key="de-DE" value="Pferd mit Geschirr" />
           <Language key="es-ES" value="Caballo enjaezado" />
           <Language key="pt-BR" value="Cavalo com arreio" />
+          <Language key="ja-JP" value="馬具をつけた馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Lusitano" />
           <Language key="es-ES" value="Caballo lusitano" />
           <Language key="pt-BR" value="Puro-sangue lusitano" />
+          <Language key="ja-JP" value="ルシターノ種の馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -98,13 +105,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-7671" title="Eye of a Horse" image="1889R-7671.jpg" smallImage="1889R-7671_preview.jpg" unlockingPuzzleIds="4279R-55323">
+      <Puzzle id="1889R-7671" title="Eye Of A Horse" image="1889R-7671.jpg" smallImage="1889R-7671_preview.jpg" unlockingPuzzleIds="4279R-55323">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Œil d'un cheval" />
           <Language key="it-IT" value="Occhio di un cavallo" />
           <Language key="de-DE" value="Pferdeauge" />
           <Language key="es-ES" value="Ojo de caballo" />
           <Language key="pt-BR" value="Olho de cavalo" />
+          <Language key="ja-JP" value="馬の目" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -113,13 +121,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1815R-111161" title="Horses Grazing in Meadow" image="1815R-111161.jpg" smallImage="1815R-111161_preview.jpg" unlockingPuzzleIds="1889R-7671">
+      <Puzzle id="1815R-111161" title="Horses Grazing In Meadow" image="1815R-111161.jpg" smallImage="1815R-111161_preview.jpg" unlockingPuzzleIds="1889R-7671">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Chevaux pâturant dans une prairie" />
           <Language key="it-IT" value="Cavalli al pascolo" />
           <Language key="de-DE" value="Auf Wiese grasende Pferde" />
           <Language key="es-ES" value="Caballos pastando en el prado" />
           <Language key="pt-BR" value="Cavalos pastando em um prado" />
+          <Language key="ja-JP" value="草原で草をはむ馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Pferd" />
           <Language key="es-ES" value="Caballo" />
           <Language key="pt-BR" value="Cavalo" />
+          <Language key="ja-JP" value="馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Tinker-Pony" />
           <Language key="es-ES" value="Caballo tinker" />
           <Language key="pt-BR" value="Cavalo cigano" />
+          <Language key="ja-JP" value="やんちゃな子馬" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

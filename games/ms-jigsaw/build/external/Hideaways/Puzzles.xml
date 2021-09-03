@@ -1,0 +1,94 @@
+<Puzzles>
+  <Groups packId="HideawaysPack">
+    <Group id="Hideaways" title="Hideaways" sentientId="361" revision="1" packImage="1598R-12045407_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Cachettes idylliques" />
+        <Language key="it-IT" value="Rifugi" />
+        <Language key="de-DE" value="Landhäuschen" />
+        <Language key="es-ES" value="Escondites" />
+        <Language key="pt-BR" value="Refúgios" />
+        <Language key="ja-JP" value="隠れ家" />
+      </GroupLocalization>
+      <Puzzle id="1598R-12045407" title="Guest House" image="1598R-12045407.jpg" smallImage="1598R-12045407_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Maison d'hôte" />
+          <Language key="it-IT" value="Pensione" />
+          <Language key="de-DE" value="Gästehaus" />
+          <Language key="es-ES" value="Casa de invitados" />
+          <Language key="pt-BR" value="Casa de Hóspedes" />
+          <Language key="ja-JP" value="ゲストハウス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1775R-12150898" title="Isle of Harris" image="1775R-12150898.jpg" smallImage="1775R-12150898_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Île de Harris" />
+          <Language key="it-IT" value="Isola di Harris" />
+          <Language key="de-DE" value="Isle of Harris" />
+          <Language key="es-ES" value="Isla de Harris" />
+          <Language key="pt-BR" value="Ilha de Harris" />
+          <Language key="ja-JP" value="ハリス島" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13354136" title="Brick and Vine" image="1589R-13354136.jpg" smallImage="1589R-13354136_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Briques et vigne" />
+          <Language key="it-IT" value="Mattoni e vite" />
+          <Language key="de-DE" value="Ziegel und Efeu" />
+          <Language key="es-ES" value="Ladrillo y enredaderas" />
+          <Language key="pt-BR" value="Tijolos e Videiras" />
+          <Language key="ja-JP" value="レンガとつた" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-1139463" title="Irish Cottage" image="1439R-1139463.jpg" smallImage="1439R-1139463_preview.jpg" unlockingPuzzleIds="1598R-12045407,1775R-12150898,1589R-13354136">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cottage irlandais" />
+          <Language key="it-IT" value="Cottage irlandese" />
+          <Language key="de-DE" value="Irisches Landhaus" />
+          <Language key="es-ES" value="Casa de campo irlandesa" />
+          <Language key="pt-BR" value="Chalé Irlandês" />
+          <Language key="ja-JP" value="アイルランドの小屋" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4428R-13021965" title="Haslemere House" image="4428R-13021965.jpg" smallImage="4428R-13021965_preview.jpg" unlockingPuzzleIds="1439R-1139463">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Maison à Haslemere" />
+          <Language key="it-IT" value="Casa ad Haslemere" />
+          <Language key="de-DE" value="Haus Haslemere" />
+          <Language key="es-ES" value="Casa en Haslemere" />
+          <Language key="pt-BR" value="Casa em Haslemere" />
+          <Language key="ja-JP" value="ハスルメア ハウス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

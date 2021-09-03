@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="FoodPack">
-    <Group id="Food" title="Food" sentientId="221" revision="9" packImage="1815R-20687_preview.jpg">
+    <Group id="Food" title="Food" sentientId="221" revision="1" packImage="1815R-20687_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Aliments" />
         <Language key="it-IT" value="Alimenti" />
         <Language key="de-DE" value="Essen" />
         <Language key="es-ES" value="Comida" />
         <Language key="pt-BR" value="Comida" />
+        <Language key="ja-JP" value="食べ物" />
       </GroupLocalization>
       <Puzzle id="1815R-20687" title="Vegetables" image="1815R-20687.jpg" smallImage="1815R-20687_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Gemüse" />
           <Language key="es-ES" value="Hortalizas" />
           <Language key="pt-BR" value="Vegetais" />
+          <Language key="ja-JP" value="野菜" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Chicken-Burger" />
           <Language key="es-ES" value="Hamburguesa de pollo" />
           <Language key="pt-BR" value="Hambúrguer de frango" />
+          <Language key="ja-JP" value="チキンバーガー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Süßigkeiten" />
           <Language key="es-ES" value="Caramelos" />
           <Language key="pt-BR" value="Doces" />
+          <Language key="ja-JP" value="キャンディー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Schokoladendessert" />
           <Language key="es-ES" value="Marquesa de chocolate" />
           <Language key="pt-BR" value="Sobremesa de chocolate" />
+          <Language key="ja-JP" value="チョコレートマルキーズ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Farbenfrohe Paprika" />
           <Language key="es-ES" value="Pimientos de colores" />
           <Language key="pt-BR" value="Pimentões coloridos" />
+          <Language key="ja-JP" value="色とりどりのトウガラシ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Shirley Temple Cocktail" />
           <Language key="es-ES" value="Cóctel Shirley Temple" />
           <Language key="pt-BR" value="Coquetel Shirley Temple" />
+          <Language key="ja-JP" value="シャーリーテンプル (カクテル)" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Japanische Süßigkeiten" />
           <Language key="es-ES" value="Dulces japoneses" />
           <Language key="pt-BR" value="Doces japoneses" />
+          <Language key="ja-JP" value="和菓子" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Kokosnuss-Baiser-Kuchen" />
           <Language key="es-ES" value="Tarta de coco y merengue" />
           <Language key="pt-BR" value="Torta de suspiro de coco" />
+          <Language key="ja-JP" value="ココナツ メレンゲパイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Frisches Obst" />
           <Language key="es-ES" value="Fruta fresca" />
           <Language key="pt-BR" value="Frutas frescas" />
+          <Language key="ja-JP" value="果物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Obstkuchen" />
           <Language key="es-ES" value="Tarta de frutas" />
           <Language key="pt-BR" value="Torta de frutas" />
+          <Language key="ja-JP" value="フルーツタルト" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -158,13 +169,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1815R-13677" title="Piece of Marzipan Torte" image="1815R-13677.jpg" smallImage="1815R-13677_preview.jpg" unlockingPuzzleIds="1436R-439642">
+      <Puzzle id="1815R-13677" title="Piece Of Marzipan Torte" image="1815R-13677.jpg" smallImage="1815R-13677_preview.jpg" unlockingPuzzleIds="1436R-439642">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Part de tarte au massepain" />
           <Language key="it-IT" value="Fetta di torta di marzapane" />
           <Language key="de-DE" value="Stück Marzipantorte" />
           <Language key="es-ES" value="Trozo de mazapán" />
           <Language key="pt-BR" value="Pedaço de torta de marzipã" />
+          <Language key="ja-JP" value="マジパントルテ 一切れ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Fettuccine mit Hühnchen" />
           <Language key="es-ES" value="Fettucini con pollo" />
           <Language key="pt-BR" value="Macarrão com frango" />
+          <Language key="ja-JP" value="チキン フェットチーネ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Blattsalat" />
           <Language key="es-ES" value="Ensalada verde" />
           <Language key="pt-BR" value="Salada de folhas" />
+          <Language key="ja-JP" value="グリーンサラダ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Früchtebrot" />
           <Language key="es-ES" value="Pastel de frutas" />
           <Language key="pt-BR" value="Bolo de fruta" />
+          <Language key="ja-JP" value="フルーツケーキ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Nüsse" />
           <Language key="es-ES" value="Frutos secos" />
           <Language key="pt-BR" value="Nozes" />
+          <Language key="ja-JP" value="ナッツ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Frischgebackenes Brot" />
           <Language key="es-ES" value="Pan recién horneado" />
           <Language key="pt-BR" value="Pão recém-assado" />
+          <Language key="ja-JP" value="焼きたてのパン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Ratatouille" />
           <Language key="es-ES" value="Pisto" />
           <Language key="pt-BR" value="Sopa de vegetais" />
+          <Language key="ja-JP" value="ラタトゥイユ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Österliches Kuchenbuffet" />
           <Language key="es-ES" value="Bufé de pasteles de Pascua" />
           <Language key="pt-BR" value="Bufê de bolo de páscoa" />
+          <Language key="ja-JP" value="イースター ケーキビュッフェ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Leckere Pizza" />
           <Language key="es-ES" value="Pizza sabrosa" />
           <Language key="pt-BR" value="Pizza deliciosa" />
+          <Language key="ja-JP" value="おいしいピザ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Kaffeebohnen" />
           <Language key="es-ES" value="Granos de café" />
           <Language key="pt-BR" value="Grãos de café" />
+          <Language key="ja-JP" value="コーヒー豆" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Bagelsortiment" />
           <Language key="es-ES" value="Rosquillas variadas" />
           <Language key="pt-BR" value="Bagels sortidos" />
+          <Language key="ja-JP" value="ベーグル盛り合わせ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -323,13 +345,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1491R-1157430" title="Assorted Food on a Plate" image="1491R-1157430.jpg" smallImage="1491R-1157430_preview.jpg" unlockingPuzzleIds="1647R-168417">
+      <Puzzle id="1491R-1157430" title="Assorted Food On A Plate" image="1491R-1157430.jpg" smallImage="1491R-1157430_preview.jpg" unlockingPuzzleIds="1647R-168417">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Plateau de nourriture" />
           <Language key="it-IT" value="Tagliere di formaggi" />
           <Language key="de-DE" value="Käseauswahl auf Teller" />
           <Language key="es-ES" value="Bandeja de quesos" />
           <Language key="pt-BR" value="Alimentos diversos em um prato" />
+          <Language key="ja-JP" value="おつまみ盛り合わせ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

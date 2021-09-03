@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="FruitPack">
-    <Group id="Fruit" title="Fruit" sentientId="223" revision="11" packImage="4029R-320204_preview.jpg">
+    <Group id="Fruit" title="Fruit" sentientId="223" revision="1" packImage="4029R-320204_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Fruits" />
         <Language key="it-IT" value="Frutta" />
         <Language key="de-DE" value="Obst" />
         <Language key="es-ES" value="Frutas" />
         <Language key="pt-BR" value="Frutas" />
+        <Language key="ja-JP" value="果物" />
       </GroupLocalization>
       <Puzzle id="4029R-320204" title="Fruit" image="4029R-320204.jpg" smallImage="4029R-320204_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Obst" />
           <Language key="es-ES" value="Fruta" />
           <Language key="pt-BR" value="Frutas" />
+          <Language key="ja-JP" value="果物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -23,13 +25,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1525R-170270" title="Fruit in a Bowl" image="1525R-170270.jpg" smallImage="1525R-170270_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1525R-170270" title="Fruit In A Bowl" image="1525R-170270.jpg" smallImage="1525R-170270_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Saladier de fruits" />
           <Language key="it-IT" value="Cestino di frutta" />
           <Language key="de-DE" value="Obst in der Schale" />
           <Language key="es-ES" value="Fruta en un frutero" />
           <Language key="pt-BR" value="Frutas em uma fruteira" />
+          <Language key="ja-JP" value="器に盛られた果物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Orangen" />
           <Language key="es-ES" value="Naranjas" />
           <Language key="pt-BR" value="Laranjas" />
+          <Language key="ja-JP" value="オレンジ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Blaubeeren" />
           <Language key="es-ES" value="Arándanos" />
           <Language key="pt-BR" value="Mirtilos" />
+          <Language key="ja-JP" value="ブルーベリー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Kiwi" />
           <Language key="es-ES" value="Kiwi" />
           <Language key="pt-BR" value="Kiwi" />
+          <Language key="ja-JP" value="キウイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Obstauswahl" />
           <Language key="es-ES" value="Fruta variada" />
           <Language key="pt-BR" value="Frutas variadas" />
+          <Language key="ja-JP" value="さまざまな果物" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Pfirsiche" />
           <Language key="es-ES" value="Melocotones" />
           <Language key="pt-BR" value="Pêssegos" />
+          <Language key="ja-JP" value="白桃" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Erdbeeren" />
           <Language key="es-ES" value="Fresas" />
           <Language key="pt-BR" value="Morangos" />
+          <Language key="ja-JP" value="イチゴ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Mangostanfrüchte" />
           <Language key="es-ES" value="Mangostán" />
           <Language key="pt-BR" value="Mangostão" />
+          <Language key="ja-JP" value="マンゴスチン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Nektarine" />
           <Language key="es-ES" value="Nectarina" />
           <Language key="pt-BR" value="Nectarina" />
+          <Language key="ja-JP" value="ネクタリン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

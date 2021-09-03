@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="HedgehogsPack">
-    <Group id="Hedgehogs" title="Hedgehogs" sentientId="225" revision="8" packImage="1841R-98414_preview.jpg">
+    <Group id="Hedgehogs" title="Hedgehogs" sentientId="225" revision="1" packImage="1841R-98414_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Hérissons" />
         <Language key="it-IT" value="Ricci" />
         <Language key="de-DE" value="Igel" />
         <Language key="es-ES" value="Erizos" />
         <Language key="pt-BR" value="Porcos-espinhos" />
+        <Language key="ja-JP" value="ハリネズミ" />
       </GroupLocalization>
       <Puzzle id="1841R-98414" title="Hedgehog" image="1841R-98414.jpg" smallImage="1841R-98414_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Igel" />
           <Language key="es-ES" value="Erizo" />
           <Language key="pt-BR" value="Porco-espinho" />
+          <Language key="ja-JP" value="ハリネズミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -23,13 +25,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4279R-60691" title="Hedgehog on Autumn Foliage" image="4279R-60691.jpg" smallImage="4279R-60691_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="4279R-60691" title="Hedgehog On Autumn Foliage" image="4279R-60691.jpg" smallImage="4279R-60691_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Hérisson sur feuilles d'automne" />
           <Language key="it-IT" value="Riccio su fogliame autunnale" />
           <Language key="de-DE" value="Igel auf Herbstlaub" />
           <Language key="es-ES" value="Erizo sobre hojas de otoño" />
           <Language key="pt-BR" value="Porco-espinho em folhagem de outono" />
+          <Language key="ja-JP" value="秋の落ち葉とハリネズ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Schlafender Igel" />
           <Language key="es-ES" value="Erizo durmiendo" />
           <Language key="pt-BR" value="Porco-espinho dormindo" />
+          <Language key="ja-JP" value="眠っているハリネズミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -53,13 +57,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4279R-60347" title="Hedgehog on Forest Moss" image="4279R-60347.jpg" smallImage="4279R-60347_preview.jpg" unlockingPuzzleIds="1841R-98414,4279R-60691,1848R-332408">
+      <Puzzle id="4279R-60347" title="Hedgehog On Forest Moss" image="4279R-60347.jpg" smallImage="4279R-60347_preview.jpg" unlockingPuzzleIds="1841R-98414,4279R-60691,1848R-332408">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Hérisson sur mousse de forêt" />
           <Language key="it-IT" value="Riccio nella foresta" />
           <Language key="de-DE" value="Igel auf waldigem Moos" />
           <Language key="es-ES" value="Erizo sobre musgo del bosque" />
           <Language key="pt-BR" value="Porco-espinho em musgo na floresta" />
+          <Language key="ja-JP" value="森のコケの上のハリネズミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4279R-49660" title="Hedgehog on Moss" image="4279R-49660.jpg" smallImage="4279R-49660_preview.jpg" unlockingPuzzleIds="4279R-60347">
+      <Puzzle id="4279R-49660" title="Hedgehog On Moss" image="4279R-49660.jpg" smallImage="4279R-49660_preview.jpg" unlockingPuzzleIds="4279R-60347">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Hérisson du mousse" />
           <Language key="it-IT" value="Riccio nel muschio" />
           <Language key="de-DE" value="Igel auf Moos" />
           <Language key="es-ES" value="Erizo sobre el musgo" />
           <Language key="pt-BR" value="Porco-espinho em musgo" />
+          <Language key="ja-JP" value="コケの上のハリネズミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

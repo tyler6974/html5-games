@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="ColorsPack">
-    <Group id="Colors" title="Colors" sentientId="291" revision="2" packImage="1589R-12805758_preview.jpg">
+    <Group id="Colors" title="Colors" sentientId="291" revision="1" packImage="1589R-12805758_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Couleurs" />
         <Language key="it-IT" value="Colori" />

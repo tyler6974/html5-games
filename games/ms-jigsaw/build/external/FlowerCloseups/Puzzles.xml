@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="FlowerCloseupsPack">
-    <Group id="FlowerCloseups" title="Flower Closeups" sentientId="298" revision="3" packImage="4094R-35152_preview.jpg">
+    <Group id="FlowerCloseups" title="Flower Closeups" sentientId="298" revision="1" packImage="4094R-35152_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Zoom sur les fleurs" />
         <Language key="it-IT" value="Fiori in primo piano" />

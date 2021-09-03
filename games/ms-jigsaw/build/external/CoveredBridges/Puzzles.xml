@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="CoveredBridgesPack">
-    <Group id="CoveredBridges" title="Covered Bridges" sentientId="215" revision="7" packImage="1701R-3969_preview.jpg">
+    <Group id="CoveredBridges" title="Covered Bridges" sentientId="215" revision="1" packImage="1701R-3969_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Ponts couverts" />
         <Language key="it-IT" value="Ponti coperti" />

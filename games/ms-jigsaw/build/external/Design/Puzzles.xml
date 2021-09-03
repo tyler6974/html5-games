@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="DesignPack">
-    <Group id="Design" title="Design" sentientId="292" revision="2" packImage="1775R-18121_preview.jpg">
+    <Group id="Design" title="Design" sentientId="292" revision="1" packImage="1775R-18121_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Design" />
         <Language key="it-IT" value="Design" />

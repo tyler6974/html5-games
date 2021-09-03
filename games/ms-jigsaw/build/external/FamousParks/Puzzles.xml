@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="FamousParksPack">
-    <Group id="FamousParks" title="Famous Parks" sentientId="218" revision="12" packImage="1647R-154825_preview.jpg">
+    <Group id="FamousParks" title="Famous Parks" sentientId="218" revision="1" packImage="1647R-154825_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Parcs célèbres" />
         <Language key="it-IT" value="Parchi famosi" />
         <Language key="de-DE" value="Berühmte Parks" />
         <Language key="es-ES" value="Parques famosos" />
         <Language key="pt-BR" value="Parques famosos" />
+        <Language key="ja-JP" value="有名な公園" />
       </GroupLocalization>
       <Puzzle id="1647R-154825" title="Vatican Gardens" image="1647R-154825.jpg" smallImage="1647R-154825_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Vatikanische Gärten" />
           <Language key="es-ES" value="Jardines del Vaticano" />
           <Language key="pt-BR" value="Jardins do Vaticano" />
+          <Language key="ja-JP" value="バチカン庭園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Hyde Park, London" />
           <Language key="es-ES" value="Hyde Park, Londres" />
           <Language key="pt-BR" value="Hyde Park, Londres" />
+          <Language key="ja-JP" value="ロンドン ハイドパーク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Grand-Canyon-Nationalpark, Arizona" />
           <Language key="es-ES" value="PN. Gran Cañón, Arizona" />
           <Language key="pt-BR" value="Parque Nacional do Grand Canyon, Arizona" />
+          <Language key="ja-JP" value="アリゾナ州 グランドキャニオン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Golden Gate Park, San Francisco" />
           <Language key="es-ES" value="Parque del Golden Gate, San Francisco" />
           <Language key="pt-BR" value="Golden Gate Park, São Francisco" />
+          <Language key="ja-JP" value="アメリカ ゴールデンゲートパーク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Beihai Park, China" />
           <Language key="es-ES" value="Parque Beihai, China" />
           <Language key="pt-BR" value="Parque Beihai, China" />
+          <Language key="ja-JP" value="中国 北海公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Carl G. Washburne Memorial State Park" />
           <Language key="es-ES" value="Memorial Carl G. Washburne" />
           <Language key="pt-BR" value="Carl G. Washburne Memorial State Park" />
+          <Language key="ja-JP" value="ウォッシュバーン記念公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Park Güell, Barcelona" />
           <Language key="es-ES" value="Parque Güell, Barcelona" />
           <Language key="pt-BR" value="Parque Güell, Barcelona" />
+          <Language key="ja-JP" value="バルセロナ グエル公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Keukenhof, Niederlande" />
           <Language key="es-ES" value="Jardín de hierbas, Países Bajos" />
           <Language key="pt-BR" value="Kitchen Garden, Países Baixos" />
+          <Language key="ja-JP" value="オランダ キューケンホフ公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Lafayette Park, USA" />
           <Language key="es-ES" value="Parque Lafayette, EE. UU." />
           <Language key="pt-BR" value="Lafayette Park, EUA" />
+          <Language key="ja-JP" value="アメリカ ラファイエット公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Golden Gate Park, USA" />
           <Language key="es-ES" value="Parque del Golden Gate, EE. UU." />
           <Language key="pt-BR" value="Golden Gate Park, EUA" />
+          <Language key="ja-JP" value="アメリカ ゴールデンゲートパーク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Englischer Garten, Deutschland" />
           <Language key="es-ES" value="Jardín inglés, Alemania" />
           <Language key="pt-BR" value="Jardim Inglês, Alemanha" />
+          <Language key="ja-JP" value="ドイツ イングリッシュガーデン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Parc Monceau, France" />
           <Language key="es-ES" value="Parque Monceau, Francia" />
           <Language key="pt-BR" value="Parc Monceau, França" />
+          <Language key="ja-JP" value="フランス モンソー公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Eakins Oval, Philadelphia" />
           <Language key="es-ES" value="Eakins Oval, Filadelfia" />
           <Language key="pt-BR" value="Eakins Oval, Filadélfia" />
+          <Language key="ja-JP" value="アメリカ イーキンズ オーバル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Kings Domain Parkland, Australien" />
           <Language key="es-ES" value="Kings Domain Parkland, Australia" />
           <Language key="pt-BR" value="Kings Domain, Austrália" />
+          <Language key="ja-JP" value="豪州 キングスドメイン公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -218,13 +233,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-288401" title="Conservatory of Flowers, USA" image="1598R-288401.jpg" smallImage="1598R-288401_preview.jpg" unlockingPuzzleIds="1828R-91036">
+      <Puzzle id="1598R-288401" title="Conservatory Of Flowers, USA" image="1598R-288401.jpg" smallImage="1598R-288401_preview.jpg" unlockingPuzzleIds="1828R-91036">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Conservatory Of Flowers, États-Unis" />
           <Language key="it-IT" value="Conservatory Of Flowers, USA" />
           <Language key="de-DE" value="Conservatory of Flowers, USA" />
           <Language key="es-ES" value="Conservatory of Flowers, EE. UU." />
           <Language key="pt-BR" value="Conservatory Of Flowers, EUA" />
+          <Language key="ja-JP" value="アメリカ 花の温室" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

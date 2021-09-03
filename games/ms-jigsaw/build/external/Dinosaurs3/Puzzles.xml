@@ -1,0 +1,254 @@
+<Puzzles>
+  <Groups packId="Dinosaurs3Pack">
+    <Group id="Dinosaurs3" title="Dinosaurs 3" sentientId="362" revision="1" packImage="4239R-9112_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Dinosaures 3" />
+        <Language key="it-IT" value="Dinosauri 3" />
+        <Language key="de-DE" value="Dinosaurier 3" />
+        <Language key="es-ES" value="Dinosaurios 3" />
+        <Language key="pt-BR" value="Dinossauros 3" />
+        <Language key="ja-JP" value="ダイナソー 3" />
+      </GroupLocalization>
+      <Puzzle id="4239R-9112" title="Tyrant Lizard King" image="4239R-9112.jpg" smallImage="4239R-9112_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="« Roi des lézards tyrans »" />
+          <Language key="it-IT" value="Tyrannosaurus Rex" />
+          <Language key="de-DE" value="König der Echsen" />
+          <Language key="es-ES" value="Rey lagarto tirano" />
+          <Language key="pt-BR" value="Rei Lagarto Tirano" />
+          <Language key="ja-JP" value="トカゲの暴君" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4128R-12920780" title="Triceratops" image="4128R-12920780.jpg" smallImage="4128R-12920780_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tricératops" />
+          <Language key="it-IT" value="Triceratopo" />
+          <Language key="de-DE" value="Triceratops" />
+          <Language key="es-ES" value="Tricerátops" />
+          <Language key="pt-BR" value="Tricerátops" />
+          <Language key="ja-JP" value="トリケラトプス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20482847" title="Brachiosaurus" image="4239R-20482847.jpg" smallImage="4239R-20482847_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Brachiosaure" />
+          <Language key="it-IT" value="Brachiosauro" />
+          <Language key="de-DE" value="Brachiosaurus" />
+          <Language key="es-ES" value="Brachiosaurus" />
+          <Language key="pt-BR" value="Braquiossauro" />
+          <Language key="ja-JP" value="ブラキオサウルス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-9182" title="Face-off" image="4239R-9182.jpg" smallImage="4239R-9182_preview.jpg" unlockingPuzzleIds="4239R-9112,4128R-12920780,4239R-20482847">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Face à face" />
+          <Language key="it-IT" value="Face-off" />
+          <Language key="de-DE" value="Duell" />
+          <Language key="es-ES" value="Enfrentamiento" />
+          <Language key="pt-BR" value="Duelo" />
+          <Language key="ja-JP" value="直接対決" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6649" title="Olorotitans" image="4239R-6649.jpg" smallImage="4239R-6649_preview.jpg" unlockingPuzzleIds="4239R-9182">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Olorotitans" />
+          <Language key="it-IT" value="Olorotitan" />
+          <Language key="de-DE" value="Olorotitane" />
+          <Language key="es-ES" value="Olorotitans" />
+          <Language key="pt-BR" value="Olorotitans" />
+          <Language key="ja-JP" value="オロロティタン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8848" title="Argentinosaurus" image="4239R-8848.jpg" smallImage="4239R-8848_preview.jpg" unlockingPuzzleIds="4239R-6649">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Argentinosaurus" />
+          <Language key="it-IT" value="Argentinosauro" />
+          <Language key="de-DE" value="Argentinosaurus" />
+          <Language key="es-ES" value="Argentinosaurus" />
+          <Language key="pt-BR" value="Argentinossauro" />
+          <Language key="ja-JP" value="アルゼンチノサウルス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-12803293" title="Marshy T-Rex" image="1589R-12803293.jpg" smallImage="1589R-12803293_preview.jpg" unlockingPuzzleIds="4239R-8848">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="T. rex dans des marais" />
+          <Language key="it-IT" value="T-Rex di palude" />
+          <Language key="de-DE" value="T-Rex im Sumpf" />
+          <Language key="es-ES" value="Tiranosaurio pantanoso" />
+          <Language key="pt-BR" value="T-Rex Pantanoso" />
+          <Language key="ja-JP" value="沼地の T-Rex" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-4852" title="Apatosaurus Pair" image="4239R-4852.jpg" smallImage="4239R-4852_preview.jpg" unlockingPuzzleIds="1589R-12803293">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Paire d'apatosaures" />
+          <Language key="it-IT" value="Coppia di apatosauri" />
+          <Language key="de-DE" value="Apatosaurus-Pärchen" />
+          <Language key="es-ES" value="Pareja de Apatosaurus" />
+          <Language key="pt-BR" value="Dupla de Apatosaurus" />
+          <Language key="ja-JP" value="ブロントザウルス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-4887" title="Petrified Forest" image="4239R-4887.jpg" smallImage="4239R-4887_preview.jpg" unlockingPuzzleIds="4239R-4852">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Forêt pétrifiée" />
+          <Language key="it-IT" value="Foresta pietrificata" />
+          <Language key="de-DE" value="Versteinerter Wald" />
+          <Language key="es-ES" value="Bosque petrificado" />
+          <Language key="pt-BR" value="Floresta Petrificada" />
+          <Language key="ja-JP" value="化石林" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13707496" title="Mountain King" image="1589R-13707496.jpg" smallImage="1589R-13707496_preview.jpg" unlockingPuzzleIds="4239R-4887">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Roi de la montagne" />
+          <Language key="it-IT" value="Re della montagna" />
+          <Language key="de-DE" value="Bergkönig" />
+          <Language key="es-ES" value="Rey de la montaña" />
+          <Language key="pt-BR" value="Rei da Montanha" />
+          <Language key="ja-JP" value="山の王" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8884" title="Spinosaurus" image="4239R-8884.jpg" smallImage="4239R-8884_preview.jpg" unlockingPuzzleIds="1589R-13707496">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Spinosaure" />
+          <Language key="it-IT" value="Spinosauro" />
+          <Language key="de-DE" value="Spinosaurus" />
+          <Language key="es-ES" value="Spinosaurus" />
+          <Language key="pt-BR" value="Espinossauro" />
+          <Language key="ja-JP" value="スピノサウルス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6823" title="Kileskus" image="4239R-6823.jpg" smallImage="4239R-6823_preview.jpg" unlockingPuzzleIds="4239R-8884">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Kileskus" />
+          <Language key="it-IT" value="Kilesko" />
+          <Language key="de-DE" value="Kileskus" />
+          <Language key="es-ES" value="Kileskus" />
+          <Language key="pt-BR" value="Kileskus" />
+          <Language key="ja-JP" value="キレスクス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8852" title="Gigantoraptor" image="4239R-8852.jpg" smallImage="4239R-8852_preview.jpg" unlockingPuzzleIds="4239R-6823">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Gigantoraptor" />
+          <Language key="it-IT" value="Gigantoraptor" />
+          <Language key="de-DE" value="Gigantoraptor" />
+          <Language key="es-ES" value="Gigantoraptor" />
+          <Language key="pt-BR" value="Gigantoraptor" />
+          <Language key="ja-JP" value="ギガントラプトル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-8872" title="Always Another T-Rex" image="4239R-8872.jpg" smallImage="4239R-8872_preview.jpg" unlockingPuzzleIds="4239R-8852">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Toujours un autre T. rex" />
+          <Language key="it-IT" value="Ancora un altro T-Rex" />
+          <Language key="de-DE" value="Natürlich noch ein T-Rex" />
+          <Language key="es-ES" value="Siempre hay otro tiranosaurio" />
+          <Language key="pt-BR" value="Sempre tem mais um T-Rex" />
+          <Language key="ja-JP" value="T-Rex だらけ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-20482858" title="Einiosaurus" image="4239R-20482858.jpg" smallImage="4239R-20482858_preview.jpg" unlockingPuzzleIds="4239R-8872">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Einiosaurus" />
+          <Language key="it-IT" value="Einiosaurus" />
+          <Language key="de-DE" value="Einiosaurus" />
+          <Language key="es-ES" value="Einiosaurus" />
+          <Language key="pt-BR" value="Einiossauro" />
+          <Language key="ja-JP" value="エイニオサウルス" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

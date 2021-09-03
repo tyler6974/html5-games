@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="DogsPack">
-    <Group id="Dogs" title="Dogs" sentientId="277" revision="3" packImage="1040DS-00001_preview.jpg">
+    <Group id="Dogs" title="Dogs" sentientId="277" revision="1" packImage="1040DS-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Chiens" />
         <Language key="it-IT" value="Cani" />

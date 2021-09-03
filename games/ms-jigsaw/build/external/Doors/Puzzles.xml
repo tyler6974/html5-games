@@ -57,12 +57,12 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-72884" title="Namibia, Africa" image="1828R-72884.jpg" smallImage="1828R-72884_preview.jpg" unlockingPuzzleIds="4094R-20678634,1660R-53167,1589R-11457520">
+      <Puzzle id="1828R-72884" title="Nambia, Africa" image="1828R-72884.jpg" smallImage="1828R-72884_preview.jpg" unlockingPuzzleIds="4094R-20678634,1660R-53167,1589R-11457520">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Namibie, Afrique" />
           <Language key="it-IT" value="Namibia, Africa" />
           <Language key="de-DE" value="Namibia, Afrika" />
-          <Language key="es-ES" value="Namibia, África" />
+          <Language key="es-ES" value="Nambia, África" />
           <Language key="pt-BR" value="Namíbia, África" />
           <Language key="ja-JP" value="アフリカ、ナミビア" />
         </PuzzleLocalization>

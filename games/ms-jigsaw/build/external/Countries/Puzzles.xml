@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="CountriesPack">
-    <Group id="Countries" title="Countries" sentientId="287" revision="3" packImage="1672R-39395_preview.jpg">
+    <Group id="Countries" title="Countries" sentientId="287" revision="1" packImage="1672R-39395_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Des pays" />
         <Language key="it-IT" value="Paesi" />

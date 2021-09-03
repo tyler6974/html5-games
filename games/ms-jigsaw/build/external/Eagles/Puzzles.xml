@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="EaglesPack">
-    <Group id="Eagles" title="Eagles" sentientId="216" revision="7" packImage="1574R-23521_preview.jpg">
+    <Group id="Eagles" title="Eagles" sentientId="216" revision="1" packImage="1574R-23521_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Aigles" />
         <Language key="it-IT" value="Aquile" />

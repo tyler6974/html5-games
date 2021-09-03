@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="FableAnniversaryPack">
-    <Group id="FableAnniversary" title="Fable Anniversary" sentientId="267" revision="2" packImage="01_FableAnniversary_preview.jpg">
+    <Group id="FableAnniversary" title="Fable Anniversary" sentientId="0" revision="1" packImage="01_FableAnniversary_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Fable Anniversary" />
         <Language key="it-IT" value="Fable Anniversary" />

@@ -1,0 +1,174 @@
+<Puzzles>
+  <Groups packId="EvergladesPack">
+    <Group id="Everglades" title="Everglades" sentientId="357" revision="1" packImage="1672R-11937646_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Everglades" />
+        <Language key="it-IT" value="Everglades" />
+        <Language key="de-DE" value="Everglades" />
+        <Language key="es-ES" value="Everglades" />
+        <Language key="pt-BR" value="Pântano" />
+        <Language key="ja-JP" value="エバーグレーズ湿地" />
+      </GroupLocalization>
+      <Puzzle id="1672R-11937646" title="Reflection" image="1672R-11937646.jpg" smallImage="1672R-11937646_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Reflets" />
+          <Language key="it-IT" value="Riverbero" />
+          <Language key="de-DE" value="Spiegelung" />
+          <Language key="es-ES" value="Reflection" />
+          <Language key="pt-BR" value="Reflexo" />
+          <Language key="ja-JP" value="リフレクション" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1848R-13725204" title="Sunbathing Alligator" image="1848R-13725204.jpg" smallImage="1848R-13725204_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Alligator prenant un bain de soleil" />
+          <Language key="it-IT" value="Alligatore steso al sole" />
+          <Language key="de-DE" value="Alligator in der Sonne" />
+          <Language key="es-ES" value="Caimán tomando el sol" />
+          <Language key="pt-BR" value="Jacaré tomando banho de sol" />
+          <Language key="ja-JP" value="日光浴中のワニ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11974756" title="Turtle" image="1598R-11974756.jpg" smallImage="1598R-11974756_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tortue" />
+          <Language key="it-IT" value="Tartaruga" />
+          <Language key="de-DE" value="Schildkröte" />
+          <Language key="es-ES" value="Tortuga" />
+          <Language key="pt-BR" value="Tartaruga" />
+          <Language key="ja-JP" value="亀" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4094R-21665920" title="White Ibises" image="4094R-21665920.jpg" smallImage="4094R-21665920_preview.jpg" unlockingPuzzleIds="1672R-11937646,1848R-13725204,1598R-11974756">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ibis blancs" />
+          <Language key="it-IT" value="Ibis bianchi" />
+          <Language key="de-DE" value="Weiße Ibisse" />
+          <Language key="es-ES" value="Ibis blancos" />
+          <Language key="pt-BR" value="Íbis Brancos" />
+          <Language key="ja-JP" value="白いトキ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1439R-11295705" title="Manatees" image="1439R-11295705.jpg" smallImage="1439R-11295705_preview.jpg" unlockingPuzzleIds="4094R-21665920">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lamantins" />
+          <Language key="it-IT" value="Lamantini" />
+          <Language key="de-DE" value="Seekühe" />
+          <Language key="es-ES" value="Manatíes" />
+          <Language key="pt-BR" value="Peixes-boi" />
+          <Language key="ja-JP" value="マナティー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11839550" title="Brave Egret" image="1491R-11839550.jpg" smallImage="1491R-11839550_preview.jpg" unlockingPuzzleIds="1439R-11295705">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grande aigrette" />
+          <Language key="it-IT" value="Airone coraggioso" />
+          <Language key="de-DE" value="Tapferer Reiher" />
+          <Language key="es-ES" value="Garceta valiente" />
+          <Language key="pt-BR" value="Garça Corajosa" />
+          <Language key="ja-JP" value="勇敢なシラサギ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-11986769" title="Osprey" image="1598R-11986769.jpg" smallImage="1598R-11986769_preview.jpg" unlockingPuzzleIds="1491R-11839550">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Balbuzard" />
+          <Language key="it-IT" value="Falco pescatore" />
+          <Language key="de-DE" value="Fischadler" />
+          <Language key="es-ES" value="Águila pescadora" />
+          <Language key="pt-BR" value="Águia Marinha" />
+          <Language key="ja-JP" value="ミサゴ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4239R-6304" title="Over-Under Alligator" image="4239R-6304.jpg" smallImage="4239R-6304_preview.jpg" unlockingPuzzleIds="1598R-11986769">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Alligator au-dessus et sous l'eau" />
+          <Language key="it-IT" value="Alligatore a pancia in su" />
+          <Language key="de-DE" value="Alligator im Wasser" />
+          <Language key="es-ES" value="Caimán cubierto" />
+          <Language key="pt-BR" value="Jacaré nadando" />
+          <Language key="ja-JP" value="二連式ワニ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-13047859" title="Egret" image="1436R-13047859.jpg" smallImage="1436R-13047859_preview.jpg" unlockingPuzzleIds="4239R-6304">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Aigrette" />
+          <Language key="it-IT" value="Airone" />
+          <Language key="de-DE" value="Reiher" />
+          <Language key="es-ES" value="Garceta" />
+          <Language key="pt-BR" value="Garça" />
+          <Language key="ja-JP" value="シラサギ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4070R-8149" title="Puma" image="4070R-8149.jpg" smallImage="4070R-8149_preview.jpg" unlockingPuzzleIds="1436R-13047859">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Puma" />
+          <Language key="it-IT" value="Puma" />
+          <Language key="de-DE" value="Puma" />
+          <Language key="es-ES" value="Puma" />
+          <Language key="pt-BR" value="Puma" />
+          <Language key="ja-JP" value="ピューマ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

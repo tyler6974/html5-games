@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="LosAngelesPack">
-    <Group id="LosAngeles" title="Los Angeles" sentientId="240" revision="11" packImage="1436R-303876_preview.jpg">
+    <Group id="LosAngeles" title="Los Angeles" sentientId="240" revision="1" packImage="1436R-303876_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Los Angeles" />
         <Language key="it-IT" value="Los Angeles" />
         <Language key="de-DE" value="Los Angeles" />
         <Language key="es-ES" value="Los Ángeles" />
         <Language key="pt-BR" value="Los Angeles" />
+        <Language key="ja-JP" value="ロサンゼルス" />
       </GroupLocalization>
       <Puzzle id="1436R-303876" title="Rodeo Drive, Beverly Hills" image="1436R-303876.jpg" smallImage="1436R-303876_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Rodeo Drive, Beverly Hills" />
           <Language key="es-ES" value="Rodeo Drive, Beverly Hills" />
           <Language key="pt-BR" value="Rodeo Drive, Beverly Hills" />
+          <Language key="ja-JP" value="ビバリーヒルズ ロデオドライブ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Griffith Observatory" />
           <Language key="es-ES" value="Observatorio Griffith" />
           <Language key="pt-BR" value="Observatório Griffith" />
+          <Language key="ja-JP" value="グリフィス天文台" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Los Angeles Highway" />
           <Language key="es-ES" value="Autopista de Los Ángeles" />
           <Language key="pt-BR" value="Las Vegas Boulevard" />
+          <Language key="ja-JP" value="ロサンゼルス ハイウェイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Santa Monica Harbor" />
           <Language key="es-ES" value="Puerto de Santa Mónica" />
           <Language key="pt-BR" value="Porto de Santa Mônica" />
+          <Language key="ja-JP" value="サンタモニカ港" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -68,13 +73,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-45902" title="Lifeguard Station, Marina del Rey" image="1828R-45902.jpg" smallImage="1828R-45902_preview.jpg" unlockingPuzzleIds="1598R-9965914">
+      <Puzzle id="1828R-45902" title="Lifeguard Station, Marina Del Rey" image="1828R-45902.jpg" smallImage="1828R-45902_preview.jpg" unlockingPuzzleIds="1598R-9965914">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Cabine de sauveteur, Marina Del Rey" />
           <Language key="it-IT" value="Postazione bagnini, Marina Del Rey" />
           <Language key="de-DE" value="Rettungsschwimmerstation, Marina del Rey" />
           <Language key="es-ES" value="Puesto de salvavidas, Marina del Rey" />
           <Language key="pt-BR" value="Posto de salva-vidas, Marina Del Rey" />
+          <Language key="ja-JP" value="マリナデルレイ 監視台" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

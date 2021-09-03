@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="MusicPack">
-    <Group id="Music" title="Music" sentientId="242" revision="10" packImage="1672R-44291_preview.jpg">
+    <Group id="Music" title="Music" sentientId="242" revision="1" packImage="1672R-44291_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Musique" />
         <Language key="it-IT" value="Musica" />
         <Language key="de-DE" value="Musik" />
         <Language key="es-ES" value="Música" />
         <Language key="pt-BR" value="Música" />
+        <Language key="ja-JP" value="音楽" />
       </GroupLocalization>
       <Puzzle id="1672R-44291" title="Drum Kit" image="1672R-44291.jpg" smallImage="1672R-44291_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Schlagzeug" />
           <Language key="es-ES" value="Batería" />
           <Language key="pt-BR" value="Bateria" />
+          <Language key="ja-JP" value="ドラムセット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Xylophon" />
           <Language key="es-ES" value="Xilófono" />
           <Language key="pt-BR" value="Xilofone" />
+          <Language key="ja-JP" value="木琴" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Gitarren" />
           <Language key="es-ES" value="Guitarras" />
           <Language key="pt-BR" value="Violões" />
+          <Language key="ja-JP" value="ギター" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Violine" />
           <Language key="es-ES" value="Violín" />
           <Language key="pt-BR" value="Violino" />
+          <Language key="ja-JP" value="バイオリン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -68,13 +73,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1599R-27918" title="Wind Instruments" image="1599R-27918.jpg" smallImage="1599R-27918_preview.jpg" unlockingPuzzleIds="1598R-216745">
+      <Puzzle id="1599R-27918" title="Winds" image="1599R-27918.jpg" smallImage="1599R-27918_preview.jpg" unlockingPuzzleIds="1598R-216745">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Instruments à vent" />
           <Language key="it-IT" value="Fiati" />
           <Language key="de-DE" value="Blasinstrumente" />
           <Language key="es-ES" value="Vientos" />
           <Language key="pt-BR" value="Instrumentos de sopro" />
+          <Language key="ja-JP" value="管楽器" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -83,13 +89,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1672R-65806" title="Maracas and Sombrero" image="1672R-65806.jpg" smallImage="1672R-65806_preview.jpg" unlockingPuzzleIds="1599R-27918">
+      <Puzzle id="1672R-65806" title="Maracas And Sombrero" image="1672R-65806.jpg" smallImage="1672R-65806_preview.jpg" unlockingPuzzleIds="1599R-27918">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Maracas et sombrero" />
           <Language key="it-IT" value="Maracas e sombrero" />
           <Language key="de-DE" value="Maracas und Sombrero" />
           <Language key="es-ES" value="Maracas y sombrero" />
           <Language key="pt-BR" value="Maracas e sombrero" />
+          <Language key="ja-JP" value="マラカスとソンブレロ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Koto" />
           <Language key="es-ES" value="Koto" />
           <Language key="pt-BR" value="Koto" />
+          <Language key="ja-JP" value="琴" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Mikrofon" />
           <Language key="es-ES" value="Micrófono" />
           <Language key="pt-BR" value="Microfone" />
+          <Language key="ja-JP" value="マイク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Saxophon" />
           <Language key="es-ES" value="Saxofón" />
           <Language key="pt-BR" value="Saxofone" />
+          <Language key="ja-JP" value="サキソフォン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

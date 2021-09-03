@@ -1,0 +1,414 @@
+<Puzzles>
+  <Groups packId="ModelRailwayPack">
+    <Group id="ModelRailway" title="Model Railways" sentientId="369" revision="1" packImage="1608185674_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Chemins de fer miniatures" />
+        <Language key="it-IT" value="Modelli ferroviari" />
+        <Language key="de-DE" value="Modelleisenbahn" />
+        <Language key="es-ES" value="Trenes en miniatura" />
+        <Language key="pt-BR" value="Ferromodelismo" />
+        <Language key="ja-JP" value="鉄道模型" />
+      </GroupLocalization>
+      <Puzzle id="1608185674" title="Steam Locomotive" image="1608185674.jpg" smallImage="1608185674_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Locomotive à vapeur" />
+          <Language key="it-IT" value="Locomotiva a vapore" />
+          <Language key="de-DE" value="Dampflokomotive" />
+          <Language key="es-ES" value="Locomotora de vapor" />
+          <Language key="pt-BR" value="Locomotiva a Vapor" />
+          <Language key="ja-JP" value="蒸気機関車" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="152685983" title="Night Station" image="152685983.jpg" smallImage="152685983_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vue nocturne d'une gare" />
+          <Language key="it-IT" value="Stazione notturna" />
+          <Language key="de-DE" value="Bahnhof bei Nacht" />
+          <Language key="es-ES" value="Estación de noche" />
+          <Language key="pt-BR" value="Noite na Estação" />
+          <Language key="ja-JP" value="夜の駅" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="152685986" title="Construction" image="152685986.jpg" smallImage="152685986_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Construction" />
+          <Language key="it-IT" value="Cantiere" />
+          <Language key="de-DE" value="Baustelle" />
+          <Language key="es-ES" value="Construcción" />
+          <Language key="pt-BR" value="Construção" />
+          <Language key="ja-JP" value="建設中" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190742681" title="Snowed In" image="190742681.jpg" smallImage="190742681_preview.jpg" unlockingPuzzleIds="1608185674,152685983,152685986">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sous la neige" />
+          <Language key="it-IT" value="Bloccati dalla neve" />
+          <Language key="de-DE" value="Eingeschneit" />
+          <Language key="es-ES" value="Nevado" />
+          <Language key="pt-BR" value="Neve" />
+          <Language key="ja-JP" value="雪が降った後" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="167292440" title="Two Trains" image="167292440.jpg" smallImage="167292440_preview.jpg" unlockingPuzzleIds="190742681">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Deux trains" />
+          <Language key="it-IT" value="Due treni" />
+          <Language key="de-DE" value="Zwei Züge" />
+          <Language key="es-ES" value="Dos trenes" />
+          <Language key="pt-BR" value="Dois Trens" />
+          <Language key="ja-JP" value="2 本の列車" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190725509" title="Dam Basin" image="190725509.jpg" smallImage="190725509_preview.jpg" unlockingPuzzleIds="167292440">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bassin du barrage" />
+          <Language key="it-IT" value="Bacino della diga" />
+          <Language key="de-DE" value="Staudamm" />
+          <Language key="es-ES" value="Presa" />
+          <Language key="pt-BR" value="Barragem" />
+          <Language key="ja-JP" value="盆地のダム" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190742723" title="Livestock" image="190742723.jpg" smallImage="190742723_preview.jpg" unlockingPuzzleIds="190725509">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bétail" />
+          <Language key="it-IT" value="Bestiame" />
+          <Language key="de-DE" value="Viehherde" />
+          <Language key="es-ES" value="Ganado" />
+          <Language key="pt-BR" value="Gado" />
+          <Language key="ja-JP" value="家畜たち" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190725467" title="River Bridge" image="190725467.jpg" smallImage="190725467_preview.jpg" unlockingPuzzleIds="190742723">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pont au-dessus d'une rivière" />
+          <Language key="it-IT" value="Ponte sul fiume" />
+          <Language key="de-DE" value="Flussbrücke" />
+          <Language key="es-ES" value="Puente sobre río" />
+          <Language key="pt-BR" value="Ponte no Rio" />
+          <Language key="ja-JP" value="河川橋" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="167292452" title="Turnabout" image="167292452.jpg" smallImage="167292452_preview.jpg" unlockingPuzzleIds="190725467">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Virage" />
+          <Language key="it-IT" value="Inversione di marcia" />
+          <Language key="de-DE" value="Drehscheibe" />
+          <Language key="es-ES" value="Giro" />
+          <Language key="pt-BR" value="Curva" />
+          <Language key="ja-JP" value="方向転換" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190729505" title="Riverbend" image="190729505.jpg" smallImage="190729505_preview.jpg" unlockingPuzzleIds="167292452">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cours d'eau" />
+          <Language key="it-IT" value="Ansa del fiume" />
+          <Language key="de-DE" value="Flussbiegung" />
+          <Language key="es-ES" value="Meandro" />
+          <Language key="pt-BR" value="Curva do Rio" />
+          <Language key="ja-JP" value="川の向こう" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1281399121" title="Town and Tunnel" image="1281399121.jpg" smallImage="1281399121_preview.jpg" unlockingPuzzleIds="190729505">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Village et tunnel" />
+          <Language key="it-IT" value="Città e tunnel" />
+          <Language key="de-DE" value="Gebirgsdorf" />
+          <Language key="es-ES" value="Pueblo y túnel" />
+          <Language key="pt-BR" value="Cidade e Túnel" />
+          <Language key="ja-JP" value="町とトンネル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190758773" title="Lakeside" image="190758773.jpg" smallImage="190758773_preview.jpg" unlockingPuzzleIds="1281399121">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bord de lac" />
+          <Language key="it-IT" value="Riva del lago" />
+          <Language key="de-DE" value="Seeufer" />
+          <Language key="es-ES" value="Orilla del lago" />
+          <Language key="pt-BR" value="Beira-lago" />
+          <Language key="ja-JP" value="湖畔" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190736423" title="Roller Coaster" image="190736423.jpg" smallImage="190736423_preview.jpg" unlockingPuzzleIds="190758773">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grand huit" />
+          <Language key="it-IT" value="Montagne russe" />
+          <Language key="de-DE" value="Achterbahn" />
+          <Language key="es-ES" value="Montaña rusa" />
+          <Language key="pt-BR" value="Montanha-russa" />
+          <Language key="ja-JP" value="ジェット コースター" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190733147" title="Trolley Car" image="190733147.jpg" smallImage="190733147_preview.jpg" unlockingPuzzleIds="190736423">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Locomotive rouge" />
+          <Language key="it-IT" value="Tram" />
+          <Language key="de-DE" value="Flachwagen" />
+          <Language key="es-ES" value="Tranvía" />
+          <Language key="pt-BR" value="Bonde" />
+          <Language key="ja-JP" value="トロリー カー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1829570207" title="Canyon Bridge" image="1829570207.jpg" smallImage="1829570207_preview.jpg" unlockingPuzzleIds="190733147">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pont au-dessus du vide" />
+          <Language key="it-IT" value="Ponte su una gola" />
+          <Language key="de-DE" value="Brücke am Abhang" />
+          <Language key="es-ES" value="Puente sobre el cañón" />
+          <Language key="pt-BR" value="Ponte no Desfiladeiro" />
+          <Language key="ja-JP" value="峡谷橋" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190742609" title="Carnival" image="190742609.jpg" smallImage="190742609_preview.jpg" unlockingPuzzleIds="1829570207">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fête foraine" />
+          <Language key="it-IT" value="Parco divertimenti" />
+          <Language key="de-DE" value="Jahrmarkt" />
+          <Language key="es-ES" value="Feria" />
+          <Language key="pt-BR" value="Festival" />
+          <Language key="ja-JP" value="カーニバル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190758737" title="Fork in the Road" image="190758737.jpg" smallImage="190758737_preview.jpg" unlockingPuzzleIds="190742609">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bifurcation" />
+          <Language key="it-IT" value="Bivio" />
+          <Language key="de-DE" value="Straßengabelung" />
+          <Language key="es-ES" value="Bifurcación del camino" />
+          <Language key="pt-BR" value="Bifurcação na Rua" />
+          <Language key="ja-JP" value="分かれ道" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190743992" title="Yard Work" image="190743992.jpg" smallImage="190743992_preview.jpg" unlockingPuzzleIds="190758737">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Travail en extérieur" />
+          <Language key="it-IT" value="Lavoro in giardino" />
+          <Language key="de-DE" value="Zoo" />
+          <Language key="es-ES" value="Trabajar la tierra" />
+          <Language key="pt-BR" value="Trabalho no Pátio" />
+          <Language key="ja-JP" value="庭仕事" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190742678" title="Fire Brigade" image="190742678.jpg" smallImage="190742678_preview.jpg" unlockingPuzzleIds="190743992">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Pompiers" />
+          <Language key="it-IT" value="Vigili del fuoco" />
+          <Language key="de-DE" value="Feuerwehr" />
+          <Language key="es-ES" value="Cuerpo de bomberos" />
+          <Language key="pt-BR" value="Brigada de Incêndio" />
+          <Language key="ja-JP" value="消防隊" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1130638253" title="Metro Station" image="1130638253.jpg" smallImage="1130638253_preview.jpg" unlockingPuzzleIds="190742678">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Station de métro" />
+          <Language key="it-IT" value="Stazione della metropolitana" />
+          <Language key="de-DE" value="Stadtbahnhof" />
+          <Language key="es-ES" value="Estación de metro" />
+          <Language key="pt-BR" value="Estação de Metrô" />
+          <Language key="ja-JP" value="地下鉄駅" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190742630" title="Busy Town" image="190742630.jpg" smallImage="190742630_preview.jpg" unlockingPuzzleIds="1130638253">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ville dynamique" />
+          <Language key="it-IT" value="Città frenetica" />
+          <Language key="de-DE" value="Geschäftige Stadt" />
+          <Language key="es-ES" value="Ciudad bulliciosa" />
+          <Language key="pt-BR" value="Cidade movimentada" />
+          <Language key="ja-JP" value="忙しい町" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1107556214" title="Green Engines" image="1107556214.jpg" smallImage="1107556214_preview.jpg" unlockingPuzzleIds="190742630">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Machines vertes" />
+          <Language key="it-IT" value="Locomotive verdi" />
+          <Language key="de-DE" value="Grüne Lokomotiven" />
+          <Language key="es-ES" value="Motores verdes" />
+          <Language key="pt-BR" value="Motores Verdes" />
+          <Language key="ja-JP" value="緑のエンジン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190729463" title="Snow Blazer" image="190729463.jpg" smallImage="190729463_preview.jpg" unlockingPuzzleIds="1107556214">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="À travers la neige" />
+          <Language key="it-IT" value="Freccia nella neve" />
+          <Language key="de-DE" value="Durch den Schnee" />
+          <Language key="es-ES" value="Partenieves" />
+          <Language key="pt-BR" value="Desbravando a Neve" />
+          <Language key="ja-JP" value="雪国列車" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="690382951" title="Under a Bridge" image="690382951.jpg" smallImage="690382951_preview.jpg" unlockingPuzzleIds="190729463">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Sous un pont" />
+          <Language key="it-IT" value="Sotto un ponte" />
+          <Language key="de-DE" value="Unter der Brücke" />
+          <Language key="es-ES" value="Bajo un puente" />
+          <Language key="pt-BR" value="Sob a Ponte" />
+          <Language key="ja-JP" value="橋の下で" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="190736414" title="Factories" image="190736414.jpg" smallImage="190736414_preview.jpg" unlockingPuzzleIds="690382951">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Usines" />
+          <Language key="it-IT" value="Fabbriche" />
+          <Language key="de-DE" value="Fabriken" />
+          <Language key="es-ES" value="Fábricas" />
+          <Language key="pt-BR" value="Fábricas" />
+          <Language key="ja-JP" value="工場" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

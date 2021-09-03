@@ -1,13 +1,12 @@
 ﻿<Puzzles>
   <Groups packId="NebulasPack">
-    <Group id="Nebulas" title="Nebulas" sentientId="296" revision="3" packImage="4239R-6866_preview.jpg">
+    <Group id="Nebulas" title="Nebulas" sentientId="296" revision="1" packImage="4239R-6866_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Nébuleuses" />
         <Language key="it-IT" value="Nebulose" />
         <Language key="de-DE" value="Nebel" />
         <Language key="es-ES" value="Nebulosas" />
         <Language key="pt-BR" value="Nebulosas" />
-        <Language key="ja-JP" value="星雲" />
       </GroupLocalization>
       <Puzzle id="4239R-6866" title="Trifid Nebula" image="4239R-6866.jpg" smallImage="4239R-6866_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -16,7 +15,6 @@
           <Language key="de-DE" value="Trifidnebel" />
           <Language key="es-ES" value="Nebulosa Trífida" />
           <Language key="pt-BR" value="Nebulosa Trífida" />
-          <Language key="ja-JP" value="三裂星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -32,7 +30,6 @@
           <Language key="de-DE" value="Carinanebel" />
           <Language key="es-ES" value="Nebulosa de Carina" />
           <Language key="pt-BR" value="Nebulosa Carina" />
-          <Language key="ja-JP" value="イータカリーナ星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -48,7 +45,6 @@
           <Language key="de-DE" value="Adlernebel" />
           <Language key="es-ES" value="Nebulosa del Águila" />
           <Language key="pt-BR" value="Nebulosa da Águia" />
-          <Language key="ja-JP" value="わし星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -64,7 +60,6 @@
           <Language key="de-DE" value="Seelennebel" />
           <Language key="es-ES" value="Nebulosa del Alma" />
           <Language key="pt-BR" value="Nebulosa da Alma" />
-          <Language key="ja-JP" value="胎児星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -80,7 +75,6 @@
           <Language key="de-DE" value="Orion-Nebel" />
           <Language key="es-ES" value="Nebulosa de Orión" />
           <Language key="pt-BR" value="Nebulosa de Órion" />
-          <Language key="ja-JP" value="オリオン星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -96,7 +90,6 @@
           <Language key="de-DE" value="Helixnebel" />
           <Language key="es-ES" value="Nebulosa de la Hélice" />
           <Language key="pt-BR" value="Nebulosa da Hélice" />
-          <Language key="ja-JP" value="らせん星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -112,7 +105,6 @@
           <Language key="de-DE" value="NGC 2264" />
           <Language key="es-ES" value="NGC 2264" />
           <Language key="pt-BR" value="NGC 2264" />
-          <Language key="ja-JP" value="コーン星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -128,7 +120,6 @@
           <Language key="de-DE" value="Nebel im All" />
           <Language key="es-ES" value="Nebulosa en el espacio" />
           <Language key="pt-BR" value="Nebulosa no Espaço" />
-          <Language key="ja-JP" value="宇宙の星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -144,7 +135,6 @@
           <Language key="de-DE" value="NGC 346" />
           <Language key="es-ES" value="NGC 346" />
           <Language key="pt-BR" value="NGC 346" />
-          <Language key="ja-JP" value="NGC 346" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -160,7 +150,6 @@
           <Language key="de-DE" value="Lambda-Centauri-Nebel" />
           <Language key="es-ES" value="Nebulosa del Pollo Corredor" />
           <Language key="pt-BR" value="Nebulosa da Galinha Fugitiva" />
-          <Language key="ja-JP" value="走るにわとり星雲" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

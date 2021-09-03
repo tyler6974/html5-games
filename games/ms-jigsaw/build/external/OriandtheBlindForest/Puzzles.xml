@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="OriandtheBlindForestPack">
-    <Group id="OriandtheBlindForest" title="Ori and the Blind Forest" sentientId="0" revision="4" packImage="01_Ori_and_Naru_preview.jpg">
+    <Group id="OriandtheBlindForest" title="Ori and the Blind Forest" sentientId="269" revision="1" packImage="01_Ori_and_Naru_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Ori and the Blind Forest" />
         <Language key="it-IT" value="Ori and the Blind Forest" />

@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="OceansPack">
-    <Group id="Oceans" title="Oceans" sentientId="244" revision="10" packImage="1527R-1206472_preview.jpg">
+    <Group id="Oceans" title="Oceans" sentientId="244" revision="1" packImage="1527R-1206472_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Océans" />
         <Language key="it-IT" value="Oceani" />
         <Language key="de-DE" value="Ozeane" />
         <Language key="es-ES" value="Mares" />
         <Language key="pt-BR" value="Oceanos" />
+        <Language key="ja-JP" value="海" />
       </GroupLocalization>
       <Puzzle id="1527R-1206472" title="Sunset Cliffs, USA" image="1527R-1206472.jpg" smallImage="1527R-1206472_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Sunset Cliffs, USA" />
           <Language key="es-ES" value="Sunset Cliffs, EE. UU" />
           <Language key="pt-BR" value="Sunset Cliffs, EUA" />
+          <Language key="ja-JP" value="アメリカ サンセットクリフ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Phalasarna, Griechenland" />
           <Language key="es-ES" value="Phalasarna, Grecia" />
           <Language key="pt-BR" value="Phalasarna, Grécia" />
+          <Language key="ja-JP" value="ギリシャ ファラサルナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Cornwall, England" />
           <Language key="es-ES" value="Cornualles, Inglaterra" />
           <Language key="pt-BR" value="Cornualha, Inglaterra" />
+          <Language key="ja-JP" value="イギリス コーンウォール" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Nationalpark Komodo, Indonesien" />
           <Language key="es-ES" value="Parque Nacional de Komodo, Indonesia" />
           <Language key="pt-BR" value="Parque Nacional de Komodo, Indonésia" />
+          <Language key="ja-JP" value="インドネシア コモド国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4411R-9957" title="Sunset over the Ocean, Indonesia" image="4411R-9957.jpg" smallImage="4411R-9957_preview.jpg" unlockingPuzzleIds="1848R-502510">
+      <Puzzle id="4411R-9957" title="Sunset Over The Ocean, Indonesia" image="4411R-9957.jpg" smallImage="4411R-9957_preview.jpg" unlockingPuzzleIds="1848R-502510">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Coucher de soleil sur l'océan, Indonésie" />
           <Language key="it-IT" value="Tramonto sul mare, Indonesia" />
           <Language key="de-DE" value="Sonnenuntergang überm Ozean, Indonesien" />
           <Language key="es-ES" value="Puesta de sol en el mar, Indonesia" />
           <Language key="pt-BR" value="Pôr do sol no oceano, Indonésia" />
+          <Language key="ja-JP" value="インドネシア 海に沈む夕日" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Poor Knights Islands, Neuseeland" />
           <Language key="es-ES" value="Islas Poor Knights, Nueva Zelanda" />
           <Language key="pt-BR" value="Poor Knights Islands, Nova Zelândia" />
+          <Language key="ja-JP" value="ニュージーランド プアナイツ諸島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Bacuit-Archipel, Philippinen" />
           <Language key="es-ES" value="Archipiélago de Bacuit, Filipinas" />
           <Language key="pt-BR" value="Arquipélago de Bacuit, Filipinas" />
+          <Language key="ja-JP" value="フィリピン バキット諸島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Korallenriff" />
           <Language key="es-ES" value="Arrecife de coral" />
           <Language key="pt-BR" value="Recife de coral" />
+          <Language key="ja-JP" value="サンゴ礁" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Whytecliff Park, Kanada" />
           <Language key="es-ES" value="Whytecliff Park, Canadá" />
           <Language key="pt-BR" value="Whytecliff Park, Canadá" />
+          <Language key="ja-JP" value="カナダ ホワイトクリフ公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Olympic National Park, USA" />
           <Language key="es-ES" value="Parque Nacional Olympic, EE. UU." />
           <Language key="pt-BR" value="Parque Nacional Olympic, EUA" />
+          <Language key="ja-JP" value="アメリカ オリンピック国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Sonnenuntergang überm Ozean" />
           <Language key="es-ES" value="Puesta de sol en el mar" />
           <Language key="pt-BR" value="Vista do pôr do sol no oceano" />
+          <Language key="ja-JP" value="海の夕焼け" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Korallenriff, Indonesien" />
           <Language key="es-ES" value="Arrecife de coral, Indonesia" />
           <Language key="pt-BR" value="Recife de coral, Indonésia" />
+          <Language key="ja-JP" value="インドネシア サンゴ礁" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -188,13 +201,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4239R-6136" title="Longjaw Squirrelfish" image="4239R-6136.jpg" smallImage="4239R-6136_preview.jpg" unlockingPuzzleIds="1828R-46605">
+      <Puzzle id="4239R-6136" title="Longaw Squirrelfish" image="4239R-6136.jpg" smallImage="4239R-6136_preview.jpg" unlockingPuzzleIds="1828R-46605">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Marignon soldat" />
           <Language key="it-IT" value="Pesce scoiattolo" />
           <Language key="de-DE" value="Gelber Husar" />
           <Language key="es-ES" value="Candil mariano" />
           <Language key="pt-BR" value="Neoniphon marianus" />
+          <Language key="ja-JP" value="イットウダイの仲間" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Palmen" />
           <Language key="es-ES" value="Palmeras" />
           <Language key="pt-BR" value="Palmeiras" />
+          <Language key="ja-JP" value="ヤシの木" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -218,13 +233,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-12733" title="Petit Bot Bay, Guernsey" image="1889R-12733.jpg" smallImage="1889R-12733_preview.jpg" unlockingPuzzleIds="1555R-227009">
+      <Puzzle id="1889R-12733" title="Petit Bot Bay, Guersney" image="1889R-12733.jpg" smallImage="1889R-12733_preview.jpg" unlockingPuzzleIds="1555R-227009">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Baie du Petit Bot, Guernesey" />
-          <Language key="it-IT" value="Baia di Petit Bot, Guernsey" />
-          <Language key="de-DE" value="Petit Bot Bay, Guernsey" />
-          <Language key="es-ES" value="Bahía Petit Bot, Guernsey" />
-          <Language key="pt-BR" value="Petit Bot Bay, Guernsey" />
+          <Language key="it-IT" value="Baia di Petit Bot, Guersney" />
+          <Language key="de-DE" value="Petit Bot Bay, Guersney" />
+          <Language key="es-ES" value="Bahía Petit Bot, Guersney" />
+          <Language key="pt-BR" value="Petit Bot Bay, Guersney" />
+          <Language key="ja-JP" value="ガーンジー プチボットベイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -233,13 +249,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-87559" title="Palm Trees on the Shore, USA" image="1889R-87559.jpg" smallImage="1889R-87559_preview.jpg" unlockingPuzzleIds="1889R-12733">
+      <Puzzle id="1889R-87559" title="Palm Trees On The Shore, USA" image="1889R-87559.jpg" smallImage="1889R-87559_preview.jpg" unlockingPuzzleIds="1889R-12733">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Palmiers en bord de mer, États-Unis" />
           <Language key="it-IT" value="Palme sulla spiaggia, USA" />
           <Language key="de-DE" value="Palmen am Strand, USA" />
           <Language key="es-ES" value="Palmeras en la costa, EE. UU." />
           <Language key="pt-BR" value="Palmeiras na praia, EUA" />
+          <Language key="ja-JP" value="アメリカ 海辺のヤシの木" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

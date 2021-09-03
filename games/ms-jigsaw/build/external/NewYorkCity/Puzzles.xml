@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="NewYorkCityPack">
-    <Group id="NewYorkCity" title="New York City" sentientId="243" revision="9" packImage="1795R-10944_preview.jpg">
+    <Group id="NewYorkCity" title="New York City" sentientId="243" revision="1" packImage="1795R-10944_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="New York" />
         <Language key="it-IT" value="New York" />
         <Language key="de-DE" value="New York City" />
         <Language key="es-ES" value="Nueva York" />
         <Language key="pt-BR" value="Cidade de Nova York" />
+        <Language key="ja-JP" value="ニューヨークシティ" />
       </GroupLocalization>
-      <Puzzle id="1795R-10944" title="Offices on Park Avenue" image="1795R-10944.jpg" smallImage="1795R-10944_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1795R-10944" title="Offices On Park Avenue" image="1795R-10944.jpg" smallImage="1795R-10944_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Bureaux sur Park Avenue" />
           <Language key="it-IT" value="Uffici in Park Avenue" />
           <Language key="de-DE" value="Büros an der Park Avenue" />
           <Language key="es-ES" value="Oficinas de Park Avenue" />
           <Language key="pt-BR" value="Escritórios em Park Avenue" />
+          <Language key="ja-JP" value="パークアベニューのオフィス街" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Skyline" />
           <Language key="es-ES" value="Paisaje urbano" />
           <Language key="pt-BR" value="Horizonte" />
+          <Language key="ja-JP" value="摩天楼のスカイライン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Times Square" />
           <Language key="es-ES" value="Times Square" />
           <Language key="pt-BR" value="Times Square" />
+          <Language key="ja-JP" value="タイムズスクエア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Midtown" />
           <Language key="es-ES" value="Midtown" />
           <Language key="pt-BR" value="Midtown" />
+          <Language key="ja-JP" value="ミッドタウン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-270108" title="Row of Taxis" image="1598R-270108.jpg" smallImage="1598R-270108_preview.jpg" unlockingPuzzleIds="4094R-34475">
+      <Puzzle id="1598R-270108" title="Row Of Taxis" image="1598R-270108.jpg" smallImage="1598R-270108_preview.jpg" unlockingPuzzleIds="4094R-34475">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Rangée de taxis" />
           <Language key="it-IT" value="Fila di taxi" />
           <Language key="de-DE" value="Taxis in Reihe" />
           <Language key="es-ES" value="Fila de taxis" />
           <Language key="pt-BR" value="Fileira de táxis" />
+          <Language key="ja-JP" value="タクシーの列" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Brownstones, Brooklyn" />
           <Language key="es-ES" value="Brownstones, Brooklyn" />
           <Language key="pt-BR" value="Brownstones, Brooklyn" />
+          <Language key="ja-JP" value="ブルックリン 高級アパート街" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Feuerleiter" />
           <Language key="es-ES" value="Escalera de incendios" />
           <Language key="pt-BR" value="Saída de incêndio" />
+          <Language key="ja-JP" value="非常階段" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="George Washington Bridge" />
           <Language key="es-ES" value="Puente George Washington" />
           <Language key="pt-BR" value="Ponte George Washington" />
+          <Language key="ja-JP" value="ジョージワシントン橋" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="New Jersey" />
           <Language key="es-ES" value="Nueva Jersey" />
           <Language key="pt-BR" value="New Jersey" />
+          <Language key="ja-JP" value="ニュージャージー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Grand Central Station" />
           <Language key="es-ES" value="Estación Grand Central" />
           <Language key="pt-BR" value="Grand Central Station" />
+          <Language key="ja-JP" value="グランドセントラル駅" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

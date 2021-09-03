@@ -1,0 +1,334 @@
+<Puzzles>
+  <Groups packId="MadagascarPack">
+    <Group id="Madagascar" title="Madagascar" sentientId="376" revision="1" packImage="282321170_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Madagascar" />
+        <Language key="it-IT" value="Madagascar" />
+        <Language key="de-DE" value="Madagaskar" />
+        <Language key="es-ES" value="Madagascar" />
+        <Language key="pt-BR" value="Madagascar" />
+        <Language key="ja-JP" value="マダガスカル" />
+      </GroupLocalization>
+      <Puzzle id="282321170" title="Baobab Skyline" image="282321170.jpg" smallImage="282321170_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Horizon et baobabs" />
+          <Language key="it-IT" value="Skyline di baobab" />
+          <Language key="de-DE" value="Affenbrotbäume" />
+          <Language key="es-ES" value="Siluetas de baobabs" />
+          <Language key="pt-BR" value="Baobás no Horizonte" />
+          <Language key="ja-JP" value="バオバブの木と地平線" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1219539505" title="Bishop's Hat Mountain" image="1219539505.jpg" smallImage="1219539505_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Montagne du Chapeau de l'Évêque" />
+          <Language key="it-IT" value="Bishop's Hat Mountain" />
+          <Language key="de-DE" value="Bishop's Hat" />
+          <Language key="es-ES" value="Montaña Bishop's Hat" />
+          <Language key="pt-BR" value="Montanha Chapéu do Bispo" />
+          <Language key="ja-JP" value="ボネドパップ山" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1744582577" title="Rice Terraces" image="1744582577.jpg" smallImage="1744582577_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rizières en terrasses" />
+          <Language key="it-IT" value="Risaie terrazzate" />
+          <Language key="de-DE" value="Reisfelder" />
+          <Language key="es-ES" value="Terrazas de arroz" />
+          <Language key="pt-BR" value="Terraços de Arroz" />
+          <Language key="ja-JP" value="棚田" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="169578458" title="Fossa" image="169578458.jpg" smallImage="169578458_preview.jpg" unlockingPuzzleIds="282321170,1219539505,1744582577">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fossa" />
+          <Language key="it-IT" value="Fossa" />
+          <Language key="de-DE" value="Fossa" />
+          <Language key="es-ES" value="Fosa" />
+          <Language key="pt-BR" value="Fossa" />
+          <Language key="ja-JP" value="フォッサ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1107794882" title="Sharp Karst" image="1107794882.jpg" smallImage="1107794882_preview.jpg" unlockingPuzzleIds="169578458">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Karst pointu" />
+          <Language key="it-IT" value="Aspro carso" />
+          <Language key="de-DE" value="Hängebrücke" />
+          <Language key="es-ES" value="Karst accidentado" />
+          <Language key="pt-BR" value="Carste Afiado" />
+          <Language key="ja-JP" value="鋭いカルスト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1295607223" title="Betsiboka River" image="1295607223.jpg" smallImage="1295607223_preview.jpg" unlockingPuzzleIds="1107794882">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fleuve Betsiboka" />
+          <Language key="it-IT" value="Fiume Betsiboka" />
+          <Language key="de-DE" value="Fluss Betsiboka" />
+          <Language key="es-ES" value="Río Betsiboka" />
+          <Language key="pt-BR" value="Rio Betsiboka" />
+          <Language key="ja-JP" value="ベシボカ川" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1088435417" title="Bara Houses" image="1088435417.jpg" smallImage="1088435417_preview.jpg" unlockingPuzzleIds="1295607223">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Habitations des Bara" />
+          <Language key="it-IT" value="Dimore dei Bara" />
+          <Language key="de-DE" value="Bara-Häuser" />
+          <Language key="es-ES" value="Viviendas bara" />
+          <Language key="pt-BR" value="Casas em Bara" />
+          <Language key="ja-JP" value="バラ族の家" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="212906149" title="The Capital" image="212906149.jpg" smallImage="212906149_preview.jpg" unlockingPuzzleIds="1088435417">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="La capitale" />
+          <Language key="it-IT" value="La capitale" />
+          <Language key="de-DE" value="Antananarivo" />
+          <Language key="es-ES" value="La capital" />
+          <Language key="pt-BR" value="A Capital" />
+          <Language key="ja-JP" value="首都" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1094177633" title="Tomato Frog" image="1094177633.jpg" smallImage="1094177633_preview.jpg" unlockingPuzzleIds="212906149">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Grenouille tomate" />
+          <Language key="it-IT" value="Rana pomodoro" />
+          <Language key="de-DE" value="Tomatenfrosch" />
+          <Language key="es-ES" value="Sapo tomate" />
+          <Language key="pt-BR" value="Sapo Tomate" />
+          <Language key="ja-JP" value="トマトガエル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="213341170" title="Isalo Park" image="213341170.jpg" smallImage="213341170_preview.jpg" unlockingPuzzleIds="1094177633">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc de l'Isalo" />
+          <Language key="it-IT" value="Parco nazionale dell'Isalo" />
+          <Language key="de-DE" value="Nationalpark Isalo" />
+          <Language key="es-ES" value="Parque Isalo" />
+          <Language key="pt-BR" value="Parque Nacional de Isalo" />
+          <Language key="ja-JP" value="イザロ国立公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="558929776" title="Green Foothills" image="558929776.jpg" smallImage="558929776_preview.jpg" unlockingPuzzleIds="213341170">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Contreforts verts" />
+          <Language key="it-IT" value="Verdi colline pedemontane" />
+          <Language key="de-DE" value="Grüne Hügel" />
+          <Language key="es-ES" value="Laderas verdes" />
+          <Language key="pt-BR" value="Sopés Verdes" />
+          <Language key="ja-JP" value="緑の丘" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="289795739" title="Serene Lake" image="289795739.jpg" smallImage="289795739_preview.jpg" unlockingPuzzleIds="558929776">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Lac paisible" />
+          <Language key="it-IT" value="Lago tranquillo" />
+          <Language key="de-DE" value="Stiller See" />
+          <Language key="es-ES" value="Lago sereno" />
+          <Language key="pt-BR" value="Lago Calmo" />
+          <Language key="ja-JP" value="穏やかな湖" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="286133840" title="Tsingy de Bemaraha" image="286133840.jpg" smallImage="286133840_preview.jpg" unlockingPuzzleIds="289795739">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Réserve du Tsingy de Bemaraha" />
+          <Language key="it-IT" value="Tsingy di Bemaraha" />
+          <Language key="de-DE" value="Tsingy de Bemaraha" />
+          <Language key="es-ES" value="Tsingy de Bemaraha" />
+          <Language key="pt-BR" value="Parque Nacional Tsingy de Bemaraha" />
+          <Language key="ja-JP" value="ツィンギ デ ベマラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1083292256" title="Antsirabe Mansion" image="1083292256.jpg" smallImage="1083292256_preview.jpg" unlockingPuzzleIds="286133840">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Manoir à Antsirabé" />
+          <Language key="it-IT" value="Villa di Antsirabe" />
+          <Language key="de-DE" value="Villa in Antsirabe" />
+          <Language key="es-ES" value="Mansión de Antsirabe" />
+          <Language key="pt-BR" value="Mansão em Antsirabe" />
+          <Language key="ja-JP" value="アンツィラベの大邸宅" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="728217814" title="City of Fianarantsoa" image="728217814.jpg" smallImage="728217814_preview.jpg" unlockingPuzzleIds="1083292256">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ville de Fianarantsoa" />
+          <Language key="it-IT" value="Città di Fianarantsoa" />
+          <Language key="de-DE" value="Fianarantsoa" />
+          <Language key="es-ES" value="Ciudad de Fianarantsoa" />
+          <Language key="pt-BR" value="Cidade de Fianarantsoa" />
+          <Language key="ja-JP" value="フィアナランツォア" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="132940439" title="Ploughshare Tortoise" image="132940439.jpg" smallImage="132940439_preview.jpg" unlockingPuzzleIds="728217814">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Tortue à soc" />
+          <Language key="it-IT" value="Testuggine dal vomere" />
+          <Language key="de-DE" value="Madagassische Schnabelbrustschildkröte" />
+          <Language key="es-ES" value="Tortuga angonoka" />
+          <Language key="pt-BR" value="Tartaruga de Madagascar" />
+          <Language key="ja-JP" value="ヘサキリクガメ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="315406259" title="Anja Park" image="315406259.jpg" smallImage="315406259_preview.jpg" unlockingPuzzleIds="132940439">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Parc Anja" />
+          <Language key="it-IT" value="Parco Anja" />
+          <Language key="de-DE" value="Anja-Park" />
+          <Language key="es-ES" value="Parque Anja" />
+          <Language key="pt-BR" value="Parque Anja" />
+          <Language key="ja-JP" value="アンジャ公園" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="171823289" title="Analavory Geyser" image="171823289.jpg" smallImage="171823289_preview.jpg" unlockingPuzzleIds="315406259">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Geyser d'Analavory" />
+          <Language key="it-IT" value="Geyser di Analavory" />
+          <Language key="de-DE" value="Analavor-Geysir" />
+          <Language key="es-ES" value="Géiser de Analavory" />
+          <Language key="pt-BR" value="Gêiser de Analavory" />
+          <Language key="ja-JP" value="アナラヴォリー間欠泉" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1084027364" title="Whitewater" image="1084027364.jpg" smallImage="1084027364_preview.jpg" unlockingPuzzleIds="171823289">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cascade" />
+          <Language key="it-IT" value="Rapide" />
+          <Language key="de-DE" value="Wildwasser" />
+          <Language key="es-ES" value="Aguas bravas" />
+          <Language key="pt-BR" value="Correnteza" />
+          <Language key="ja-JP" value="澄んだ水" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="400216672" title="Vanilla Seller" image="400216672.jpg" smallImage="400216672_preview.jpg" unlockingPuzzleIds="1084027364">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vendeur de vanille" />
+          <Language key="it-IT" value="Vendita di vaniglia" />
+          <Language key="de-DE" value="Vanille" />
+          <Language key="es-ES" value="Venta de vainilla" />
+          <Language key="pt-BR" value="Vendedor de Baunilha" />
+          <Language key="ja-JP" value="バニラ商人" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

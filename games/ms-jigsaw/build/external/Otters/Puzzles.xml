@@ -1,20 +1,22 @@
 <Puzzles>
   <Groups packId="OttersPack">
-    <Group id="Otters" title="Otters" sentientId="246" revision="8" packImage="1848R-292184_preview.jpg">
+    <Group id="Otters" title="Otters" sentientId="246" revision="1" packImage="1848R-292184_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Loutres" />
         <Language key="it-IT" value="Lontre" />
         <Language key="de-DE" value="Otter" />
         <Language key="es-ES" value="Nutrias" />
         <Language key="pt-BR" value="Lontras" />
+        <Language key="ja-JP" value="カワウソ" />
       </GroupLocalization>
-      <Puzzle id="1848R-292184" title="Eurasian Otter" image="1848R-292184.jpg" smallImage="1848R-292184_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1848R-292184" title="Euarasian Otter" image="1848R-292184.jpg" smallImage="1848R-292184_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Loutre commune" />
           <Language key="it-IT" value="Lontra eurasiatica" />
           <Language key="de-DE" value="Fischotter (Eurasisch)" />
           <Language key="es-ES" value="Nutria eurasiática" />
           <Language key="pt-BR" value="Lontra-euroasiática" />
+          <Language key="ja-JP" value="ユーラシアカワウソ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Fischotter (Europäisch)" />
           <Language key="es-ES" value="Nutria europea" />
           <Language key="pt-BR" value="Lontra-europeia" />
+          <Language key="ja-JP" value="ユーラシアカワウソ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Otter im Schnee" />
           <Language key="es-ES" value="Nutria de río" />
           <Language key="pt-BR" value="Lontra-do-rio-norte-americana" />
+          <Language key="ja-JP" value="カナダカワウソ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Seeotter" />
           <Language key="es-ES" value="Nutria marina" />
           <Language key="pt-BR" value="Lontra-marinha" />
+          <Language key="ja-JP" value="ラッコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Seeotter-Freunde" />
           <Language key="es-ES" value="Nutrias amigas" />
           <Language key="pt-BR" value="Lontras-marinhas amigas" />
+          <Language key="ja-JP" value="仲良しラッコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

@@ -1,13 +1,12 @@
 ﻿<Puzzles>
   <Groups packId="Weather2Pack">
-    <Group id="Weather2" title="Weather 2" sentientId="310" revision="2" packImage="1527R-1217221_preview.jpg">
+    <Group id="Weather2" title="Weather 2" sentientId="310" revision="1" packImage="1527R-1217221_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Phénomènes météorologiques 2" />
         <Language key="it-IT" value="Tempo 2" />
         <Language key="de-DE" value="Wetter 2" />
         <Language key="es-ES" value="Clima 2" />
         <Language key="pt-BR" value="Clima 2" />
-        <Language key="ja-JP" value="天候2" />
       </GroupLocalization>
       <Puzzle id="1527R-1217221" title="Hurricane Elena, Gulf of Mexico" image="1527R-1217221.jpg" smallImage="1527R-1217221_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -16,13 +15,12 @@
           <Language key="de-DE" value="Hurrikan Elena, Golf von Mexiko" />
           <Language key="es-ES" value="Huracán Elena, golfo de México" />
           <Language key="pt-BR" value="Furacão Elena, Golfo do México" />
-          <Language key="ja-JP" value="メキシコ湾のハリケーン・エレナ" />
         </PuzzleLocalization>
         <Difficulty>
-          <Easy params="6,4" />
-          <Medium params="9,6" />
-          <Hard params="12,8" />
-          <Expert params="15,10" />
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
       <Puzzle id="1815R-94944" title="Würzburg, Germany" image="1815R-94944.jpg" smallImage="1815R-94944_preview.jpg" unlockingPuzzleIds="">
@@ -32,7 +30,6 @@
           <Language key="de-DE" value="Würzburg, Deutschland" />
           <Language key="es-ES" value="Würzburgo, Alemania" />
           <Language key="pt-BR" value="Wurtzburgo, Alemanha" />
-          <Language key="ja-JP" value="ドイツのヴュルツブルク" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -48,7 +45,6 @@
           <Language key="de-DE" value="Klatschmohn im Regen" />
           <Language key="es-ES" value="Amapolas rojas bajo la lluvia" />
           <Language key="pt-BR" value="Papoulas vermelhas sob a chuva" />
-          <Language key="ja-JP" value="雨に濡れるヒナゲシ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -64,7 +60,6 @@
           <Language key="de-DE" value="Tornado über Wüstensee" />
           <Language key="es-ES" value="Tornado sobre un lago" />
           <Language key="pt-BR" value="Tornado sobre Lago do Deserto" />
-          <Language key="ja-JP" value="デザート・レイクのトルネード" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -80,7 +75,6 @@
           <Language key="de-DE" value="Dandenong-Ranges-Nationalpark" />
           <Language key="es-ES" value="Parque nacional de Dandenong" />
           <Language key="pt-BR" value="Parque Nacional de Dandenong Ranges" />
-          <Language key="ja-JP" value="ダンデノン・レンジズ国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -96,7 +90,6 @@
           <Language key="de-DE" value="Blitze über Wasser" />
           <Language key="es-ES" value="Rayo sobre el agua" />
           <Language key="pt-BR" value="Raio sobre a água" />
-          <Language key="ja-JP" value="水上の稲妻" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -112,7 +105,6 @@
           <Language key="de-DE" value="Aurora Borealis" />
           <Language key="es-ES" value="Aurora Boreal" />
           <Language key="pt-BR" value="Aurora boreal" />
-          <Language key="ja-JP" value="オーロラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -128,7 +120,6 @@
           <Language key="de-DE" value="Painted Hills, Oregon" />
           <Language key="es-ES" value="Painted Hills, Oregón" />
           <Language key="pt-BR" value="Painted Hills, Oregon, EUA" />
-          <Language key="ja-JP" value="オレゴン州のペインテッド・ヒルズ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -144,7 +135,6 @@
           <Language key="de-DE" value="Darwinfinken" />
           <Language key="es-ES" value="Pinzón de Darwin" />
           <Language key="pt-BR" value="Fringilídeo de Darwin" />
-          <Language key="ja-JP" value="ダーウィンフィンチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -160,7 +150,6 @@
           <Language key="de-DE" value="Olivenbäume in Italien" />
           <Language key="es-ES" value="Olivos en Italia" />
           <Language key="pt-BR" value="Oliveiras na Itália" />
-          <Language key="ja-JP" value="イタリアのオリーブの木" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -176,7 +165,6 @@
           <Language key="de-DE" value="Spektakulärer Sonnenuntergang" />
           <Language key="es-ES" value="Cielo y puesta de sol" />
           <Language key="pt-BR" value="Pôr do sol dramático" />
-          <Language key="ja-JP" value="日没時の雄大な空" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -192,7 +180,6 @@
           <Language key="de-DE" value="Badlands-Nationalpark, South Dakota" />
           <Language key="es-ES" value="Parque de Badlands, Dakota del Sur" />
           <Language key="pt-BR" value="Parque Nacional Badlands, Dakota do Sul, EUA" />
-          <Language key="ja-JP" value="サウスダコタ州のバッドランズ国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -208,7 +195,6 @@
           <Language key="de-DE" value="Grand Canyon, Arizona" />
           <Language key="es-ES" value="Gran Cañón de Arizona" />
           <Language key="pt-BR" value="Grand Canyon, Arizona, EUA" />
-          <Language key="ja-JP" value="アリゾナ州のグランド・キャニオン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -224,7 +210,6 @@
           <Language key="de-DE" value="Morgennebel in Bayern" />
           <Language key="es-ES" value="Neblina matutina en Baviera" />
           <Language key="pt-BR" value="Névoa da manhã, Bavária, Alemanha" />
-          <Language key="ja-JP" value="バイエルンの朝霧" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,7 +225,6 @@
           <Language key="de-DE" value="Tyne, England" />
           <Language key="es-ES" value="Río Tyne, Inglaterra" />
           <Language key="pt-BR" value="Rio Tyne, Inglaterra" />
-          <Language key="ja-JP" value="イギリスのタイン川" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

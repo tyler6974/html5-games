@@ -1,6 +1,6 @@
-<Puzzles>
+﻿<Puzzles>
   <Groups packId="Waterfalls2Pack">
-    <Group id="Waterfalls2" title="Waterfalls 2" sentientId="0" revision="4" packImage="1041MW-00001_preview.jpg">
+    <Group id="Waterfalls2" title="Waterfalls 2" sentientId="282" revision="1" packImage="1041MW-00001_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Chutes d'eau 2" />
         <Language key="it-IT" value="Cascate 2" />

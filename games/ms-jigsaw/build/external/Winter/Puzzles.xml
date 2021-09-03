@@ -1,13 +1,12 @@
 ﻿<Puzzles>
   <Groups packId="WinterPack">
-    <Group id="Winter" title="Winter" sentientId="297" revision="3" packImage="1815R-82390_preview.jpg">
+    <Group id="Winter" title="Winter" sentientId="297" revision="1" packImage="1815R-82390_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Hiver" />
         <Language key="it-IT" value="Inverno" />
         <Language key="de-DE" value="Winter" />
         <Language key="es-ES" value="Invierno" />
         <Language key="pt-BR" value="Inverno" />
-        <Language key="ja-JP" value="冬" />
       </GroupLocalization>
       <Puzzle id="1815R-82390" title="Icicles in Bavaria" image="1815R-82390.jpg" smallImage="1815R-82390_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -16,7 +15,6 @@
           <Language key="de-DE" value="Eiszapfen in Bayern" />
           <Language key="es-ES" value="Carámbanos en Baviera" />
           <Language key="pt-BR" value="Sincelos na Bavária" />
-          <Language key="ja-JP" value="バイエルンの氷柱" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -32,7 +30,6 @@
           <Language key="de-DE" value="Troms, Norwegen" />
           <Language key="es-ES" value="Troms, Noruega" />
           <Language key="pt-BR" value="Troms, Noruega" />
-          <Language key="ja-JP" value="ノルウェー、トロムソ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -48,7 +45,6 @@
           <Language key="de-DE" value="Wildkatze im Winter" />
           <Language key="es-ES" value="Gato montés en la nieve" />
           <Language key="pt-BR" value="Gato selvagem no inverno" />
-          <Language key="ja-JP" value="冬のヤマネコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -64,7 +60,6 @@
           <Language key="de-DE" value="Laksa (See), Norwegen" />
           <Language key="es-ES" value="Lago Laksa, Noruega" />
           <Language key="pt-BR" value="Lago Laksa, Noruega" />
-          <Language key="ja-JP" value="ラクサ湖、ノルウェー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -80,7 +75,6 @@
           <Language key="de-DE" value="New York City" />
           <Language key="es-ES" value="Ciudad de Nueva York" />
           <Language key="pt-BR" value="Nova Iorque" />
-          <Language key="ja-JP" value="ニューヨークシティー" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -96,7 +90,6 @@
           <Language key="de-DE" value="Willamette Valley, Oregon" />
           <Language key="es-ES" value="Valle del Willamette, Oregón" />
           <Language key="pt-BR" value="Vale Willamette, Oregon" />
-          <Language key="ja-JP" value="ウェラメットバレー、オレゴン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -112,7 +105,6 @@
           <Language key="de-DE" value="Schneespiegelung" />
           <Language key="es-ES" value="Reflejo nevado" />
           <Language key="pt-BR" value="Reflexos gelados" />
-          <Language key="ja-JP" value="水面に映る雪景色" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -128,7 +120,6 @@
           <Language key="de-DE" value="Rotfuchs in Hudson Bay" />
           <Language key="es-ES" value="Zorro rojo en la bahía de Hudson, EE. UU." />
           <Language key="pt-BR" value="Raposa na Baía de Hudson" />
-          <Language key="ja-JP" value="ハドソン湾のアカギツネ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -144,7 +135,6 @@
           <Language key="de-DE" value="Shannon (Fluss), Irland" />
           <Language key="es-ES" value="Río Shannon, Irlanda" />
           <Language key="pt-BR" value="Rio Shannon, Irlanda" />
-          <Language key="ja-JP" value="シャノン川、アイルランド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -160,7 +150,6 @@
           <Language key="de-DE" value="Arosa, Schweiz" />
           <Language key="es-ES" value="Arosa, Suiza" />
           <Language key="pt-BR" value="Arosa, Suíça" />
-          <Language key="ja-JP" value="スイス、アローザ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -176,7 +165,6 @@
           <Language key="de-DE" value="Schwäbische Alb, Deutschland" />
           <Language key="es-ES" value="Alpes suabos, Alemania" />
           <Language key="pt-BR" value="Alpes Suábios, Alemanha" />
-          <Language key="ja-JP" value="シュヴァーベンジュラ山脈、ドイツ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -192,7 +180,6 @@
           <Language key="de-DE" value="Espen" />
           <Language key="es-ES" value="Árboles en Aspen, EE. UU." />
           <Language key="pt-BR" value="Faias" />
-          <Language key="ja-JP" value="ポプラの木立" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -208,7 +195,6 @@
           <Language key="de-DE" value="Hellisgerði-Park, Island" />
           <Language key="es-ES" value="Parque Hellisgerði, Islandia" />
           <Language key="pt-BR" value="Parque Hellisgerdi, Islândia" />
-          <Language key="ja-JP" value="ハリスガーディ公園、アイスランド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -224,7 +210,6 @@
           <Language key="de-DE" value="Oppenau, Deutschland" />
           <Language key="es-ES" value="Oppenau, Alemania" />
           <Language key="pt-BR" value="Oppenau, Alemanha" />
-          <Language key="ja-JP" value="ドイツ、オッペナウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,7 +225,6 @@
           <Language key="de-DE" value="Quebec, Kanada" />
           <Language key="es-ES" value="Quebec, Canadá" />
           <Language key="pt-BR" value="Québec, Canadá" />
-          <Language key="ja-JP" value="カナダ、ケベック" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -256,7 +240,6 @@
           <Language key="de-DE" value="Schwedischer Luchs" />
           <Language key="es-ES" value="Lince sueco" />
           <Language key="pt-BR" value="Lince Sueco" />
-          <Language key="ja-JP" value="スウェーディッシュ リンクス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -272,7 +255,6 @@
           <Language key="de-DE" value="Colorado, USA" />
           <Language key="es-ES" value="Colorado, EE. UU." />
           <Language key="pt-BR" value="Colorado, EUA" />
-          <Language key="ja-JP" value="アメリカ合衆国、コロラド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -288,7 +270,6 @@
           <Language key="de-DE" value="Mount Rainier, Washington" />
           <Language key="es-ES" value="Monte Rainier, Washington" />
           <Language key="pt-BR" value="Monte Rainier, Washington" />
-          <Language key="ja-JP" value="レーニア山、ワシントン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -304,7 +285,6 @@
           <Language key="de-DE" value="Bäume in Schottland" />
           <Language key="es-ES" value="Árboles en Escocia" />
           <Language key="pt-BR" value="Árvores escocesas" />
-          <Language key="ja-JP" value="スコットランドの木立" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -320,7 +300,6 @@
           <Language key="de-DE" value="Julia (Fluss), Schweiz" />
           <Language key="es-ES" value="Río Julia, Suiza" />
           <Language key="pt-BR" value="Rio Julia, Suíça" />
-          <Language key="ja-JP" value="リバー ジュリア、スイス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

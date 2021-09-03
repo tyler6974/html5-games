@@ -1,22 +1,22 @@
 <Puzzles>
   <Groups packId="YosemitePack">
-    <Group id="Yosemite" title="Yosemite" sentientId="355" revision="1" packImage="1598R-11854133_preview.jpg">
+    <Group id="Yosemite" title="Yosemite" sentientId="355" revision="2" packImage="1598R-11854133_preview.jpg">
       <GroupLocalization>
-        <Language key="fr-FR" value="" />
-        <Language key="it-IT" value="" />
-        <Language key="de-DE" value="" />
-        <Language key="es-ES" value="" />
-        <Language key="pt-BR" value="" />
-        <Language key="ja-JP" value="" />
+        <Language key="fr-FR" value="Yosemite" />
+        <Language key="it-IT" value="Yosemite" />
+        <Language key="de-DE" value="Yosemite" />
+        <Language key="es-ES" value="Yosemite" />
+        <Language key="pt-BR" value="Yosemite" />
+        <Language key="ja-JP" value="ヨセミテ" />
       </GroupLocalization>
       <Puzzle id="1598R-11854133" title="El Capitan at Sunset" image="1598R-11854133.jpg" smallImage="1598R-11854133_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="El Capitan au coucher de soleil" />
+          <Language key="it-IT" value="El Capitan al tramonto" />
+          <Language key="de-DE" value="El Capitan bei Sonnenuntergang" />
+          <Language key="es-ES" value="El Capitán al atardecer" />
+          <Language key="pt-BR" value="Pôr do sol na El Capitan" />
+          <Language key="ja-JP" value="日没時のエルキャピタン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -27,12 +27,12 @@
       </Puzzle>
       <Puzzle id="1589R-13017910" title="Tunnel Tree" image="1589R-13017910.jpg" smallImage="1589R-13017910_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Arbre-tunnel" />
+          <Language key="it-IT" value="Wavona Tree" />
+          <Language key="de-DE" value="Der Tunnelbaum" />
+          <Language key="es-ES" value="Túnel en árbol" />
+          <Language key="pt-BR" value="Túnel da Árvore" />
+          <Language key="ja-JP" value="木のトンネル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -43,12 +43,12 @@
       </Puzzle>
       <Puzzle id="1589R-13377157" title="Merced River" image="1589R-13377157.jpg" smallImage="1589R-13377157_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Rivière Merced" />
+          <Language key="it-IT" value="Fiume Merced" />
+          <Language key="de-DE" value="Merced River" />
+          <Language key="es-ES" value="Río Merced" />
+          <Language key="pt-BR" value="Rio Merced" />
+          <Language key="ja-JP" value="マーセド川" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -59,12 +59,12 @@
       </Puzzle>
       <Puzzle id="1598R-13990286" title="Bridalveil Falls" image="1598R-13990286.jpg" smallImage="1598R-13990286_preview.jpg" unlockingPuzzleIds="1598R-11854133,1589R-13017910,1589R-13377157">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Chute du Voile de la Mariée" />
+          <Language key="it-IT" value="Cascate Bridalveil" />
+          <Language key="de-DE" value="Bridalveil Falls" />
+          <Language key="es-ES" value="Cascada Bridalveil" />
+          <Language key="pt-BR" value="Cachoeira Bridalveil" />
+          <Language key="ja-JP" value="ブライダルベール滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -75,12 +75,12 @@
       </Puzzle>
       <Puzzle id="1598R-13971813" title="El Capitan" image="1598R-13971813.jpg" smallImage="1598R-13971813_preview.jpg" unlockingPuzzleIds="1598R-13990286">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="El Capitan" />
+          <Language key="it-IT" value="El Capitan" />
+          <Language key="de-DE" value="El Capitan" />
+          <Language key="es-ES" value="El Capitán" />
+          <Language key="pt-BR" value="El Capitan" />
+          <Language key="ja-JP" value="エルキャピタン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -91,12 +91,12 @@
       </Puzzle>
       <Puzzle id="1589R-13340744" title="Half Dome" image="1589R-13340744.jpg" smallImage="1589R-13340744_preview.jpg" unlockingPuzzleIds="1598R-13971813">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Half Dome" />
+          <Language key="it-IT" value="Half Dome" />
+          <Language key="de-DE" value="Half Dome (Ti-sa-ach)" />
+          <Language key="es-ES" value="Half Dome" />
+          <Language key="pt-BR" value="Half Dome" />
+          <Language key="ja-JP" value="ハーフドーム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -107,12 +107,12 @@
       </Puzzle>
       <Puzzle id="1598R-13985521" title="Yosemite Falls" image="1598R-13985521.jpg" smallImage="1598R-13985521_preview.jpg" unlockingPuzzleIds="1589R-13340744">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Chutes de Yosemite" />
+          <Language key="it-IT" value="Cascate di Yosemite" />
+          <Language key="de-DE" value="Yosemite Falls" />
+          <Language key="es-ES" value="Cascada Yosemite" />
+          <Language key="pt-BR" value="Cataratas de Yosemite" />
+          <Language key="ja-JP" value="ヨセミテ滝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -123,12 +123,12 @@
       </Puzzle>
       <Puzzle id="1598R-14899664" title="Glacier Point" image="1598R-14899664.jpg" smallImage="1598R-14899664_preview.jpg" unlockingPuzzleIds="1598R-13985521">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Glacier Point" />
+          <Language key="it-IT" value="Glacier Point" />
+          <Language key="de-DE" value="Glacier Point Aussichtspunkt" />
+          <Language key="es-ES" value="Glacier Point" />
+          <Language key="pt-BR" value="Glacier Point" />
+          <Language key="ja-JP" value="グレイシャーポイント" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -139,12 +139,12 @@
       </Puzzle>
       <Puzzle id="1778R-21721959" title="Yosemite Valley" image="1778R-21721959.jpg" smallImage="1778R-21721959_preview.jpg" unlockingPuzzleIds="1598R-14899664">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Vallée de Yosemite" />
+          <Language key="it-IT" value="Yosemite Valley" />
+          <Language key="de-DE" value="Yosemite Valley" />
+          <Language key="es-ES" value="Valle de Yosemite" />
+          <Language key="pt-BR" value="Vale de Yosemite" />
+          <Language key="ja-JP" value="ヨセミテ渓谷" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -155,12 +155,12 @@
       </Puzzle>
       <Puzzle id="1598R-13985520" title="Moonbow Reflection" image="1598R-13985520.jpg" smallImage="1598R-13985520_preview.jpg" unlockingPuzzleIds="1778R-21721959">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="" />
-          <Language key="it-IT" value="" />
-          <Language key="de-DE" value="" />
-          <Language key="es-ES" value="" />
-          <Language key="pt-BR" value="" />
-          <Language key="ja-JP" value="" />
+          <Language key="fr-FR" value="Reflets d'arc-en-ciel" />
+          <Language key="it-IT" value="Riflesso di arcobaleno lunare" />
+          <Language key="de-DE" value="Mondregenbogen mit Spiegelbild" />
+          <Language key="es-ES" value="Reflejo de arcoíris" />
+          <Language key="pt-BR" value="Reflexo do arco-íris lunar" />
+          <Language key="ja-JP" value="月の反射虹(ムーンボーリフレクション)" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />

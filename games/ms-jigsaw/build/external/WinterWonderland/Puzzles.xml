@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="WinterWonderlandPack">
-    <Group id="WinterWonderland" title="Winter Wonderland" sentientId="265" revision="12" packImage="1889R-20914_preview.jpg">
+    <Group id="WinterWonderland" title="Winter Wonderland" sentientId="265" revision="1" packImage="1889R-20914_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Merveilles de l'hiver" />
         <Language key="it-IT" value="Meraviglie dell'inverno" />
         <Language key="de-DE" value="Winterwunderland" />
         <Language key="es-ES" value="Sueños invernales" />
         <Language key="pt-BR" value="Maravilhas do inverno" />
+        <Language key="ja-JP" value="冬の神秘" />
       </GroupLocalization>
       <Puzzle id="1889R-20914" title="Stream" image="1889R-20914.jpg" smallImage="1889R-20914_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Winterlicher Wasserlauf" />
           <Language key="es-ES" value="Arroyo" />
           <Language key="pt-BR" value="Rio" />
+          <Language key="ja-JP" value="川" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -23,13 +25,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1773R-136906" title="Villa under Snow" image="1773R-136906.jpg" smallImage="1773R-136906_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1773R-136906" title="Villa Under Snow" image="1773R-136906.jpg" smallImage="1773R-136906_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Maison sous la neige" />
           <Language key="it-IT" value="Villa innevata" />
           <Language key="de-DE" value="Villa im Schnee" />
           <Language key="es-ES" value="Villa bajo nieve" />
           <Language key="pt-BR" value="Vilarejo nevado" />
+          <Language key="ja-JP" value="雪の中の別荘" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Haselhuhn" />
           <Language key="es-ES" value="Grévol" />
           <Language key="pt-BR" value="Tetrastes bonasia" />
+          <Language key="ja-JP" value="エゾライチョウ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Französische Alpen" />
           <Language key="es-ES" value="Alpes franceses" />
           <Language key="pt-BR" value="Alpes franceses" />
+          <Language key="ja-JP" value="フランスのアルプス" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Rofangebirge, Österreich" />
           <Language key="es-ES" value="Sierra de Rofan, Austria" />
           <Language key="pt-BR" value="Cordilheira Rofan, Áustria" />
+          <Language key="ja-JP" value="オーストリア ローファン山地" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Pappel" />
           <Language key="es-ES" value="Álamo" />
           <Language key="pt-BR" value="Choupo-do-canadá" />
+          <Language key="ja-JP" value="ポプラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Hakengimpel" />
           <Language key="es-ES" value="Camachuelo picogrueso" />
           <Language key="pt-BR" value="Pinicola enucleator" />
+          <Language key="ja-JP" value="ギンザンマシコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Roosevelt-Elch" />
           <Language key="es-ES" value="Wapití de Roosevelt" />
           <Language key="pt-BR" value="Alce roosevelt" />
+          <Language key="ja-JP" value="ワピチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Gefrorene Zweige" />
           <Language key="es-ES" value="Ramas heladas" />
           <Language key="pt-BR" value="Ramos congelados" />
+          <Language key="ja-JP" value="霜のついた枝" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Gefrorene Stechpalme" />
           <Language key="es-ES" value="Acebo helado" />
           <Language key="pt-BR" value="Ílex congelado" />
+          <Language key="ja-JP" value="霜のついたヒイラギ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Gletscher" />
           <Language key="es-ES" value="Glacias" />
           <Language key="pt-BR" value="Geleira" />
+          <Language key="ja-JP" value="氷河" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Eilean Munde, Schottland" />
           <Language key="es-ES" value="Eilean Munde, Escocia" />
           <Language key="pt-BR" value="Eilean Munde, Escócia" />
+          <Language key="ja-JP" value="スコットランド アラン島" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Bison" />
           <Language key="es-ES" value="Bisonte americano" />
           <Language key="pt-BR" value="Bisão-americano" />
+          <Language key="ja-JP" value="アメリカバイソン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Kiefernzapfen" />
           <Language key="es-ES" value="Piñas" />
           <Language key="pt-BR" value="Pinhas" />
+          <Language key="ja-JP" value="松ぼっくり" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Riesenseeadler" />
           <Language key="es-ES" value="Pigargo gigante" />
           <Language key="pt-BR" value="Águia-marinha-de-Steller" />
+          <Language key="ja-JP" value="オオワシ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -233,13 +249,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1491R-1043049" title="Lake with Snowy Mountains" image="1491R-1043049.jpg" smallImage="1491R-1043049_preview.jpg" unlockingPuzzleIds="1802R-106480">
+      <Puzzle id="1491R-1043049" title="Lake With Snowy Mountains" image="1491R-1043049.jpg" smallImage="1491R-1043049_preview.jpg" unlockingPuzzleIds="1802R-106480">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Lac et montagnes enneigées" />
           <Language key="it-IT" value="Lago con monti innevati" />
           <Language key="de-DE" value="See mit schneebedeckten Bergen" />
           <Language key="es-ES" value="Lago con montañas nevadas" />
           <Language key="pt-BR" value="Lago e montanhas nevadas" />
+          <Language key="ja-JP" value="湖畔の雪山" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Bartrobbe" />
           <Language key="es-ES" value="Foca barbuda" />
           <Language key="pt-BR" value="Foca-barbuda" />
+          <Language key="ja-JP" value="アゴヒゲアザラシ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Buntspecht" />
           <Language key="es-ES" value="Pico picapinos" />
           <Language key="pt-BR" value="Pica-pau-malhado-grande" />
+          <Language key="ja-JP" value="アカゲラ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Fluss im Schnee" />
           <Language key="es-ES" value="Río de Biei" />
           <Language key="pt-BR" value="Rio de Biei" />
+          <Language key="ja-JP" value="美瑛川" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Castle Mountain, Banff-Nationalpark" />
           <Language key="es-ES" value="Castle Mountain, Parque Nacional Banff" />
           <Language key="pt-BR" value="Monte Castle, Parque Nacional Banff" />
+          <Language key="ja-JP" value="バンフ キャッスルマウンテン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -308,13 +329,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-306362" title="Pine Tree with Snow and Icicles" image="4029R-306362.jpg" smallImage="4029R-306362_preview.jpg" unlockingPuzzleIds="1889R-87831">
+      <Puzzle id="4029R-306362" title="Pine Tree With Snow And Icicles" image="4029R-306362.jpg" smallImage="4029R-306362_preview.jpg" unlockingPuzzleIds="1889R-87831">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Pin recouvert de neige et de stalactites" />
           <Language key="it-IT" value="Pino con neve e ghiaccioli" />
           <Language key="de-DE" value="Kiefer mit Schnee und Eiszapfen" />
           <Language key="es-ES" value="Pino con nieve y carámbanos" />
           <Language key="pt-BR" value="Pinheiro com neve e sincelos" />
+          <Language key="ja-JP" value="雪とつららのついたマツの木" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Yellowstone-Nationalpark, USA" />
           <Language key="es-ES" value="PN. Yellowstone, EE.UU." />
           <Language key="pt-BR" value="Parque Nacional de Yellowstone, EUA" />
+          <Language key="ja-JP" value="米国 イエローストーン国立公園" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -345,6 +368,7 @@
           <Language key="de-DE" value="Prag, Tschechische Republik" />
           <Language key="es-ES" value="Praga, República Checa" />
           <Language key="pt-BR" value="Praga, República Tcheca" />
+          <Language key="ja-JP" value="チェコ共和国 プラハ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -360,6 +384,7 @@
           <Language key="de-DE" value="Junge Sattelrobbe" />
           <Language key="es-ES" value="Foca pía" />
           <Language key="pt-BR" value="Foca-da-groenlândia filhote" />
+          <Language key="ja-JP" value="タテゴトアザラシの子" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -375,6 +400,7 @@
           <Language key="de-DE" value="Dompfaff" />
           <Language key="es-ES" value="Camachuelo" />
           <Language key="pt-BR" value="Priolo" />
+          <Language key="ja-JP" value="ウソ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -390,6 +416,7 @@
           <Language key="de-DE" value="Eisbär" />
           <Language key="es-ES" value="Oso polar" />
           <Language key="pt-BR" value="Urso polar" />
+          <Language key="ja-JP" value="シロクマ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -398,13 +425,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-13556" title="Snowman Couple" image="1802R-13556.jpg" smallImage="1802R-13556_preview.jpg" unlockingPuzzleIds="4401R-2153">
+      <Puzzle id="1802R-13556" title="Snowman couple" image="1802R-13556.jpg" smallImage="1802R-13556_preview.jpg" unlockingPuzzleIds="4401R-2153">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Deux bonhommes de neige" />
           <Language key="it-IT" value="Coppia di pupazzi di neve" />
           <Language key="de-DE" value="Schneemannpärchen" />
           <Language key="es-ES" value="Pareja de muñecos de nieve" />
           <Language key="pt-BR" value="Casal de neve" />
+          <Language key="ja-JP" value="スノーマンのカップル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -413,13 +441,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1532R-35209" title="Cup of Orange Punch" image="1532R-35209.jpg" smallImage="1532R-35209_preview.jpg" unlockingPuzzleIds="1802R-13556">
+      <Puzzle id="1532R-35209" title="Cup of orange punch" image="1532R-35209.jpg" smallImage="1532R-35209_preview.jpg" unlockingPuzzleIds="1802R-13556">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Tasse de punch à l'orange" />
           <Language key="it-IT" value="Tazza di punch all'arancia" />
           <Language key="de-DE" value="Tasse mit Orangenpunch" />
           <Language key="es-ES" value="Taza de ponche naranja" />
           <Language key="pt-BR" value="Xícara de ponche de laranja" />
+          <Language key="ja-JP" value="カップに入ったオレンジパンチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

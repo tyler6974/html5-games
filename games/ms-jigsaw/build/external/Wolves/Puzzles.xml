@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="WolvesPack">
-    <Group id="Wolves" title="Wolves" sentientId="266" revision="8" packImage="1889R-2143_preview.jpg">
+    <Group id="Wolves" title="Wolves" sentientId="266" revision="1" packImage="1889R-2143_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Loups" />
         <Language key="it-IT" value="Lupi" />
         <Language key="de-DE" value="Wölfe" />
         <Language key="es-ES" value="Lobos" />
         <Language key="pt-BR" value="Lobos" />
+        <Language key="ja-JP" value="オオカミ" />
       </GroupLocalization>
       <Puzzle id="1889R-2143" title="Wolf" image="1889R-2143.jpg" smallImage="1889R-2143_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Wolf" />
           <Language key="es-ES" value="Lobo" />
           <Language key="pt-BR" value="Lobo" />
+          <Language key="ja-JP" value="オオカミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Timberwolf" />
           <Language key="es-ES" value="Lobos grises" />
           <Language key="pt-BR" value="Lobo-cinzento" />
+          <Language key="ja-JP" value="シンリンオオカミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -38,13 +41,14 @@
           <Expert params="14,14" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1647R-99937" title="Wolf in Autumn Forest" image="1647R-99937.jpg" smallImage="1647R-99937_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1647R-99937" title="Wolf In Autumn Forest" image="1647R-99937.jpg" smallImage="1647R-99937_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Loup dans forêt d'automne" />
           <Language key="it-IT" value="Lupo nella foresta autunnale" />
           <Language key="de-DE" value="Wolf in herbstlichem Wald" />
           <Language key="es-ES" value="Lobo del bosque otoñal" />
           <Language key="pt-BR" value="Lobo na floresta no outono" />
+          <Language key="ja-JP" value="秋の森のオオカミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -53,13 +57,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-188907" title="Wolf Tracks in the Mud" image="4029R-188907.jpg" smallImage="4029R-188907_preview.jpg" unlockingPuzzleIds="1889R-2143,1828R-71595,1647R-99937">
+      <Puzzle id="4029R-188907" title="Wolf Tracks In The Mud" image="4029R-188907.jpg" smallImage="4029R-188907_preview.jpg" unlockingPuzzleIds="1889R-2143,1828R-71595,1647R-99937">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Empreintes de loup dans la boue" />
           <Language key="it-IT" value="Impronte di lupo nel fango" />
           <Language key="de-DE" value="Wolfsspuren im Schlamm" />
           <Language key="es-ES" value="Huellas de lobos en el barro" />
           <Language key="pt-BR" value="Pegadas de lobo na lama" />
+          <Language key="ja-JP" value="地面についたオオカミの足跡" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -68,13 +73,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1889R-2041" title="Wolves in Winter Forest" image="1889R-2041.jpg" smallImage="1889R-2041_preview.jpg" unlockingPuzzleIds="4029R-188907">
+      <Puzzle id="1889R-2041" title="Wolves In Winter Forest" image="1889R-2041.jpg" smallImage="1889R-2041_preview.jpg" unlockingPuzzleIds="4029R-188907">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Loups dans forêt d'hiver" />
           <Language key="it-IT" value="Lupi nella foresta invernale" />
           <Language key="de-DE" value="Wölfe im winterlichen Wald" />
           <Language key="es-ES" value="Lobos del bosque invernal" />
           <Language key="pt-BR" value="Lobos na floresta no inverno" />
+          <Language key="ja-JP" value="冬の森のオオカミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />

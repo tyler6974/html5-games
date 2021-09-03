@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="SeaLife2Pack">
-    <Group id="SeaLife2" title="Sea Life 2" sentientId="288" revision="2" packImage="1672R-14552_preview.jpg">
+    <Group id="SeaLife2" title="Sea Life 2" sentientId="288" revision="1" packImage="1672R-14552_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Vie aquatique 2" />
         <Language key="it-IT" value="Vita marina 2" />

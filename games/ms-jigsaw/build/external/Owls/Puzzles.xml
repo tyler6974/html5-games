@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="OwlsPack">
-    <Group id="Owls" title="Owls" sentientId="247" revision="7" packImage="1436R-232071_preview.jpg">
+    <Group id="Owls" title="Owls" sentientId="247" revision="1" packImage="1436R-232071_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Hiboux" />
         <Language key="it-IT" value="Gufi" />

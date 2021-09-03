@@ -1,0 +1,254 @@
+<Puzzles>
+  <Groups packId="SeeAFacePack">
+    <Group id="SeeAFace" title="See a Face" sentientId="372" revision="1" packImage="728865913_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Visages cachés" />
+        <Language key="it-IT" value="Volti nelle cose" />
+        <Language key="de-DE" value="Pareidolie" />
+        <Language key="es-ES" value="Ve una cara" />
+        <Language key="pt-BR" value="Rostos" />
+        <Language key="ja-JP" value="顔が見えるかな" />
+      </GroupLocalization>
+      <Puzzle id="728865913" title="Wall in Tuscany" image="728865913.jpg" smallImage="728865913_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Mur en Toscane" />
+          <Language key="it-IT" value="Muro in Toscana" />
+          <Language key="de-DE" value="Toskanische Mauer" />
+          <Language key="es-ES" value="Muro en la Toscana" />
+          <Language key="pt-BR" value="Muro na Toscana" />
+          <Language key="ja-JP" value="トスカーナの壁" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="184523372" title="Aegean Villa" image="184523372.jpg" smallImage="184523372_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Villa égéenne" />
+          <Language key="it-IT" value="Villa nell'Egeo" />
+          <Language key="de-DE" value="Villa an der Ägäis" />
+          <Language key="es-ES" value="Casa egea" />
+          <Language key="pt-BR" value="Vila no Egeu" />
+          <Language key="ja-JP" value="エーゲ海のヴィラ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="637519000" title="Just A Tree" image="637519000.jpg" smallImage="637519000_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Juste un arbre" />
+          <Language key="it-IT" value="Solo un albero" />
+          <Language key="de-DE" value="Schnöder Baum" />
+          <Language key="es-ES" value="Es solo un árbol" />
+          <Language key="pt-BR" value="Apenas uma Árvore" />
+          <Language key="ja-JP" value="ただの木" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="771596245" title="Mailbox" image="771596245.jpg" smallImage="771596245_preview.jpg" unlockingPuzzleIds="728865913,184523372,637519000">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Boîte aux lettres" />
+          <Language key="it-IT" value="Cassetta delle lettere" />
+          <Language key="de-DE" value="Briefkasten" />
+          <Language key="es-ES" value="Buzón" />
+          <Language key="pt-BR" value="Caixa de Correio" />
+          <Language key="ja-JP" value="郵便受け" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1015960705" title="Cheery Stump" image="1015960705.jpg" smallImage="1015960705_preview.jpg" unlockingPuzzleIds="771596245">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Souche enjouée" />
+          <Language key="it-IT" value="Troncone allegro" />
+          <Language key="de-DE" value="Grinsender Stumpf" />
+          <Language key="es-ES" value="Tocón de cerezo" />
+          <Language key="pt-BR" value="Toco Sorridente" />
+          <Language key="ja-JP" value="陽気な切り株" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1505585165" title="Subtle Profile" image="1505585165.jpg" smallImage="1505585165_preview.jpg" unlockingPuzzleIds="1015960705">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Profil discret" />
+          <Language key="it-IT" value="Profilo sottile" />
+          <Language key="de-DE" value="Rillen und Kanten" />
+          <Language key="es-ES" value="Perfil sutil" />
+          <Language key="pt-BR" value="Perfil Sutil" />
+          <Language key="ja-JP" value="微妙な輪郭" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="233932363" title="Coconut" image="233932363.jpg" smallImage="233932363_preview.jpg" unlockingPuzzleIds="1505585165">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Noix de coco" />
+          <Language key="it-IT" value="Noce di cocco" />
+          <Language key="de-DE" value="Kokosnuss" />
+          <Language key="es-ES" value="Coco" />
+          <Language key="pt-BR" value="Coquinho" />
+          <Language key="ja-JP" value="ココナッツ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1562321671" title="Peering 'Round" image="1562321671.jpg" smallImage="1562321671_preview.jpg" unlockingPuzzleIds="233932363">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Observer en cachette" />
+          <Language key="it-IT" value="Sbirciando nei dintorni" />
+          <Language key="de-DE" value="Hervorschauen" />
+          <Language key="es-ES" value="Asomado" />
+          <Language key="pt-BR" value="Olhando Tudo" />
+          <Language key="ja-JP" value="回り込んで覗く顔" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1205596525" title="Plucky" image="1205596525.jpg" smallImage="1205596525_preview.jpg" unlockingPuzzleIds="1562321671">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fruité" />
+          <Language key="it-IT" value="Coraggioso" />
+          <Language key="de-DE" value="Herumhängen" />
+          <Language key="es-ES" value="Sorprendido" />
+          <Language key="pt-BR" value="Destemido" />
+          <Language key="ja-JP" value="怖いもの知らず" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="254427673" title="Mug o' Cereal" image="254427673.jpg" smallImage="254427673_preview.jpg" unlockingPuzzleIds="1205596525">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bol de céréales" />
+          <Language key="it-IT" value="Tazza di cereali" />
+          <Language key="de-DE" value="Morgenstund" />
+          <Language key="es-ES" value="Taza de cereales" />
+          <Language key="pt-BR" value="Cereal na Xícara" />
+          <Language key="ja-JP" value="カップのシリアル" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1327086578" title="Bayside Cliffs" image="1327086578.jpg" smallImage="1327086578_preview.jpg" unlockingPuzzleIds="254427673">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Falaises de Bayside" />
+          <Language key="it-IT" value="Scogliere sulla baia" />
+          <Language key="de-DE" value="Meeresklippen" />
+          <Language key="es-ES" value="Acantilados de la bahía" />
+          <Language key="pt-BR" value="Penhascos na Costa" />
+          <Language key="ja-JP" value="海辺の崖" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1539643679" title="Dublin Valve" image="1539643679.jpg" smallImage="1539643679_preview.jpg" unlockingPuzzleIds="1327086578">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Double valve" />
+          <Language key="it-IT" value="Valvola di Dublino" />
+          <Language key="de-DE" value="Rohrgesicht" />
+          <Language key="es-ES" value="Válvula" />
+          <Language key="pt-BR" value="Válvula em Dublin" />
+          <Language key="ja-JP" value="ダブリンのバルブ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="109550375" title="Bearded Rock" image="109550375.jpg" smallImage="109550375_preview.jpg" unlockingPuzzleIds="1539643679">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Rocher à barbe" />
+          <Language key="it-IT" value="Roccia barbuta" />
+          <Language key="de-DE" value="Bärtiger Fels" />
+          <Language key="es-ES" value="Roca barbuda" />
+          <Language key="pt-BR" value="Rocha Barbuda" />
+          <Language key="ja-JP" value="ひげを生やした岩" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1867774900" title="Suspicious Shadows" image="1867774900.jpg" smallImage="1867774900_preview.jpg" unlockingPuzzleIds="109550375">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Ombres suspectes" />
+          <Language key="it-IT" value="Ombre diffidenti" />
+          <Language key="de-DE" value="Verdächtige Schatten" />
+          <Language key="es-ES" value="Sombras sospechosas" />
+          <Language key="pt-BR" value="Sombras Suspeitas" />
+          <Language key="ja-JP" value="あやしい影" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1650214774" title="Sunbathing" image="1650214774.jpg" smallImage="1650214774_preview.jpg" unlockingPuzzleIds="1867774900">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Profiter d'un bain de soleil" />
+          <Language key="it-IT" value="Stesa al sole" />
+          <Language key="de-DE" value="Sonnenbad" />
+          <Language key="es-ES" value="Tomando el sol" />
+          <Language key="pt-BR" value="Banho de Sol" />
+          <Language key="ja-JP" value="日光浴中" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

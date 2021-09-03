@@ -1,6 +1,6 @@
-<Puzzles>
+﻿<Puzzles>
   <Groups packId="SpainPack">
-    <Group id="Spain" title="Spain" sentientId="322" revision="3" packImage="1672R-74478_preview.jpg">
+    <Group id="Spain" title="Spain" sentientId="322" revision="1" packImage="1672R-74478_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Espagne" />
         <Language key="it-IT" value="Spagna" />

@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="PetsPack">
-    <Group id="Pets" title="Pets" sentientId="249" revision="12" packImage="1439R-1025205_preview.jpg">
+    <Group id="Pets" title="Pets" sentientId="249" revision="1" packImage="1439R-1025205_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Animaux domestiques" />
         <Language key="it-IT" value="Animali domestici" />
         <Language key="de-DE" value="Haustiere" />
         <Language key="es-ES" value="Mascotas" />
         <Language key="pt-BR" value="Bichos de estimação" />
+        <Language key="ja-JP" value="ペット" />
       </GroupLocalization>
       <Puzzle id="1439R-1025205" title="Italian Greyhound" image="1439R-1025205.jpg" smallImage="1439R-1025205_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Italienisches Windspiel" />
           <Language key="es-ES" value="Galgo italiano" />
           <Language key="pt-BR" value="Galguinho italiano" />
+          <Language key="ja-JP" value="イタリアングレーハウンド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Flauschiger Hamster" />
           <Language key="es-ES" value="Hámster peludo" />
           <Language key="pt-BR" value="Hamster fofo" />
+          <Language key="ja-JP" value="ハムスター" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -38,13 +41,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4029R-229674" title="Golden Retriever and Mountain Dog" image="4029R-229674.jpg" smallImage="4029R-229674_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="4029R-229674" title="Golden Retriever And Mountain Dog" image="4029R-229674.jpg" smallImage="4029R-229674_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Golden retriever et bouvier bernois" />
           <Language key="it-IT" value="Golden Retriever e Mountain Dog" />
           <Language key="de-DE" value="Golden Retriever und Sennenhund" />
           <Language key="es-ES" value="Golden retriever y perro de montaña" />
           <Language key="pt-BR" value="Golden retriever e Cão montanhês" />
+          <Language key="ja-JP" value="ゴールデンレトリーバなど" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -60,6 +64,7 @@
           <Language key="de-DE" value="Cockerspaniel" />
           <Language key="es-ES" value="Cocker americano" />
           <Language key="pt-BR" value="Cocker spaniel americano" />
+          <Language key="ja-JP" value="アメリカンコッカースパニエル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Cockerspanielwelpen" />
           <Language key="es-ES" value="Cachorros de cocker americano" />
           <Language key="pt-BR" value="Filhotes de Cocker spaniel" />
+          <Language key="ja-JP" value="コッカースパニエルの子犬たち" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Britisch Kurzhaar-Katze" />
           <Language key="es-ES" value="Gato británico de pelo corto" />
           <Language key="pt-BR" value="Gato de pelo curto inglês" />
+          <Language key="ja-JP" value="ブリティッシュショートヘア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Shar-Pei-Welpen" />
           <Language key="es-ES" value="Cachorros de Shar Pei" />
           <Language key="pt-BR" value="Filhotes de Shar-pei" />
+          <Language key="ja-JP" value="シャーペイの子犬たち" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Russischer Terrier-Welpe" />
           <Language key="es-ES" value="Toy terrier ruso" />
           <Language key="pt-BR" value="Pequeno cão russo" />
+          <Language key="ja-JP" value="ロシアン トイテリア" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Weiße Katze" />
           <Language key="es-ES" value="Gato blanco" />
           <Language key="pt-BR" value="Gato branco" />
+          <Language key="ja-JP" value="白いネコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -143,13 +153,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1802R-78080" title="A Goldfish and an Orange Tabby Cat" image="1802R-78080.jpg" smallImage="1802R-78080_preview.jpg" unlockingPuzzleIds="1647R-183417">
+      <Puzzle id="1802R-78080" title="A Goldfish And An Orange Tabby Cat" image="1802R-78080.jpg" smallImage="1802R-78080_preview.jpg" unlockingPuzzleIds="1647R-183417">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Un poisson rouge et un chat tabby roux" />
           <Language key="it-IT" value="Pesce rosso e gatto soriano arancione" />
           <Language key="de-DE" value="Goldfisch und orange getigerte Katze" />
           <Language key="es-ES" value="Carpa dorada y gato atigrado" />
           <Language key="pt-BR" value="Peixinho-dourado e gato laranja" />
+          <Language key="ja-JP" value="金魚と茶トラネコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Papageien" />
           <Language key="es-ES" value="Papagayos" />
           <Language key="pt-BR" value="Periquitos" />
+          <Language key="ja-JP" value="オウム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Meerschweinchen" />
           <Language key="es-ES" value="Cobaya de pelo largo" />
           <Language key="pt-BR" value="Porquinhos-da-índia coronet" />
+          <Language key="ja-JP" value="コロネットモルモット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Häschen mit Schlappohren" />
           <Language key="es-ES" value="Conejo belier" />
           <Language key="pt-BR" value="Coelhos de orelhas caídas" />
+          <Language key="ja-JP" value="垂れ耳ウサギ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Yorkshire-Terrier-Welpen" />
           <Language key="es-ES" value="Cachorros de Yorkshire terrier" />
           <Language key="pt-BR" value="Filhotes de Yorkshire terrier" />
+          <Language key="ja-JP" value="ヨークシャーテリアの子犬たち" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Britisch Kurzhaar" />
           <Language key="es-ES" value="Gato británico de pelo corto azul" />
           <Language key="pt-BR" value="Gato de pelo curto inglês azul" />
+          <Language key="ja-JP" value="ブリティッシュショートヘア 青毛" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Häschen mit Schlappohr" />
           <Language key="es-ES" value="Pequeño conejo belier" />
           <Language key="pt-BR" value="Coelhinho de orelhas caídas" />
+          <Language key="ja-JP" value="小さな垂れ耳ウサギ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Freunde" />
           <Language key="es-ES" value="Amigos" />
           <Language key="pt-BR" value="Amigos" />
+          <Language key="ja-JP" value="仲良し" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -263,13 +281,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-95733" title="Chicken on Toy Motorcycle" image="1598R-95733.jpg" smallImage="1598R-95733_preview.jpg" unlockingPuzzleIds="1439R-1131760">
+      <Puzzle id="1598R-95733" title="Chicken On Toy Motorcycle" image="1598R-95733.jpg" smallImage="1598R-95733_preview.jpg" unlockingPuzzleIds="1439R-1131760">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Poulet sur une moto miniature" />
           <Language key="it-IT" value="Pulcino su moto giocattolo" />
           <Language key="de-DE" value="Küken auf Minimotorrad" />
           <Language key="es-ES" value="Pollito con moto de juguete" />
           <Language key="pt-BR" value="Pintinho na motocicleta de brinquedo" />
+          <Language key="ja-JP" value="おもちゃのバイクに乗ったヒヨコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Katzenperformance" />
           <Language key="es-ES" value="Gato siberiano" />
           <Language key="pt-BR" value="Neva masquerade" />
+          <Language key="ja-JP" value="サイベリアン カラーポイント" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Entchen" />
           <Language key="es-ES" value="Patitos" />
           <Language key="pt-BR" value="Patinhos" />
+          <Language key="ja-JP" value="アヒルのひな" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Goldfisch" />
           <Language key="es-ES" value="Carpa dorada" />
           <Language key="pt-BR" value="Peixinho-dourado" />
+          <Language key="ja-JP" value="金魚" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Meerschweinchen" />
           <Language key="es-ES" value="Cobaya" />
           <Language key="pt-BR" value="Porquinho-da-índia" />
+          <Language key="ja-JP" value="モルモット" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

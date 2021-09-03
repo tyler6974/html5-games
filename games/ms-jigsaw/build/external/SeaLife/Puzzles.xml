@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="SeaLifePack">
-    <Group id="SeaLife" title="Sea Life" sentientId="251" revision="10" packImage="1672R-34509_preview.jpg">
+    <Group id="SeaLife" title="Sea Life" sentientId="251" revision="1" packImage="1672R-34509_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Sous l'océan" />
         <Language key="it-IT" value="Vita marina" />
         <Language key="de-DE" value="Leben unter Wasser" />
         <Language key="es-ES" value="Vida marina" />
         <Language key="pt-BR" value="Vida marinha" />
+        <Language key="ja-JP" value="海の生物" />
       </GroupLocalization>
       <Puzzle id="1672R-34509" title="Clownfish" image="1672R-34509.jpg" smallImage="1672R-34509_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Clownfische" />
           <Language key="es-ES" value="Pez payaso" />
           <Language key="pt-BR" value="Peixe-palhaço" />
+          <Language key="ja-JP" value="カクレクマノミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -30,6 +32,7 @@
           <Language key="de-DE" value="Falterfische" />
           <Language key="es-ES" value="Pez mariposa" />
           <Language key="pt-BR" value="Peixe-borboleta" />
+          <Language key="ja-JP" value="チョウチョウウオ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -45,6 +48,7 @@
           <Language key="de-DE" value="Grüne Meeresschildkröte" />
           <Language key="es-ES" value="Tortuga marina verde" />
           <Language key="pt-BR" value="Tartaruga-verde" />
+          <Language key="ja-JP" value="アオウミガメ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -53,13 +57,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="4239R-6110" title="Crown-of-Thorns Starfish" image="4239R-6110.jpg" smallImage="4239R-6110_preview.jpg" unlockingPuzzleIds="1672R-34509,1527R-1095819,4239R-5311">
+      <Puzzle id="4239R-6110" title="Crown-Of-Thorns Starfish" image="4239R-6110.jpg" smallImage="4239R-6110_preview.jpg" unlockingPuzzleIds="1672R-34509,1527R-1095819,4239R-5311">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Couronne du Christ" />
           <Language key="it-IT" value="Stella di mare corona di spine" />
           <Language key="de-DE" value="Dornenkronenseestern" />
           <Language key="es-ES" value="Acantáster púrpura" />
           <Language key="pt-BR" value="Coroa-de-espinhos" />
+          <Language key="ja-JP" value="オニヒトデ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Qualle" />
           <Language key="es-ES" value="Medusa" />
           <Language key="pt-BR" value="Água-viva" />
+          <Language key="ja-JP" value="クラゲ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -90,6 +96,7 @@
           <Language key="de-DE" value="Galápagos-Seelöwen" />
           <Language key="es-ES" value="Leones marinos de las Galápagos" />
           <Language key="pt-BR" value="Leões-marinhos de Galápagos" />
+          <Language key="ja-JP" value="ガラパゴスアシカ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -105,6 +112,7 @@
           <Language key="de-DE" value="Halsketten-Seestern" />
           <Language key="es-ES" value="Estrella de mármol" />
           <Language key="pt-BR" value="Fromia monilis" />
+          <Language key="ja-JP" value="ジュズベリヒトデ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Makrelen" />
           <Language key="es-ES" value="Banco de peces" />
           <Language key="pt-BR" value="Carangídeo" />
+          <Language key="ja-JP" value="アジの仲間" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Halsband-Falterfische" />
           <Language key="es-ES" value="Pez mariposa de cola roja" />
           <Language key="pt-BR" value="Chaetodon collare" />
+          <Language key="ja-JP" value="コラーレバタフライフィッシュ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Rote Clownfische" />
           <Language key="es-ES" value="Pez payaso rojo" />
           <Language key="pt-BR" value="Tomato" />
+          <Language key="ja-JP" value="ハマクマノミ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Masken-Wimpelfische" />
           <Language key="es-ES" value="Pez estandarte enmascarado" />
           <Language key="pt-BR" value="Heniochus monoceros" />
+          <Language key="ja-JP" value="オニハタタテダイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -180,6 +192,7 @@
           <Language key="de-DE" value="Doktorfisch" />
           <Language key="es-ES" value="Pez cirujano" />
           <Language key="pt-BR" value="Peixe-cirurgião" />
+          <Language key="ja-JP" value="クロハギ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Walross" />
           <Language key="es-ES" value="Morsa" />
           <Language key="pt-BR" value="Morsa" />
+          <Language key="ja-JP" value="セイウチ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -210,6 +224,7 @@
           <Language key="de-DE" value="Geisterkrabbe" />
           <Language key="es-ES" value="Cangrejo fantasma" />
           <Language key="pt-BR" value="Maria-farinha" />
+          <Language key="ja-JP" value="スナガニ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Blaupunktrochen" />
           <Language key="es-ES" value="Raya de puntos azules" />
           <Language key="pt-BR" value="Raia-pintada" />
+          <Language key="ja-JP" value="ヤッコエイ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Feuerfisch" />
           <Language key="es-ES" value="Pez león" />
           <Language key="pt-BR" value="Peixe-leão" />
+          <Language key="ja-JP" value="ミノカサゴ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -255,6 +272,7 @@
           <Language key="de-DE" value="Delfin" />
           <Language key="es-ES" value="Delfín" />
           <Language key="pt-BR" value="Golfinho" />
+          <Language key="ja-JP" value="イルカ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Oktopus" />
           <Language key="es-ES" value="Pulpo" />
           <Language key="pt-BR" value="Polvo" />
+          <Language key="ja-JP" value="タコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -285,6 +304,7 @@
           <Language key="de-DE" value="Schwarm-Wimpelfische" />
           <Language key="es-ES" value="Banco de peces estandarte" />
           <Language key="pt-BR" value="Heniochus diphreutes" />
+          <Language key="ja-JP" value="ハタタテダイの群れ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Karibischer Riffhai" />
           <Language key="es-ES" value="Tiburones en arrecife del Caribe" />
           <Language key="pt-BR" value="Tubarões-bico-fino" />
+          <Language key="ja-JP" value="ペレスメジロザメ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Blaugürtel-Kaiserfisch" />
           <Language key="es-ES" value="Pez ángel de faja azul" />
           <Language key="pt-BR" value="Peixe-anjo-majestoso" />
+          <Language key="ja-JP" value="イナズマヤッコ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Muscheln" />
           <Language key="es-ES" value="Caracolas" />
           <Language key="pt-BR" value="Conchas" />
+          <Language key="ja-JP" value="貝殻" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

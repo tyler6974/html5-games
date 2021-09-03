@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="ProjectSparkPack">
-    <Group id="ProjectSpark" title="Project Spark" sentientId="0" revision="3" packImage="1-Spark_Tree_preview.jpg">
+    <Group id="ProjectSpark" title="Project Spark" sentientId="268" revision="1" packImage="1-Spark_Tree_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Project Spark" />
         <Language key="it-IT" value="Project Spark" />
@@ -83,13 +83,13 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="6-Goblin_Chieftan" title="Goblin Chieftain" image="6-Goblin_Chieftan.jpg" smallImage="6-Goblin_Chieftan_preview.jpg" unlockingPuzzleIds="5-Crossroads">
+      <Puzzle id="6-Goblin_Chieftan" title="Goblin Chieftan" image="6-Goblin_Chieftan.jpg" smallImage="6-Goblin_Chieftan_preview.jpg" unlockingPuzzleIds="5-Crossroads">
         <PuzzleLocalization>
-          <Language key="fr-FR" value="Goblin Chieftain" />
-          <Language key="it-IT" value="Goblin Chieftain" />
-          <Language key="de-DE" value="Goblin Chieftain" />
-          <Language key="es-ES" value="Goblin Chieftain" />
-          <Language key="pt-BR" value="Goblin Chieftain" />
+          <Language key="fr-FR" value="Goblin Chieftan" />
+          <Language key="it-IT" value="Goblin Chieftan" />
+          <Language key="de-DE" value="Goblin Chieftan" />
+          <Language key="es-ES" value="Goblin Chieftan" />
+          <Language key="pt-BR" value="Goblin Chieftan" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

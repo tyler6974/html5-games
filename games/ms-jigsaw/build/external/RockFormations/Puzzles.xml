@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="RockFormationsPack">
-    <Group id="RockFormations" title="Rock Formations" sentientId="321" revision="2" packImage="1848R-642828_preview.jpg">
+    <Group id="RockFormations" title="Rock Formations" sentientId="321" revision="1" packImage="1848R-642828_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Formations rocheuses" />
         <Language key="it-IT" value="Formazioni rocciose" />

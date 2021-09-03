@@ -1,0 +1,334 @@
+<Puzzles>
+  <Groups packId="SeamedPerfectPack">
+    <Group id="SeamedPerfect" title="Seamed Perfect" sentientId="359" revision="3" packImage="4306R-8920_preview.jpg">
+      <GroupLocalization>
+        <Language key="fr-FR" value="Doigts de fée" />
+        <Language key="it-IT" value="Tutto per il cucito" />
+        <Language key="de-DE" value="Nahtlos perfekt" />
+        <Language key="es-ES" value="Coser y cantar" />
+        <Language key="pt-BR" value="Costura Perfeita" />
+        <Language key="ja-JP" value="完璧な縫い目" />
+      </GroupLocalization>
+      <Puzzle id="4306R-8920" title="Patchwork Quilt" image="4306R-8920.jpg" smallImage="4306R-8920_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Édredon en patchwork" />
+          <Language key="it-IT" value="Trapunta patchwork" />
+          <Language key="de-DE" value="Patchwork Quilt" />
+          <Language key="es-ES" value="Colcha de retazos" />
+          <Language key="pt-BR" value="Colcha de Retalhos" />
+          <Language key="ja-JP" value="パッチワークのキルト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12851707" title="Hearts" image="1598R-12851707.jpg" smallImage="1598R-12851707_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Cœurs" />
+          <Language key="it-IT" value="Cuori" />
+          <Language key="de-DE" value="Herzen" />
+          <Language key="es-ES" value="Corazones" />
+          <Language key="pt-BR" value="Corações" />
+          <Language key="ja-JP" value="ハート" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-12059484" title="Vintage Machine" image="1491R-12059484.jpg" smallImage="1491R-12059484_preview.jpg" unlockingPuzzleIds="">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Machine vintage" />
+          <Language key="it-IT" value="Macchina da cucire d'epoca" />
+          <Language key="de-DE" value="Alte Nähmaschine" />
+          <Language key="es-ES" value="Máquina de coser antigua" />
+          <Language key="pt-BR" value="Máquina de Costura Antiga" />
+          <Language key="ja-JP" value="ビンテージのミシン" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1589R-13344328" title="Colored Sewing Thread" image="1589R-13344328.jpg" smallImage="1589R-13344328_preview.jpg" unlockingPuzzleIds="4306R-8920,1598R-12851707,1491R-12059484">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Fil de couture coloré" />
+          <Language key="it-IT" value="Filo per cucire colorato" />
+          <Language key="de-DE" value="Buntes Garn" />
+          <Language key="es-ES" value="Hilos de colores" />
+          <Language key="pt-BR" value="Linha de Costura Colorida" />
+          <Language key="ja-JP" value="色付きの縫い糸" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1598R-12799815" title="Sewing Box" image="1598R-12799815.jpg" smallImage="1598R-12799815_preview.jpg" unlockingPuzzleIds="1589R-13344328">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Boîte à couture" />
+          <Language key="it-IT" value="Scatola da cucito" />
+          <Language key="de-DE" value="Nähkörbchen" />
+          <Language key="es-ES" value="Cesta de costura" />
+          <Language key="pt-BR" value="Caixa de Costura" />
+          <Language key="ja-JP" value="裁縫箱" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21154648" title="Colorful Patterns" image="4450R-21154648.jpg" smallImage="4450R-21154648_preview.jpg" unlockingPuzzleIds="1598R-12799815">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Motifs colorés" />
+          <Language key="it-IT" value="Motivi colorati" />
+          <Language key="de-DE" value="Farbenfrohe Muster" />
+          <Language key="es-ES" value="Patrones coloridos" />
+          <Language key="pt-BR" value="Estampas Coloridas" />
+          <Language key="ja-JP" value="カラフルな模様" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1828R-70219" title="Sewing Supplies" image="1828R-70219.jpg" smallImage="1828R-70219_preview.jpg" unlockingPuzzleIds="4450R-21154648">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Nécessaire de couture" />
+          <Language key="it-IT" value="Accessori da cucito" />
+          <Language key="de-DE" value="Nähzeug" />
+          <Language key="es-ES" value="Herramientas de costura" />
+          <Language key="pt-BR" value="Materiais de Costura" />
+          <Language key="ja-JP" value="裁縫道具" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21154658" title="Green and Pink" image="4450R-21154658.jpg" smallImage="4450R-21154658_preview.jpg" unlockingPuzzleIds="1828R-70219">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Vert et rose" />
+          <Language key="it-IT" value="Verde e rosa" />
+          <Language key="de-DE" value="Grün und Rosé" />
+          <Language key="es-ES" value="Verde y rosa" />
+          <Language key="pt-BR" value="Verde e Rosa" />
+          <Language key="ja-JP" value="緑とピンク" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1436R-12802525" title="Blankets" image="1436R-12802525.jpg" smallImage="1436R-12802525_preview.jpg" unlockingPuzzleIds="4450R-21154658">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Couvertures" />
+          <Language key="it-IT" value="Coperte" />
+          <Language key="de-DE" value="Steppdecken" />
+          <Language key="es-ES" value="Mantas" />
+          <Language key="pt-BR" value="Cobertores" />
+          <Language key="ja-JP" value="毛布" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21154661" title="Patchwork Patterns" image="4450R-21154661.jpg" smallImage="4450R-21154661_preview.jpg" unlockingPuzzleIds="1436R-12802525">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Motifs de patchwork" />
+          <Language key="it-IT" value="Motivi patchwork" />
+          <Language key="de-DE" value="Bunt zusammengenäht" />
+          <Language key="es-ES" value="Patrones de retazos" />
+          <Language key="pt-BR" value="Estampas de Retalhos" />
+          <Language key="ja-JP" value="パッチワーク模様" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1491R-11646693" title="Kitty" image="1491R-11646693.jpg" smallImage="1491R-11646693_preview.jpg" unlockingPuzzleIds="4450R-21154661">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Chaton" />
+          <Language key="it-IT" value="Gattino" />
+          <Language key="de-DE" value="Kätzchen" />
+          <Language key="es-ES" value="Gatito" />
+          <Language key="pt-BR" value="Gatinho" />
+          <Language key="ja-JP" value="子猫" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11684425" title="Antique Sewing Kit" image="1672R-11684425.jpg" smallImage="1672R-11684425_preview.jpg" unlockingPuzzleIds="1491R-11646693">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Kit de couture ancien" />
+          <Language key="it-IT" value="Kit da cucito antico" />
+          <Language key="de-DE" value="Altes Nähzeug" />
+          <Language key="es-ES" value="Kit de costura antiguo" />
+          <Language key="pt-BR" value="Kit de Costura Antigo" />
+          <Language key="ja-JP" value="アンティークの裁縫キット" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-37872" title="Bed Spread" image="1672R-37872.jpg" smallImage="1672R-37872_preview.jpg" unlockingPuzzleIds="1672R-11684425">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Dessus de lit" />
+          <Language key="it-IT" value="Copriletto" />
+          <Language key="de-DE" value="Tagesdecke" />
+          <Language key="es-ES" value="Cama hecha" />
+          <Language key="pt-BR" value="Colcha" />
+          <Language key="ja-JP" value="ベッドカバー" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21154663" title="Patches" image="4450R-21154663.jpg" smallImage="4450R-21154663_preview.jpg" unlockingPuzzleIds="1672R-37872">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Patchs" />
+          <Language key="it-IT" value="Toppe" />
+          <Language key="de-DE" value="Flicken" />
+          <Language key="es-ES" value="Retales" />
+          <Language key="pt-BR" value="Remendos" />
+          <Language key="ja-JP" value="パッチ" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1773R-127556" title="Baby" image="1773R-127556.jpg" smallImage="1773R-127556_preview.jpg" unlockingPuzzleIds="4450R-21154663">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Bébé" />
+          <Language key="it-IT" value="Bimbo" />
+          <Language key="de-DE" value="Baby" />
+          <Language key="es-ES" value="Bebé" />
+          <Language key="pt-BR" value="Bebê" />
+          <Language key="ja-JP" value="赤ん坊" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21154656" title="Floral Patterns" image="4450R-21154656.jpg" smallImage="4450R-21154656_preview.jpg" unlockingPuzzleIds="1773R-127556">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Motifs à fleurs" />
+          <Language key="it-IT" value="Motivi floreali" />
+          <Language key="de-DE" value="Blumenmuster" />
+          <Language key="es-ES" value="Patrón floral" />
+          <Language key="pt-BR" value="Estampas Florais" />
+          <Language key="ja-JP" value="花柄" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1672R-11934009" title="Colorful Quilt" image="1672R-11934009.jpg" smallImage="1672R-11934009_preview.jpg" unlockingPuzzleIds="4450R-21154656">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Couvre-lit coloré" />
+          <Language key="it-IT" value="Trapunta colorata" />
+          <Language key="de-DE" value="Bunter Quilt" />
+          <Language key="es-ES" value="Colcha colorida" />
+          <Language key="pt-BR" value="Colcha Colorida" />
+          <Language key="ja-JP" value="カラフルなキルト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1738R-13731460" title="Quilts on a Chair" image="1738R-13731460.jpg" smallImage="1738R-13731460_preview.jpg" unlockingPuzzleIds="1672R-11934009">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Boutis sur une chaise" />
+          <Language key="it-IT" value="Trapunte su una sedia" />
+          <Language key="de-DE" value="Quilt-Stapel" />
+          <Language key="es-ES" value="Silla con colchas" />
+          <Language key="pt-BR" value="Colchas em uma Cadeira" />
+          <Language key="ja-JP" value="イスの上のキルト" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,4" />
+          <Medium params="7,7" />
+          <Hard params="10,10" />
+          <Expert params="14,14" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="4450R-21154667" title="Orange and Blue" image="4450R-21154667.jpg" smallImage="4450R-21154667_preview.jpg" unlockingPuzzleIds="1738R-13731460">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Orange et bleu" />
+          <Language key="it-IT" value="Arancio e blu" />
+          <Language key="de-DE" value="Orange und Blau" />
+          <Language key="es-ES" value="Naranja y azul" />
+          <Language key="pt-BR" value="Laranja e Azul" />
+          <Language key="ja-JP" value="オレンジと青" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="6,4" />
+          <Medium params="9,6" />
+          <Hard params="12,8" />
+          <Expert params="15,10" />
+        </Difficulty>
+      </Puzzle>
+      <Puzzle id="1815R-12404207" title="Needle and Thread" image="1815R-12404207.jpg" smallImage="1815R-12404207_preview.jpg" unlockingPuzzleIds="4450R-21154667">
+        <PuzzleLocalization>
+          <Language key="fr-FR" value="Aiguille et fil" />
+          <Language key="it-IT" value="Ago e filo" />
+          <Language key="de-DE" value="Nadel und Faden" />
+          <Language key="es-ES" value="Hilo y aguja" />
+          <Language key="pt-BR" value="Agulha e Linha" />
+          <Language key="ja-JP" value="針と糸" />
+        </PuzzleLocalization>
+        <Difficulty>
+          <Easy params="4,3" />
+          <Medium params="8,6" />
+          <Hard params="12,9" />
+          <Expert params="16,12" />
+        </Difficulty>
+      </Puzzle>
+    </Group>
+  </Groups>
+</Puzzles>

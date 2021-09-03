@@ -1,12 +1,13 @@
 <Puzzles>
   <Groups packId="SportsPack">
-    <Group id="Sports" title="Sports" sentientId="253" revision="10" packImage="4306R-26251_preview.jpg">
+    <Group id="Sports" title="Sports" sentientId="253" revision="1" packImage="4306R-26251_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Sports" />
         <Language key="it-IT" value="Sport" />
         <Language key="de-DE" value="Sport" />
         <Language key="es-ES" value="Deportes" />
         <Language key="pt-BR" value="Esportes" />
+        <Language key="ja-JP" value="スポーツ" />
       </GroupLocalization>
       <Puzzle id="4306R-26251" title="Two Fencers" image="4306R-26251.jpg" smallImage="4306R-26251_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
@@ -15,6 +16,7 @@
           <Language key="de-DE" value="Zwei Fechter" />
           <Language key="es-ES" value="Dos esgrimistas" />
           <Language key="pt-BR" value="Esgrimistas" />
+          <Language key="ja-JP" value="2 人のフェンシング選手" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -23,13 +25,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1839R-7096" title="Climbing Carabiners" image="1839R-7096.jpg" smallImage="1839R-7096_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1839R-7096" title="Rock Climbing Carabineers" image="1839R-7096.jpg" smallImage="1839R-7096_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Mousquetons d'escalade" />
           <Language key="it-IT" value="Moschettoni da roccia" />
           <Language key="de-DE" value="Karabiner fürs Felsklettern" />
           <Language key="es-ES" value="Mosquetones de escalada" />
           <Language key="pt-BR" value="Mosquetões de escalada" />
+          <Language key="ja-JP" value="ロッククライミングのカラビナ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -38,13 +41,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1828R-14706" title="Track Hurdles" image="1828R-14706.jpg" smallImage="1828R-14706_preview.jpg" unlockingPuzzleIds="">
+      <Puzzle id="1828R-14706" title="In Front Of Hurdles On Track" image="1828R-14706.jpg" smallImage="1828R-14706_preview.jpg" unlockingPuzzleIds="">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Face aux haies" />
           <Language key="it-IT" value="Sulla pista, di fronte agli ostacoli" />
           <Language key="de-DE" value="Hürden auf der Laufbahn" />
           <Language key="es-ES" value="Frente a las vallas de la pista" />
           <Language key="pt-BR" value="Em Frente aos Obstáculos na Pista" />
+          <Language key="ja-JP" value="トラックに並んだハードルの前" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -53,13 +57,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10007843" title="Tennis Court" image="1598R-10007843.jpg" smallImage="1598R-10007843_preview.jpg" unlockingPuzzleIds="4306R-26251,1839R-7096,1828R-14706">
+      <Puzzle id="1598R-10007843" title="Tennis court" image="1598R-10007843.jpg" smallImage="1598R-10007843_preview.jpg" unlockingPuzzleIds="4306R-26251,1839R-7096,1828R-14706">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Court de tennis" />
           <Language key="it-IT" value="Campo da tennis" />
           <Language key="de-DE" value="Tennisplatz" />
           <Language key="es-ES" value="Pista de tenis" />
           <Language key="pt-BR" value="Quadra de tênis" />
+          <Language key="ja-JP" value="テニスコート" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -75,6 +80,7 @@
           <Language key="de-DE" value="Basketball" />
           <Language key="es-ES" value="Pelota de baloncesto" />
           <Language key="pt-BR" value="Basquete" />
+          <Language key="ja-JP" value="バスケットボール" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -83,13 +89,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1841R-88541" title="Man Swimming" image="1841R-88541.jpg" smallImage="1841R-88541_preview.jpg" unlockingPuzzleIds="1598R-126600">
+      <Puzzle id="1841R-88541" title="Man Swimming Underwater" image="1841R-88541.jpg" smallImage="1841R-88541_preview.jpg" unlockingPuzzleIds="1598R-126600">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Nageur sous l'eau" />
           <Language key="it-IT" value="Nuotatore sott'acqua" />
           <Language key="de-DE" value="Unter Wasser schwimmender Mann" />
           <Language key="es-ES" value="Nadador bajo el agua" />
           <Language key="pt-BR" value="Homem Nadando" />
+          <Language key="ja-JP" value="水中を泳ぐ男性" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -98,13 +105,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1570R-121917" title="Football Cleats" image="1570R-121917.jpg" smallImage="1570R-121917_preview.jpg" unlockingPuzzleIds="1841R-88541">
+      <Puzzle id="1570R-121917" title="Football Boots" image="1570R-121917.jpg" smallImage="1570R-121917_preview.jpg" unlockingPuzzleIds="1841R-88541">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Chaussures de football" />
           <Language key="it-IT" value="Scarpe da football" />
           <Language key="de-DE" value="Fußballschuhe" />
           <Language key="es-ES" value="Botas de fútbol" />
           <Language key="pt-BR" value="Chuteiras" />
+          <Language key="ja-JP" value="サッカーシューズ" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -120,6 +128,7 @@
           <Language key="de-DE" value="Baseballspieler" />
           <Language key="es-ES" value="Jugador de béisbol" />
           <Language key="pt-BR" value="Jogador de beisebol" />
+          <Language key="ja-JP" value="野球選手" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -135,6 +144,7 @@
           <Language key="de-DE" value="Golfbälle" />
           <Language key="es-ES" value="Pelotas de golf" />
           <Language key="pt-BR" value="Bolas de Golfe" />
+          <Language key="ja-JP" value="ゴルフボール" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -150,6 +160,7 @@
           <Language key="de-DE" value="Snowboarden abseits der Piste" />
           <Language key="es-ES" value="Descenso en snowboard" />
           <Language key="pt-BR" value="Snowboarding" />
+          <Language key="ja-JP" value="スノーボード フリーライド" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -165,6 +176,7 @@
           <Language key="de-DE" value="Football-Team" />
           <Language key="es-ES" value="Equipo de fútbol americano" />
           <Language key="pt-BR" value="Time de Futebol Americano" />
+          <Language key="ja-JP" value="フットボールチーム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -173,13 +185,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1647R-166776" title="Between Defenders" image="1647R-166776.jpg" smallImage="1647R-166776_preview.jpg" unlockingPuzzleIds="1647R-118744">
+      <Puzzle id="1647R-166776" title="Dribbling Between Defenders" image="1647R-166776.jpg" smallImage="1647R-166776_preview.jpg" unlockingPuzzleIds="1647R-118744">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Défenseurs dribblés" />
           <Language key="it-IT" value="Dribbling tra difensori" />
           <Language key="de-DE" value="Dribbling zwischen Abwehrspielern" />
           <Language key="es-ES" value="Regateando a los defensas" />
           <Language key="pt-BR" value="Drible" />
+          <Language key="ja-JP" value="ディフェンダーの間でドリブル" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -195,6 +208,7 @@
           <Language key="de-DE" value="Hockey-Team" />
           <Language key="es-ES" value="Equipo de hockey" />
           <Language key="pt-BR" value="Time de hóquei" />
+          <Language key="ja-JP" value="ホッケーチーム" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -203,13 +217,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1663R-21493" title="Rafting in a River" image="1663R-21493.jpg" smallImage="1663R-21493_preview.jpg" unlockingPuzzleIds="1828R-40242">
+      <Puzzle id="1663R-21493" title="Rafting In A River" image="1663R-21493.jpg" smallImage="1663R-21493_preview.jpg" unlockingPuzzleIds="1828R-40242">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Rafting sur la rivière" />
           <Language key="it-IT" value="Rafting su un fiume" />
           <Language key="de-DE" value="Rafting in einem Fluss" />
           <Language key="es-ES" value="Descenso de río en balsa" />
           <Language key="pt-BR" value="Rafting" />
+          <Language key="ja-JP" value="ラフティング" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -225,6 +240,7 @@
           <Language key="de-DE" value="Bowling" />
           <Language key="es-ES" value="Bolos" />
           <Language key="pt-BR" value="Boliche" />
+          <Language key="ja-JP" value="ボウリング" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -240,6 +256,7 @@
           <Language key="de-DE" value="Schlittschuhe" />
           <Language key="es-ES" value="Patines de patinaje sobre hielo" />
           <Language key="pt-BR" value="Patins" />
+          <Language key="ja-JP" value="アイススケート" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />
@@ -248,13 +265,14 @@
           <Expert params="16,12" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1598R-10006086" title="Vaulting Horse" image="1598R-10006086.jpg" smallImage="1598R-10006086_preview.jpg" unlockingPuzzleIds="1647R-44310">
+      <Puzzle id="1598R-10006086" title="Handles On Vaulting Horse" image="1598R-10006086.jpg" smallImage="1598R-10006086_preview.jpg" unlockingPuzzleIds="1647R-44310">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Poignées de cheval d'arçon" />
           <Language key="it-IT" value="Maniglie del cavallo" />
           <Language key="de-DE" value="Griffe eines Sprungpferds" />
           <Language key="es-ES" value="Caballo con arcos" />
           <Language key="pt-BR" value="Alças do Cavalo" />
+          <Language key="ja-JP" value="あん馬の持ち手" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -270,6 +288,7 @@
           <Language key="de-DE" value="Korb!" />
           <Language key="es-ES" value="¡Canasta!" />
           <Language key="pt-BR" value="Cesta!" />
+          <Language key="ja-JP" value="得点!" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -278,13 +297,14 @@
           <Expert params="15,10" />
         </Difficulty>
       </Puzzle>
-      <Puzzle id="1569R-9070516" title="Gymnast on the Rings" image="1569R-9070516.jpg" smallImage="1569R-9070516_preview.jpg" unlockingPuzzleIds="1525R-10376">
+      <Puzzle id="1569R-9070516" title="Gymnast On The Rings" image="1569R-9070516.jpg" smallImage="1569R-9070516_preview.jpg" unlockingPuzzleIds="1525R-10376">
         <PuzzleLocalization>
           <Language key="fr-FR" value="Gymnaste sur les anneaux" />
           <Language key="it-IT" value="Ginnasta sugli anelli" />
           <Language key="de-DE" value="Turner an den Ringen" />
           <Language key="es-ES" value="Gimnasta en las anillas" />
           <Language key="pt-BR" value="Ginasta nas Argolas" />
+          <Language key="ja-JP" value="つり輪を握った体操選手" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -300,6 +320,7 @@
           <Language key="de-DE" value="Handstand" />
           <Language key="es-ES" value="Haciendo el pino" />
           <Language key="pt-BR" value="Bananeira" />
+          <Language key="ja-JP" value="逆立ち" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,4" />
@@ -315,6 +336,7 @@
           <Language key="de-DE" value="Joggender Mann" />
           <Language key="es-ES" value="Hombre corriendo" />
           <Language key="pt-BR" value="Homem Correndo" />
+          <Language key="ja-JP" value="ジョギングする男性" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="6,4" />
@@ -330,6 +352,7 @@
           <Language key="de-DE" value="Windsurfing" />
           <Language key="es-ES" value="Windsurf" />
           <Language key="pt-BR" value="Windsurf" />
+          <Language key="ja-JP" value="ウィンドサーフィン" />
         </PuzzleLocalization>
         <Difficulty>
           <Easy params="4,3" />

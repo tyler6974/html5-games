@@ -1,6 +1,6 @@
 ﻿<Puzzles>
   <Groups packId="RiversPack">
-    <Group id="Rivers" title="Rivers" sentientId="316" revision="2" packImage="1889R-49042_preview.jpg">
+    <Group id="Rivers" title="Rivers" sentientId="316" revision="1" packImage="1889R-49042_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Cours d'eau" />
         <Language key="it-IT" value="Fiumi" />

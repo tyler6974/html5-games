@@ -1,6 +1,6 @@
 <Puzzles>
   <Groups packId="PandasPack">
-    <Group id="Pandas" title="Pandas" sentientId="248" revision="7" packImage="1848R-302950_preview.jpg">
+    <Group id="Pandas" title="Pandas" sentientId="248" revision="1" packImage="1848R-302950_preview.jpg">
       <GroupLocalization>
         <Language key="fr-FR" value="Pandas" />
         <Language key="it-IT" value="Panda" />

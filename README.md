@@ -51,12 +51,38 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 ### Microsoft Minesweeper (HTML5 edition)
 - Removed tracking links.
 
+### Microsoft Jigsaw (HTML5 edition)
+- Removed tracking links.
+- High-quality pictures and music.
+- Added 3 random music.
+- Obtained puzzles and tweaked the code so the game can be run offline.
+- Added new puzzles for English (US) from the Microsoft Store version:
+	- Ancient Ruins
+	- Bowling
+	- Colorful Birds
+	- Colorful Skies
+	- Dinosaurs 3
+	- Everglades
+	- Fun & Games
+	- Hong Kong
+	- How It's Made 2
+	- Madagascar
+	- Model Railways
+	- Museum Animals
+	- Reef Life2
+	- Seamed Perfect
+	- See a Face
+	- Sri Lanka
+	- Thailand 2
+	- Tokyo
+	- Topiary
+
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)
 - **Contre Jour**: [http://contrejour.ie/](http://contrejour.ie/) (dead link as of 08/31)
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
-- **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
+- **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
 - **Chrome Dino**: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
 
 ## Pending games

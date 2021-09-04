@@ -60,8 +60,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - **Chrome Dino**: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
 
 ## Pending games
-- [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS\
-- [ ] Microsoft Jigsaw: adding new puzzles
+- [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS
 - [ ] Microsoft Bubble
 - [ ] Microsoft Jewel
 

@@ -1,6 +1,6 @@
 {
   "packId":"Defaults",
-  "puzzlesCount": 2309,
+  "puzzlesCount": 2594,
   "packs":
   [
     {
@@ -1896,6 +1896,261 @@
         {"key":"es-ES", "value": "Bolos"},
         {"key":"pt-BR", "value": "Boliche"},
         {"key":"ja-JP", "value": "ボウリング"}
+      ]
+    },
+    {
+      "id": "ColorfulBirds",
+      "packImage": "1491R-11628341_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Colorful Birds"},
+        {"key":"fr-FR", "value": "Oiseaux hauts en couleur"},
+        {"key":"it-IT", "value": "Uccelli colorati"},
+        {"key":"de-DE", "value": "Bunte Vögel"},
+        {"key":"es-ES", "value": "Aves coloridas"},
+        {"key":"pt-BR", "value": "Pássaros Coloridos"},
+        {"key":"ja-JP", "value": "カラフルな鳥"}
+      ]
+    },
+    {
+      "id": "ColorfulSkies",
+      "packImage": "1038706831_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Colorful Skies"},
+        {"key":"fr-FR", "value": "Cieux colorés"},
+        {"key":"it-IT", "value": "Cieli colorati"},
+        {"key":"de-DE", "value": "Farbenfrohe Himmel"},
+        {"key":"es-ES", "value": "Cielos coloridos"},
+        {"key":"pt-BR", "value": "Céus Coloridos"},
+        {"key":"ja-JP", "value": "カラフルな空"}
+      ]
+    },
+    {
+      "id": "Dinosaurs3",
+      "packImage": "4239R-9112_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Dinosaurs 3"},
+        {"key":"fr-FR", "value": "Dinosaures 3"},
+        {"key":"it-IT", "value": "Dinosauri 3"},
+        {"key":"de-DE", "value": "Dinosaurier 3"},
+        {"key":"es-ES", "value": "Dinosaurios 3"},
+        {"key":"pt-BR", "value": "Dinossauros 3"},
+        {"key":"ja-JP", "value": "ダイナソー 3"}
+      ]
+    },
+    {
+      "id": "Everglades",
+      "packImage": "1672R-11937646_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Everglades"},
+        {"key":"fr-FR", "value": "Everglades"},
+        {"key":"it-IT", "value": "Everglades"},
+        {"key":"de-DE", "value": "Everglades"},
+        {"key":"es-ES", "value": "Everglades"},
+        {"key":"pt-BR", "value": "Pântano"},
+        {"key":"ja-JP", "value": "エバーグレーズ湿地"}
+      ]
+    },
+    {
+      "id": "Fun&Games",
+      "packImage": "1598R-11603154_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Fun & Games"},
+        {"key":"fr-FR", "value": "Jeux et fête foraine"},
+        {"key":"it-IT", "value": "Divertimento & Giochi"},
+        {"key":"de-DE", "value": "Spiel und Spaß"},
+        {"key":"es-ES", "value": "Juegos y diversión"},
+        {"key":"pt-BR", "value": "Diversão e Jogos"},
+        {"key":"ja-JP", "value": "楽しいゲーム"}
+      ]
+    },
+    {
+      "id": "HongKong",
+      "packImage": "1773R-12809580_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Hong Kong"},
+        {"key":"fr-FR", "value": "Hong Kong"},
+        {"key":"it-IT", "value": "Hong Kong"},
+        {"key":"de-DE", "value": "Hongkong"},
+        {"key":"es-ES", "value": "Hong Kong"},
+        {"key":"pt-BR", "value": "Hong Kong"},
+        {"key":"ja-JP", "value": "香港"}
+      ]
+    },
+    {
+      "id": "HowItsMade2",
+      "packImage": "1589R-42376_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "How It's Made 2"},
+        {"key":"fr-FR", "value": "Savoir-faire 2"},
+        {"key":"it-IT", "value": "Come si fa 2"},
+        {"key":"de-DE", "value": "Wie Dinge angefertigt werden 2"},
+        {"key":"es-ES", "value": "Cómo se hace 2"},
+        {"key":"pt-BR", "value": "Como é Feito 2"},
+        {"key":"ja-JP", "value": "作り方 2"}
+      ]
+    },
+    {
+      "id": "Madagascar",
+      "packImage": "282321170_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Madagascar"},
+        {"key":"fr-FR", "value": "Madagascar"},
+        {"key":"it-IT", "value": "Madagascar"},
+        {"key":"de-DE", "value": "Madagascar"},
+        {"key":"es-ES", "value": "Madagascar"},
+        {"key":"pt-BR", "value": "Madagascar"},
+        {"key":"ja-JP", "value": "マダガスカル"}
+      ]
+    },
+    {
+      "id": "ModelRailway",
+      "packImage": "1608185674_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Model Railways"},
+        {"key":"fr-FR", "value": "Chemins de fer miniatures"},
+        {"key":"it-IT", "value": "Modelli ferroviari"},
+        {"key":"de-DE", "value": "Modelleisenbahn"},
+        {"key":"es-ES", "value": "Trenes en miniatura"},
+        {"key":"pt-BR", "value": "Ferromodelismo"},
+        {"key":"ja-JP", "value": "鉄道模型"}
+      ]
+    },
+    {
+      "id": "MuseumAnimals",
+      "packImage": "373141174_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Museum Animals"},
+        {"key":"fr-FR", "value": "Animaux de musée"},
+        {"key":"it-IT", "value": "Animali del museo"},
+        {"key":"de-DE", "value": "Museumstiere"},
+        {"key":"es-ES", "value": "Animales de museo"},
+        {"key":"pt-BR", "value": "Animais do Museu"},
+        {"key":"ja-JP", "value": "博物館の動物たち"}
+      ]
+    },
+    {
+      "id": "ReefLife2",
+      "packImage": "1491R-12809515_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Reef Life 2"},
+        {"key":"fr-FR", "value": "Vie sous-marine 2"},
+        {"key":"it-IT", "value": "Vita nella barriera corallina 2"},
+        {"key":"de-DE", "value": "Im Korallenriff 2"},
+        {"key":"es-ES", "value": "Vida en el arrecife 2"},
+        {"key":"pt-BR", "value": "Vida nos Corais 2"},
+        {"key":"ja-JP", "value": "リーフ ライフ 2"}
+      ]
+    },
+    {
+      "id": "SeamedPerfect",
+      "packImage": "4306R-8920_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Seamed Perfect"},
+        {"key":"fr-FR", "value": "Doigts de fée"},
+        {"key":"it-IT", "value": "Tutto per il cucito"},
+        {"key":"de-DE", "value": "Nahtlos perfekt"},
+        {"key":"es-ES", "value": "Coser y cantar"},
+        {"key":"pt-BR", "value": "Costura Perfeita"},
+        {"key":"ja-JP", "value": "完璧な縫い目"}
+      ]
+    },
+    {
+      "id": "SeeAFace",
+      "packImage": "728865913_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "See a Face"},
+        {"key":"fr-FR", "value": "Visages cachés"},
+        {"key":"it-IT", "value": "Volti nelle cose"},
+        {"key":"de-DE", "value": "Pareidolie"},
+        {"key":"es-ES", "value": "Ve una cara"},
+        {"key":"pt-BR", "value": "Rostos"},
+        {"key":"ja-JP", "value": "顔が見えるかな"}
+      ]
+    },
+    {
+      "id": "SriLanka",
+      "packImage": "453575863_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Sri Lanka"},
+        {"key":"fr-FR", "value": "Sri Lanka"},
+        {"key":"it-IT", "value": "Sri Lanka"},
+        {"key":"de-DE", "value": "Sri Lanka"},
+        {"key":"es-ES", "value": "Sri Lanka"},
+        {"key":"pt-BR", "value": "Sri Lanka"},
+        {"key":"ja-JP", "value": "スリランカ"}
+      ]
+    },
+    {
+      "id": "Thailand2",
+      "packImage": "4422R-21569241_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Thailand 2"},
+        {"key":"fr-FR", "value": "Thaïlande 2"},
+        {"key":"it-IT", "value": "Thailandia 2"},
+        {"key":"de-DE", "value": "Thailand 2"},
+        {"key":"es-ES", "value": "Tailandia 2"},
+        {"key":"pt-BR", "value": "Tailândia 2"},
+        {"key":"ja-JP", "value": "タイ 2"}
+      ]
+    },
+    {
+      "id": "Tokyo",
+      "packImage": "1598R-12850536_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Tokyo"},
+        {"key":"fr-FR", "value": "Tokyo"},
+        {"key":"it-IT", "value": "Tokyo"},
+        {"key":"de-DE", "value": "Tokio"},
+        {"key":"es-ES", "value": "Tokio"},
+        {"key":"pt-BR", "value": "Tóquio"},
+        {"key":"ja-JP", "value": "東京"}
+      ]
+    },
+    {
+      "id": "Topiary",
+      "packImage": "554735878_preview.jpg",
+	  "newTagExpiration": "11.11.2021",
+      "newestTag": "09.02.2021",
+      "localization": [
+        {"key":"en-US", "value": "Topiary"},
+        {"key":"fr-FR", "value": "Art topiaire"},
+        {"key":"it-IT", "value": "Arte topiaria"},
+        {"key":"de-DE", "value": "Zierbüsche"},
+        {"key":"es-ES", "value": "Poda artística"},
+        {"key":"pt-BR", "value": "Topiaria"},
+        {"key":"ja-JP", "value": "庭木のお手入れ"}
       ]
     }
   ]

@@ -11,6 +11,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 ### Chrome Dino
 - Added day & night cycle (and dark mode) support.
 - Make the game adapts to the screen width like the Chrome version (chrome://dino).
+**Original code**: https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
 
 ### Cut the Rope
 - Fix the bug that makes the game softlock if you finish the last level in a box but not collecting enough star to unlock the next box.

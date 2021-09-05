@@ -27,7 +27,7 @@
             </template>
         </div>
 		    <div id="messageBox" class="sendmessage">
-         <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">Press space or touch to start</h1>
+         <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">Press space/up or touch to play</h1>
          <div class="niokbutton" onclick="okbuttonsend()"></div>
     </div>
     </div>
@@ -37,11 +37,18 @@
 <script>
     document.onkeydown = function(evt) {
     evt = evt || window.event;
-    if (evt.keyCode == 32) {
+    if (evt.keyCode == 32 || evt.keyCode == 38) {
         var box = document.getElementById("messageBox");
         box.style.visibility="hidden";
-    }
-};
+		}
+	};
+
+    // Hide text on touch devices
+    document.ontouchstart = touchDevices;
+    function touchDevices() {
+        var box = document.getElementById("messageBox");
+        box.style.visibility="hidden";
+    };
 </script>
     
 </html>

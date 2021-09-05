@@ -41,7 +41,7 @@ html, body {
 
 .offline .interstitial-wrapper {
   color: #2b2b2b;
-  font-size: 1em;
+  font-size: 0.8em;
   line-height: 1.55;
   margin: 0 auto;
   max-width: 600px;
@@ -50,6 +50,7 @@ html, body {
 }
 
 .offline .runner-container {
+  direction: ltr;
   height: 150px;
   max-width: 600px;
   overflow: hidden;
@@ -65,7 +66,7 @@ html, body {
   overflow: hidden;
   position: absolute;
   top: 0;
-  z-index: 2;
+  z-index: 10;
 }
 
 .offline .controller {
@@ -80,6 +81,37 @@ html, body {
 
 #offline-resources {
   display: none;
+}
+
+
+.arcade-mode,
+.arcade-mode .runner-container,
+.arcade-mode .runner-canvas {
+  image-rendering: pixelated;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.arcade-mode #buttons,
+.arcade-mode #main-content {
+  opacity: 0;
+  overflow: hidden;
+}
+
+.arcade-mode .interstitial-wrapper {
+  height: 100vh;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.arcade-mode .runner-container {
+  image-rendering: pixelated;
+  left: 0;
+  margin: auto;
+  right: 0;
+  transform-origin: top center;
+  transition: transform 250ms cubic-bezier(0.4, 0, 1, 1) 400ms;
+  z-index: 2;
 }
 
 

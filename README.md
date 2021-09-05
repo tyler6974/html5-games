@@ -10,6 +10,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 ### Chrome Dino
 - Added day & night cycle (and dark mode) support.
+- Make the game adapts to the screen width like the Chrome version (chrome://dino).
 
 ### Cut the Rope
 - Fix the bug that makes the game softlock if you finish the last level in a box but not collecting enough star to unlock the next box.
@@ -69,7 +70,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 	- Madagascar
 	- Model Railways
 	- Museum Animals
-	- Reef Life2
+	- Reef Life 2
 	- Seamed Perfect
 	- See a Face
 	- Sri Lanka

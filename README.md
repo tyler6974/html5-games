@@ -86,8 +86,8 @@ The code is adapted from https://source.chromium.org/chromium/chromium/src/+/mas
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
-- **Chrome Dino**: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
-	- Note: this code is modified to be able to run on other codebase other than Chromium (it's also from the older version). The *real* original code is from The Chromium Projects, which is linked above.
+- **Chrome Dino**: workarounds for other browsers by [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
+	- Note: the *real* original code is from The Chromium Projects, which is linked above.
 
 ## Pending games
 - [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS

@@ -12,7 +12,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - Added day & night cycle (and dark mode) support.
 - Make the game adapts to the screen width like the Chrome version (chrome://dino).
 
-**Original code**: https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
+The code is adapted from https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
 
 ### Cut the Rope
 - Fix the bug that makes the game softlock if you finish the last level in a box but not collecting enough star to unlock the next box.
@@ -87,6 +87,7 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
 - **Chrome Dino**: [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
+	- Note: this code is modified to be able to run without using Google Chrome's proprietary calls, which allows other browsers to play this game. The *real* original code is from the Chrome team, which is linked above.
 
 ## Pending games
 - [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS

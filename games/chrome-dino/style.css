@@ -87,7 +87,10 @@ html, body {
 .arcade-mode,
 .arcade-mode .runner-container,
 .arcade-mode .runner-canvas {
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
+  image-rendering: crisp-edges;
   max-width: 100%;
   overflow: hidden;
 }
@@ -105,7 +108,10 @@ html, body {
 }
 
 .arcade-mode .runner-container {
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
+  image-rendering: crisp-edges;
   left: 0;
   margin: auto;
   right: 0;

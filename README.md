@@ -12,8 +12,6 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - Added day & night cycle (and dark mode) support.
 - Make the game adapts to the screen width like the Chrome version (chrome://dino).
 
-The code is adapted from https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
-
 ### Cut the Rope
 - Fix the bug that makes the game softlock if you finish the last level in a box but not collecting enough star to unlock the next box.
 - Added 275 levels from the Microsoft Store version (which is delisted) and 25 levels from Cut the Rope's Round 5 website. To accomodate this, added new assets from the MS Store version.
@@ -86,8 +84,7 @@ The code is adapted from https://source.chromium.org/chromium/chromium/src/+/mas
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
-- **Chrome Dino**: workarounds for other browsers by [https://github.com/wayou/t-rex-runner](https://github.com/wayou/t-rex-runner)
-	- Note: the *real* original code is from The Chromium Projects, which is linked above.
+- **Chrome Dino**: https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
 
 ## Pending games
 - [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS

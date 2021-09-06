@@ -87,7 +87,6 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 - **Chrome Dino**: https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
 
 ## Pending games
-- [ ] Cut the Rope: Holiday Gift: importing levels from the v1.0 app on iOS
 - [ ] Microsoft Bubble
 - [ ] Microsoft Jewel
 

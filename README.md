@@ -9,7 +9,9 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 ## Changes made to the original code
 
 ### Chrome Dino
-- Added day & night cycle (and dark mode) support.
+
+The game code is from the old version, but some features from the newer ``offline.js`` version have been adapted to this version. This includes:
+- Day & night cycle (and dark mode) support.
 - Make the game adapts to the screen width like the Chrome version (chrome://dino).
 
 ### Cut the Rope

@@ -7,6 +7,8 @@ html, body {
   margin: 0;
   width: 100%;
   height: 100%;
+  --background-color: #fff;
+  --google-gray-900: rgb(32, 33, 36);
 }
 
 .icon {
@@ -31,12 +33,12 @@ html, body {
   transition: background-color 1.5s cubic-bezier(0.65, 0.05, 0.36, 1);
 }
 .offline.inverted {
-  background-color: #fff;
+  background-color: var(--google-gray-900);
   filter: invert(1);
 }
 
 .offline.inverted body {
-  background-color: #000;
+  background-color: var(--google-gray-900);
 }
 
 .offline .interstitial-wrapper {
@@ -122,8 +124,9 @@ html, body {
 
 
 @media (prefers-color-scheme: dark) {
+	
   body {
-	background-color: #000;
+	background-color: var(--google-gray-900);
   }
 
   .offline .runner-canvas {
@@ -131,7 +134,7 @@ html, body {
   }
 
   .offline.inverted {
-    /* background-color: var(--background-color); */
+    background-color: var(--background-color);
     filter: invert(1);
   }
 

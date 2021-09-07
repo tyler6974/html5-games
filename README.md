@@ -58,6 +58,7 @@ The game code is from the old version, but some features from the newer ``offlin
 - Removed tracking links.
 - High-quality pictures and music.
 - Added 3 random music.
+- Add Segoe UI fonts for non-Microsoft platforms.
 - Obtained puzzles and tweaked the code so the game can be run offline.
 - Added new puzzles for English (US) from the Microsoft Store version:
 	- Ancient Ruins

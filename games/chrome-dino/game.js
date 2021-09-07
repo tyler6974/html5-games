@@ -391,6 +391,14 @@
 
             window.addEventListener(Runner.events.RESIZE,
                 this.debounceResize.bind(this));
+			
+			// Handle dark mode
+			const darkModeMediaQuery =
+			window.matchMedia('(prefers-color-scheme: dark)');
+			this.isDarkMode = darkModeMediaQuery && darkModeMediaQuery.matches;
+			darkModeMediaQuery.addListener((e) => {
+				this.isDarkMode = e.matches;
+			});
         },
 
         /**
@@ -556,7 +564,7 @@
 					const showNightMode = this.isDarkMode ^ this.inverted;
                     deltaTime = !this.activated ? 0 : deltaTime;
                     this.horizon.update(deltaTime, this.currentSpeed, hasObstacles,
-                        this.inverted);
+                        showNightMode);
                 }
 
                 // Check for collisions.

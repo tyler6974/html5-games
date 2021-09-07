@@ -132,7 +132,7 @@ html, body {
 
   .offline.inverted {
     background-color: var(--background-color);
-    filter: invert(0);
+    /*filter: invert(0);*/
   }
 
   .offline.inverted body {

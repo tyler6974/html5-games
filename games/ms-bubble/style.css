@@ -1,0 +1,29 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	
+	background: #000000;
+	color: white;
+}
+
+html, body, canvas {
+	touch-action: none;
+	touch-action-delay: none;
+}
+
+@font-face {
+	font-family: 'krub-light';
+	src: url('fonts/krub-light.woff2') format('woff2'), url('fonts/krub-light.woff') format('woff'), url('fonts/krub-light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'worksans-extrabold';
+	src: url('fonts/worksans-extrabold.woff2') format('woff2'), url('fonts/worksans-extrabold.woff') format('woff'), url('fonts/worksans-extrabold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'exo-bold';
+	src: url('fonts/exo-bold.woff2') format('woff2'), url('fonts/exo-bold.woff') format('woff'), url('fonts/exo-bold.ttf') format('truetype');
+}
+

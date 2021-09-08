@@ -81,12 +81,15 @@ The game code is from the old version, but added some quality-of-life changes fr
 	- Tokyo
 	- Topiary
 
+### Microsoft Bubble (HTML5 edition)
+- Removed tracking link
+
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)
 - **Contre Jour**: [http://contrejour.ie/](http://contrejour.ie/) (dead link as of 08/31)
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
-- **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
+- **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**, **Microsoft Bubble**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
 - **Chrome Dino**: https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
 
 ## Pending games

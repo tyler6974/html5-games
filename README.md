@@ -10,9 +10,9 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 ### Chrome Dino
 
-The game code is from the old version, but some features from the newer ``offline.js`` version have been adapted to this version. This includes:
-- Day & night cycle (and dark mode) support.
+The game code is from the old version, but added some quality-of-life changes from newer ``offline.js`` version. This includes:
 - Make the game adapts to the screen width like the Chrome version (chrome://dino).
+- Gamepad support (not tested).
 
 ### Cut the Rope
 - Fix the bug that makes the game softlock if you finish the last level in a box but not collecting enough star to unlock the next box.

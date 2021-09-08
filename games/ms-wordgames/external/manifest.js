@@ -271,14 +271,14 @@
         "content": [
             {
                 "key": "ProgressionMaps2017",
-                "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/SinglePlayer/Configs/2017/Newformat/3/ProgressionMaps2017.json",
+                "path": "external/SinglePlayer/ProgressionMaps2017.json",
                 "compressed": false,
                 "encrypted": false,
                 "version": 3
             },
             {
                 "key": "ProgressionMaps2018",
-                "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/SinglePlayer/Configs/2018/Newformat/50/ProgressionMaps2018.json",
+                "path": "external/SinglePlayer/ProgressionMaps2018.json",
                 "compressed": false,
                 "encrypted": false,
                 "version": 50

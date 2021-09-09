@@ -96,7 +96,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 - **Let's Surf**: surf.bundle.js workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**, **Microsoft Bubble**, **Microsoft Jewel**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
-- **Chrome Dino**: https://source.chromium.org/chromium/chromium/src/+/master:components/neterror/resources/
+- **Chrome Dino**: https://github.com/chromium/chromium/tree/master/components/neterror/resources
 
 ## Issues, discussions and pull requests (PRs)
 Feel free to open an issue if you find some problems with the game, or make a PR if you know how to fix it.  

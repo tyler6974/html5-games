@@ -1,0 +1,332 @@
+{
+	"showArkadiumLogo": false,
+	"clientAPI": "",
+	"showMidrolls": false,
+
+	"levelSettings": [
+		{
+			"scoreToBeatLevel": 700,
+			"gemDropRate": {
+				"red": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 1,
+			"gemGoalAvailability": [
+				"red",
+				"blue"
+			],
+			"gemGoalRange": {
+				"min": 6,
+				"max": 10
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 0
+		},
+		{
+			"scoreToBeatLevel": 700,
+			"gemDropRate": {
+				"red": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 1,
+			"gemGoalAvailability": [
+				"yellow",
+				"green",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 6,
+				"max": 12
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 0
+		},
+		{
+			"scoreToBeatLevel": 700,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 1,
+			"gemGoalAvailability": [
+				"red",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 6,
+				"max": 12
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 0
+		},
+		{
+			"scoreToBeatLevel": 800,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 2,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 6,
+				"max": 12
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 0
+		},
+		{
+			"scoreToBeatLevel": 880,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 2,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 6,
+				"max": 12
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 2
+		},
+		{
+			"scoreToBeatLevel": 960,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 2,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 3
+		},
+		{
+			"scoreToBeatLevel": 1020,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 2,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 5
+		},
+		{
+			"scoreToBeatLevel": 1080,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1
+			},
+			"gemGoalSlots": 3,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 5
+		},
+		{
+			"scoreToBeatLevel": 1140,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1,
+				"white": 1
+			},
+			"gemGoalSlots": 3,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 8
+		},
+		{
+			"scoreToBeatLevel": 1180,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1,
+				"white": 1
+			},
+			"gemGoalSlots": 3,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple",
+				"white"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 8
+		},
+		{
+			"scoreToBeatLevel": 1260,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1,
+				"white": 1
+			},
+			"gemGoalSlots": 3,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple",
+				"white"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 8
+		},
+		{
+			"scoreToBeatLevel": 1300,
+			"gemDropRate": {
+				"red": 1,
+				"orange": 1,
+				"yellow": 1,
+				"green": 1,
+				"blue": 1,
+				"purple": 1,
+				"white": 1
+			},
+			"gemGoalSlots": 3,
+			"gemGoalAvailability": [
+				"red",
+				"orange",
+				"yellow",
+				"green",
+				"blue",
+				"purple",
+				"white"
+			],
+			"gemGoalRange": {
+				"min": 10,
+				"max": 20
+			},
+			"rockDropRate": 0.05,
+			"maxRocks": 10
+		}
+	],
+	"pointValues": {
+		"gemGoalCompletedPoints": 100,
+		"rockClearedByAdjacentMatchPoints": 0,
+		"rockClearedBySpecialPoints": 300,
+		"match3Points": 10,
+		"match4Points": 30,
+		"match5Points": 100,
+		"match6Points": 300,
+		"match7Points": 800,
+		"match8Points": 2400,
+		"pointsPerTileClearedBySpecial": 10,
+		"onlyGoalsAndRocksAwardProgress": false,
+		"rocksMustBeBrokenBySpecials": true,
+		"matchScoreProgressCoefficient": 1.0
+	}
+}

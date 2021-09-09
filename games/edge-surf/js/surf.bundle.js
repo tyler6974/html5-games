@@ -5850,7 +5850,7 @@
                 this.session.settings.mode = e.mode, this.session.settings.character = e.currentCharacter, this.session.settings.highVisibility = e.highVisibilityMode, this.session.settings.gameSpeed = e.gameSpeed, this.session.bestScore.classic = e.classic_bestScore, this.session.bestScore.speed = e.speed_bestScore, this.session.bestScore.buoy = e.buoy_bestScore
             }
             setupNewGame() {
-                this.resetCurrentPlayerData(), this.resetCurrentGameData(), this.loadGameSettings(), this.defineCanvas(), this.clearCanvas(), this.definePlayerOrigin()
+                this.resetCurrentPlayerData(), this.resetCurrentGameData(), this.loadGameSettings(), this.defineCanvas(), this.clearCanvas(), this.definePlayerOrigin(), $("game-tint").classList.remove("visible")
             }
             resetCurrentPlayerData() {
                 this.player = {
@@ -6838,7 +6838,7 @@
                     }(),
                     function() {
                         window.addEventListener("mousemove", (function(s) {
-                            "PLAY" === $e.data.session.state && e.onMouseMove(s)
+                            $e.data.changeInputMethod("mouse"), e.onMouseMove(s)
                         }), !1), window.addEventListener("click", (function(s) {
                             (s = s || window.event).target || s.srcElement;
                             e.onMouseClick(s)

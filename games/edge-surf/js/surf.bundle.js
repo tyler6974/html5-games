@@ -6838,7 +6838,7 @@
                     }(),
                     function() {
                         window.addEventListener("mousemove", (function(s) {
-                            $e.data.changeInputMethod("mouse"), e.onMouseMove(s)
+                            "PLAY" === $e.data.session.state && e.onMouseMove(s)
                         }), !1), window.addEventListener("click", (function(s) {
                             (s = s || window.event).target || s.srcElement;
                             e.onMouseClick(s)

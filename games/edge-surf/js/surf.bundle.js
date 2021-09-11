@@ -5610,7 +5610,7 @@
                 const t = this.createNew("div", s, "stats-counter");
                 this.counter = this.createNew("p", t, "counter-amount"), this.power = this.createNew("div", s, "stats-power"), this.refreshInterface(), this.displayBestCounter()
             }
-            sendNotification(e, s = 5e3) {
+            sendNotification(e, s = 10e3) {
                 const t = this,
                     i = $e.data.session.settings.mode;
                 this.clearNotification();

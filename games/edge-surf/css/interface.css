@@ -150,9 +150,9 @@ html[dir="rtl"] #hamburger-container {
     line-height: 24px;
     font-weight: 600;
     /* width: calc(100vw - 32px); */ /* fullscreen minus 32 padding */
-    position: absolute;
+    position: relative;
 	left:50%;transform:translate(-50%,-50%);
-    top: calc(100vh * 0.6 + 45px);
+    top: calc(100vh * 0.6 - 32px);
     text-align: center;
     display: inline-block;
 	padding: 16px 12px;
@@ -247,7 +247,7 @@ html[dir="rtl"] #hamburger-container {
 #ui-notify {
     width: calc(100vw - 32px); /* fullscreen minus 32 padding */
     position: absolute;
-    top: calc(100vh * 0.4 + 96px);
+    top: calc(100vh * 0.75 - 24px);
 	transition-timing-function: cubic-bezier(0.30, 0.20, 0.20, 1.00);
     text-align: center;
     height: 48px;

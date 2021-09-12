@@ -6,11 +6,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
 	<meta name="color-scheme" content="light dark">
+	<link rel="apple-touch-icon" sizes="128x128" href="icons/icon-128.png">
+	<link rel="apple-touch-icon" sizes="256x256" href="icons/icon-256.png">
 	<meta name="theme-color" content="#fff">
 	<link rel="icon" href="favicon.ico">
     <title>Chrome Dino</title>
     <link rel="stylesheet" href="style.css">
     <script src="game.js"></script>
+	<link rel="manifest" href="appmanifest.json">
 </head>
 
 <body id="t" class="offline">
@@ -33,7 +36,7 @@
     </div>
 
 </body>
-
+<script src="register-sw.js"></script>
 <script>
     document.onkeydown = function(evt) {
     evt = evt || window.event;

@@ -8,7 +8,7 @@ A personal collection of HTML5 games with the goal of preserving them in case of
 
 Instructions for [downloading and playing offline here](https://yell0wsuit.github.io/html5-games/offline.html).
 
-## Changes made to the original code
+## Changes / enhancement
 
 ### Chrome Dino
 
@@ -36,6 +36,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 - New code from Microsoft Edge 93.0.961.38
 - Use ``localstorage`` for storing high score instead of ``chrome.send``, which is not present for client-side
 	- To accommodate this, used new localstorage variable to avoid conflicting with the old version.
+- Added support for PWA. You can install this game as an app to play offline.
 
 ### Bejeweled (HTML5 edition)
 - Removed the "Install Chrome extension" popup since the game was discontinued.
@@ -91,6 +92,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 ### Microsoft Jewel (HTML5 edition)
 - Removed tracking links
 - Removed ads
+- Added support for PWA. You can install this game as an app to play offline.
 
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)

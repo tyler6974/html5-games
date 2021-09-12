@@ -33,7 +33,8 @@ The game code is from the old version, but added some quality-of-life changes fr
 - Use sound and music from the mobile version.
 
 ### Edge's Let's Surf
-- Code is tweaked to be able to run without errors.
+- New code from Microsoft Edge 93.0.961.38
+- Use ``localstorage`` for storing high score instead of ``chrome.send``, which is not present for client-side
 
 ### Bejeweled (HTML5 edition)
 - Removed the "Install Chrome extension" popup since the game was discontinued.
@@ -93,7 +94,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)
 - **Contre Jour**: [http://contrejour.ie/](http://contrejour.ie/) (dead link as of 08/31)
-- **Let's Surf**: new code from Microsoft Edge version 93.0.961.44.xxx. localstorage workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.) to store the high score.
+- **Let's Surf**: new code from Microsoft Edge version 93.0.961.38. ``localstorage`` workaround from [https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.](https://github.com/jackbuehner/MicrosoftEdge-S.U.R.F.)
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**, **Microsoft Bubble**, **Microsoft Jewel**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
 - **Chrome Dino**: https://github.com/chromium/chromium/tree/master/components/neterror/resources

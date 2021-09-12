@@ -67,13 +67,19 @@ html[dir="rtl"].icon-arrow-left {
 
 #game-bg {
   background-repeat: repeat;
-  image-rendering: pixelated; /* important */
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges; /* important */
   z-index: 2;
   pointer-events: none;
 }
 
 #game-canvas {
-  image-rendering: pixelated; /* important */
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges; /* important */
   z-index: 3;
 }
 
@@ -296,7 +302,10 @@ html[dir="rtl"].icon-arrow-left {
 
 .stats-icons {
   flex-basis: 72px;
-  image-rendering: pixelated; /* important */
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges; /* important */
 }
 
 .stats-icons div {

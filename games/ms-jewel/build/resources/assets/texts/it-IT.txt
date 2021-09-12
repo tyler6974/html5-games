@@ -12,3 +12,4 @@ quit=Esci
 levelComplete=Livello completato
 goodGame=Bella partita!
 outOfMatches=Mosse terminate!
+playAgain=Gioca di nuovo

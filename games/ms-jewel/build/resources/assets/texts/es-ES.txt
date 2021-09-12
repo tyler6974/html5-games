@@ -12,3 +12,4 @@ quit=Abandonar
 levelComplete=Nivel completado
 goodGame=¡Gracias por jugar!
 outOfMatches=¡Te has quedado sin combinaciones!
+playAgain=Otra vez

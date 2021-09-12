@@ -12,3 +12,4 @@ quit=Beenden
 levelComplete=Level abgeschlossen
 goodGame=Gutes Spiel!
 outOfMatches=Keine passenden Juwelen mehr!
+playAgain=Erneut spielen

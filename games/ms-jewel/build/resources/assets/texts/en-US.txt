@@ -12,3 +12,4 @@ quit=Quit
 levelComplete=Level Complete!
 goodGame=Good Game!
 outOfMatches=Out of Matches!
+playAgain=Play Again

@@ -198,11 +198,16 @@ html[dir="rtl"].icon-arrow-left {
 
 #instruct-content.tinted {
   background-color: rgba(255,255,255,0.6);
-  backdrop-filter: blur(32px);
-  -webkit-backdrop-filter: blur(32px);
   box-shadow: 0px 16px 24px rgba(0,0,0,0.16);
   border-radius: 4px;
 }
+
+@supports not (-moz-appearance:none) {
+    #instruct-content.tinted {
+        backdrop-filter: blur(32px);
+        -webkit-backdrop-filter: blur(32px);
+    }
+} /* Backdrop filter is broken on Firefox */
 
 #instruct-icon { /* xbox + ps */
   display: inline-block;

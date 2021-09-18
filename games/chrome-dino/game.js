@@ -1039,9 +1039,8 @@ Runner.prototype = {
                 Runner.config.ARCADE_MODE_TOP_POSITION_PERCENT)) *
             window.devicePixelRatio;
 
-        const cssScale = scale;
         this.containerEl.style.transform =
-            'scale(' + cssScale + ') translateY(' + translateY + 'px)';
+            'scale(' + scale + ') translateY(' + translateY + 'px)';
     },
 
     /**

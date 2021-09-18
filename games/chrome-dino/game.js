@@ -104,6 +104,7 @@ var IS_IOS = function iOS() {
   ].includes(navigator.platform)
   // iPad on iOS 13 detection
   || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+  || /CriOS/.test(window.navigator.userAgent)
 };
 
 /** @const */

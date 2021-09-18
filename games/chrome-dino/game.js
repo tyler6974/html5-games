@@ -457,10 +457,10 @@ Runner.prototype = {
         this.tRex = new Trex(this.canvas, this.spriteDef.TREX);
 
         this.outerContainerEl.appendChild(this.containerEl);
-
-        // if(IS_MOBILE) {
-        //     this.createTouchController();
-        // }
+        
+        if (!this.touchController) { // adapted from new code
+            this.createTouchController();
+        }
 
         this.startListening();
         this.update();
@@ -730,6 +730,8 @@ Runner.prototype = {
 
         // Touch / pointer.
         this.containerEl.addEventListener(Runner.events.TOUCHSTART, this);
+        this.touchController.addEventListener(Runner.events.TOUCHSTART, this); // from old code to touch everywhere
+        this.touchController.addEventListener(Runner.events.TOUCHEND, this); // from old code to touch everywhere
         document.addEventListener(Runner.events.POINTERDOWN, this);
         document.addEventListener(Runner.events.POINTERUP, this);
     },

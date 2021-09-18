@@ -18,10 +18,8 @@ function Runner(outerContainerId, opt_config) {
     this.outerContainerEl = document.querySelector(outerContainerId);
     this.containerEl = null;
     this.snackbarEl = null;
-    
     // A div to intercept touch events. Only set while (playing && useTouch).
     this.touchController = null;
-    
     this.detailsButton = this.outerContainerEl.querySelector('#details-button');
 
     this.config = opt_config || Runner.config;
@@ -95,15 +93,24 @@ var FPS = 60;
 var IS_HIDPI = window.devicePixelRatio > 1;
 
 /** @const */
-var IS_IOS = /CriOS/.test(window.navigator.userAgent) ||
-    /iPad|iPhone|iPod|MacIntel/.test(window.navigator.platform) &&
-        !(/Safari/.test(window.navigator.userAgent));
+var IS_IOS = function iOS() {
+  return [
+    'iPad Simulator',
+    'iPhone Simulator',
+    'iPod Simulator',
+    'iPad',
+    'iPhone',
+    'iPod'
+  ].includes(navigator.platform)
+  // iPad on iOS 13 detection
+  || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+};
 
 /** @const */
 var IS_MOBILE = /Android/.test(window.navigator.userAgent) || IS_IOS;
 
 /** @const */
-var IS_TOUCH_ENABLED = 'ontouchstart' in window;
+//var IS_TOUCH_ENABLED = 'ontouchstart' in window;
 
 /**
  * Default game configuration.
@@ -385,7 +392,7 @@ Runner.prototype = {
      * Load and decode base 64 encoded sounds.
      */
     loadSounds: function() {
-        if(!IS_IOS) {
+        //if(!IS_IOS) {
             this.audioContext = new AudioContext();
 
             var resourceTemplate =
@@ -402,7 +409,7 @@ Runner.prototype = {
                     this.soundFx[index] = audioData;
                 }.bind(this, sound));
             }
-        }
+        //}
     },
 
     /**
@@ -457,8 +464,8 @@ Runner.prototype = {
         this.tRex = new Trex(this.canvas, this.spriteDef.TREX);
 
         this.outerContainerEl.appendChild(this.containerEl);
-        
-        if (!this.touchController) { // adapted from new code
+
+        if(IS_MOBILE) {
             this.createTouchController();
         }
 
@@ -483,6 +490,8 @@ Runner.prototype = {
     createTouchController: function() {
         this.touchController = document.createElement('div');
         this.touchController.className = Runner.classes.TOUCH_CONTROLLER;
+        this.touchController.addEventListener(Runner.events.TOUCHSTART, this);
+        this.touchController.addEventListener(Runner.events.TOUCHEND, this);
         this.outerContainerEl.appendChild(this.touchController);
     },
 
@@ -730,8 +739,6 @@ Runner.prototype = {
 
         // Touch / pointer.
         this.containerEl.addEventListener(Runner.events.TOUCHSTART, this);
-        this.touchController.addEventListener(Runner.events.TOUCHSTART, this); // from old code to touch everywhere
-        this.touchController.addEventListener(Runner.events.TOUCHEND, this); // from old code to touch everywhere
         document.addEventListener(Runner.events.POINTERDOWN, this);
         document.addEventListener(Runner.events.POINTERUP, this);
     },
@@ -744,7 +751,7 @@ Runner.prototype = {
         document.removeEventListener(Runner.events.KEYUP, this);
 		
 		window.removeEventListener(Runner.events.GAMEPADCONNECTED, this);
-        
+
         if (this.touchController) {
             this.touchController.removeEventListener(Runner.events.TOUCHSTART, this);
             this.touchController.removeEventListener(Runner.events.TOUCHEND, this);
@@ -769,10 +776,6 @@ Runner.prototype = {
             if(!this.crashed && (Runner.keycodes.JUMP[e.keyCode] ||
                     e.type == Runner.events.TOUCHSTART)) {
                 if(!this.playing) {
-                    // Started by touch so create a touch controller.
-                    if (!this.touchController && e.type === Runner.events.TOUCHSTART) {
-                        this.createTouchController();
-                        }
                     this.loadSounds();
                     this.playing = true;
                     this.update();

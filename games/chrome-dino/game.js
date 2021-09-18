@@ -91,7 +91,9 @@ var FPS = 60;
 var IS_HIDPI = window.devicePixelRatio > 1;
 
 /** @const */
-var IS_IOS = /iPad|iPhone|iPod/.test(window.navigator.platform);
+var IS_IOS = /CriOS/.test(window.navigator.userAgent) ||
+    /iPad|iPhone|iPod|MacIntel/.test(window.navigator.platform) &&
+        !(/Safari/.test(window.navigator.userAgent));
 
 /** @const */
 var IS_MOBILE = /Android/.test(window.navigator.userAgent) || IS_IOS;

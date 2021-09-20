@@ -2,7 +2,7 @@
 	"name": "Chrome Dino",
 	"short_name": "Chrome Dino",
 	"description": "An offline game from Google Chrome",
-	"version": "1.1",
+	"version": "1.5",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",

@@ -17,6 +17,7 @@ function _isIpad() {
 
         return isIpad;
     }
+    
 function Runner(outerContainerId, opt_config) {
     // Singleton
     if(Runner.instance_) {
@@ -43,7 +44,7 @@ function Runner(outerContainerId, opt_config) {
     this.distanceMeter = null;
     this.distanceRan = 0;
 
-    this.highestScore = 0;
+    this.highestScore = window.localStorage.getItem("chrome-dino");
 
     this.time = 0;
     this.runningTime = 0;
@@ -559,6 +560,7 @@ Runner.prototype = {
         if(!this.activated && !this.crashed) {
             this.playingIntro = true;
             this.tRex.playingIntro = true;
+            this.distanceMeter.setHighScore(window.localStorage.getItem("chrome-dino"));
 
             // CSS animation definition.
             var keyframes = '@-webkit-keyframes intro { ' +
@@ -956,7 +958,7 @@ Runner.prototype = {
     isRunning: function() {
         return !!this.raqId;
     },
-
+    
     /**
      * Game over state.
      */
@@ -980,9 +982,10 @@ Runner.prototype = {
         }
 
         // Update the high score.
-        if(this.distanceRan > this.highestScore) {
+        if (this.distanceRan > this.highestScore) {
             this.highestScore = Math.ceil(this.distanceRan);
             this.distanceMeter.setHighScore(this.highestScore);
+            window.localStorage.setItem('chrome-dino', this.highestScore);
         }
 
         // Reset the time clock.
@@ -1017,7 +1020,7 @@ Runner.prototype = {
             this.time = getTimeStamp();
             this.containerEl.classList.remove(Runner.classes.CRASHED);
             this.clearCanvas();
-            this.distanceMeter.reset(this.highestScore);
+            this.distanceMeter.reset();
             this.horizon.reset();
             this.tRex.reset();
             this.playSound(this.soundFx.BUTTON_PRESS);

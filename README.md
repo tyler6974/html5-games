@@ -11,6 +11,9 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 ## Changes / enhancement
 
 ### Chrome Dino
+- Use ``localStorage`` to save and retrieve high score. No more accidental refresh that wipes your hard work!
+   - The original code uses native code from Chrome to retrieve and store score, something that isn't possible for other browsers.
+   - Highscore reset will be implemented later.
 
 The game code is from the old version, but added some quality-of-life changes from newer ``offline.js`` version. This includes:
 - Make the game adapts to the screen width like the Chrome version (chrome://dino).
@@ -36,7 +39,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 ### Edge's Let's Surf
 - New code from Microsoft Edge 93.0.961.38
 - Use ``localstorage`` for storing high score instead of ``chrome.send``, which is not present for client-side
-	- To accommodate this, used new localstorage variable to avoid conflicting with the old version.
+   - To accommodate this, used new localstorage variable to avoid conflicting with the old version.
 - Added support for PWA. You can install this game as an app to play offline.
 
 ### Bejeweled (HTML5 edition)
@@ -67,25 +70,25 @@ The game code is from the old version, but added some quality-of-life changes fr
 - Add Segoe UI fonts for non-Microsoft platforms.
 - Obtained puzzles and tweaked the code so the game can be run offline.
 - Added new puzzles for English (US) from the Microsoft Store version:
-	- Ancient Ruins
-	- Bowling
-	- Colorful Birds
-	- Colorful Skies
-	- Dinosaurs 3
-	- Everglades
-	- Fun & Games
-	- Hong Kong
-	- How It's Made 2
-	- Madagascar
-	- Model Railways
-	- Museum Animals
-	- Reef Life 2
-	- Seamed Perfect
-	- See a Face
-	- Sri Lanka
-	- Thailand 2
-	- Tokyo
-	- Topiary
+   - Ancient Ruins
+   - Bowling
+   - Colorful Birds
+   - Colorful Skies
+   - Dinosaurs 3
+   - Everglades
+   - Fun & Games
+   - Hong Kong
+   - How It's Made 2
+   - Madagascar
+   - Model Railways
+   - Museum Animals
+   - Reef Life 2
+   - Seamed Perfect
+   - See a Face
+   - Sri Lanka
+   - Thailand 2
+   - Tokyo
+   - Topiary
 
 ### Microsoft Bubble (HTML5 edition)
 - Removed tracking link

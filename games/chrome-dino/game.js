@@ -8,6 +8,15 @@
  * @constructor
  * @export
  */
+function _isIpad() {
+        var isIpad = navigator.userAgent.toLowerCase().indexOf('ipad') !== -1;
+
+        if (!isIpad && navigator.userAgent.match(/Mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2) {
+            return true;
+        }
+
+        return isIpad;
+    }
 function Runner(outerContainerId, opt_config) {
     // Singleton
     if(Runner.instance_) {
@@ -93,25 +102,14 @@ var FPS = 60;
 var IS_HIDPI = window.devicePixelRatio > 1;
 
 /** @const */
-var IS_IOS = function iOS() {
-  return [
-    'iPad Simulator',
-    'iPhone Simulator',
-    'iPod Simulator',
-    'iPad',
-    'iPhone',
-    'iPod'
-  ].includes(navigator.platform)
-  // iPad on iOS 13 detection
-  || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
-  || /CriOS/.test(window.navigator.userAgent)
-};
+var IS_IOS =  !!window.navigator.userAgent.match(/iP(hone|ad|od)/i) && !!window.navigator.userAgent.match(/Safari/i)
+     || _isIpad() || /CriOS/.test(window.navigator.userAgent) || /FxiOS/.test(window.navigator.userAgent);
 
 /** @const */
 var IS_MOBILE = /Android/.test(window.navigator.userAgent) || IS_IOS;
 
 /** @const */
-//var IS_TOUCH_ENABLED = 'ontouchstart' in window;
+// var IS_TOUCH_ENABLED = 'ontouchstart' in window;
 
 /**
  * Default game configuration.
@@ -737,7 +735,7 @@ Runner.prototype = {
 		
 		// Gamepad
 		window.addEventListener(Runner.events.GAMEPADCONNECTED, this);
-
+        
         // Touch / pointer.
         this.containerEl.addEventListener(Runner.events.TOUCHSTART, this);
         document.addEventListener(Runner.events.POINTERDOWN, this);
@@ -757,7 +755,7 @@ Runner.prototype = {
             this.touchController.removeEventListener(Runner.events.TOUCHSTART, this);
             this.touchController.removeEventListener(Runner.events.TOUCHEND, this);
         }
-        
+            
         this.containerEl.removeEventListener(Runner.events.TOUCHSTART, this);
         document.removeEventListener(Runner.events.POINTERDOWN, this);
         document.removeEventListener(Runner.events.POINTERUP, this);

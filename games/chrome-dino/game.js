@@ -391,7 +391,7 @@ Runner.prototype = {
      * Load and decode base 64 encoded sounds.
      */
     loadSounds: function() {
-        //if(!IS_IOS) {
+        if(!IS_IOS) {
             this.audioContext = new AudioContext();
 
             var resourceTemplate =
@@ -408,7 +408,7 @@ Runner.prototype = {
                     this.soundFx[index] = audioData;
                 }.bind(this, sound));
             }
-        //}
+        }
     },
 
     /**

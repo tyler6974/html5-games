@@ -8,6 +8,8 @@ A personal collection of HTML5 games with the goal of preserving them in case of
 
 Instructions for [downloading and playing offline here](https://yell0wsuit.github.io/html5-games/offline.html).
 
+The site also supports for downloading and importing save game data, so you can backup your data or keep your progress across browsers.
+
 ## Changes / enhancement
 
 ### Chrome Dino

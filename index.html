@@ -6,12 +6,11 @@
       <meta name="description" content="">
       <title>yell0wsuit's HTML5 games collection</title>
       <link rel="stylesheet" href="css/nicepage.css" media="screen">
-      <link rel="icon" type="image/svg+xml" href="favicon.svg">
-      <script src="saveandexport.js"></script>
-      <link rel="alternate icon" href="favicon.ico">
+      <script src="js/saveandexport.js"></script>
+      <link rel="icon" href="favicon.ico">
       <link rel="stylesheet" href="css/bootstrap.min.css">
-      <script src="jquery.min.js"></script>
-      <script src="bootstrap.min.js"></script>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
       <meta name="generator" content="Nicepage 2.19.0, nicepage.com">
       <style class="u-style">
          .u-section-2 {background-image: none}
@@ -119,12 +118,32 @@
             </div>
          </div>
       </div>
+      <div class="modal hide fade" id="confirmModal">
+         <div class="modal-dialog">
+            <div class="modal-content">
+               <!-- Modal Header -->
+               <div class="modal-header">
+                  <h4 class="modal-title">Confirm overwrite?</h4>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+               </div>
+               <!-- Modal body -->
+               <div class="modal-body">
+                  This will overwrite the current save data. Are you sure?
+               </div>
+               <!-- Modal footer -->
+               <div class="modal-footer">
+                  <button type="button" class="btn btn-warning" onclick="input.click();" data-dismiss="modal">Yes</button>
+                  <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">No</button>
+               </div>
+            </div>
+         </div>
+      </div>
       <section class="u-align-center u-clearfix u-grey-10 u-section-2" id="sec-922b">
          <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
             <h1 class="u-custom-font u-font-inter u-text u-text-default u-text-palette-3-base u-text-1">yell0wsuit's HTML5 games collection</h1>
             <p class="u-text u-text-2">Flash is dead, long live HTML!</p>
             <p class="u-text u-text-3"><a href="https://github.com/yell0wsuit/html5-games">GitHub repo</a> | <a href="offline.html">Click here to learn how to play offline on PC</a></p>
-            <p class="u-text u-text-3"><a data-toggle="modal" data-target="#downloadModal" href="javascript:void(0);">Download your data</a> | <a data-target="#importModal" href="javascript:void(0);" onclick="input.click();">Import your data</a></p>
+            <p class="u-text u-text-3"><a data-toggle="modal" data-target="#downloadModal" href="javascript:void(0);">Download your data</a> | <a data-toggle="modal" data-target="#confirmModal" href="javascript:void(0);">Import your data</a></p>
             <div class="u-expanded-width-xs u-list u-repeater u-list-1">
                <div class="u-container-style u-list-item u-repeater-item u-video-cover u-white u-list-item-1">
                   <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-1">

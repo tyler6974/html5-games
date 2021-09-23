@@ -100,6 +100,10 @@ The game code is from the old version, but added some quality-of-life changes fr
 - Removed ads
 - Added support for PWA. You can install this game as an app to play offline.
 
+### Temple Run 2 (HTML5 edition)
+- Removed ads
+- Removed code that redirects to the main page, which is bloated with ads
+
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)
 - **Contre Jour**: [http://contrejour.ie/](http://contrejour.ie/) (dead link as of 08/31)
@@ -107,6 +111,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 - **Bejeweled (HTML5 edition)**: archived from Chrome Store, [https://github.com/scientihark/beautyofH5](https://github.com/scientihark/beautyofH5)
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**, **Microsoft Bubble**, **Microsoft Jewel**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
 - **Chrome Dino**: https://github.com/chromium/chromium/tree/master/components/neterror/resources
+- **Temple Run 2**: https://gamemonetize.com
 
 ## Issues, discussions and pull requests (PRs)
 Feel free to open an issue if you find some problems with the game, or make a PR if you know how to fix it.  

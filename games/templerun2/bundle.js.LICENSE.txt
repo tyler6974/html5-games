@@ -1,0 +1,1468 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+  Copyright (c) 2017 Jed Watson.
+  Licensed under the MIT License (MIT), see
+  http://jedwatson.github.io/classnames
+*/
+
+/*!
+ * Font Awesome Free 5.4.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+
+/*!
+ * PEP v0.5.1 | https://github.com/jquery/PEP
+ * Copyright jQuery Foundation and other contributors | http://jquery.org/license
+ */
+
+/*! !../../../../../../node_modules/css-loader!../../../../../../node_modules/sass-loader/lib/loader.js!./actionTabs.scss */
+
+/*! !../../../../../../node_modules/css-loader!../../../../../../node_modules/sass-loader/lib/loader.js!./embedHost.scss */
+
+/*! !../../../../../../node_modules/css-loader!../../../../../../node_modules/sass-loader/lib/loader.js!./sceneExplorer.scss */
+
+/*! *****************************************************************************
+Copyright (C) Microsoft. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0
+
+THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABLITY OR NON-INFRINGEMENT.
+
+See the Apache Version 2.0 License for specific language governing permissions
+and limitations under the License.
+***************************************************************************** */
+
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+this file except in compliance with the License. You may obtain a copy of the
+License at http://www.apache.org/licenses/LICENSE-2.0
+
+THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+MERCHANTABLITY OR NON-INFRINGEMENT.
+
+See the Apache Version 2.0 License for specific language governing permissions
+and limitations under the License.
+***************************************************************************** */
+
+/*! ../../../../../../node_modules/css-loader/lib/css-base.js */
+
+/*! ../../../../../../node_modules/style-loader/lib/addStyles.js */
+
+/*! ../../../components/propertyChangedEvent */
+
+/*! ../../../lineContainerComponent */
+
+/*! ../../../lines/buttonLineComponent */
+
+/*! ../../../lines/checkBoxLineComponent */
+
+/*! ../../../lines/color3LineComponent */
+
+/*! ../../../lines/color4LineComponent */
+
+/*! ../../../lines/fileButtonLineComponent */
+
+/*! ../../../lines/floatLineComponent */
+
+/*! ../../../lines/optionsLineComponent */
+
+/*! ../../../lines/quaternionLineComponent */
+
+/*! ../../../lines/sliderLineComponent */
+
+/*! ../../../lines/textInputLineComponent */
+
+/*! ../../../lines/textLineComponent */
+
+/*! ../../../lines/textureLineComponent */
+
+/*! ../../../lines/textureLinkLineComponent */
+
+/*! ../../../lines/valueLineComponent */
+
+/*! ../../../lines/vector2LineComponent */
+
+/*! ../../../lines/vector3LineComponent */
+
+/*! ../../../lines/vector4LineComponent */
+
+/*! ../../extensionsComponent */
+
+/*! ../../lineContainerComponent */
+
+/*! ../../lines/buttonLineComponent */
+
+/*! ../../lines/checkBoxLineComponent */
+
+/*! ../../lines/color3LineComponent */
+
+/*! ../../lines/fileButtonLineComponent */
+
+/*! ../../lines/floatLineComponent */
+
+/*! ../../lines/messageLineComponent */
+
+/*! ../../lines/optionsLineComponent */
+
+/*! ../../lines/quaternionLineComponent */
+
+/*! ../../lines/radioLineComponent */
+
+/*! ../../lines/sliderLineComponent */
+
+/*! ../../lines/textInputLineComponent */
+
+/*! ../../lines/textLineComponent */
+
+/*! ../../lines/textureLinkLineComponent */
+
+/*! ../../lines/vector3LineComponent */
+
+/*! ../../tools */
+
+/*! ../../treeItemLabelComponent */
+
+/*! ../actionTabs/actionTabsComponent */
+
+/*! ../animationPropertyGridComponent */
+
+/*! ../customPropertyGridComponent */
+
+/*! ../extensionsComponent */
+
+/*! ../headerComponent */
+
+/*! ../index */
+
+/*! ../lineContainerComponent */
+
+/*! ../lines/booleanLineComponent */
+
+/*! ../lines/buttonLineComponent */
+
+/*! ../lines/checkBoxLineComponent */
+
+/*! ../lines/fileMultipleButtonLineComponent */
+
+/*! ../lines/floatLineComponent */
+
+/*! ../lines/numericInputComponent */
+
+/*! ../lines/optionsLineComponent */
+
+/*! ../lines/textLineComponent */
+
+/*! ../lines/valueLineComponent */
+
+/*! ../paneComponent */
+
+/*! ../sceneExplorer/sceneExplorerComponent */
+
+/*! ../tools */
+
+/*! ../treeItemLabelComponent */
+
+/*! ./../../../../../node_modules/webpack/buildin/global.js */
+
+/*! ./../../timers-browserify/main.js */
+
+/*! ./../../webpack/buildin/global.js */
+
+/*! ./../process/browser.js */
+
+/*! ./../webpack/buildin/global.js */
+
+/*! ./AbstractMenu */
+
+/*! ./ContextMenu */
+
+/*! ./ContextMenuTrigger */
+
+/*! ./MenuItem */
+
+/*! ./SubMenu */
+
+/*! ./actionTabs.scss */
+
+/*! ./actions */
+
+/*! ./buttonLineComponent */
+
+/*! ./checkPropTypes */
+
+/*! ./cjs/react-dom.development.js */
+
+/*! ./cjs/react-is.development.js */
+
+/*! ./cjs/react.development.js */
+
+/*! ./cjs/scheduler-tracing.development.js */
+
+/*! ./cjs/scheduler.development.js */
+
+/*! ./commonCameraPropertyGridComponent */
+
+/*! ./commonControlPropertyGridComponent */
+
+/*! ./commonLightPropertyGridComponent */
+
+/*! ./commonMaterialPropertyGridComponent */
+
+/*! ./commonPostProcessPropertyGridComponent */
+
+/*! ./commonRenderingPipelinePropertyGridComponent */
+
+/*! ./commonShadowLightPropertyGridComponent */
+
+/*! ./components/actionTabs/actionTabsComponent */
+
+/*! ./components/embedHost/embedHostComponent */
+
+/*! ./components/globalState */
+
+/*! ./components/sceneExplorer/sceneExplorerComponent */
+
+/*! ./connectMenu */
+
+/*! ./copy.svg */
+
+/*! ./embedHost.scss */
+
+/*! ./entities/animationGroupTreeItemComponent */
+
+/*! ./entities/boneTreeItemComponent */
+
+/*! ./entities/cameraTreeItemComponent */
+
+/*! ./entities/gui/advancedDynamicTextureTreeItemComponent */
+
+/*! ./entities/gui/controlTreeItemComponent */
+
+/*! ./entities/lightTreeItemComponent */
+
+/*! ./entities/materialTreeItemComponent */
+
+/*! ./entities/meshTreeItemComponent */
+
+/*! ./entities/postProcessTreeItemComponent */
+
+/*! ./entities/renderingPipelineTreeItemComponent */
+
+/*! ./entities/sceneTreeItemComponent */
+
+/*! ./entities/skeletonTreeItemComponent */
+
+/*! ./entities/textureTreeItemComponent */
+
+/*! ./entities/transformNodeTreeItemComponent */
+
+/*! ./factoryWithTypeCheckers */
+
+/*! ./fileButtonLineComponent */
+
+/*! ./fogPropertyGridComponent */
+
+/*! ./globalEventListener */
+
+/*! ./helpers */
+
+/*! ./inspector */
+
+/*! ./lib/ReactPropTypesSecret */
+
+/*! ./numericInputComponent */
+
+/*! ./propertyGrids/animationGroupPropertyGridComponent */
+
+/*! ./propertyGrids/cameras/arcRotateCameraPropertyGridComponent */
+
+/*! ./propertyGrids/cameras/freeCameraPropertyGridComponent */
+
+/*! ./propertyGrids/gui/checkboxPropertyGridComponent */
+
+/*! ./propertyGrids/gui/colorPickerPropertyGridComponent */
+
+/*! ./propertyGrids/gui/controlPropertyGridComponent */
+
+/*! ./propertyGrids/gui/ellipsePropertyGridComponent */
+
+/*! ./propertyGrids/gui/gridPropertyGridComponent */
+
+/*! ./propertyGrids/gui/imageBasedSliderPropertyGridComponent */
+
+/*! ./propertyGrids/gui/imagePropertyGridComponent */
+
+/*! ./propertyGrids/gui/inputTextPropertyGridComponent */
+
+/*! ./propertyGrids/gui/linePropertyGridComponent */
+
+/*! ./propertyGrids/gui/radioButtonPropertyGridComponent */
+
+/*! ./propertyGrids/gui/rectanglePropertyGridComponent */
+
+/*! ./propertyGrids/gui/scrollViewerPropertyGridComponent */
+
+/*! ./propertyGrids/gui/sliderPropertyGridComponent */
+
+/*! ./propertyGrids/gui/stackPanelPropertyGridComponent */
+
+/*! ./propertyGrids/gui/textBlockPropertyGridComponent */
+
+/*! ./propertyGrids/lights/directionalLightPropertyGridComponent */
+
+/*! ./propertyGrids/lights/hemisphericLightPropertyGridComponent */
+
+/*! ./propertyGrids/lights/pointLightPropertyGridComponent */
+
+/*! ./propertyGrids/lights/spotLightPropertyGridComponent */
+
+/*! ./propertyGrids/lockObject */
+
+/*! ./propertyGrids/materials/backgroundMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/materialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/multiMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/nodeMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/pbrMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/pbrMetallicRoughnessMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/pbrSpecularGlossinessMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/standardMaterialPropertyGridComponent */
+
+/*! ./propertyGrids/materials/texturePropertyGridComponent */
+
+/*! ./propertyGrids/meshes/bonePropertyGridComponent */
+
+/*! ./propertyGrids/meshes/meshPropertyGridComponent */
+
+/*! ./propertyGrids/meshes/skeletonPropertyGridComponent */
+
+/*! ./propertyGrids/meshes/transformNodePropertyGridComponent */
+
+/*! ./propertyGrids/postProcesses/defaultRenderingPipelinePropertyGridComponent */
+
+/*! ./propertyGrids/postProcesses/lensRenderingPipelinePropertyGridComponent */
+
+/*! ./propertyGrids/postProcesses/postProcessPropertyGridComponent */
+
+/*! ./propertyGrids/postProcesses/renderingPipelinePropertyGridComponent */
+
+/*! ./propertyGrids/postProcesses/ssao2RenderingPipelinePropertyGridComponent */
+
+/*! ./propertyGrids/postProcesses/ssaoRenderingPipelinePropertyGridComponent */
+
+/*! ./propertyGrids/renderGridPropertyGridComponent */
+
+/*! ./propertyGrids/scenePropertyGridComponent */
+
+/*! ./replayRecorder */
+
+/*! ./sceneExplorer.scss */
+
+/*! ./sliderLineComponent */
+
+/*! ./tabs/debugTabComponent */
+
+/*! ./tabs/propertyGridTabComponent */
+
+/*! ./tabs/settingsTabComponent */
+
+/*! ./tabs/statisticsTabComponent */
+
+/*! ./tabs/toolsTabComponent */
+
+/*! ./tabsComponent */
+
+/*! ./textLineComponent */
+
+/*! ./tools/gltfComponent */
+
+/*! ./treeItemComponent */
+
+/*! ./treeItemLabelComponent */
+
+/*! ./treeItemSelectableComponent */
+
+/*! ./treeItemSpecializedComponent */
+
+/*! ./urls */
+
+/*! @babylonjs/core/Animations/animationPropertiesOverride */
+
+/*! @babylonjs/core/Cameras/camera */
+
+/*! @babylonjs/core/Debug/debugLayer */
+
+/*! @babylonjs/core/Debug/physicsViewer */
+
+/*! @babylonjs/core/Debug/skeletonViewer */
+
+/*! @babylonjs/core/Engines/constants */
+
+/*! @babylonjs/core/Engines/engineStore */
+
+/*! @babylonjs/core/Events/pointerEvents */
+
+/*! @babylonjs/core/Instrumentation/engineInstrumentation */
+
+/*! @babylonjs/core/Lights/Shadows/cascadedShadowGenerator */
+
+/*! @babylonjs/core/Lights/Shadows/shadowGenerator */
+
+/*! @babylonjs/core/Materials/imageProcessingConfiguration */
+
+/*! @babylonjs/core/Materials/material */
+
+/*! @babylonjs/core/Materials/standardMaterial */
+
+/*! @babylonjs/core/Maths/math.color */
+
+/*! @babylonjs/core/Misc/iInspectable */
+
+/*! @babylonjs/core/Misc/observable */
+
+/*! @babylonjs/core/Misc/tools */
+
+/*! @babylonjs/core/Misc/videoRecorder */
+
+/*! @babylonjs/core/scene */
+
+/*! @babylonjs/gui/2D/adtInstrumentation */
+
+/*! @babylonjs/gui/2D/controls/control */
+
+/*! @babylonjs/gui/2D/controls/image */
+
+/*! @babylonjs/gui/2D/controls/textBlock */
+
+/*! @babylonjs/loaders/glTF/index */
+
+/*! @babylonjs/materials/grid/gridMaterial */
+
+/*! @babylonjs/serializers/glTF/2.0/index */
+
+/*! @fortawesome/fontawesome-svg-core */
+
+/*! @fortawesome/free-regular-svg-icons */
+
+/*! @fortawesome/free-solid-svg-icons */
+
+/*! @fortawesome/react-fontawesome */
+
+/*! classnames */
+
+/*! exports provided: ActionTabsComponent */
+
+/*! exports provided: AdvancedDynamicTextureTreeItemComponent */
+
+/*! exports provided: AnimationGridComponent */
+
+/*! exports provided: AnimationGroupGridComponent */
+
+/*! exports provided: AnimationGroupItemComponent */
+
+/*! exports provided: ArcRotateCameraPropertyGridComponent */
+
+/*! exports provided: BackgroundMaterialPropertyGridComponent */
+
+/*! exports provided: BonePropertyGridComponent */
+
+/*! exports provided: BoneTreeItemComponent */
+
+/*! exports provided: BooleanLineComponent */
+
+/*! exports provided: ButtonLineComponent */
+
+/*! exports provided: CameraTreeItemComponent */
+
+/*! exports provided: CheckBoxLineComponent */
+
+/*! exports provided: CheckboxPropertyGridComponent */
+
+/*! exports provided: Color3LineComponent */
+
+/*! exports provided: Color4LineComponent */
+
+/*! exports provided: ColorPickerPropertyGridComponent */
+
+/*! exports provided: CommonCameraPropertyGridComponent */
+
+/*! exports provided: CommonControlPropertyGridComponent */
+
+/*! exports provided: CommonLightPropertyGridComponent */
+
+/*! exports provided: CommonMaterialPropertyGridComponent */
+
+/*! exports provided: CommonPostProcessPropertyGridComponent */
+
+/*! exports provided: CommonRenderingPipelinePropertyGridComponent */
+
+/*! exports provided: CommonShadowLightPropertyGridComponent */
+
+/*! exports provided: ContextMenu, ContextMenuTrigger, MenuItem, SubMenu, connectMenu, hideMenu, showMenu */
+
+/*! exports provided: ControlPropertyGridComponent */
+
+/*! exports provided: ControlTreeItemComponent */
+
+/*! exports provided: CustomPropertyGridComponent */
+
+/*! exports provided: DebugTabComponent */
+
+/*! exports provided: DefaultRenderingPipelinePropertyGridComponent */
+
+/*! exports provided: DirectionalLightPropertyGridComponent */
+
+/*! exports provided: EllipsePropertyGridComponent */
+
+/*! exports provided: EmbedHostComponent */
+
+/*! exports provided: ExtensionsComponent */
+
+/*! exports provided: FileButtonLineComponent */
+
+/*! exports provided: FileMultipleButtonLineComponent */
+
+/*! exports provided: FloatLineComponent */
+
+/*! exports provided: FogPropertyGridComponent */
+
+/*! exports provided: FontAwesomeIcon */
+
+/*! exports provided: FreeCameraPropertyGridComponent */
+
+/*! exports provided: GLTFComponent */
+
+/*! exports provided: GlobalState */
+
+/*! exports provided: GridPropertyGridComponent */
+
+/*! exports provided: HeaderComponent */
+
+/*! exports provided: HemisphericLightPropertyGridComponent */
+
+/*! exports provided: ImageBasedSliderPropertyGridComponent */
+
+/*! exports provided: ImagePropertyGridComponent */
+
+/*! exports provided: InputTextPropertyGridComponent */
+
+/*! exports provided: Inspector */
+
+/*! exports provided: LensRenderingPipelinePropertyGridComponent */
+
+/*! exports provided: LightTreeItemComponent */
+
+/*! exports provided: LineContainerComponent */
+
+/*! exports provided: LinePropertyGridComponent */
+
+/*! exports provided: LockObject */
+
+/*! exports provided: MENU_SHOW, MENU_HIDE, dispatchGlobalEvent, showMenu, hideMenu */
+
+/*! exports provided: MaterialPropertyGridComponent */
+
+/*! exports provided: MaterialTreeItemComponent */
+
+/*! exports provided: MeshPropertyGridComponent */
+
+/*! exports provided: MeshTreeItemComponent */
+
+/*! exports provided: MessageLineComponent */
+
+/*! exports provided: MultiMaterialPropertyGridComponent */
+
+/*! exports provided: NodeMaterialPropertyGridComponent */
+
+/*! exports provided: NumericInputComponent */
+
+/*! exports provided: OptionsLineComponent */
+
+/*! exports provided: PBRMaterialPropertyGridComponent */
+
+/*! exports provided: PBRMetallicRoughnessMaterialPropertyGridComponent */
+
+/*! exports provided: PBRSpecularGlossinessMaterialPropertyGridComponent */
+
+/*! exports provided: PaneComponent */
+
+/*! exports provided: PointLightPropertyGridComponent */
+
+/*! exports provided: PostProcessItemComponent */
+
+/*! exports provided: PostProcessPropertyGridComponent */
+
+/*! exports provided: PropertyChangedEvent */
+
+/*! exports provided: PropertyGridTabComponent */
+
+/*! exports provided: QuaternionLineComponent */
+
+/*! exports provided: RadioButtonLineComponent */
+
+/*! exports provided: RadioButtonPropertyGridComponent */
+
+/*! exports provided: RectanglePropertyGridComponent */
+
+/*! exports provided: RenderGridPropertyGridComponent */
+
+/*! exports provided: RenderingPipelineItemComponent */
+
+/*! exports provided: RenderingPipelinePropertyGridComponent */
+
+/*! exports provided: ReplayRecorder */
+
+/*! exports provided: SSAO2RenderingPipelinePropertyGridComponent */
+
+/*! exports provided: SSAORenderingPipelinePropertyGridComponent */
+
+/*! exports provided: SceneExplorerFilterComponent, SceneExplorerComponent */
+
+/*! exports provided: ScenePropertyGridComponent */
+
+/*! exports provided: SceneTreeItemComponent */
+
+/*! exports provided: ScrollViewerPropertyGridComponent */
+
+/*! exports provided: SettingsTabComponent */
+
+/*! exports provided: SkeletonPropertyGridComponent */
+
+/*! exports provided: SkeletonTreeItemComponent */
+
+/*! exports provided: SliderLineComponent */
+
+/*! exports provided: SliderPropertyGridComponent */
+
+/*! exports provided: SpotLightPropertyGridComponent */
+
+/*! exports provided: StackPanelPropertyGridComponent */
+
+/*! exports provided: StandardMaterialPropertyGridComponent */
+
+/*! exports provided: StatisticsTabComponent */
+
+/*! exports provided: TabsComponent */
+
+/*! exports provided: TextBlockPropertyGridComponent */
+
+/*! exports provided: TextInputLineComponent */
+
+/*! exports provided: TextLineComponent */
+
+/*! exports provided: TextureLineComponent */
+
+/*! exports provided: TextureLinkLineComponent */
+
+/*! exports provided: TexturePropertyGridComponent */
+
+/*! exports provided: TextureTreeItemComponent */
+
+/*! exports provided: Tools */
+
+/*! exports provided: ToolsTabComponent */
+
+/*! exports provided: TransformNodeItemComponent */
+
+/*! exports provided: TransformNodePropertyGridComponent */
+
+/*! exports provided: TreeItemComponent */
+
+/*! exports provided: TreeItemLabelComponent */
+
+/*! exports provided: TreeItemSelectableComponent */
+
+/*! exports provided: TreeItemSpecializedComponent */
+
+/*! exports provided: ValueLineComponent */
+
+/*! exports provided: Vector2LineComponent */
+
+/*! exports provided: Vector3LineComponent */
+
+/*! exports provided: Vector4LineComponent */
+
+/*! exports provided: __extends, __assign, __rest, __decorate, __param, __metadata, __awaiter, __generator, __exportStar, __values, __read, __spread, __spreadArrays, __await, __asyncGenerator, __asyncDelegator, __asyncValues, __makeTemplateObject, __importStar, __importDefault */
+
+/*! exports provided: callIfExists, hasOwnProp, uniqueId, cssClasses, store, canUseDOM */
+
+/*! exports provided: default */
+
+/*! exports provided: far, prefix, faAddressBook, faAddressCard, faAngry, faArrowAltCircleDown, faArrowAltCircleLeft, faArrowAltCircleRight, faArrowAltCircleUp, faBell, faBellSlash, faBookmark, faBuilding, faCalendar, faCalendarAlt, faCalendarCheck, faCalendarMinus, faCalendarPlus, faCalendarTimes, faCaretSquareDown, faCaretSquareLeft, faCaretSquareRight, faCaretSquareUp, faChartBar, faCheckCircle, faCheckSquare, faCircle, faClipboard, faClock, faClone, faClosedCaptioning, faComment, faCommentAlt, faCommentDots, faComments, faCompass, faCopy, faCopyright, faCreditCard, faDizzy, faDotCircle, faEdit, faEnvelope, faEnvelopeOpen, faEye, faEyeSlash, faFile, faFileAlt, faFileArchive, faFileAudio, faFileCode, faFileExcel, faFileImage, faFilePdf, faFilePowerpoint, faFileVideo, faFileWord, faFlag, faFlushed, faFolder, faFolderOpen, faFontAwesomeLogoFull, faFrown, faFrownOpen, faFutbol, faGem, faGrimace, faGrin, faGrinAlt, faGrinBeam, faGrinBeamSweat, faGrinHearts, faGrinSquint, faGrinSquintTears, faGrinStars, faGrinTears, faGrinTongue, faGrinTongueSquint, faGrinTongueWink, faGrinWink, faHandLizard, faHandPaper, faHandPeace, faHandPointDown, faHandPointLeft, faHandPointRight, faHandPointUp, faHandPointer, faHandRock, faHandScissors, faHandSpock, faHandshake, faHdd, faHeart, faHospital, faHourglass, faIdBadge, faIdCard, faImage, faImages, faKeyboard, faKiss, faKissBeam, faKissWinkHeart, faLaugh, faLaughBeam, faLaughSquint, faLaughWink, faLemon, faLifeRing, faLightbulb, faListAlt, faMap, faMeh, faMehBlank, faMehRollingEyes, faMinusSquare, faMoneyBillAlt, faMoon, faNewspaper, faObjectGroup, faObjectUngroup, faPaperPlane, faPauseCircle, faPlayCircle, faPlusSquare, faQuestionCircle, faRegistered, faSadCry, faSadTear, faSave, faShareSquare, faSmile, faSmileBeam, faSmileWink, faSnowflake, faSquare, faStar, faStarHalf, faStickyNote, faStopCircle, faSun, faSurprise, faThumbsDown, faThumbsUp, faTimesCircle, faTired, faTrashAlt, faUser, faUserCircle, faWindowClose, faWindowMaximize, faWindowMinimize, faWindowRestore */
+
+/*! exports provided: fas, prefix, faAd, faAddressBook, faAddressCard, faAdjust, faAirFreshener, faAlignCenter, faAlignJustify, faAlignLeft, faAlignRight, faAllergies, faAmbulance, faAmericanSignLanguageInterpreting, faAnchor, faAngleDoubleDown, faAngleDoubleLeft, faAngleDoubleRight, faAngleDoubleUp, faAngleDown, faAngleLeft, faAngleRight, faAngleUp, faAngry, faAnkh, faAppleAlt, faArchive, faArchway, faArrowAltCircleDown, faArrowAltCircleLeft, faArrowAltCircleRight, faArrowAltCircleUp, faArrowCircleDown, faArrowCircleLeft, faArrowCircleRight, faArrowCircleUp, faArrowDown, faArrowLeft, faArrowRight, faArrowUp, faArrowsAlt, faArrowsAltH, faArrowsAltV, faAssistiveListeningSystems, faAsterisk, faAt, faAtlas, faAtom, faAudioDescription, faAward, faBackspace, faBackward, faBalanceScale, faBan, faBandAid, faBarcode, faBars, faBaseballBall, faBasketballBall, faBath, faBatteryEmpty, faBatteryFull, faBatteryHalf, faBatteryQuarter, faBatteryThreeQuarters, faBed, faBeer, faBell, faBellSlash, faBezierCurve, faBible, faBicycle, faBinoculars, faBirthdayCake, faBlender, faBlenderPhone, faBlind, faBold, faBolt, faBomb, faBone, faBong, faBook, faBookDead, faBookOpen, faBookReader, faBookmark, faBowlingBall, faBox, faBoxOpen, faBoxes, faBraille, faBrain, faBriefcase, faBriefcaseMedical, faBroadcastTower, faBroom, faBrush, faBug, faBuilding, faBullhorn, faBullseye, faBurn, faBus, faBusAlt, faBusinessTime, faCalculator, faCalendar, faCalendarAlt, faCalendarCheck, faCalendarMinus, faCalendarPlus, faCalendarTimes, faCamera, faCameraRetro, faCampground, faCannabis, faCapsules, faCar, faCarAlt, faCarBattery, faCarCrash, faCarSide, faCaretDown, faCaretLeft, faCaretRight, faCaretSquareDown, faCaretSquareLeft, faCaretSquareRight, faCaretSquareUp, faCaretUp, faCartArrowDown, faCartPlus, faCat, faCertificate, faChair, faChalkboard, faChalkboardTeacher, faChargingStation, faChartArea, faChartBar, faChartLine, faChartPie, faCheck, faCheckCircle, faCheckDouble, faCheckSquare, faChess, faChessBishop, faChessBoard, faChessKing, faChessKnight, faChessPawn, faChessQueen, faChessRook, faChevronCircleDown, faChevronCircleLeft, faChevronCircleRight, faChevronCircleUp, faChevronDown, faChevronLeft, faChevronRight, faChevronUp, faChild, faChurch, faCircle, faCircleNotch, faCity, faClipboard, faClipboardCheck, faClipboardList, faClock, faClone, faClosedCaptioning, faCloud, faCloudDownloadAlt, faCloudMoon, faCloudSun, faCloudUploadAlt, faCocktail, faCode, faCodeBranch, faCoffee, faCog, faCogs, faCoins, faColumns, faComment, faCommentAlt, faCommentDollar, faCommentDots, faCommentSlash, faComments, faCommentsDollar, faCompactDisc, faCompass, faCompress, faConciergeBell, faCookie, faCookieBite, faCopy, faCopyright, faCouch, faCreditCard, faCrop, faCropAlt, faCross, faCrosshairs, faCrow, faCrown, faCube, faCubes, faCut, faDatabase, faDeaf, faDesktop, faDharmachakra, faDiagnoses, faDice, faDiceD20, faDiceD6, faDiceFive, faDiceFour, faDiceOne, faDiceSix, faDiceThree, faDiceTwo, faDigitalTachograph, faDirections, faDivide, faDizzy, faDna, faDog, faDollarSign, faDolly, faDollyFlatbed, faDonate, faDoorClosed, faDoorOpen, faDotCircle, faDove, faDownload, faDraftingCompass, faDragon, faDrawPolygon, faDrum, faDrumSteelpan, faDrumstickBite, faDumbbell, faDungeon, faEdit, faEject, faEllipsisH, faEllipsisV, faEnvelope, faEnvelopeOpen, faEnvelopeOpenText, faEnvelopeSquare, faEquals, faEraser, faEuroSign, faExchangeAlt, faExclamation, faExclamationCircle, faExclamationTriangle, faExpand, faExpandArrowsAlt, faExternalLinkAlt, faExternalLinkSquareAlt, faEye, faEyeDropper, faEyeSlash, faFastBackward, faFastForward, faFax, faFeather, faFeatherAlt, faFemale, faFighterJet, faFile, faFileAlt, faFileArchive, faFileAudio, faFileCode, faFileContract, faFileCsv, faFileDownload, faFileExcel, faFileExport, faFileImage, faFileImport, faFileInvoice, faFileInvoiceDollar, faFileMedical, faFileMedicalAlt, faFilePdf, faFilePowerpoint, faFilePrescription, faFileSignature, faFileUpload, faFileVideo, faFileWord, faFill, faFillDrip, faFilm, faFilter, faFingerprint, faFire, faFireExtinguisher, faFirstAid, faFish, faFistRaised, faFlag, faFlagCheckered, faFlask, faFlushed, faFolder, faFolderMinus, faFolderOpen, faFolderPlus, faFont, faFontAwesomeLogoFull, faFootballBall, faForward, faFrog, faFrown, faFrownOpen, faFunnelDollar, faFutbol, faGamepad, faGasPump, faGavel, faGem, faGenderless, faGhost, faGift, faGlassMartini, faGlassMartiniAlt, faGlasses, faGlobe, faGlobeAfrica, faGlobeAmericas, faGlobeAsia, faGolfBall, faGopuram, faGraduationCap, faGreaterThan, faGreaterThanEqual, faGrimace, faGrin, faGrinAlt, faGrinBeam, faGrinBeamSweat, faGrinHearts, faGrinSquint, faGrinSquintTears, faGrinStars, faGrinTears, faGrinTongue, faGrinTongueSquint, faGrinTongueWink, faGrinWink, faGripHorizontal, faGripVertical, faHSquare, faHammer, faHamsa, faHandHolding, faHandHoldingHeart, faHandHoldingUsd, faHandLizard, faHandPaper, faHandPeace, faHandPointDown, faHandPointLeft, faHandPointRight, faHandPointUp, faHandPointer, faHandRock, faHandScissors, faHandSpock, faHands, faHandsHelping, faHandshake, faHanukiah, faHashtag, faHatWizard, faHaykal, faHdd, faHeading, faHeadphones, faHeadphonesAlt, faHeadset, faHeart, faHeartbeat, faHelicopter, faHighlighter, faHiking, faHippo, faHistory, faHockeyPuck, faHome, faHorse, faHospital, faHospitalAlt, faHospitalSymbol, faHotTub, faHotel, faHourglass, faHourglassEnd, faHourglassHalf, faHourglassStart, faHouseDamage, faHryvnia, faICursor, faIdBadge, faIdCard, faIdCardAlt, faImage, faImages, faInbox, faIndent, faIndustry, faInfinity, faInfo, faInfoCircle, faItalic, faJedi, faJoint, faJournalWhills, faKaaba, faKey, faKeyboard, faKhanda, faKiss, faKissBeam, faKissWinkHeart, faKiwiBird, faLandmark, faLanguage, faLaptop, faLaptopCode, faLaugh, faLaughBeam, faLaughSquint, faLaughWink, faLayerGroup, faLeaf, faLemon, faLessThan, faLessThanEqual, faLevelDownAlt, faLevelUpAlt, faLifeRing, faLightbulb, faLink, faLiraSign, faList, faListAlt, faListOl, faListUl, faLocationArrow, faLock, faLockOpen, faLongArrowAltDown, faLongArrowAltLeft, faLongArrowAltRight, faLongArrowAltUp, faLowVision, faLuggageCart, faMagic, faMagnet, faMailBulk, faMale, faMap, faMapMarked, faMapMarkedAlt, faMapMarker, faMapMarkerAlt, faMapPin, faMapSigns, faMarker, faMars, faMarsDouble, faMarsStroke, faMarsStrokeH, faMarsStrokeV, faMask, faMedal, faMedkit, faMeh, faMehBlank, faMehRollingEyes, faMemory, faMenorah, faMercury, faMicrochip, faMicrophone, faMicrophoneAlt, faMicrophoneAltSlash, faMicrophoneSlash, faMicroscope, faMinus, faMinusCircle, faMinusSquare, faMobile, faMobileAlt, faMoneyBill, faMoneyBillAlt, faMoneyBillWave, faMoneyBillWaveAlt, faMoneyCheck, faMoneyCheckAlt, faMonument, faMoon, faMortarPestle, faMosque, faMotorcycle, faMountain, faMousePointer, faMusic, faNetworkWired, faNeuter, faNewspaper, faNotEqual, faNotesMedical, faObjectGroup, faObjectUngroup, faOilCan, faOm, faOtter, faOutdent, faPaintBrush, faPaintRoller, faPalette, faPallet, faPaperPlane, faPaperclip, faParachuteBox, faParagraph, faParking, faPassport, faPastafarianism, faPaste, faPause, faPauseCircle, faPaw, faPeace, faPen, faPenAlt, faPenFancy, faPenNib, faPenSquare, faPencilAlt, faPencilRuler, faPeopleCarry, faPercent, faPercentage, faPhone, faPhoneSlash, faPhoneSquare, faPhoneVolume, faPiggyBank, faPills, faPlaceOfWorship, faPlane, faPlaneArrival, faPlaneDeparture, faPlay, faPlayCircle, faPlug, faPlus, faPlusCircle, faPlusSquare, faPodcast, faPoll, faPollH, faPoo, faPoop, faPortrait, faPoundSign, faPowerOff, faPray, faPrayingHands, faPrescription, faPrescriptionBottle, faPrescriptionBottleAlt, faPrint, faProcedures, faProjectDiagram, faPuzzlePiece, faQrcode, faQuestion, faQuestionCircle, faQuidditch, faQuoteLeft, faQuoteRight, faQuran, faRandom, faReceipt, faRecycle, faRedo, faRedoAlt, faRegistered, faReply, faReplyAll, faRetweet, faRibbon, faRing, faRoad, faRobot, faRocket, faRoute, faRss, faRssSquare, faRubleSign, faRuler, faRulerCombined, faRulerHorizontal, faRulerVertical, faRunning, faRupeeSign, faSadCry, faSadTear, faSave, faSchool, faScrewdriver, faScroll, faSearch, faSearchDollar, faSearchLocation, faSearchMinus, faSearchPlus, faSeedling, faServer, faShapes, faShare, faShareAlt, faShareAltSquare, faShareSquare, faShekelSign, faShieldAlt, faShip, faShippingFast, faShoePrints, faShoppingBag, faShoppingBasket, faShoppingCart, faShower, faShuttleVan, faSign, faSignInAlt, faSignLanguage, faSignOutAlt, faSignal, faSignature, faSitemap, faSkull, faSkullCrossbones, faSlash, faSlidersH, faSmile, faSmileBeam, faSmileWink, faSmoking, faSmokingBan, faSnowflake, faSocks, faSolarPanel, faSort, faSortAlphaDown, faSortAlphaUp, faSortAmountDown, faSortAmountUp, faSortDown, faSortNumericDown, faSortNumericUp, faSortUp, faSpa, faSpaceShuttle, faSpider, faSpinner, faSplotch, faSprayCan, faSquare, faSquareFull, faSquareRootAlt, faStamp, faStar, faStarAndCrescent, faStarHalf, faStarHalfAlt, faStarOfDavid, faStarOfLife, faStepBackward, faStepForward, faStethoscope, faStickyNote, faStop, faStopCircle, faStopwatch, faStore, faStoreAlt, faStream, faStreetView, faStrikethrough, faStroopwafel, faSubscript, faSubway, faSuitcase, faSuitcaseRolling, faSun, faSuperscript, faSurprise, faSwatchbook, faSwimmer, faSwimmingPool, faSynagogue, faSync, faSyncAlt, faSyringe, faTable, faTableTennis, faTablet, faTabletAlt, faTablets, faTachometerAlt, faTag, faTags, faTape, faTasks, faTaxi, faTeeth, faTeethOpen, faTerminal, faTextHeight, faTextWidth, faTh, faThLarge, faThList, faTheaterMasks, faThermometer, faThermometerEmpty, faThermometerFull, faThermometerHalf, faThermometerQuarter, faThermometerThreeQuarters, faThumbsDown, faThumbsUp, faThumbtack, faTicketAlt, faTimes, faTimesCircle, faTint, faTintSlash, faTired, faToggleOff, faToggleOn, faToiletPaper, faToolbox, faTooth, faTorah, faToriiGate, faTractor, faTrademark, faTrafficLight, faTrain, faTransgender, faTransgenderAlt, faTrash, faTrashAlt, faTree, faTrophy, faTruck, faTruckLoading, faTruckMonster, faTruckMoving, faTruckPickup, faTshirt, faTty, faTv, faUmbrella, faUmbrellaBeach, faUnderline, faUndo, faUndoAlt, faUniversalAccess, faUniversity, faUnlink, faUnlock, faUnlockAlt, faUpload, faUser, faUserAlt, faUserAltSlash, faUserAstronaut, faUserCheck, faUserCircle, faUserClock, faUserCog, faUserEdit, faUserFriends, faUserGraduate, faUserInjured, faUserLock, faUserMd, faUserMinus, faUserNinja, faUserPlus, faUserSecret, faUserShield, faUserSlash, faUserTag, faUserTie, faUserTimes, faUsers, faUsersCog, faUtensilSpoon, faUtensils, faVectorSquare, faVenus, faVenusDouble, faVenusMars, faVial, faVials, faVideo, faVideoSlash, faVihara, faVolleyballBall, faVolumeDown, faVolumeMute, faVolumeOff, faVolumeUp, faVrCardboard, faWalking, faWallet, faWarehouse, faWeight, faWeightHanging, faWheelchair, faWifi, faWind, faWindowClose, faWindowMaximize, faWindowMinimize, faWindowRestore, faWineBottle, faWineGlass, faWineGlassAlt, faWonSign, faWrench, faXRay, faYenSign, faYinYang */
+
+/*! exports provided: icon, noAuto, config, toHtml, layer, text, counter, library, dom, parse, findIconDefinition */
+
+/*! no static exports found */
+
+/*! object-assign */
+
+/*! prop-types */
+
+/*! prop-types/checkPropTypes */
+
+/*! re-resizable */
+
+/*! react */
+
+/*! react-contextmenu */
+
+/*! react-dom */
+
+/*! react-is */
+
+/*! scheduler */
+
+/*! scheduler/tracing */
+
+/*! setimmediate */
+
+/*! split.js */
+
+/*! tslib */
+
+/*!******************!*\
+  !*** ./index.ts ***!
+  \******************/
+
+/*!******************!*\
+  !*** ./tools.ts ***!
+  \******************/
+
+/*!**********************!*\
+  !*** ./inspector.ts ***!
+  \**********************/
+
+/*!**************************!*\
+  !*** ./legacy/legacy.ts ***!
+  \**************************/
+
+/*!***********************************!*\
+  !*** (webpack)/buildin/global.js ***!
+  \***********************************/
+
+/*!***********************************!*\
+  !*** ./components/globalState.ts ***!
+  \***********************************/
+
+/*!**************************************!*\
+  !*** ./components/replayRecorder.ts ***!
+  \**************************************/
+
+/*!****************************************!*\
+  !*** ./components/headerComponent.tsx ***!
+  \****************************************/
+
+/*!********************************************!*\
+  !*** ./components/propertyChangedEvent.ts ***!
+  \********************************************/
+
+/*!*********************************************!*\
+  !*** ./components/embedHost/embedHost.scss ***!
+  \*********************************************/
+
+/*!**********************************************!*\
+  !*** ./components/actionTabs/lines/copy.svg ***!
+  \**********************************************/
+
+/*!***********************************************!*\
+  !*** ./components/actionTabs/actionTabs.scss ***!
+  \***********************************************/
+
+/*!*************************************************!*\
+  !*** ./components/actionTabs/paneComponent.tsx ***!
+  \*************************************************/
+
+/*!*************************************************!*\
+  !*** ./components/actionTabs/tabsComponent.tsx ***!
+  \*************************************************/
+
+/*!*****************************************************!*\
+  !*** ./components/embedHost/embedHostComponent.tsx ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./components/sceneExplorer/sceneExplorer.scss ***!
+  \*****************************************************/
+
+/*!*******************************************************!*\
+  !*** ./components/actionTabs/actionTabsComponent.tsx ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react/index.js ***!
+  \*******************************************************/
+
+/*!********************************************************!*\
+  !*** ./components/sceneExplorer/treeItemComponent.tsx ***!
+  \********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./components/actionTabs/lineContainerComponent.tsx ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./components/actionTabs/tabs/debugTabComponent.tsx ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./components/actionTabs/tabs/toolsTabComponent.tsx ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** ./components/sceneExplorer/extensionsComponent.tsx ***!
+  \**********************************************************/
+
+/*!**********************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-is/index.js ***!
+  \**********************************************************/
+
+/*!***********************************************************!*\
+  !*** ./components/actionTabs/lines/textLineComponent.tsx ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/process/browser.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-dom/index.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/scheduler/index.js ***!
+  \***********************************************************/
+
+/*!***********************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/tslib/tslib.es6.js ***!
+  \***********************************************************/
+
+/*!************************************************************!*\
+  !*** ./components/actionTabs/lines/floatLineComponent.tsx ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./components/actionTabs/lines/radioLineComponent.tsx ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./components/actionTabs/lines/valueLineComponent.tsx ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** ./components/actionTabs/tabs/tools/gltfComponent.tsx ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/classnames/index.js ***!
+  \************************************************************/
+
+/*!************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/prop-types/index.js ***!
+  \************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/actionTabs/lines/buttonLineComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/actionTabs/lines/color3LineComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/actionTabs/lines/color4LineComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/actionTabs/lines/sliderLineComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/actionTabs/tabs/settingsTabComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/sceneExplorer/sceneExplorerComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./components/sceneExplorer/treeItemLabelComponent.tsx ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/scheduler/tracing.js ***!
+  \*************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/booleanLineComponent.tsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/messageLineComponent.tsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/optionsLineComponent.tsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/textureLineComponent.tsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/vector2LineComponent.tsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/vector3LineComponent.tsx ***!
+  \**************************************************************/
+
+/*!**************************************************************!*\
+  !*** ./components/actionTabs/lines/vector4LineComponent.tsx ***!
+  \**************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./components/actionTabs/lines/checkBoxLineComponent.tsx ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./components/actionTabs/lines/numericInputComponent.tsx ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./components/actionTabs/tabs/statisticsTabComponent.tsx ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/object-assign/index.js ***!
+  \***************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./components/actionTabs/lines/textInputLineComponent.tsx ***!
+  \****************************************************************/
+
+/*!****************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lockObject.ts ***!
+  \****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./components/actionTabs/lines/fileButtonLineComponent.tsx ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./components/actionTabs/lines/quaternionLineComponent.tsx ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGridTabComponent.tsx ***!
+  \*****************************************************************/
+
+/*!*****************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/style-loader/lib/urls.js ***!
+  \*****************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./components/actionTabs/lines/textureLinkLineComponent.tsx ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./components/sceneExplorer/treeItemSelectableComponent.tsx ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/split.js/dist/split.es.js ***!
+  \******************************************************************/
+
+/*!******************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/timers-browserify/main.js ***!
+  \******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./components/sceneExplorer/treeItemSpecializedComponent.tsx ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/css-loader/lib/css-base.js ***!
+  \*******************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./components/sceneExplorer/entities/boneTreeItemComponent.tsx ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./components/sceneExplorer/entities/meshTreeItemComponent.tsx ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/prop-types/checkPropTypes.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/setimmediate/setImmediate.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./components/sceneExplorer/entities/lightTreeItemComponent.tsx ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./components/sceneExplorer/entities/sceneTreeItemComponent.tsx ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/style-loader/lib/addStyles.js ***!
+  \**********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./components/sceneExplorer/entities/cameraTreeItemComponent.tsx ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/index.js ***!
+  \***********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react/cjs/react.development.js ***!
+  \***********************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/textureTreeItemComponent.tsx ***!
+  \************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./components/actionTabs/lines/fileMultipleButtonLineComponent.tsx ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/materialTreeItemComponent.tsx ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/skeletonTreeItemComponent.tsx ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/SubMenu.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/actions.js ***!
+  \*************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/helpers.js ***!
+  \*************************************************************************/
+
+/*!**************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/MenuItem.js ***!
+  \**************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/gui/controlTreeItemComponent.tsx ***!
+  \****************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/postProcessTreeItemComponent.tsx ***!
+  \****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/ContextMenu.js ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/connectMenu.js ***!
+  \*****************************************************************************/
+
+/*!*****************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-is/cjs/react-is.development.js ***!
+  \*****************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/transformNodeTreeItemComponent.tsx ***!
+  \******************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/prop-types/factoryWithTypeCheckers.js ***!
+  \******************************************************************************/
+
+/*!******************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/AbstractMenu.js ***!
+  \******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/fogPropertyGridComponent.tsx ***!
+  \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/animationGroupTreeItemComponent.tsx ***!
+  \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+  \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-dom/cjs/react-dom.development.js ***!
+  \*******************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/scheduler/cjs/scheduler.development.js ***!
+  \*******************************************************************************/
+
+/*!*********************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/scenePropertyGridComponent.tsx ***!
+  \*********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/customPropertyGridComponent.tsx ***!
+  \**********************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/renderingPipelineTreeItemComponent.tsx ***!
+  \**********************************************************************************/
+
+/*!***********************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/@fortawesome/react-fontawesome/index.es.js ***!
+  \***********************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/gridPropertyGridComponent.tsx ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/linePropertyGridComponent.tsx ***!
+  \************************************************************************************/
+
+/*!************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/ContextMenuTrigger.js ***!
+  \************************************************************************************/
+
+/*!*************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/animationPropertyGridComponent.tsx ***!
+  \*************************************************************************************/
+
+/*!*************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/imagePropertyGridComponent.tsx ***!
+  \*************************************************************************************/
+
+/*!*************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/react-contextmenu/es6/globalEventListener.js ***!
+  \*************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/sliderPropertyGridComponent.tsx ***!
+  \**************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/renderGridPropertyGridComponent.tsx ***!
+  \**************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/.temp/sourceES6/node_modules/re-resizable/lib/index.es5.js ***!
+  \**************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/@fortawesome/fontawesome-svg-core/index.es.js ***!
+  \**************************************************************************************/
+
+/*!**************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/@fortawesome/free-solid-svg-icons/index.es.js ***!
+  \**************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/controlPropertyGridComponent.tsx ***!
+  \***************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/ellipsePropertyGridComponent.tsx ***!
+  \***************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/meshes/bonePropertyGridComponent.tsx ***!
+  \***************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/meshes/meshPropertyGridComponent.tsx ***!
+  \***************************************************************************************/
+
+/*!***************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/scheduler/cjs/scheduler-tracing.development.js ***!
+  \***************************************************************************************/
+
+/*!****************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/checkboxPropertyGridComponent.tsx ***!
+  \****************************************************************************************/
+
+/*!****************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/@fortawesome/free-regular-svg-icons/index.es.js ***!
+  \****************************************************************************************/
+
+/*!*****************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/inputTextPropertyGridComponent.tsx ***!
+  \*****************************************************************************************/
+
+/*!*****************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/rectanglePropertyGridComponent.tsx ***!
+  \*****************************************************************************************/
+
+/*!*****************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/textBlockPropertyGridComponent.tsx ***!
+  \*****************************************************************************************/
+
+/*!******************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/animationGroupPropertyGridComponent.tsx ***!
+  \******************************************************************************************/
+
+/*!******************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/stackPanelPropertyGridComponent.tsx ***!
+  \******************************************************************************************/
+
+/*!*******************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/colorPickerPropertyGridComponent.tsx ***!
+  \*******************************************************************************************/
+
+/*!*******************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/radioButtonPropertyGridComponent.tsx ***!
+  \*******************************************************************************************/
+
+/*!*******************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/meshes/skeletonPropertyGridComponent.tsx ***!
+  \*******************************************************************************************/
+
+/*!*******************************************************************************************!*\
+  !*** ./components/sceneExplorer/entities/gui/advancedDynamicTextureTreeItemComponent.tsx ***!
+  \*******************************************************************************************/
+
+/*!********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/scrollViewerPropertyGridComponent.tsx ***!
+  \********************************************************************************************/
+
+/*!********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lights/spotLightPropertyGridComponent.tsx ***!
+  \********************************************************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/commonControlPropertyGridComponent.tsx ***!
+  \*********************************************************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lights/pointLightPropertyGridComponent.tsx ***!
+  \*********************************************************************************************/
+
+/*!*********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/texturePropertyGridComponent.tsx ***!
+  \*********************************************************************************************/
+
+/*!**********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/cameras/freeCameraPropertyGridComponent.tsx ***!
+  \**********************************************************************************************/
+
+/*!**********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lights/commonLightPropertyGridComponent.tsx ***!
+  \**********************************************************************************************/
+
+/*!**********************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/materialPropertyGridComponent.tsx ***!
+  \**********************************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/cameras/commonCameraPropertyGridComponent.tsx ***!
+  \************************************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/gui/imageBasedSliderPropertyGridComponent.tsx ***!
+  \************************************************************************************************/
+
+/*!************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/meshes/transformNodePropertyGridComponent.tsx ***!
+  \************************************************************************************************/
+
+/*!*************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/pbrMaterialPropertyGridComponent.tsx ***!
+  \*************************************************************************************************/
+
+/*!**************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/nodeMaterialPropertyGridComponent.tsx ***!
+  \**************************************************************************************************/
+
+/*!***************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/cameras/arcRotateCameraPropertyGridComponent.tsx ***!
+  \***************************************************************************************************/
+
+/*!***************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lights/directionalLightPropertyGridComponent.tsx ***!
+  \***************************************************************************************************/
+
+/*!***************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lights/hemisphericLightPropertyGridComponent.tsx ***!
+  \***************************************************************************************************/
+
+/*!***************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/multiMaterialPropertyGridComponent.tsx ***!
+  \***************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/lights/commonShadowLightPropertyGridComponent.tsx ***!
+  \****************************************************************************************************/
+
+/*!****************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/commonMaterialPropertyGridComponent.tsx ***!
+  \****************************************************************************************************/
+
+/*!*****************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/postProcessPropertyGridComponent.tsx ***!
+  \*****************************************************************************************************/
+
+/*!******************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/standardMaterialPropertyGridComponent.tsx ***!
+  \******************************************************************************************************/
+
+/*!********************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/backgroundMaterialPropertyGridComponent.tsx ***!
+  \********************************************************************************************************/
+
+/*!***********************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/commonPostProcessPropertyGridComponent.tsx ***!
+  \***********************************************************************************************************/
+
+/*!***********************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/renderingPipelinePropertyGridComponent.tsx ***!
+  \***********************************************************************************************************/
+
+/*!***************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/lensRenderingPipelinePropertyGridComponent.tsx ***!
+  \***************************************************************************************************************/
+
+/*!***************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/ssaoRenderingPipelinePropertyGridComponent.tsx ***!
+  \***************************************************************************************************************/
+
+/*!****************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/ssao2RenderingPipelinePropertyGridComponent.tsx ***!
+  \****************************************************************************************************************/
+
+/*!*****************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/commonRenderingPipelinePropertyGridComponent.tsx ***!
+  \*****************************************************************************************************************/
+
+/*!******************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/pbrMetallicRoughnessMaterialPropertyGridComponent.tsx ***!
+  \******************************************************************************************************************/
+
+/*!******************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/postProcesses/defaultRenderingPipelinePropertyGridComponent.tsx ***!
+  \******************************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./components/actionTabs/tabs/propertyGrids/materials/pbrSpecularGlossinessMaterialPropertyGridComponent.tsx ***!
+  \*******************************************************************************************************************/
+
+/*!**********************************************************************************************************************!*\
+  !*** external {"root":"BABYLON","commonjs":"@babylonjs/core","commonjs2":"@babylonjs/core","amd":"@babylonjs/core"} ***!
+  \**********************************************************************************************************************/
+
+/*!***************************************************************************************************************************!*\
+  !*** external {"root":["BABYLON","GUI"],"commonjs":"@babylonjs/gui","commonjs2":"@babylonjs/gui","amd":"@babylonjs/gui"} ***!
+  \***************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************!*\
+  !*** external {"root":"BABYLON","commonjs":"@babylonjs/loaders","commonjs2":"@babylonjs/loaders","amd":"@babylonjs/loaders"} ***!
+  \*******************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************!*\
+  !*** external {"root":"BABYLON","commonjs":"@babylonjs/serializers","commonjs2":"@babylonjs/serializers","amd":"@babylonjs/serializers"} ***!
+  \*******************************************************************************************************************************************/
+
+/*!***************************************************************************************************************************************************!*\
+  !*** external {"root":["BABYLON","MATERIALS"],"commonjs":"@babylonjs/materials","commonjs2":"@babylonjs/materials","amd":"@babylonjs/materials"} ***!
+  \***************************************************************************************************************************************************/
+
+/*!****************************************************************************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/css-loader!C:/Repos/Babylon.js/node_modules/sass-loader/lib/loader.js!./components/embedHost/embedHost.scss ***!
+  \****************************************************************************************************************************************************/
+
+/*!******************************************************************************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/css-loader!C:/Repos/Babylon.js/node_modules/sass-loader/lib/loader.js!./components/actionTabs/actionTabs.scss ***!
+  \******************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************!*\
+  !*** C:/Repos/Babylon.js/node_modules/css-loader!C:/Repos/Babylon.js/node_modules/sass-loader/lib/loader.js!./components/sceneExplorer/sceneExplorer.scss ***!
+  \************************************************************************************************************************************************************/
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ *
+ * NOTE: This will not work correctly for non-generic events such as `change`,
+ * `reset`, `load`, `error`, and `select`.
+ *
+ * Borrows from Modernizr.
+ *
+ * @param {string} eventNameSuffix Event name, e.g. "click".
+ * @return {boolean} True if the event is supported.
+ * @internal
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */
+
+/** @license React v0.15.0
+ * scheduler-tracing.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v0.15.0
+ * scheduler.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.8.6
+ * react-is.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.9.0
+ * react-dom.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v16.9.0
+ * react.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */

@@ -36,8 +36,13 @@ input.onchange = function(e) {
             reader.readAsText(file, 'UTF-8');
             reader.onload = readerEvent => {
                 var content = readerEvent.target.result;
+                try {
+                    JSON.parse(content);
+                    } catch (e) {
+                        $('#importFailedModal').modal('show');
+                    }
                 var data = JSON.parse(content);
-                Object.keys(data).forEach(function(k) {
+                    Object.keys(data).forEach(function(k) {
                     localStorage.setItem(k, data[k]);
                 });
                 $('#importModal').modal('show');

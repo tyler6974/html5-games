@@ -665,6 +665,13 @@
                "compressed":false,
                "encrypted":false,
                "version":1
+            },
+			{
+               "key":"DailyChallenges202110",
+               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202110/1/202110.json",
+               "compressed":false,
+               "encrypted":false,
+               "version":1
             }
         ]
 	  },

@@ -1,0 +1,504 @@
+{
+	"mysteryClues": [{
+			"clue": "World City",
+			"word": "STOCKHOLM"
+		},
+		{
+			"clue": "U.S. City",
+			"word": "WINSTONSALEM"
+		},
+		{
+			"clue": "Loud",
+			"word": "HAIRDRYER"
+		},
+		{
+			"clue": "Very Funny",
+			"word": "DANACARVEY"
+		},
+		{
+			"clue": "Magazine",
+			"word": "ROLLINGSTONE"
+		},
+		{
+			"clue": "Calendar",
+			"word": "FATHERSDAY"
+		},
+		{
+			"clue": "Disney Movie",
+			"word": "POLLYANNA"
+		},
+		{
+			"clue": "Batter Up!",
+			"word": "DIAMONDBACKS"
+		},
+		{
+			"clue": "TV Time",
+			"word": "PEOPLEOFEARTH"
+		},
+		{
+			"clue": "Playground",
+			"word": "TAGYOUREIT"
+		},
+		{
+			"clue": "Board Game",
+			"word": "OPERATION"
+		},
+		{
+			"clue": "On the Road",
+			"word": "DUMPTRUCK"
+		},
+		{
+			"clue": "Fruit",
+			"word": "BLACKBERRY"
+		},
+		{
+			"clue": "Vegetable",
+			"word": "STRINGBEAN"
+		},
+		{
+			"clue": "Clothing",
+			"word": "CAPRIPANTS"
+		},
+		{
+			"clue": "On the Table",
+			"word": "BUTTERKNIFE"
+		},
+		{
+			"clue": "At a Wedding",
+			"word": "FIRSTDANCE"
+		},
+		{
+			"clue": "1980s Music",
+			"word": "LIONELRICHIE"
+		},
+		{
+			"clue": "Musical Instrument",
+			"word": "XYLOPHONE"
+		},
+		{
+			"clue": "Tennis, Anyone?",
+			"word": "CENTRECOURT"
+		},
+		{
+			"clue": "Basketball",
+			"word": "DRIBBLING"
+		},
+		{
+			"clue": "Football",
+			"word": "FLEAFLICKER"
+		},
+		{
+			"clue": "Hockey",
+			"word": "GOALIEMASK"
+		},
+		{
+			"clue": "Children's Book",
+			"word": "GOODNIGHTMOON"
+		},
+		{
+			"clue": "Soccer",
+			"word": "BICYCLEKICK"
+		},
+		{
+			"clue": "Best Actress",
+			"word": "JOANCRAWFORD"
+		},
+		{
+			"clue": "Best Actor",
+			"word": "GARYOLDMAN"
+		},
+		{
+			"clue": "Best Picture",
+			"word": "THELASTEMPEROR"
+		},
+		{
+			"clue": "Music Genre",
+			"word": "BLUEGRASS"
+		},
+		{
+			"clue": "California",
+			"word": "ALCATRAZ"
+		},
+		{
+			"clue": "Furniture",
+			"word": "STANDINGDESK"
+		},
+		{
+			"clue": "Soft Drink",
+			"word": "VANILLACOKE"
+		},
+		{
+			"clue": "Seafood",
+			"word": "SHRIMPANDGRITS"
+		},
+		{
+			"clue": "French Phrase",
+			"word": "CESTLAVIE"
+		},
+		{
+			"clue": "Street Sounds",
+			"word": "BARKINGDOG"
+		},
+		{
+			"clue": "Toys",
+			"word": "EASYBAKEOVEN"
+		},
+		{
+			"clue": "On the Phone",
+			"word": "IMISSYOU"
+		},
+		{
+			"clue": "TV Character",
+			"word": "FOXMULDER"
+		},
+		{
+			"clue": "Currency",
+			"word": "CUBANPESO"
+		},
+		{
+			"clue": "Musical",
+			"word": "BLOODBROTHERS"
+		},
+		{
+			"clue": "Famous Canadian",
+			"word": "JUSTINBIEBER"
+		},
+		{
+			"clue": "Road Sign",
+			"word": "SCENICAREA"
+		},
+		{
+			"clue": "Weather",
+			"word": "HEATWAVE"
+		},
+		{
+			"clue": "Body Part",
+			"word": "FINGERNAILS"
+		},
+		{
+			"clue": "Fun to Say",
+			"word": "KERFUFFLE"
+		},
+		{
+			"clue": "What's in Your Wallet?",
+			"word": "BUSINESSCARD"
+		},
+		{
+			"clue": "Question",
+			"word": "WHEREWEREWE"
+		},
+		{
+			"clue": "Scary",
+			"word": "PITCHDARK"
+		},
+		{
+			"clue": "TV Star",
+			"word": "MINDYKALING"
+		},
+		{
+			"clue": "Horses",
+			"word": "DRESSAGE"
+		},
+		{
+			"clue": "Cats",
+			"word": "SLEEPING"
+		},
+		{
+			"clue": "Mythical Place",
+			"word": "VALHALLA"
+		},
+		{
+			"clue": "Rhyme Time",
+			"word": "DREAMTEAM"
+		},
+		{
+			"clue": "Golf",
+			"word": "ONTHEFAIRWAY"
+		},
+		{
+			"clue": "Newscaster",
+			"word": "ANDERSONCOOPER"
+		},
+		{
+			"clue": "1990s Song",
+			"word": "UNBELIEVABLE"
+		},
+		{
+			"clue": "Bird",
+			"word": "EMPERORPENGUIN"
+		},
+		{
+			"clue": "So Cheesy",
+			"word": "QUESADILLA"
+		},
+		{
+			"clue": "Famous Building",
+			"word": "TAJMAHAL"
+		},
+		{
+			"clue": "At the Movies",
+			"word": "SNEAKPREVIEW"
+		},
+		{
+			"clue": "Composer",
+			"word": "ANTONIOSALIERI"
+		},
+		{
+			"clue": "South America",
+			"word": "PARAGUAY"
+		},
+		{
+			"clue": "Australia",
+			"word": "CHRISHEMSWORTH"
+		},
+		{
+			"clue": "Chemical Element",
+			"word": "ALUMINUM"
+		},
+		{
+			"clue": "Mexican Food",
+			"word": "FISHTACOS"
+		},
+		{
+			"clue": "Writer",
+			"word": "MARYSHELLEY"
+		},
+		{
+			"clue": "Cartoon Character",
+			"word": "DAFFYDUCK"
+		},
+		{
+			"clue": "Greetings",
+			"word": "BUENOSDIAS"
+		},
+		{
+			"clue": "Mountains",
+			"word": "ROCKCLIMBING"
+		},
+		{
+			"clue": "Game Show",
+			"word": "IVEGOTASECRET"
+		},
+		{
+			"clue": "Video Game",
+			"word": "MORTALKOMBAT"
+		},
+		{
+			"clue": "Small",
+			"word": "TEENYTINY"
+		},
+		{
+			"clue": "Sailing",
+			"word": "RELAXATION"
+		},
+		{
+			"clue": "Profession",
+			"word": "DOGTRAINER"
+		},
+		{
+			"clue": "Olympic Games",
+			"word": "MARATHON"
+		},
+		{
+			"clue": "Rectangular",
+			"word": "FOOTBALLFIELD"
+		},
+		{
+			"clue": "In the Park",
+			"word": "PLAYINGFRISBEE"
+		},
+		{
+			"clue": "In the Car",
+			"word": "MOONROOF"
+		},
+		{
+			"clue": "Red",
+			"word": "PLANETMARS"
+		},
+		{
+			"clue": "At the Bank",
+			"word": "DEPOSITSLIP"
+		},
+		{
+			"clue": "At the Library",
+			"word": "NONFICTION"
+		},
+		{
+			"clue": "White",
+			"word": "MARSHMALLOWS"
+		},
+		{
+			"clue": "Black",
+			"word": "LICORICE"
+		},
+		{
+			"clue": "River",
+			"word": "EUPHRATES"
+		},
+		{
+			"clue": "Outer Space",
+			"word": "METEOROID"
+		},
+		{
+			"clue": "In a Restaurant",
+			"word": "LUNCHMENU"
+		},
+		{
+			"clue": "Las Vegas",
+			"word": "HIGHROLLER"
+		},
+		{
+			"clue": "Post Office",
+			"word": "MAILTRUCK"
+		},
+		{
+			"clue": "Renaissance Fair",
+			"word": "ARCHERYRANGE"
+		},
+		{
+			"clue": "Chore",
+			"word": "MOPPINGFLOORS"
+		},
+		{
+			"clue": "Pick a Number",
+			"word": "NINETHOUSAND"
+		},
+		{
+			"clue": "Chessboard",
+			"word": "DOUBLEDPAWNS"
+		},
+		{
+			"clue": "Say It Twice",
+			"word": "GOODYGOODY"
+		},
+		{
+			"clue": "At the Beach",
+			"word": "WINDSURFING"
+		},
+		{
+			"clue": "School Supplies",
+			"word": "RUBBERBANDS"
+		},
+		{
+			"clue": "At the Pool",
+			"word": "DOINGLAPS"
+		},
+		{
+			"clue": "In the Freezer",
+			"word": "POPSICLES"
+		},
+		{
+			"clue": "In the Bathroom",
+			"word": "WASHCLOTH"
+		},
+		{
+			"clue": "In the Kitchen",
+			"word": "CUTTINGBOARD"
+		},
+		{
+			"clue": "In the Bedroom",
+			"word": "NOISEMACHINE"
+		},
+		{
+			"clue": "Famous Street",
+			"word": "BROADWAY"
+		},
+		{
+			"clue": "Great Dancer",
+			"word": "BARYSHNIKOV"
+		},
+		{
+			"clue": "Superheroes",
+			"word": "WONDERTWINS"
+		},
+		{
+			"clue": "Reading Time",
+			"word": "POLITICALBLOG"
+		},
+		{
+			"clue": "Grocery Store",
+			"word": "BULKFOODS"
+		},
+		{
+			"clue": "At the Mall",
+			"word": "ANCHORSTORE"
+		},
+		{
+			"clue": "Famous Novel",
+			"word": "CANNERYROW"
+		},
+		{
+			"clue": "Poet",
+			"word": "DYLANTHOMAS"
+		},
+		{
+			"clue": "Billy Joel Song",
+			"word": "CAPTAINJACK"
+		},
+		{
+			"clue": "Magic Act",
+			"word": "VOLUNTEER"
+		},
+		{
+			"clue": "In the Cards",
+			"word": "THREEOFCLUBS"
+		},
+		{
+			"clue": "African Country",
+			"word": "IVORYCOAST"
+		},
+		{
+			"clue": "Bakery",
+			"word": "SOURDOUGH"
+		},
+		{
+			"clue": "At the Bar",
+			"word": "GUINNESS"
+		},
+		{
+			"clue": "Snack",
+			"word": "KALECHIPS"
+		},
+		{
+			"clue": "Drink",
+			"word": "SELTZERWATER"
+		},
+		{
+			"clue": "At the Salon",
+			"word": "HIGHLIGHTS"
+		},
+		{
+			"clue": "Italian Food",
+			"word": "FRUTTIDIMARE"
+		},
+		{
+			"clue": "College",
+			"word": "WAKEFOREST"
+		},
+		{
+			"clue": "Wine",
+			"word": "CABERNET"
+		},
+		{
+			"clue": "Famous Band",
+			"word": "COLDPLAY"
+		},
+		{
+			"clue": "Winter",
+			"word": "SLEDDING"
+		},
+		{
+			"clue": "Spring",
+			"word": "BABYBIRDS"
+		},
+		{
+			"clue": "Summer",
+			"word": "SCHOOLSOUT"
+		},
+		{
+			"clue": "Autumn",
+			"word": "RAKINGLEAVES"
+		}
+
+	]
+}

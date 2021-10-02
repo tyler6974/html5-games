@@ -1,0 +1,151 @@
+{
+	"year": 2017,
+	"MysteryCluesMetaData": [
+    {
+      "key": "MysteryClues201704",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201704.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 3
+    },
+    {
+      "key": "MysteryClues201705",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201705.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 3
+    },
+    {
+      "key": "MysteryClues201706",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201706.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 9
+    },
+    {
+      "key": "MysteryClues201707",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201707.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 12
+    },
+    {
+      "key": "MysteryClues201708",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201708.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 13
+    },
+    {
+      "key": "MysteryClues201709",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201709.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+	{
+      "key": "MysteryClues201710",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201710.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+	{
+      "key": "MysteryClues201711",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201711.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+	{
+      "key": "MysteryClues201712",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/201712.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    }
+	],
+	"PuzzlesMetaData": [
+    {
+      "key": "Puzzles201704",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201704.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 3
+    },
+    {
+      "key": "Puzzles201705",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201705.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 3
+    },
+    {
+      "key": "Puzzles201706",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201706.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 7
+    },
+    {
+      "key": "Puzzles201707",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201707.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 11
+    },
+    {
+      "key": "Puzzles201708",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201708.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 13
+    },
+    {
+      "key": "Puzzles201709",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201709.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+	{
+      "key": "Puzzles201710",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201710.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+	{
+      "key": "Puzzles201711",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201711.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+	{
+      "key": "Puzzles201712",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/201712.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    }
+	]
+}

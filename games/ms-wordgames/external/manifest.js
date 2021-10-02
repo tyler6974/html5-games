@@ -126,14 +126,14 @@
             },
 			{
                "key":"DailyChallengesConfig",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallengeConfig.js/5/DailyChallengeConfig.js",
+               "path":"external/DailyChallengesConfig/DailyChallengeConfig.js",
                "compressed":false,
                "encrypted":false,
                "version":5
 			},
 			{
                "key":"DailyChallengesConfigWDM",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallengesConfigWDM.js/4/DailyChallengesConfigWDM.js",
+               "path":"external/DailyChallengesConfig/DailyChallengesConfigWDM.js",
                "compressed":false,
                "encrypted":false,
                "version":4

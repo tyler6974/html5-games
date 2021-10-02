@@ -1,5 +1,5 @@
 {
-	"_comment": "Version 241, Fixed Single Player map json error",
+	"_comment": "Version 244, Added October 2021 content",
 	"parameters":
       {
         "MAX_CLOUD_SYNC_DURATION":"120",
@@ -290,378 +290,378 @@
         "content":[
 			{
                "key":"DailyChallenges201704",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201704/1/201704.json",
+               "path":"external/DailyChallenges/2017/201704.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201705",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201705/1/201705.json",
+               "path":"external/DailyChallenges/2017/201705.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
             {
                "key":"DailyChallenges201706",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201706/1/201706.json",
+               "path": "external/DailyChallenges/2017/201706.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201707",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201707/1/201707.json",
+               "path": "external/DailyChallenges/2017/201707.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201708",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201708/1/201708.json",
+               "path": "external/DailyChallenges/2017/201708.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201709",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201709/1/201709.json",
+               "path": "external/DailyChallenges/2017/201709.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201710",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201710/1/201710.json",
+               "path": "external/DailyChallenges/2017/201710.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201711",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201711/1/201711.json",
+               "path": "external/DailyChallenges/2017/201711.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201712",
-               "path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201712/1/201712.json",
+               "path": "external/DailyChallenges/2017/201712.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201801",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201801/1/201801.json",
+               "path":"external/DailyChallenges/2018/201801.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201802",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201802/1/201802.json",
+               "path":"external/DailyChallenges/2018/201802.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201803",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201803/1/201803.json",
+               "path":"external/DailyChallenges/2018/201803.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },		
 			{
                "key":"DailyChallenges201804",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201804/1/201804.json",
+               "path":"external/DailyChallenges/2018/201804.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201805",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201805/1/201805.json",
+               "path":"external/DailyChallenges/2018/201805.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201806",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201806/1/201806.json",
+               "path":"external/DailyChallenges/2018/201806.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201807",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201807/1/201807.json",
+               "path":"external/DailyChallenges/2018/201807.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201808",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201808/1/201808.json",
+               "path":"external/DailyChallenges/2018/201808.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201809",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201809/1/201809.json",
+               "path":"external/DailyChallenges/2018/201809.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201810",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201810/1/201810.json",
+               "path":"external/DailyChallenges/2018/201810.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201811",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201811/2/201811.json",
+               "path":"external/DailyChallenges/2018/201811.json",
                "compressed":false,
                "encrypted":false,
                "version":2
             },
 			{
                "key":"DailyChallenges201812",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201812/2/201812.json",
+               "path":"external/DailyChallenges/2018/201812.json",
                "compressed":false,
                "encrypted":false,
                "version":2
             },
 			{
                "key":"DailyChallenges201901",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201901/1/201901.json",
+               "path":"external/DailyChallenges/2019/201901.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201902",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201902/1/201902.json",
+               "path":"external/DailyChallenges/2019/201902.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201903",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201903/1/201903.json",
+               "path":"external/DailyChallenges/2019/201903.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201904",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201904/1/201904.json",
+               "path":"external/DailyChallenges/2019/201904.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201905",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201905/1/201905.json",
+               "path":"external/DailyChallenges/2019/201905.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201906",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201906/1/201906.json",
+               "path":"external/DailyChallenges/2019/201906.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201907",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201907/1/201907.json",
+               "path":"external/DailyChallenges/2019/201907.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201908",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201908/1/201908.json",
+               "path":"external/DailyChallenges/2019/201908.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201909",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201909/1/201909.json",
+               "path":"external/DailyChallenges/2019/201909.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201910",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201910/1/201910.json",
+               "path":"external/DailyChallenges/2019/201910.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201911",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201911/1/201911.json",
+               "path":"external/DailyChallenges/2019/201911.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges201912",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/201912/1/201912.json",
+               "path":"external/DailyChallenges/2019/201912.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202001",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202001/1/202001.json",
+               "path":"external/DailyChallenges/2020/202001.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202002",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202002/1/202002.json",
+               "path":"external/DailyChallenges/2020/202002.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202003",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202003/1/202003.json",
+               "path":"external/DailyChallenges/2020/202003.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202004",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202004/1/202004.json",
+               "path":"external/DailyChallenges/2020/202004.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202005",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202005/1/202005.json",
+               "path":"external/DailyChallenges/2020/202005.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202006",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202006/1/202006.json",
+               "path":"external/DailyChallenges/2020/202006.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202007",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202007/1/202007.json",
+               "path":"external/DailyChallenges/2020/202007.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202008",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202008/1/202008.json",
+               "path":"external/DailyChallenges/2020/202008.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202009",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202009/1/202009.json",
+               "path":"external/DailyChallenges/2020/202009.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202010",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202010/1/202010.json",
+               "path":"external/DailyChallenges/2020/202010.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202011",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202011/1/202011.json",
+               "path":"external/DailyChallenges/2020/202011.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202012",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202012/1/202012.json",
+               "path":"external/DailyChallenges/2020/202012.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202101",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202101/1/202101.json",
+               "path":"external/DailyChallenges/2021/202101.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202102",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202102/1/202102.json",
+               "path":"external/DailyChallenges/2021/202102.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202103",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202103/1/202103.json",
+               "path":"external/DailyChallenges/2021/202103.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202104",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202104/1/202104.json",
+               "path":"external/DailyChallenges/2021/202104.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202105",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202105/1/202105.json",
+               "path":"external/DailyChallenges/2021/202105.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202106",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202106/1/202106.json",
+               "path":"external/DailyChallenges/2021/202106.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202107",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202107/1/202107.json",
+               "path":"external/DailyChallenges/2021/202107.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202108",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202108/1/202108.json",
+               "path":"external/DailyChallenges/2021/202108.json",
                "compressed":false,
                "encrypted":false,
                "version":1
             },
 			{
                "key":"DailyChallenges202109",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202109/1/202109.json",
+               "path":"external/DailyChallenges/2021/202109.json",
                "compressed":false,
                "encrypted":false,
                "version":1
@@ -673,7 +673,7 @@
         "content":[
 			{
                "key":"DailyChallengesCrosswords2017",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Crosswords/Configs/17/DailyChallengesCrosswords2017.json",
+               "path":"external/DailyChallenges/Crosswords/DailyChallengesCrosswords2017.json",
                "compressed":false,
                "encrypted":false,
                "version":17
@@ -685,14 +685,14 @@
         "content":[
 			{
                "key":"DailyChallengesCrosswords2018",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Crosswords/Configs/2018/49/DailyChallengesCrosswords2018.json",
+               "path":"external/DailyChallenges/Crosswords/DailyChallengesCrosswords2018.json",
                "compressed":false,
                "encrypted":false,
                "version":49
             },
 			{
                "key":"DailyChallengesCrosswords2019",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Crosswords/Configs/2019/1/DailyChallengesCrosswords2019.json",
+               "path":"external/DailyChallenges/Crosswords/DailyChallengesCrosswords2019.json",
                "compressed":false,
                "encrypted":false,
                "version":1
@@ -911,6 +911,13 @@
                "compressed":false,
                "encrypted":false,
                "version":1
+            },
+			{
+               "key":"DailyChallengesWDM202110",
+               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/WordamentMobileCalendar/202110/2/202110.json",
+               "compressed":false,
+               "encrypted":false,
+               "version":2
             }
 		]
 	  }

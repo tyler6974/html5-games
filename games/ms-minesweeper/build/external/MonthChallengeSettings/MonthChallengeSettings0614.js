@@ -1,0 +1,15 @@
+{
+	"Badges":[{
+		"CoinsNeeded":2000,
+		"Key":"Bronze"
+	},
+	{
+		"CoinsNeeded":6000,
+		"Key":"Silver"
+	},
+	{
+		"CoinsNeeded":12000,
+		"Key":"Gold"
+	}],
+	"MaximumCoins":18600
+}

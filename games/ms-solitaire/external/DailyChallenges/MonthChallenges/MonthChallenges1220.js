@@ -1,0 +1,2338 @@
+{"DailyChallenges":[{"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607731200000)\/","Key":"9aa7af2e-0858-4115-abf6-a5bc8087d68e","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "10995273423255376050306669933997811650581942648324831014533959220343",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607731200000)\/","Key":"2c99e941-46b4-454d-9088-b38bb765be6f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "109801941323105250232370806675537704429160765756726485806331372132652306298702116148922502351958498306860335329731233273196791829190967904430866760243207185984",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_STACKSREQUIRED": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607731200000)\/","Key":"26dc8922-bf9e-4047-bfea-149313389c29","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1651680",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "7h",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607731200000)\/","Key":"69f79059-9aa0-4330-b590-f831abc4aa5c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "20329062645677705798376519529083197009576205949354497293843979276676",
+ "CHDEF_DeckSeed#1": "45887892919518438712819536045446321209059781927526058409174713991335",
+ "CHDEF_DeckSeed#2": "9774316479108362609873165708453472367995083477348057479682074036843",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "8",
+ "PARAM_VALUETOPLAY": "eight",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607731200000)\/","Key":"37ee2401-c9de-4543-b1f6-10c4542f8085","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "18566258835393614487929199740462405774203080163888197346434248670844",
+ "CHDEF_DeckSeed#1": "53143250886937323693338519504974242808445074242733762111435379847094",
+ "CHDEF_DeckSeed#2": "75476643440961643805728428225300144739430556566261693485631054539726",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "25000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607731200000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608854400000)\/","Key":"7f184b06-0ca7-406a-9d8d-7b1634a69b98","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "75305709984310214582311190711191587404593122135123909228082095124493",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_SCOREREQUIRED": "350",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608854400000)\/","Key":"7d3b9d70-3426-4b84-a77d-d00f03425441","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "39040367383174075546273646110416829689072898181032119401706134673791662630468767162392576937796609283182758505501739342315023970242355439740756352873477822641",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "700",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608854400000)\/","Key":"f2be9ab5-cb7f-4d31-a242-acb30ee8a8ae","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$7975172",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "5s",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608854400000)\/","Key":"9fe55d92-9683-4c12-923a-7d46b0dcfd9e","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "9391299680068007049926740036793746625246939626364496882821384743357",
+ "CHDEF_DeckSeed#1": "69234881270842672073070459733210044971905340761362156674361507539161",
+ "CHDEF_DeckSeed#2": "59374320473076417847768029655647847599309724834595797193041250011136",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "12",
+ "PARAM_VALUETOPLAY": "king",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1608854400000)\/","Key":"719862f4-9ffc-4556-bc66-9abe7279e1e5","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "54326616346879185399297171251114222744857258662663607550093035207082",
+ "CHDEF_DeckSeed#1": "28271877288143759624274773451190015422759240471506278197372008036529",
+ "CHDEF_DeckSeed#2": "26799341354728425771149575301693700546329506201797149999131720243377",
+ "CHDEF_DeckSeed#3": "77786826616678115387432864451642331001268105076138000077423318991554",
+ "CHDEF_DeckSeed#4": "34521157304021003561084612215451466565017680686359534676504080590109",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "55000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608854400000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607212800000)\/","Key":"a3f54318-8f41-43ac-af44-79a171798ce1","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "25321107647687089918551277222051445295384477722318864900692807875395",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_CARDTOPLAY": "6c",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607212800000)\/","Key":"1cbd5b59-8704-40b4-b421-e3f1b4fa1849","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "366520040119034724687184578193171177907108177473032711127069539835382427082104222745336372841481942045863002984831069241765054924570926643027721841162819699",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "2",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607212800000)\/","Key":"c37e9f7a-6601-4f71-9442-17d92a79c0fa","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$5757248",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "7c",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607212800000)\/","Key":"27ceb78a-6ef8-40f6-a98f-5f1c861c29fd","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "657045304519463640017419707817790598188826219799547614392527104062",
+ "CHDEF_DeckSeed#1": "61182412889153124084527081298688639871739555434294802493211730148159",
+ "CHDEF_DeckSeed#2": "38321204343810538605446429111436671427050579506191920084364995854406",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607212800000)\/","Key":"0b696bb4-146a-42db-b7cc-4f04c77e0941","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "34365905148279043720652819414761520818843220485740725440965913125773",
+ "CHDEF_DeckSeed#1": "2928203772394485514014668390821360800981165840897518290921967484709",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "20000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607212800000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606867200000)\/","Key":"62854ed1-1824-487c-a648-80707a6db4fa","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "40615698403051786710561962260009124269474499903742370986791809423181",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_CARDTOPLAY": "5h",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606867200000)\/","Key":"9c3851db-a156-406a-aae2-287966531a4c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "173889115823417634062122535100994717277382387447154169873113005734071870243667217901215058326768523860877783273756282406580504819528228807296313543645637659",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "650",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1606867200000)\/","Key":"f7227d82-a6c9-4443-8d59-2cc0effd941e","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$1389721",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1606867200000)\/","Key":"b8adfd99-7638-4693-bdb8-0fe82e494f3a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "72431443615030572796062801445070394725719742595617601988251772772941",
+ "CHDEF_DeckSeed#1": "49011848771536562127936154938504209647135864108676985086661807529415",
+ "CHDEF_DeckSeed#2": "22219609922681880629565387941536905145233124372439436395493769930550",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "2300",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1606867200000)\/","Key":"473680c6-2829-40cc-bd0f-03b8bbb12f76","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "58273973290332575010381166383878196567384821588388447983596382326882",
+ "CHDEF_DeckSeed#1": "30262447725793879331457598014363423781426339528077430435912665254364",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "6",
+ "PARAM_VALUETOPLAY": "five",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1606867200000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609113600000)\/","Key":"c7de77c5-a6cc-4acc-a828-b5a3e88699ce","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "36474017442986240038380778287938652371139745091339739005971289167829",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_NUMTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "5",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609113600000)\/","Key":"14d707c3-aca5-4da3-966f-8196f9195bac","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "60047157307852507742558625011045456482895512769051873907644326680440024689796276478121437195348606053686188773818717686610337478840771263032044928744948",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609113600000)\/","Key":"7ea6e0f6-bce5-49ce-a39e-a4694e4cc7d9","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1110842",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "6s",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1609113600000)\/","Key":"e3513f16-82e6-4b2f-acea-9fc5339c80ef","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "34491012912007557790036531276146134225022900605013298982653641310774",
+ "CHDEF_DeckSeed#1": "3898800083910280959346522476664975065774073458682215904066876988365",
+ "CHDEF_DeckSeed#2": "17372805162297432607156816070500208192218559783033314630340547210694",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "9",
+ "PARAM_VALUETOPLAY": "two",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609113600000)\/","Key":"93eeb2bc-9a76-462a-bea4-ac78603d6fa4","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "57563725648389067974276215213644913577606494135626004417371778825613",
+ "CHDEF_DeckSeed#1": "21301315276594118903639676814314780702484769018090156164779214536863",
+ "CHDEF_DeckSeed#2": "55165846070911960846391810433216334248967166552295412683483714165614",
+ "CHDEF_DeckSeed#3": "2320981365525874168870700965568261650718874865939474421061097596920",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "27000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1609113600000)\/"}, {"Challenges":[{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1609027200000)\/","Key":"5f96009c-a86e-468a-8add-44a178359af0","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "43116497742563781633073880163292641314519205812046721010933202313066",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609027200000)\/","Key":"d0112241-ecb4-4413-a0ec-6a5b3979126e","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "12871374781790291514428276489233900701133337871601264490805414055569523821634481628162977173696124238604411912659134000364996720734699898534206070602662934771",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609027200000)\/","Key":"383a52cf-8676-4552-b474-333d8c7fbde4","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$407216",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "6",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609027200000)\/","Key":"cf2c4af5-8e97-400a-b31a-e3a56549f5b8","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "35849484221899684934142276563780285931957469072235001657663716147254",
+ "CHDEF_DeckSeed#1": "47326551927928589108301900353104073311622785317968174169452602889248",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609027200000)\/","Key":"68459b92-8362-4614-8f95-a7bd23d436af","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "75521164901939179557784737953879330076253842114673138238501622156578",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "4",
+ "PARAM_VALUETOPLAY": "four",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1609027200000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608768000000)\/","Key":"5bfb0483-576d-40ca-b7fe-3e8cb042835f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "76029374475458007025911602884000660508077101444008891987653898524733",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1608768000000)\/","Key":"a319faa8-6648-46fb-a351-8b3b4559124f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "1824429007428152260923148947864036541802611810009416528768425996759261054137930186859611610139690777058010881786599519234987380733835891222480535524089629103",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608768000000)\/","Key":"98388c15-f8e2-4dee-889c-2799a108ee98","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$8103889",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608768000000)\/","Key":"1a43ba67-19da-43d7-8617-48e1db58d24f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "50611471127306054953761938789322638914518531318175665250073265601098",
+ "CHDEF_DeckSeed#1": "46361253754666269399848102486869628236212304851521077988843212197937",
+ "CHDEF_DeckSeed#2": "34970776163199255389682370057117896805187931405166063011182104490662",
+ "CHDEF_DeckSeed#3": "33515745956718733840588669640798144249251906872619385721212899760072",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "3800",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608768000000)\/","Key":"c6e5adb0-2bd6-44f5-b121-814a24b7a26b","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "68709945984456083128909445526964947516945857227804796731441144395019",
+ "CHDEF_DeckSeed#1": "37873312266904569643235481942602504378579066392291233866862323362243",
+ "CHDEF_DeckSeed#2": "55393831705096394898340009711620744849393373465481259296883177122139",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608768000000)\/"}, {"Challenges":[{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607040000000)\/","Key":"e678afea-7ad2-4b07-89ca-0c1b95407d9d","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "25578471375471667932842339712942488790064091275205862565104013741874",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607040000000)\/","Key":"0a2d7e97-0cc0-4cfb-8e1a-140bf6717bd4","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "486480472202773385310318494853208058247385530746620013968271846556183347392188570926984680951141328805560592526367298263050891251530005636170631173142975256",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "750",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607040000000)\/","Key":"4237dd2a-cbc8-4e26-bb82-1807e85ed3b3","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$430189",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607040000000)\/","Key":"91b94eca-1cd9-4405-91ee-c1c51076b66a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "5374354804602702006652658316145972004015436223514153231382804248169",
+ "CHDEF_DeckSeed#1": "2203396486089325146599694446780448793074827732359510749711560647304",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "7",
+ "PARAM_VALUETOPLAY": "jack",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607040000000)\/","Key":"e22f0194-fcd8-4d9f-ae72-032412b63e0a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "65496804775782990147971513802462161000940035152493472365551838301424",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607040000000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607385600000)\/","Key":"4aacd6de-1959-420a-8e1d-b86ab41c45fb","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "30651700417875424675958024129489582263008670877078485502061018673225",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607385600000)\/","Key":"be136da4-bf16-4dff-8261-02b9b4d1f5a5","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "155362481219767820713260802109057221971077111948445238545137362851410332103815755052153589362428476593581136261469315237563691289673125321830965966475623",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607385600000)\/","Key":"6b23833b-d629-474a-b675-0fb8b483e163","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$2235723",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607385600000)\/","Key":"a22217e6-36f6-4a54-98af-64aac7741f7c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "67394205690410360413703684845289282684509075523128342961421246681889",
+ "CHDEF_DeckSeed#1": "20659733486531382522701919716313953231843055886084637635243127270834",
+ "CHDEF_DeckSeed#2": "18412714026837981564764358669860454670889085295457433742601788517466",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "2800",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607385600000)\/","Key":"b1b1501b-ac8a-4b2b-8679-0374412e1fdd","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "78916020638100462665333578480476474324571332891272860156573708353366",
+ "CHDEF_DeckSeed#1": "44105300332807815316350873145765479613398507491811217041001438106852",
+ "CHDEF_DeckSeed#2": "20934580351178031382608467996220691983364417072727000697212748105747",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "6",
+ "PARAM_VALUETOPLAY": "eight",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607385600000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607126400000)\/","Key":"10cfbe95-e63d-4ea7-9804-98dc73954b18","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "30923440172000454773601644217071723921624590285864191377487969097900",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_SCOREREQUIRED": "300",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607126400000)\/","Key":"27e53a1d-fa9f-42c0-a820-e9e7bc8b405a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "7461532324281914356324818202238059964906732376113877565516261507945417767243482258124790204271350317817084894103262115201875203335815204859750035742618132679",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607126400000)\/","Key":"e654b2da-f9c1-4084-ac43-591b302244e4","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$6348095",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607126400000)\/","Key":"7ba54906-aada-47c7-9e34-15af04a4a8b1","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "50364281721493590501986256638114198960417185072604788025041377302332",
+ "CHDEF_DeckSeed#1": "77567555853395546370239884804107252506850974418766809588347986097908",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "1600",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607126400000)\/","Key":"65eeaf0a-d378-401c-b170-2d1aee5c6d46","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "32256686875061788059307659259568175892992617048167643776072739051675",
+ "CHDEF_DeckSeed#1": "15621585391888645687476330269493756627793970805462020934282039553777",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "5",
+ "PARAM_VALUETOPLAY": "king",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607126400000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608940800000)\/","Key":"9db9e16f-54e0-424a-9fc2-4ea056fb31c5","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "4141777355978236008020051795366049520178659790722754468203595755954",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_CARDTOPLAY": "6d",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608940800000)\/","Key":"b4075069-fdae-4c7a-bf99-6cef13ea540f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "33352393492127653301626015959360772596137786169926289258982305391021461092024123736107106875273251905719224141889911943591128118066715928997195113183134789",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_STACKSREQUIRED": "2",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1608940800000)\/","Key":"0eadb5c3-6b7e-45b8-91cc-97632f9dc713","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$551830",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608940800000)\/","Key":"d446e854-aa5d-431d-abbf-4b5e69165a91","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "76847023733248344814557391642465902981357806281173607985801784119489",
+ "CHDEF_DeckSeed#1": "71747482064211199899611650865929513190179084611105186281472621115969",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "1500",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608940800000)\/","Key":"3cc8e996-d011-48dc-9f5a-29621814288e","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "44178844309967523594492734992110264708452336160643690410654145556134",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608940800000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607644800000)\/","Key":"b4153ff7-cb58-44f8-89cb-7fc34ecda519","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "59372925793768673876545497737536095145188075022145607139251740383020",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_NUMTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "4",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607644800000)\/","Key":"8f7d29c5-8b0b-49ba-8112-08848da4bb82","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "345788622627758282772913719654449202135142996939717592510303293832204101828425232885797702869902464253694599037976846624018605741142326452470544882381020921",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607644800000)\/","Key":"f08ed313-1fbe-4279-a774-620c84deacd6","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$3127980",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1607644800000)\/","Key":"293bb70b-b356-4106-934f-e41552e9648a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "58681333888204836165165552611252907142284823845151023650163913807584",
+ "CHDEF_DeckSeed#1": "80210777827961864777569837972833649156854039965081787417661666023576",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607644800000)\/","Key":"d899499b-4acb-4b87-8397-e14c119a7c1c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "8631883934410070460224194823268923768928109428891045806511827748956",
+ "CHDEF_DeckSeed#1": "31306894329570262562592807827057637655527669447038969574056608386928",
+ "CHDEF_DeckSeed#2": "52920979679573194584262011236300450880077231712586905805993785891951",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "7",
+ "PARAM_VALUETOPLAY": "ace",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607644800000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608163200000)\/","Key":"d0881a0f-06ef-4e10-9e6f-e5705cffc6c2","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "19921503900244458638336062195837183388697756745975117289621030207094",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_CARDTOPLAY": "7s",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608163200000)\/","Key":"b918d2a9-0d5d-4eda-9ab9-30a010897500","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "13680702273083196645172598243522095493584855522903361276335182172565218045275854117501964892530585184689081889499937331785655274179569025831227881610830578",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "650",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1608163200000)\/","Key":"da7fc17c-98e2-4144-8872-edd9e1229e9c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$3204145",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "7",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608163200000)\/","Key":"e6067c46-067b-413a-86e3-ac0c7bcc2003","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "59721798184053692057761343966658866207732817064689443867642453664887",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608163200000)\/","Key":"53836148-5461-434f-bdfe-e006c6c02f8a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "18123824990883517638180694806177692117941005487083563364762538875800",
+ "CHDEF_DeckSeed#1": "23453591909917398843543162732140149497473832863758094006222329225699",
+ "CHDEF_DeckSeed#2": "32473180067650743972887145587508752447872650201191342119052150933820",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "6",
+ "PARAM_VALUETOPLAY": "two",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608163200000)\/"}, {"Challenges":[{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607558400000)\/","Key":"78fc111d-00e7-47db-b1b4-fffd70fe9e06","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "79509034008311262255400734316262830348161655379984303938312497254912",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_CARDTOPLAY": "6d",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607558400000)\/","Key":"a627c5ae-fc2e-4d9b-9043-6e20b8a2db25","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "14349107061505577080194626165640515156809184323892089715461415112853732859760266676127931071041713371795886414098379542929926633404288094731575068003252030188",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "750",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607558400000)\/","Key":"48c108e8-3ab1-45ac-a7b2-9cf1802b080c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$419916",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "7",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607558400000)\/","Key":"76adeb78-440d-4969-97c4-5cb72596d9db","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "70759089935152520883854213277528004861152797944722660038541533822149",
+ "CHDEF_DeckSeed#1": "40140896069366917560101211222763722082935001354014916478632475677436",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "ten",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607558400000)\/","Key":"2f8c7d45-17e4-4170-aecf-95872494c887","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "26453016834172583518337473018134324093441852010659320503443725083684",
+ "CHDEF_DeckSeed#1": "11265301073294256521671286358966317099359674330420459566091062035589",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607558400000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609286400000)\/","Key":"9d8a2acf-72c7-4495-9b86-c145e5903613","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "22371383701965337677331880642313294673519522603857092923764121248924",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_SCOREREQUIRED": "250",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1609286400000)\/","Key":"7bde6999-a4c0-4fe0-b10b-4fd227504c88","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "307798012546541322738781686543211690986192878835137163369381012061542235619519688990137411475253850563265334020401662449434701602453232282449003688012813",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_SCOREREQUIRED": "800",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609286400000)\/","Key":"5cd177c1-5dd4-409e-8fd8-0389bd216b64","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$2115659",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "6c",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609286400000)\/","Key":"392da6d1-8351-4c7b-bcc2-44adce24f9b0","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "45334853921397558621207513105384039422586631712930825598402187508089",
+ "CHDEF_DeckSeed#1": "78668686773400857646385589517190834880073973519176962256073910687389",
+ "CHDEF_DeckSeed#2": "18832546288125155037077276381748865389287475280402863100023083961524",
+ "CHDEF_DeckSeed#3": "49552303845370046622918697537874641149090453318589324361952003557905",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "9",
+ "PARAM_VALUETOPLAY": "ace",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609286400000)\/","Key":"eddd7d3c-525a-4634-859b-bfc7699cbd0b","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "40602851668228759416412185074489127517827452822905311450583870146221",
+ "CHDEF_DeckSeed#1": "38596278603116434592084228155301106985473847977303905412902541576462",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "22000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1609286400000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607817600000)\/","Key":"69f487b8-169b-4a41-8a3b-ef8e1e4530f2","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "44847673859801764524568739143522343929817377549283940872451516251435",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_SCOREREQUIRED": "250",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607817600000)\/","Key":"33aa130a-4a54-4f6f-a47e-d4ef87725db4","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "518724456196085486111734847821836510579766794452105574421181077347714771986031045467908954725346290127465163620502018527715341885537663848555631186660743",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "700",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607817600000)\/","Key":"0d770b11-798c-4027-987b-4e0a0e0e8105","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1682441",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "5",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607817600000)\/","Key":"ea11d5a5-9522-47e9-8315-c1e279a93f72","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "44680946692709950799373653271234191230896818383757017931072739030654",
+ "CHDEF_DeckSeed#1": "1714753156854690840063897213688355532948415476250930696932043386938",
+ "CHDEF_DeckSeed#2": "30615862965467451111599900279630196284949550159870625082962028413814",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "1700",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607817600000)\/","Key":"8b454f0d-2f90-48fe-8738-36d6d17f1fb0","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "35653295828392223644472671659145237096484522830014043233782228972637",
+ "CHDEF_DeckSeed#1": "24848604843721268675001445041327663745434671868477833105753327802264",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607817600000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608076800000)\/","Key":"d5f3e0fe-ead7-4030-87ac-5f97a25d62e4","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "15182644922145253371341262910710721647878025289659390771753122759857",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608076800000)\/","Key":"83ead290-d721-40ae-a858-28806d994176","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "912746330305686097913301648296864411301232927470871472720114126145838643546984161635530795471476452144751717846213182862097419873490185743406121967044402",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608076800000)\/","Key":"6784574b-5ff6-4037-9218-812f18c91a8a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$8773607",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1608076800000)\/","Key":"e025f155-5b65-4f4a-9869-4d1cc527a797","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "49930106192137274239700892405637306356292317658811159973742264907307",
+ "CHDEF_DeckSeed#1": "5288503104936545356291541478920849331162792555369315849853140606717",
+ "CHDEF_DeckSeed#2": "31431881856185618168639275043351504005815817595007176161711827215375",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "2700",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608076800000)\/","Key":"8347e69e-f2b7-40a5-86ce-46b3f3a9ace5","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "70652404070070517658646290018947214501180228289675858367771846951159",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608076800000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609372800000)\/","Key":"17921d72-2815-4574-87d8-163ea6fee9c9","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "9123694726766480434762476485507520922685112748109313725101263731694",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_CARDTOPLAY": "5c",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609372800000)\/","Key":"d285aae0-3889-426a-8e0f-37ac86e91e91","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "277063793478373560015383748231522185391210488369398548828972039015237193579394009254921312014783867801057162258456028092976521612810567190876616015567391",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "2",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1609372800000)\/","Key":"295af543-be8b-4188-8277-1243c21465f2","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$380975",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609372800000)\/","Key":"3eec64db-93b5-4fbc-b354-cf3ecf2bc267","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "5176836892512935571400419798511305796924367739511070606803579880889",
+ "CHDEF_DeckSeed#1": "40889700772581703086124897257273777872050997332702300674502288734204",
+ "CHDEF_DeckSeed#2": "54926298560451215218536538023812281545678799465360927854182891876250",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "1900",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609372800000)\/","Key":"9c4b68c8-1d32-482b-a746-f001699ba3ce","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "13497431787124347632652223275530130251699953317955235733014137804439",
+ "CHDEF_DeckSeed#1": "24712284689244067017735672223938251633774376488493387379841951469834",
+ "CHDEF_DeckSeed#2": "36994967265027581431435140109296034662179468970617474412021888620560",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1609372800000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608249600000)\/","Key":"4c2da9a0-d8e3-45ef-9d8d-db3a7d46237c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "37695309816441413508446919391619623353988034160777964080768609871055",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_NUMTOPLAY": "4",
+ "PARAM_VALUETOPLAY": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1608249600000)\/","Key":"52bf6021-2d13-490c-ab23-5991ef47a884","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "1751414403712303977098506360456173765169358079769198147621037686684772853518087832178666160121292993738465468548252471355300376942791581986363255385330461",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_STACKSREQUIRED": "4",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608249600000)\/","Key":"8f7417b7-24ad-45f3-836a-8ecf077a5ca9","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$91563",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608249600000)\/","Key":"de9548d8-8bed-4c07-be9c-6b4d31f8b830","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "44749163495593713273578127502314102051027441088289368940251080120221",
+ "CHDEF_DeckSeed#1": "13595379049494647168977359425508344302280571913876023183112332685227",
+ "CHDEF_DeckSeed#2": "76498882109905068457437147534390489234412446425703730890343218308322",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "2900",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608249600000)\/","Key":"3a262dbc-4be0-4348-b974-314aed89c537","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "68387854535729218794118853215397863049684221012101668057913951405712",
+ "CHDEF_DeckSeed#1": "74889873953905804361335163212506793453844662895867120014281956520551",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608249600000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607904000000)\/","Key":"eefb54ac-c562-4f4c-96b5-d96a39e74bb8","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "68327101570865354149982481830671600539406326385613208758721383983250",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_NUMTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "6",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607904000000)\/","Key":"c581f953-144c-47bb-919a-734403795ae3","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "352148419830950142393341587846386403113230311558494137176028357283043641592004471110283701368868806860894210222506320842791144873387388040536563659271392441975",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607904000000)\/","Key":"9583d317-8ef3-4eb6-beb5-cd3edd47c934","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$1236894",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607904000000)\/","Key":"9d3ee9ff-0b0a-470d-aa58-6dab9a670122","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "65031584805919658005097347491856841836964721093691669801176538093779",
+ "CHDEF_DeckSeed#1": "67432942472394788570474479131641671750201185553415640536301270580024",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607904000000)\/","Key":"c4075d72-f44a-4077-8839-19ffc52586ba","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "2348499279959960189912886845701538022250853176091804701782910465538",
+ "CHDEF_DeckSeed#1": "14857951491585688962880685703404171521850047290289040457503978977280",
+ "CHDEF_DeckSeed#2": "61159142144666998423143769557796799864138612054024036623900226481058",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "7",
+ "PARAM_VALUETOPLAY": "six",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607904000000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607472000000)\/","Key":"1983ad9c-2441-43a9-beab-57f192516c48","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "38667042277920026650328711494337065405086210394243751918811991921494",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_SCOREREQUIRED": "300",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607472000000)\/","Key":"21c55254-7de2-4e67-989d-5bff852c8b02","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "268692034827549242518341802772261304028117142996416766327441667349202456298170427026283822560887143198662691514034344192693906627602024183172073521567170663",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_STACKSREQUIRED": "2",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1607472000000)\/","Key":"0d5566cd-4d20-4efa-b857-c7d447d5ab75","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1136477",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "7h",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607472000000)\/","Key":"3cffed61-f951-4053-a3de-04b7089a58b7","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "8099438412270449299295829605632991451076478995501692805501540601108",
+ "CHDEF_DeckSeed#1": "57250160709555451592120589656232726559599416068743208563621017299336",
+ "CHDEF_DeckSeed#2": "176644535310644709687929479600167757417494334780783152883709698804",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607472000000)\/","Key":"f597683a-45c1-47c4-a796-c80f08798854","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "12956737467189778043584662748040803265672741927165153161283691097854",
+ "CHDEF_DeckSeed#1": "57296750719020206021027185476097917014483387739983258493554238191712",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "26000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607472000000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608336000000)\/","Key":"616d8ae8-70e3-45cd-91e2-2096e7be0815","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "73385518343849413533510628820593610152691664505185640361532230867580",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608336000000)\/","Key":"23136336-1f32-4e10-86b0-7bb6e5117b5a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "1736538092123147560333060184824867625892883648131113109483786862150927331992532834474264139674214116005665128112225253302594985426333508541207182754273428061",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "700",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608336000000)\/","Key":"11af6c74-137a-4cd8-8009-63d37766733c","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1098945",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "6h",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608336000000)\/","Key":"27374f2a-c4f8-41a5-a40a-50f82a2d604a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "3765798540271921272840346260369487226341873031716255605082288624892",
+ "CHDEF_DeckSeed#1": "56406153500213317863695151326512920097026351009007801928843125444532",
+ "CHDEF_DeckSeed#2": "67056950250496045270754265835915889362332522282863533573531166441721",
+ "CHDEF_DeckSeed#3": "12313318975070524554307744255627513663653577512086999367072566720909",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "11",
+ "PARAM_VALUETOPLAY": "queen",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1608336000000)\/","Key":"a682e2a7-79a9-4090-b8f6-0bddbddefb23","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "25922303676971377145389461836178007345752859599718458747324016408641",
+ "CHDEF_DeckSeed#1": "68971808675457454894570293083726652482516231112851843484613657328536",
+ "CHDEF_DeckSeed#2": "43350497078957304809212274579804062394801308414014891805297688256816",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "42000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608336000000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607299200000)\/","Key":"47606fb9-6f98-4d7b-99f9-1e537639f3e8","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "7067380412249502576179567870962446053037930071234489356490665711379",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_NUMTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "7",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1607299200000)\/","Key":"fcb5d5ed-0717-46db-bb06-21aedbe1677f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "2109527876172958826719601191512365224806156294831312608707062460246367192020096215682902661960167771203618893245497801383819305284760664333654554633600162361",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "2", 
+ "PARAM_SCOREREQUIRED": "700",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607299200000)\/","Key":"2dc441bd-378d-4420-ac45-5ea54d2344b1","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1406477",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "4",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607299200000)\/","Key":"63c2436f-92a1-4d62-b96d-acf370cd530e","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "78995307949243973315235279969618773071143544025124130258373804793955",
+ "CHDEF_DeckSeed#1": "12360260527509060118134570406611988386229677619624957299741447028243",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "4",
+ "PARAM_VALUETOPLAY": "seven",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607299200000)\/","Key":"6a070926-c833-4664-9f64-c56710506587","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "65914695005989132649709388559772817110482105550642678969342120769134",
+ "CHDEF_DeckSeed#1": "56366882901339533476355879653385894899195178129436991255892441923084",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607299200000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606953600000)\/","Key":"276f31ac-477f-4fc1-88d8-7ed5f51f7271","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "50381769915481776108367482295197214876954986260439259482853447179093",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_NUMTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "5",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606953600000)\/","Key":"f8c1406c-f740-4e5a-9b15-7a3c02a22342","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "258808580040205483984345817923555847222419050780130924297822193484930420843410117425327122322942569276382189428416518013335159930309380787137832618733964541815",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1606953600000)\/","Key":"cb1a7ca8-7907-4829-bb30-c1ca09ba8189","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$9140330",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "7d",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606953600000)\/","Key":"5fe85beb-aebb-4b2a-aa43-d6e5d51b6e24","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "68299330940595619236288788497626805613797331995631310729613529075889",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606953600000)\/","Key":"fac4ddcf-85b9-4e7d-8ffd-8c03632a6a0d","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "71223963197156604297839374096094193613036747978315853822638736211643",
+ "CHDEF_DeckSeed#1": "17583199985032222260602757508955223801985925821574107269042922039618",
+ "CHDEF_DeckSeed#2": "24085837680251323863463939539273934417352649598068574447454215772776",
+ "CHDEF_DeckSeed#3": "22494070736413630106594462766442334310953254178315703252707991901629",
+ "CHDEF_DeckSeed#4": "55609330948955295138600885196644457948752686315412412883104114792164",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_SCOREREQUIRED": "42000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1606953600000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608595200000)\/","Key":"2cc6047f-9341-48a1-81b9-9a0d083d8501","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "1959914600447732379137007579890672907736285246703367876116103560224",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_SCOREREQUIRED": "300",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608595200000)\/","Key":"96ca67d9-e7cd-47bf-8ba8-c8d29e755363","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "223091838853208244671695525032649698892240189927838000823996754642563538253976920460107682442824620339055834297471980044992554140486601630137267485037502",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608595200000)\/","Key":"748846a7-43ff-4b54-b13f-050a000bd13b","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1622102",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "5d",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1608595200000)\/","Key":"d84c6583-1b9a-4a18-bb61-ebb9bf92743d","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "62769856385193727995438445656480248438635408647671449627116884223485",
+ "CHDEF_DeckSeed#1": "22182244332948447259220573220122882834839530653502990132479596205254",
+ "CHDEF_DeckSeed#2": "58187924017921175504623612970939787212360691476659837692442610081268",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "10",
+ "PARAM_VALUETOPLAY": "three",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608595200000)\/","Key":"60a7faa1-07a6-47a4-9137-7779d550c555","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "28871970866093697078393926085515589779244152510152047125092811023988",
+ "CHDEF_DeckSeed#1": "23205416301862330787320759510758089920852921733838300891503830520333",
+ "CHDEF_DeckSeed#2": "54821651494192194077878653832623139117771605164683113691212234683830",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "32000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608595200000)\/"}, {"Challenges":[{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609200000000)\/","Key":"de83d2b6-f5fe-42a1-aff3-cbc251eb147a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "68809962476236693185422510894695811558730404855068775668893529130894",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609200000000)\/","Key":"ecd8e67b-c595-4406-b72a-84fa5b71a421","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "37986017431820255645389167241825890424353268980362359292594136940963512012180262102900543436390827112342882586156712751230459520451292874394830210342955444539",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "2",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1609200000000)\/","Key":"339d930f-24d8-4ccf-812f-fef15377eff9","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$9640587",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "5c",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1609200000000)\/","Key":"5be24076-c4cd-4d33-b61d-355aa7fd186f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "73030932418228978006605550865772200156474921704635282698963139024404",
+ "CHDEF_DeckSeed#1": "28050050935400147781198880190737787204993459154040694287300833527469",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1609200000000)\/","Key":"85cc0037-8200-4db4-892a-001251a76694","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "18161124401517117443923717968455386001092958852569508809031837940354",
+ "CHDEF_DeckSeed#1": "36463030981808838836471102306723307627786151799973602394831604277334",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "6",
+ "PARAM_VALUETOPLAY": "nine",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1609200000000)\/"}, {"Challenges":[{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1608422400000)\/","Key":"710254fe-7657-4eb1-93ee-8ee50e5de028","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "39019674425353750928140785874810805377588480327261973423691325913467",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_SCOREREQUIRED": "300",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608422400000)\/","Key":"10b36041-04dd-4f1f-9334-2067bf2ce30b","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "3087725751520688705353408799430829545877570643252568243403206083762619045249332535883951206876685192822218449844220420212282840026941698180345123664745354",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608422400000)\/","Key":"cdadc382-8745-417d-bba0-1ce372268347","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Solve Challenge",
+ "CHDEF_DeckSeed#0": "$3263384",
+ "CHDEF_DealScript": null,
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608422400000)\/","Key":"16a48d86-77a1-40f6-8040-b01c82c6d2d0","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "25036155747001205448940184163685885366668855519346771517587744140442",
+ "CHDEF_DeckSeed#1": "54409920832157726677422992182873808827798558305251764502471263427419",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608422400000)\/","Key":"d2b0d481-942e-44f7-a1da-1cdee66a90e3","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "20453967925671033849442635426279537381230701257569440994660789077939",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_NUMBERTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "seven",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608422400000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608508800000)\/","Key":"8d25de8c-b689-4f2f-802c-a42fb1e233e1","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "77533830740996043872361141394594128869783281805010775965962229989696",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "1", 
+ "PARAM_CARDTOPLAY": "7h",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608508800000)\/","Key":"54d67a2c-6d45-4363-a46b-cb47051cadbe","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "8177188441952584570888046418092891871704765488119278998138717546893332341432293710384811282834269361384371300692872426951764280242233170012762253691830",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "2",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608508800000)\/","Key":"02a22ffa-64c5-466a-941a-efca2bf05b4f","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1495119",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "3",
+ "PARAM_VALUETOPLAY": "6",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608508800000)\/","Key":"3345a466-39bf-497a-982b-4220b7370795","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "55435097186259178077934112563733131557464190859909400669513157235072",
+ "CHDEF_DeckSeed#1": "51288543864716339940964730601530797446177035953780394688512985873679",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "1600",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608508800000)\/","Key":"ea1d4f0c-c54a-4de0-91cc-90920121dbb8","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "64469755669497722570476151227611077871170401903415376091737287745229",
+ "CHDEF_DeckSeed#1": "22375027043380205273988973779733546387585781289093483384203891586659",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608508800000)\/"}, {"Challenges":[{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1608681600000)\/","Key":"adfcf36e-e04f-4b54-949e-12594e204af7","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "60077474819111977298761927788058823319368323283046170304292830973786",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_NUMTOPLAY": "2",
+ "PARAM_VALUETOPLAY": "7",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608681600000)\/","Key":"bccb9730-3bb4-4759-8e1a-73d65bdbc111","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "3839089551290430472304994747328316431183637522937425954181620204455897746936478439571970754749478115488270466074623593001202534586333783286812822611907",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_SCOREREQUIRED": "700",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1608681600000)\/","Key":"c7e40870-7ec4-4b68-986b-3e14a35294b7","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$1914738",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "4",
+ "PARAM_VALUETOPLAY": "4",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608681600000)\/","Key":"26754032-ecd0-4939-a642-270d6e5428ff","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "53011082242898735534378160432117837186221767860795750306372867269354",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "1",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1608681600000)\/","Key":"8df2cf2f-fc4c-48bb-aef2-48190a45d725","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "60058191549219701601898451669434031302362460648458844004130382698296",
+ "CHDEF_DeckSeed#1": "58457546188160925991160240631050615973960989863757389664223315199386",
+ "CHDEF_DeckSeed#2": "62647042946293736341878037673076866451915653332569462112563383354955",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "6",
+ "PARAM_VALUETOPLAY": "three",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1608681600000)\/"}, {"Challenges":[{"Coins":300,"Difficulty":4,"Completed":false,"Date":"\/Date(1607990400000)\/","Key":"c831217d-418e-4353-bcb5-73ae84421dd5","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "76064035465000104722685490462138620782887037236025139318822202091988",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_CARDTOPLAY": "8s",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607990400000)\/","Key":"9ce70426-f6ea-4753-9e5e-2befc88b4d87","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "3870164229295235966326387078092459692821165312721930716661282053099402185906708013890256271227558761420668861611136694351758587630266737941428530296413306804175",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1607990400000)\/","Key":"64325f67-b5f8-4128-b701-534bd023e9f1","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "3",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$3633772",
+ "CHDEF_DealScript": null,
+ "PARAM_CARDTOPLAY": "7d",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607990400000)\/","Key":"89b44bd8-60ff-4ca2-a6e3-9d3897a31ca1","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "57187622945781732023571272124903096034223152052783294528593637179115",
+ "CHDEF_DeckSeed#1": "56547347371868572267221117826032034114634622266919237161342336198027",
+ "CHDEF_DeckSeed#2": "55525770400886760466538419031834433127036454215609364665263711032869",
+ "CHDEF_DeckSeed#3": "33941164551359818800752067503583012336410287022457066652331427061367",
+ "CHDEF_DeckSeed#4": "17545981091560419601214237588266093833682449643870910645263090675001",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "12",
+ "PARAM_VALUETOPLAY": "nine",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1607990400000)\/","Key":"70a3bb5b-a199-42ac-bfad-09d346d16bb6","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "3322200235956764352012052956894949663249001067957489441172218480224",
+ "CHDEF_DeckSeed#1": "40074199346448114776459967538185330212778197340847797682283783934484",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_SCOREREQUIRED": "15000",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1607990400000)\/"}, {"Challenges":[{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1606780800000)\/","Key":"59fabd4b-d398-4658-b19f-9157df3a0625","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Klondike",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Score Challenge",
+ "CHDEF_DeckSeed#0": "21495668880191470348505385504162173345882151109565391037423322585335",
+ "CHDEF_DealScript": null,
+ "PARAM_SCORING": "STANDARD",
+ "PARAM_DRAW": "3", 
+ "PARAM_SCOREREQUIRED": "400",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":150,"Difficulty":2,"Completed":false,"Date":"\/Date(1606780800000)\/","Key":"ba576fd5-132f-4f6a-bebf-48542500de93","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Spider",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "2",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Stack Challenge",
+ "CHDEF_DeckSeed#0": "171515357629322688130197276691266540967927189041446724777125336411422177007532944615233370500393535423857444387786293729861385660701652833592571234569488",
+ "CHDEF_DealScript": null,
+ "PARAM_SUITS": "1", 
+ "PARAM_STACKSREQUIRED": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606780800000)\/","Key":"84c4bece-5dbc-4434-b5f7-92b87c71ad5a","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "FreeCell",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "1",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "$3588193",
+ "CHDEF_DealScript": null,
+ "PARAM_NUMBERTOPLAY": "4",
+ "PARAM_VALUETOPLAY": "3",
+ "PARAM_MAXDEALS": "3",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":100,"Difficulty":1,"Completed":false,"Date":"\/Date(1606780800000)\/","Key":"db2b6802-4886-4ee0-9691-2ddfacf55a84","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "Pyramid",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "4",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Card Challenge",
+ "CHDEF_DeckSeed#0": "1522366033599569325083678971025374534706366191741807223371290755824",
+ "CHDEF_DeckSeed#1": "51909502967724439305016199764998783755849423749764540161603670929370",
+ "CHDEF_DeckSeed#2": "1876799574043314634619133765433376142115006461596576149461825808253",
+ "CHDEF_DeckSeed#3": "76311946855342077842633696813055422259229029409961724949491934105090",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "2",
+ "PARAM_NUMBERTOPLAY": "9",
+ "PARAM_VALUETOPLAY": "six",
+ "HasDailyChallenge": "True"
+}
+},
+{"Coins":200,"Difficulty":3,"Completed":false,"Date":"\/Date(1606780800000)\/","Key":"33f4ce1a-609f-4bd5-8759-2b951e43cf26","AdditionalDataNeeded":false,"Data":{
+ "GameMode": "TriPeaks",
+ "ShowFUE": "False",
+ "CHDEF_ChallengeType": "0",
+ "CHDEF_AllowedTime": "0",
+ "CHDEF_AllowedMoves": "0",
+ "CHDEF_ChallengeName": "Board Challenge",
+ "CHDEF_DeckSeed#0": "60504387606309347782705157369187974471947211944526314643892586960283",
+ "CHDEF_DeckSeed#1": "68747924948284256699674109018303457783031834139466171980191556748018",
+ "CHDEF_DeckScript": null,
+ "PARAM_MAXDEALS": "1",
+ "PARAM_BOARDSTOCLEAR": "2",
+ "HasDailyChallenge": "True"
+}
+}],"DayBonusCoins":250,"SponsorThemeUrl":null, "Date":"\/Date(1606780800000)\/"}]}

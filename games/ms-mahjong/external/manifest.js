@@ -787,7 +787,7 @@
 		{
 			"Id": 1010621,
 			"Key": "MonthChallenges0621",
-			"Path": "https://download-ssl.msgamestudios.com/content/mgs/ce/production/4D5313F1/MonthChallenges0621.js/2/MonthChallenges0621.js",
+			"Path": "external/DailyChallenges/MonthChallenges/MonthChallenges0621.js",
 			"Compressed": false,
 			"Encrypted": false,
 			"Version": 2

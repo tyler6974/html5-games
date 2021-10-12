@@ -1,14 +1,14 @@
 /* v1.6.3 */
 
 @font-face {
-      font-family: 'Inter var';
+      font-family: Inter;
       src: url('../../../fonts/Inter.var.woff2') format('woff2-variations');
       font-weight: 300 900;
       font-stretch: 35% 100%;
       font-style: normal;
     }
 @font-face {
-      font-family: 'Inter var';
+      font-family: Inter;
       src: url('../../../fonts/Inter.var.woff2') format('woff2-variations');
       font-weight: normal;
       font-stretch: normal;
@@ -16,6 +16,7 @@
 }
 html {
     background-color: #000;
+    overflow-y: scroll;
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
@@ -24,7 +25,7 @@ html {
 }
 
 body {
-    font-family: "Inter", sans-serif;
+    font-family: Inter, sans-serif;
     font-size: .8em;
     line-height: 1.8em;
     text-align: left;
@@ -777,7 +778,7 @@ a img {
 
 .shareHeaderText
 {
-    font-family: "Inter", Georgia, serif;
+    font-family: Inter, Georgia, serif;
     color:black;
     display: inline-block;
 }

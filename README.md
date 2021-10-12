@@ -50,6 +50,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 
 ### Microsoft Sudoku (HTML5 edition)
 - Obtained necessary puzzle data and tweaked the code to enable the game to run offline.
+- Added 2 random music.
 - Removed tracking links.
 
 ### Microsoft Solitaire Collection

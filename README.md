@@ -10,6 +10,14 @@ Instructions for [downloading and playing offline here](https://yell0wsuit.githu
 
 The site also supports for downloading and importing save game data, so you can backup your data or keep your progress across browsers.
 
+## Important info about crashing error / unexpected white screen in Microsoft Jigsaw
+Due to the rendering error presents in Chromium browsers, the game may crash while loading the previews. In addition, you may experience a noticable delay when browsing websites, playing HTML5 games or watching videos. Steps to fix:
+- Check if hardware renderer is on in the browser setting.
+- Visit chrome://flags, type ``angle`` in the search box.
+- Choose ``D3D11on12`` if your PC supports DirectX12. If your PC is old, choose ``D3D9``.
+
+To check if your PC supports DirectX12, type <kbd>Win</kbd>+<kbd>R</kbd> and type ``dxdiag``. Look for ``DirectX Version`` at the bottom.
+
 ## Changes / enhancement
 
 ### Chrome Dino
@@ -105,6 +113,11 @@ The game code is from the old version, but added some quality-of-life changes fr
 - Removed ads
 - Removed code that redirects to the main page, which is bloated with ads
 
+### Doodle Champion Island Games
+- Make the game fullscreen.
+- Use ``pixelated`` (and other alternative alias) rendering to make the game look crisp on large screen. Due to this, the font has aliasing artifact.
+- Disable the default <kbd>ESC</kbd> key that closes the game.
+
 ## Credits
 - **Cut the Rope**, **Cut the Rope: Time Travel**: [https://www.cuttherope.net](https://www.cuttherope.net)
 - **Contre Jour**: [http://contrejour.ie/](http://contrejour.ie/) (dead link as of 08/31)
@@ -113,6 +126,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 - **Microsoft Sudoku**, **Microsoft Solitaire Collection**, **Microsoft Mahjong**, **Microsoft Ultimate Word Games**, **Microsoft Minesweeper**, **Microsoft Jigsaw**, **Microsoft Bubble**, **Microsoft Jewel**: [MSN Games](https://zone.msn.com/), [Game Distribution](https://gamedistribution.com/)
 - **Chrome Dino**: https://github.com/chromium/chromium/tree/master/components/neterror/resources
 - **Temple Run 2**: https://gamemonetize.com
+- **Doodle Champion Island Games**: https://www.google.com/doodles/doodle-champion-island-games-september-05
 
 ## Issues, discussions and pull requests (PRs)
 Feel free to open an issue if you find some problems with the game, or make a PR if you know how to fix it.  

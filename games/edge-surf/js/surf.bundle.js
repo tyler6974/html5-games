@@ -534,13 +534,14 @@
                     }
                     static defaultStats() {
                         return {
-                            timetrial_bestScore: -1,
                             endless_bestScore: -1,
-                            currentCharacter: 4,
-                            highVisibilityMode: false,
+                            zigzag_bestScore: -1,
+                            timetrial_bestScore: -1,
+                            currentCharacter: 1,
+                            theme: "surf",
                             mode: "endless",
-                            reducedSpeedMode: false,
-                            timetrial_bestScore: -0.001
+                            highVisibilityMode: false,
+                            reducedSpeedMode: false
                         }
                     }
                     static async getAllStats() {
@@ -594,15 +595,15 @@
                             })));
                     }
                     static recordUnload() {
-                        const e = Math.floor(Date.now() - he.sessionStartTime) || 0,
+                        const e = Math.floor(Date.now() - ne.sessionStartTime) || 0,
                             t = {
-                                zigzagGamesPlayed: he.numZigZagGames,
-                                endlessGamesPlayed: he.numEndlessGames,
-                                timetrialGamesPlayed: he.numTimeTrialGames
+                                zigzagGamesPlayed: ne.numZigZagGames,
+                                endlessGamesPlayed: ne.numEndlessGames,
+                                timetrialGamesPlayed: ne.numTimeTrialGames
                             };
-                        // Z.e9.send("record-unload", [t, e]), he.numZigZagGames = 0, he.numEndlessGames = 0, he.numTimeTrialGames = 0, he.sessionStartTime = Date.now()
+                        // Z.e9.send("record-unload", [t, e]), ne.numZigZagGames = 0, ne.numEndlessGames = 0, ne.numTimeTrialGames = 0, ne.sessionStartTime = Date.now()
                         if("undefined" != typeof Z.e9 && "function" == typeof Z.e9.send) {
-                            Z.e9.send("record-unload", [t, e]), he.numZigZagGames = 0, he.numEndlessGames = 0, he.numTimeTrialGames = 0, he.sessionStartTime = Date.now()
+                            Z.e9.send("record-unload", [t, e]), ne.numZigZagGames = 0, ne.numEndlessGames = 0, ne.numTimeTrialGames = 0, ne.sessionStartTime = Date.now()
                         }
                     }
                     static recordGameEnd(e) {

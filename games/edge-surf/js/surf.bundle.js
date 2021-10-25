@@ -547,52 +547,52 @@
                     static async getAllStats() {
                         return (
                             JSON.parse(localStorage.getItem("surfstats")) || ne.defaultStats()
-                            );
+                        );
                     }
                     static resetAllStats() {
                         localStorage.removeItem("surfstats");
                     }
-                    static saveEndlessHighScore(e) {                     
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                endless_bestScore: Math.floor(e)
-                            })));
+                    static saveEndlessHighScore(e) {
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            endless_bestScore: Math.floor(e)
+                        })));
                     }
                     static saveZigZagHighScore(e) {
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                zigzag_bestScore: Math.floor(e)
-                            })));
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            zigzag_bestScore: Math.floor(e)
+                        })));
                     }
                     static saveTimeTrialHighScore(e) {
                         let t = e;
-                            e > 0 && (t *= 1e3);
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                timetrial_bestScore: Math.floor(t)
-                            })));
+                        e > 0 && (t *= 1e3);
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            timetrial_bestScore: Math.floor(t)
+                        })));
                     }
                     static saveGameMode(e) {
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                mode: e
-                            })));
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            mode: e
+                        })));
                     }
                     static saveHighVisibilityMode(e) {
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                highVisibilityMode: e
-                            })));
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            highVisibilityMode: e
+                        })));
                     }
                     static saveReducedSpeedMode(e) {
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                reducedSpeedMode: e
-                            })));
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            reducedSpeedMode: e
+                        })));
                     }
                     static saveDefaultCharacter(e) {
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                currentCharacter: e
-                            })));
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            currentCharacter: e
+                        })));
                     }
                     static saveDefaultTheme(e) {
-                            localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
-                                theme: e
-                            })));
+                        localStorage.setItem("surfstats", JSON.stringify(Object.assign(Object.assign({}, JSON.parse(localStorage.getItem("surfstats"))), {
+                            theme: e
+                        })));
                     }
                     static recordUnload() {
                         const e = Math.floor(Date.now() - ne.sessionStartTime) || 0,
@@ -602,7 +602,7 @@
                                 timetrialGamesPlayed: ne.numTimeTrialGames
                             };
                         // Z.e9.send("record-unload", [t, e]), ne.numZigZagGames = 0, ne.numEndlessGames = 0, ne.numTimeTrialGames = 0, ne.sessionStartTime = Date.now()
-                        if("undefined" != typeof Z.e9 && "function" == typeof Z.e9.send) {
+                        if ("undefined" != typeof Z.e9 && "function" == typeof Z.e9.send) {
                             Z.e9.send("record-unload", [t, e]), ne.numZigZagGames = 0, ne.numEndlessGames = 0, ne.numTimeTrialGames = 0, ne.sessionStartTime = Date.now()
                         }
                     }
@@ -612,7 +612,7 @@
                             score: Math.floor(e.score)
                         };
                         // Z.e9.send("record-game-end", [t])
-                        if("undefined" != typeof Z.e9 && "function" == typeof Z.e9.send) {
+                        if ("undefined" != typeof Z.e9 && "function" == typeof Z.e9.send) {
                             Z.e9.send("record-game-end", [t])
                         }
                     }

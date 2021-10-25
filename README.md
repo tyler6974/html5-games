@@ -47,7 +47,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 - Use sound and music from the mobile version.
 
 ### Edge's Let's Surf
-- New code from Microsoft Edge 93.0.961.38
+- New code from Microsoft Edge v95
 - Use ``localstorage`` for storing high score instead of ``chrome.send``, which is not present for client-side
    - To accommodate this, used new localstorage variable to avoid conflicting with the old version.
 - Added support for PWA. You can install this game as an app to play offline.

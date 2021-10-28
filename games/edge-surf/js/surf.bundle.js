@@ -336,7 +336,7 @@
                             state: Y.Menu,
                             flyoutActive: !1,
                             forcedColors: !1,
-                            inputType: Z.pz.getBoolean("isMobile") ? J.Touch : J.Keyboard,
+                            inputType: isTouch() ? J.Touch : J.Keyboard,
                             w: 0,
                             h: 0,
                             x: 0,

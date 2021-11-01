@@ -425,15 +425,21 @@
         </footer>
     </div>
   </div>
-  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
-      <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#2d7d9a" />
-    </svg></div>
+    <div id="ms-spinner" class="fullscreen" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+    <div slot="indeterminate">
+      <svg class="spinner-svg" viewBox="0 0 16 16">
+        <circle class="outer-circle" cx="8px" cy="8px" r="7px"></circle>
+        <circle class="inner-circle inner-circle-animation" cx="8px" cy="8px" r="7px"></circle>
+      </svg>
+    </div>
+  </div>
   <script src="../scripts/script.js"></script>
   <script type="text/javascript">
     $(window).on('load', function() {
-      if ($('#ftco-loader').length > 0) {
-        $('#ftco-loader').removeClass('show');
-      }
+      if ($('#ms-spinner').length > 0) {
+				$('#ms-spinner').removeClass('fullscreen');
+            
+    }
     });
     var numItems = $('.card').length - 1;
     $('.count').text(numItems);

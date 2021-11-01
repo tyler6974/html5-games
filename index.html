@@ -1,453 +1,448 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-
-<head>
-  <meta charset="UTF-8">
-  <title>Games - yell0wsuit</title>
-  <link rel="stylesheet" href="../css/style.css">
-  <link href="../css/pro.min.css" rel="stylesheet">
-  <link href="../css/bootstrap.min.css" rel="stylesheet">
-  <script type='text/javascript' src="../scripts/jquery.min.js"></script>
-  <script type='text/javascript' src="../scripts/popper.min.js"></script>
-  <script type='text/javascript' src="../scripts/bootstrap.min.js"></script>
-  <script src="../scripts/saveandexport.js"></script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
-  <div class="modal hide fade" id="downloadModal">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Before downloading...</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-        <!-- Modal body -->
-        <div class="modal-body">
-          Have you refreshed this page after playing? This is to ensure your save data are up-to-date.
-        </div>
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-custom" onclick="saveTemplateAsFile('datagames-yell0wsuit.json', items);" data-dismiss="modal">Yes, I have</button>
-          <button type="button" class="btn btn-outline-secondary" onclick="window.location.reload();" data-dismiss="modal">No, refresh it</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="modal hide fade" id="importModal">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Status</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-        <!-- Modal body -->
-        <div class="modal-body">
-          Sucessfully imported game data.
-        </div>
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-custom" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="modal hide fade" id="importFailedModal">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Status</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-        <!-- Modal body -->
-        <div class="modal-body">
-          Invalid file type. Failed to import data.
-        </div>
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-custom" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="modal hide fade" id="confirmModal">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <!-- Modal Header -->
-        <div class="modal-header">
-          <h4 class="modal-title">Confirm overwrite?</h4>
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-        </div>
-        <!-- Modal body -->
-        <div class="modal-body">
-          This will overwrite the current save data. Are you sure?
-        </div>
-        <!-- Modal footer -->
-        <div class="modal-footer">
-          <button type="button" class="btn btn-warning" onclick="input.click();" data-dismiss="modal">Yes</button>
-          <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">No</button>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="sidebar">
-    <div class="logo-details">
-      <i class="fal fa-bars" id="btn"></i>
-    </div>
-    <ul class="nav-list">
-      <li>
-        <a href="../index.html">
-          <i class="fal fa-home-alt"></i>
-          <span class="links_name">Homepage</span>
-        </a>
-        <span class="tooltipcustom">Homepage</span>
-      </li>
-      <li class="active">
-        <a class="active" href="#">
-          <strong>|</strong><i class="active fal fa-gamepad"></i>
-          <span class="links_name active">Games</span>
-        </a>
-        <span class="tooltipcustom">Games</span>
-      </li>
-      <li>
-        <a href="../english.html">
-          <i class="fal fa-book-alt"></i>
-          <span class="links_name">Oxford learning tools</span>
-        </a>
-        <span class="tooltipcustom">Oxford learning tools</span>
-      </li>
-      <li>
-        <a href="#">
-          <i class="fal fa-folder"></i>
-          <span class="links_name">Other stuff (soon)</span>
-        </a>
-        <span class="tooltipcustom">Other stuff (soon)</span>
-      </li>
-    </ul>
-  </div>
-  <div class="wrapper d-flex align-items-stretch">
-    <div id="content" class="p-4 p-md-5">
-      <h1 class="mb-4">HTML5 games</h1>
-      <p>Flash is dead, long live HTML!</p>
-      <p><a href="offline.html">Click here to learn how to play offline on PC <i class="fal fa-external-link"></i></a></p>
-      <p><a data-toggle="modal" data-target="#downloadModal" href="javascript:void(0);">Download your data</a> | <a data-toggle="modal" data-target="#confirmModal" href="javascript:void(0);">Import your data</a></p>
-      <p>Game count: <span class="count"></span></p>
-      <div class="row">
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/11.jpg" class="card-img-top" alt="Chrome Dino" />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Chrome Dino</h4>
-              <p class="mb-4">
-                A built-in browser game in the Google Chrome web browser. Guide the dinosaur to avoid cacti and birds. Featuring day & night cycle, fullscreen support and high score preservation. It also can be accessed from Google Chrome by typing chrome://dino in the address bar.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly<br />
-                <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
-              </p>
-              <a href="games/chrome-dino" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+    <head>
+        <meta charset="UTF-8">
+        <title>Games - yell0wsuit</title>
+        <link rel="stylesheet" href="../css/style.css">
+        <link href="../css/pro.min.css" rel="stylesheet">
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <script type='text/javascript' src="../scripts/jquery.min.js"></script>
+        <script type='text/javascript' src="../scripts/popper.min.js"></script>
+        <script type='text/javascript' src="../scripts/bootstrap.min.js"></script>
+        <script src="../scripts/saveandexport.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="modal hide fade" id="downloadModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Before downloading...</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Have you refreshed this page after playing? This is to ensure your save data are up-to-date.
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-custom" onclick="saveTemplateAsFile('datagames-yell0wsuit.json', items);" data-dismiss="modal">Yes, I have</button>
+                        <button type="button" class="btn btn-outline-secondary" onclick="window.location.reload();" data-dismiss="modal">No, refresh it</button>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/12.jpg" class="card-img-top" alt="Cut the Rope (HTML5 edition)" />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Cut the Rope (HTML5 edition)</h4>
-              <p class="mb-4">
-                To showcase the ability of HTML5 and Internet Explorer, Microsoft and ZeptoLab have created an HTML5 version of the mobile puzzle game, Cut the Rope. This version is modified to have 275 levels from the Microsoft Store, plus 25 levels from Round 5 promotion.
-              </p>
-              <a href="games/CutTheRope" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+        <div class="modal hide fade" id="importModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Status</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Sucessfully imported game data.
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-custom" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/10.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Edge's Let's Surf</h4>
-              <p class="mb-4">
-                Since Microsoft Edge moved to Chromium codebase, Microsoft has created a built-in offline game, "Let's Surf", which is a replacement for Google Chrome's Dino. It also can be accessed from Microsoft Edge by typing edge://surf in the address bar.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly<br />
-                <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
-              </p>
-              <a href="games/edge-surf" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+        <div class="modal hide fade" id="importFailedModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Status</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        Invalid file type. Failed to import data.
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-custom" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/02.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Cut the Rope: Time Travel (BK edition)</h4>
-              <p class="mb-4">
-                As a part of promotion in "Burger King Happy Meals" in 2013, play 30 brand new levels in this new edition!
-              </p>
-              <a href="games/ctr-TimeTravel" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+        <div class="modal hide fade" id="confirmModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Confirm overwrite?</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        This will overwrite the current save data. Are you sure?
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-warning" onclick="input.click();" data-dismiss="modal">Yes</button>
+                        <button type="button" class="btn btn-outline-secondary" data-dismiss="modal">No</button>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/01.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Contre Jour (IE version)</h4>
-              <p class="mb-4">
-                As a part of Internet Explorer 9's promotion campaign, Mokus Games and Microsoft have created a web edition for Contre Jour, featuring an exclusive world for multi-touch screens.
-              </p>
-              <a href="games/ContreJour" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+        <div class="sidebar">
+            <div class="logo-details">
+                <i class="fal fa-bars" id="btn"></i>
             </div>
-          </div>
+            <ul class="nav-list">
+                <li>
+                    <a href="../index.html">
+                    <i class="fal fa-home-alt"></i>
+                    <span class="links_name">Homepage</span>
+                    </a>
+                    <span class="tooltipcustom">Homepage</span>
+                </li>
+                <li class="active">
+                    <a class="active" href="#">
+                    <strong>|</strong><i class="active fal fa-gamepad"></i>
+                    <span class="links_name active">Games</span>
+                    </a>
+                    <span class="tooltipcustom">Games</span>
+                </li>
+                <li>
+                    <a href="../english.html">
+                    <i class="fal fa-book-alt"></i>
+                    <span class="links_name">Oxford learning tools</span>
+                    </a>
+                    <span class="tooltipcustom">Oxford learning tools</span>
+                </li>
+                <li>
+                    <a href="#">
+                    <i class="fal fa-folder"></i>
+                    <span class="links_name">Other stuff (soon)</span>
+                    </a>
+                    <span class="tooltipcustom">Other stuff (soon)</span>
+                </li>
+            </ul>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/12.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Cut the Rope (1080p edition)</h4>
-              <p class="mb-4">
-                Collect gold stars, discover hidden prizes and unlock exciting new levels in this addictively fun, award-winning, physics-based game!
-              </p>
-              <a href="games/ctr-1080p" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+        <div class="wrapper d-flex align-items-stretch">
+            <div id="content" class="p-4 p-md-5">
+                <h1 class="mb-4">HTML5 games</h1>
+                <p>Flash is dead, long live HTML!</p>
+                <p><a href="offline.html">Click here to learn how to play offline on PC <i class="fal fa-external-link"></i></a></p>
+                <p><a data-toggle="modal" data-target="#downloadModal" href="javascript:void(0);">Download your data</a> | <a data-toggle="modal" data-target="#confirmModal" href="javascript:void(0);">Import your data</a></p>
+                <p>Game count: <span class="count"></span></p>
+                <div class="row">
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/11.jpg" class="card-img-top" alt="Chrome Dino" />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Chrome Dino</h4>
+                                <p class="mb-4">
+                                    A built-in browser game in the Google Chrome web browser. Guide the dinosaur to avoid cacti and birds. Featuring day & night cycle, fullscreen support and high score preservation. It also can be accessed from Google Chrome by typing chrome://dino in the address bar.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly<br />
+                                    <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
+                                </p>
+                                <a href="games/chrome-dino" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/12.jpg" class="card-img-top" alt="Cut the Rope (HTML5 edition)" />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Cut the Rope (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    To showcase the ability of HTML5 and Internet Explorer, Microsoft and ZeptoLab have created an HTML5 version of the mobile puzzle game, Cut the Rope. This version is modified to have 275 levels from the Microsoft Store, plus 25 levels from Round 5 promotion.
+                                </p>
+                                <a href="games/CutTheRope" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/10.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Edge's Let's Surf</h4>
+                                <p class="mb-4">
+                                    Since Microsoft Edge moved to Chromium codebase, Microsoft has created a built-in offline game, "Let's Surf", which is a replacement for Google Chrome's Dino. It also can be accessed from Microsoft Edge by typing edge://surf in the address bar.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly<br />
+                                    <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
+                                </p>
+                                <a href="games/edge-surf" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/02.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Cut the Rope: Time Travel (BK edition)</h4>
+                                <p class="mb-4">
+                                    As a part of promotion in "Burger King Happy Meals" in 2013, play 30 brand new levels in this new edition!
+                                </p>
+                                <a href="games/ctr-TimeTravel" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/01.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Contre Jour (IE version)</h4>
+                                <p class="mb-4">
+                                    As a part of Internet Explorer 9's promotion campaign, Mokus Games and Microsoft have created a web edition for Contre Jour, featuring an exclusive world for multi-touch screens.
+                                </p>
+                                <a href="games/ContreJour" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/12.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Cut the Rope (1080p edition)</h4>
+                                <p class="mb-4">
+                                    Collect gold stars, discover hidden prizes and unlock exciting new levels in this addictively fun, award-winning, physics-based game!
+                                </p>
+                                <a href="games/ctr-1080p" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/24.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Cut the Rope: Holiday Gift</h4>
+                                <p class="mb-4">
+                                    ZeptoLab first released this game on iOS in 2011 (and on Android in 2013) only during holiday season each year. After that the app is removed from the store. From 2016 it seems like this app is discontinued.
+                                </p>
+                                <a href="games/ctr-holiday" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/03.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Bejeweled (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    The game has been customized specifically for HTML5 browser, with advanced 3D accelerated graphics and effects, and features two dazzling modes: Classic and Speed. Unfortunately, it was removed from Google Chrome Store.
+                                </p>
+                                <a href="games/bejeweled" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/04.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Solitaire Collection (Web edition)</h4>
+                                <p class="mb-4">
+                                    The best solitaire experience to date, the Microsoft Solitaire Collection is five different card games in one: Klondike (Classic Solitaire), Spider, Freecell, Pyramid, and TriPeaks. Please note that some modes require an active Internet connection.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/ms-solitaire" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/13.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Sudoku (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    Play the number game that adds up to fun! Use logic to fill in the puzzle's nine rows and columns with numbers 1-9. Also featuring Irregular (Jigsaw) puzzles.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/ms-sudoku" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/14.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Mahjong (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    Microsoft Mahjong is the classic tile-matching game now updated with Daily Challenges, a new look and feel, and over 40 puzzles! Enjoy gorgeous graphics and relaxing sounds with multiple visual themes to choose from. Please note that this game requires an active Internet connection.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/ms-mahjong" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/15.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Minesweeper (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    Play the classic puzzle game that has been a part of Windows for more than 20 years, now reimagined. Please note that the Daily Challenge mode requires an active Internet connection.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/ms-minesweeper" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/16.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Ultimate Word Games (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    3-in-1 word games: Crosswords, Wordament, and Word Twister. With multiple ways to play each game mode and Daily Challenges, Microsoft Ultimate Word Games is a great way to exercise your brain and relax while having fun! Please note that this game requires an active Internet connection.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/ms-wordgames" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/19.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Jigsaw (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    Microsoft Jigsaw includes tons of themes and puzzle images to choose from (over 2,500+ puzzles), and you can select the number of pieces in the puzzle to make it easier or more difficult.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/ms-jigsaw" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/20.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Bubble (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    Jump into bubble shooting fun with bright colors, breathtaking backgrounds & thrilling bubble action! Use skill & strategy to match three or more bubbles of the same color. Earn coins and add power-ups to solve tricky puzzles. Unlock NEW & exciting levels with unique objectives & majestic mountainsides.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly<br />
+                                    <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
+                                </p>
+                                <a href="games/ms-bubble" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/21.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Microsoft Jewel (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    Journey through a whimsical world of jewels with this match 3 puzzle game. Match colorful gems to level up with classic gameplay challenges. Create longer match combinations to earn extra points, unlock special jewels, and beat your highest score! Set in a dream castle in the sky, players of all ages will enjoy endless hours of fun with fantasy flair.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly<br />
+                                    <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
+                                </p>
+                                <a href="games/ms-jewel" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/22.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Temple Run 2 (HTML5 edition)</h4>
+                                <p class="mb-4">
+                                    An infinite runner where the player must escape from his enemy and avoid all the obstacles and traps that are found along the way. Traverse cliffs, forests and even mines, and help this fearless treasure hunter escape with the gold idol.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/templerun2" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-5">
+                        <div class="card">
+                            <img src="../images/23.jpg" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h4 class="semibold mb-3">Doodle Champion Island Games</h4>
+                                <p class="mb-4">
+                                    An interactive Google Doodle to celebrate the 2020 Summer Olympics and 2020 Summer Paralympics as well as Japanese folklore and culture.
+                                </p>
+                                <p class="mb-4 checked">
+                                    <i class="fal fa-mobile"></i> Mobile friendly
+                                </p>
+                                <a href="games/google-kitsune" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <footer class="bg-primary text-white mb-5" style="background-color:#2d7d9a !important">
+                    <!-- Grid container -->
+                    <div class="container p-4">
+                        <!--Grid row-->
+                        <div class="row">
+                            <!--Grid column-->
+                            <div class="text-center col-lg-12">
+                                <p>
+                                    Games shown in this website are the property of their respective owners.
+                                </p>
+                                <p>
+                                    Games: &copy Google / ZeptoLab / Mokus Games / Microsoft / PopCap / Imangi Studios
+                                </p>
+                            </div>
+                            <!--Grid column-->
+                        </div>
+                        <!--Grid row-->
+                    </div>
+                    <!-- Grid container -->
+                    <!-- Copyright -->
+                    <div
+                        class="text-center p-3"
+                        style="background-color: rgba(0, 0, 0, 0.2); color: rgba(255, 255, 255, 0.6);"
+                        >
+                        Website made by yell0wsuit.
+                    </div>
+                    <!-- Copyright -->
+                </footer>
             </div>
-          </div>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/24.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Cut the Rope: Holiday Gift</h4>
-              <p class="mb-4">
-                ZeptoLab first released this game on iOS in 2011 (and on Android in 2013) only during holiday season each year. After that the app is removed from the store. From 2016 it seems like this app is discontinued.
-              </p>
-              <a href="games/ctr-holiday" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
+        <div id="ms-spinner" class="fullscreen show" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+            <div slot="indeterminate">
+                <svg class="spinner-svg" viewBox="0 0 16 16">
+                    <circle class="outer-circle" cx="8px" cy="8px" r="7px"></circle>
+                    <circle class="inner-circle inner-circle-animation" cx="8px" cy="8px" r="7px"></circle>
+                </svg>
             </div>
-          </div>
         </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/03.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Bejeweled (HTML5 edition)</h4>
-              <p class="mb-4">
-                The game has been customized specifically for HTML5 browser, with advanced 3D accelerated graphics and effects, and features two dazzling modes: Classic and Speed. Unfortunately, it was removed from Google Chrome Store.
-              </p>
-              <a href="games/bejeweled" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/04.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Solitaire Collection (Web edition)</h4>
-              <p class="mb-4">
-                The best solitaire experience to date, the Microsoft Solitaire Collection is five different card games in one: Klondike (Classic Solitaire), Spider, Freecell, Pyramid, and TriPeaks. Please note that some modes require an active Internet connection.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/ms-solitaire" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/13.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Sudoku (HTML5 edition)</h4>
-              <p class="mb-4">
-                Play the number game that adds up to fun! Use logic to fill in the puzzle's nine rows and columns with numbers 1-9. Also featuring Irregular (Jigsaw) puzzles.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/ms-sudoku" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/14.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Mahjong (HTML5 edition)</h4>
-              <p class="mb-4">
-                Microsoft Mahjong is the classic tile-matching game now updated with Daily Challenges, a new look and feel, and over 40 puzzles! Enjoy gorgeous graphics and relaxing sounds with multiple visual themes to choose from. Please note that this game requires an active Internet connection.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/ms-mahjong" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/15.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Minesweeper (HTML5 edition)</h4>
-              <p class="mb-4">
-                Play the classic puzzle game that has been a part of Windows for more than 20 years, now reimagined. Please note that the Daily Challenge mode requires an active Internet connection.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/ms-minesweeper" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/16.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Ultimate Word Games (HTML5 edition)</h4>
-              <p class="mb-4">
-                3-in-1 word games: Crosswords, Wordament, and Word Twister. With multiple ways to play each game mode and Daily Challenges, Microsoft Ultimate Word Games is a great way to exercise your brain and relax while having fun! Please note that this game requires an active Internet connection.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/ms-wordgames" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/19.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Jigsaw (HTML5 edition)</h4>
-              <p class="mb-4">
-                Microsoft Jigsaw includes tons of themes and puzzle images to choose from (over 2,500+ puzzles), and you can select the number of pieces in the puzzle to make it easier or more difficult.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/ms-jigsaw" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/20.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Bubble (HTML5 edition)</h4>
-              <p class="mb-4">
-                Jump into bubble shooting fun with bright colors, breathtaking backgrounds & thrilling bubble action! Use skill & strategy to match three or more bubbles of the same color. Earn coins and add power-ups to solve tricky puzzles. Unlock NEW & exciting levels with unique objectives & majestic mountainsides.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly<br />
-                <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
-              </p>
-              <a href="games/ms-bubble" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/21.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Microsoft Jewel (HTML5 edition)</h4>
-              <p class="mb-4">
-                Journey through a whimsical world of jewels with this match 3 puzzle game. Match colorful gems to level up with classic gameplay challenges. Create longer match combinations to earn extra points, unlock special jewels, and beat your highest score! Set in a dream castle in the sky, players of all ages will enjoy endless hours of fun with fantasy flair.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly<br />
-                <i class="fal fa-window-alt"></i> PWA support <a tabindex="0" data-toggle="popover" data-content="Progressive Web App (PWA) is a technology that allows a website to be installed as an app. This is useful for mobile devices as their browsers don't usually have the fullscreen function. Some PWAs can be installed for offline use."><i class="fal fa-info-circle"></i></a>
-              </p>
-              <a href="games/ms-jewel" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/22.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Temple Run 2 (HTML5 edition)</h4>
-              <p class="mb-4">
-                An infinite runner where the player must escape from his enemy and avoid all the obstacles and traps that are found along the way. Traverse cliffs, forests and even mines, and help this fearless treasure hunter escape with the gold idol.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/templerun2" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 mb-5">
-          <div class="card">
-            <img src="../images/23.jpg" class="card-img-top" alt="..." />
-            <div class="card-body">
-              <h4 class="semibold mb-3">Doodle Champion Island Games</h4>
-              <p class="mb-4">
-                An interactive Google Doodle to celebrate the 2020 Summer Olympics and 2020 Summer Paralympics as well as Japanese folklore and culture.
-              </p>
-              <p class="mb-4 checked">
-                <i class="fal fa-mobile"></i> Mobile friendly
-              </p>
-              <a href="games/google-kitsune" target="_blank" class="btn btn-custom">Play now <i class="fal fa-external-link"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <footer class="bg-primary text-white mb-5" style="background-color:#2d7d9a !important">
-          <!-- Grid container -->
-          <div class="container p-4">
-            <!--Grid row-->
-            <div class="row">
-              <!--Grid column-->
-              <div class="text-center col-lg-12">
-                <p>
-                  Games shown in this website are the property of their respective owners.
-                </p>
-                <p>
-                  Games: &copy Google / ZeptoLab / Mokus Games / Microsoft / PopCap / Imangi Studios
-                </p>
-              </div>
-
-              <!--Grid column-->
-            </div>
-            <!--Grid row-->
-          </div>
-          <!-- Grid container -->
-
-          <!-- Copyright -->
-          <div
-            class="text-center p-3"
-            style="background-color: rgba(0, 0, 0, 0.2); color: rgba(255, 255, 255, 0.6);"
-          >
-            Website made by yell0wsuit.
-          </div>
-          <!-- Copyright -->
-        </footer>
-    </div>
-  </div>
-    <div id="ms-spinner" class="fullscreen" role="progressbar" aria-valuemin="0" aria-valuemax="100">
-    <div slot="indeterminate">
-      <svg class="spinner-svg" viewBox="0 0 16 16">
-        <circle class="outer-circle" cx="8px" cy="8px" r="7px"></circle>
-        <circle class="inner-circle inner-circle-animation" cx="8px" cy="8px" r="7px"></circle>
-      </svg>
-    </div>
-  </div>
-  <script src="../scripts/script.js"></script>
-  <script type="text/javascript">
-    $(window).on('load', function() {
-      if ($('#ms-spinner').length > 0) {
-				$('#ms-spinner').removeClass('fullscreen');
+        <script src="../scripts/script.js"></script>
+        <script type="text/javascript">
+            $(window).on('load', function() {
+              if ($('#ms-spinner').length > 0) {
+            $('#ms-spinner').removeClass('show');
+                    
+            }
+            });
+            var numItems = $('.card').length - 1;
+            $('.count').text(numItems);
             
-    }
-    });
-    var numItems = $('.card').length - 1;
-    $('.count').text(numItems);
-    
-    $(function () {
-        $('[data-toggle="popover"]').popover({trigger: 'focus'})
-    })
-  </script>
-</body>
-
+            $(function () {
+                $('[data-toggle="popover"]').popover({trigger: 'focus'})
+            })
+        </script>
+    </body>
 </html>

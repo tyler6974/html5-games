@@ -48,7 +48,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 
 ### Edge's Let's Surf
 - Added new theme, "Let's Ski". This is from v97 Canary.
-   - To accommodate this, add a dropdown menu so you can switch to 2 themes.
+   - To accommodate this, add a dropdown menu so you can switch between 2 themes.
 - New code from Microsoft Edge v95
 - Added new character, Linux Tux. This is taken from Edge v97 (Dev) from Linux version.
 - Use ``localstorage`` for storing high score instead of ``chrome.send``, which is not present for client-side

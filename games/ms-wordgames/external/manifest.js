@@ -1,5 +1,5 @@
 {
-	"_comment": "Version 244, Added October 2021 content",
+	"_comment": "Version 250, Updated Win10 News",
 	"parameters":
       {
         "MAX_CLOUD_SYNC_DURATION":"120",
@@ -668,7 +668,21 @@
             },
 			{
                "key":"DailyChallenges202110",
-               "path":"https://download-ssl.msgamestudios.com/content/mgs/ce/production/UltimateWordGamesWin10/prod/DailyChallenges/Calendar/202110/1/202110.json",
+               "path":"external/DailyChallenges/2021/202110.json",
+               "compressed":false,
+               "encrypted":false,
+               "version":1
+            },
+            {
+               "key":"DailyChallenges202110",
+               "path":"external/DailyChallenges/2021/202111.json",
+               "compressed":false,
+               "encrypted":false,
+               "version":1
+            },
+            {
+               "key":"DailyChallenges202110",
+               "path":"external/DailyChallenges/2021/202112.json",
                "compressed":false,
                "encrypted":false,
                "version":1

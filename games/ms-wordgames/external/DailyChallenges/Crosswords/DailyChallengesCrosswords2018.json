@@ -368,6 +368,22 @@
       "compressed": false,
       "encrypted": false,
       "version": 1
+    },
+    {
+      "key": "MysteryClues202111",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/202111.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+    {
+      "key": "MysteryClues202112",
+      "group": "MysteryClues",
+      "path": "external/DailyChallenges/Crosswords/MysteryClues/202112.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
     }
 	],
 	"PuzzlesMetaData": [
@@ -735,6 +751,22 @@
       "key": "Puzzles202110",
       "group": "Puzzle",
       "path": "external/DailyChallenges/Crosswords/Puzzles/202110.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+    {
+      "key": "Puzzles202111",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/202111.json",
+      "compressed": false,
+      "encrypted": false,
+      "version": 1
+    },
+    {
+      "key": "Puzzles202112",
+      "group": "Puzzle",
+      "path": "external/DailyChallenges/Crosswords/Puzzles/202112.json",
       "compressed": false,
       "encrypted": false,
       "version": 1

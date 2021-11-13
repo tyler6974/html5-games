@@ -608,6 +608,19 @@
 			"index": 46,
 			"mapName": "World 46"
 		},
+        {
+			"key": "Wordament202111en-US",
+			"group": "ProgressionMaps/Wordament",
+			"path": "external/SinglePlayer/Wordament/en-US/Wordament_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Wordament_202111",
+			"game": "Wordament",
+			"lang": "en-US",
+			"index": 47,
+			"mapName": "World 47"
+		},
 		{
 			"key": "Wordament201801fr-FR",
 			"group": "ProgressionMaps/Wordament",
@@ -1205,6 +1218,19 @@
 			"lang": "fr-FR",
 			"index": 46,
 			"mapName": "Monde 46"
+		},
+        {
+			"key": "Wordament202111fr-FR",
+			"group": "ProgressionMaps/Wordament",
+			"path": "external/SinglePlayer/Wordament/fr-FR/Wordament_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Wordament_202111",
+			"game": "Wordament",
+			"lang": "fr-FR",
+			"index": 47,
+			"mapName": "Monde 47"
 		},
 		{
 			"key": "Wordament201801es-ES",
@@ -1804,6 +1830,19 @@
 			"index": 46,
 			"mapName": "Mundo 46"
 		},
+        {
+			"key": "Wordament202111es-ES",
+			"group": "ProgressionMaps/Wordament",
+			"path": "external/SinglePlayer/Wordament/es-ES/Wordament_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Wordament_202111",
+			"game": "Wordament",
+			"lang": "es-ES",
+			"index": 47,
+			"mapName": "Mundo 47"
+		},
 		{
 			"key": "Wordament201801it-IT",
 			"group": "ProgressionMaps/Wordament",
@@ -2401,6 +2440,19 @@
 			"lang": "it-IT",
 			"index": 46,
 			"mapName": "Mondo 46"
+		},
+        {
+			"key": "Wordament202111it-IT",
+			"group": "ProgressionMaps/Wordament",
+			"path": "external/SinglePlayer/Wordament/it-IT/Wordament_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Wordament_202111",
+			"game": "Wordament",
+			"lang": "it-IT",
+			"index": 47,
+			"mapName": "Mondo 47"
 		},
 		{
 			"key": "Wordament201801de-DE",
@@ -3000,6 +3052,19 @@
 			"index": 46,
 			"mapName": "Welt 46"
 		},
+        {
+			"key": "Wordament202111de-DE",
+			"group": "ProgressionMaps/Wordament",
+			"path": "external/SinglePlayer/Wordament/de-DE/Wordament_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Wordament_202111",
+			"game": "Wordament",
+			"lang": "de-DE",
+			"index": 47,
+			"mapName": "Welt 47"
+		},
 		{
 			"key": "Jumble201801en-US",
 			"group": "ProgressionMaps/Jumble",
@@ -3597,6 +3662,19 @@
 			"lang": "en-US",
 			"index": 46,
 			"mapName": "World 46"
+		},
+        {
+			"key": "Jumble202111en-US",
+			"group": "ProgressionMaps/Jumble",
+			"path": "external/SinglePlayer/Jumble/en-US/Jumble_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Jumble_202111",
+			"game": "Jumble",
+			"lang": "en-US",
+			"index": 47,
+			"mapName": "World 47"
 		},
 		{
 			"key": "Jumble201801fr-FR",
@@ -4196,6 +4274,19 @@
 			"index": 46,
 			"mapName": "Monde 46"
 		},
+        {
+			"key": "Jumble202111fr-FR",
+			"group": "ProgressionMaps/Jumble",
+			"path": "external/SinglePlayer/Jumble/fr-FR/Jumble_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Jumble_202111",
+			"game": "Jumble",
+			"lang": "fr-FR",
+			"index": 47,
+			"mapName": "Monde 47"
+		},
 		{
 			"key": "Jumble201801es-ES",
 			"group": "ProgressionMaps/Jumble",
@@ -4793,6 +4884,19 @@
 			"lang": "es-ES",
 			"index": 46,
 			"mapName": "Mundo 46"
+		},
+        {
+			"key": "Jumble202111es-ES",
+			"group": "ProgressionMaps/Jumble",
+			"path": "external/SinglePlayer/Jumble/es-ES/Jumble_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Jumble_202111",
+			"game": "Jumble",
+			"lang": "es-ES",
+			"index": 47,
+			"mapName": "Mundo 47
 		},
 		{
 			"key": "Jumble201801it_IT",
@@ -5392,6 +5496,19 @@
 			"index": 46,
 			"mapName": "Mondo 46"
 		},
+        {
+			"key": "Jumble202111it-IT",
+			"group": "ProgressionMaps/Jumble",
+			"path": "external/SinglePlayer/Jumble/it-IT/Jumble_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Jumble_202111",
+			"game": "Jumble",
+			"lang": "it-IT",
+			"index": 47,
+			"mapName": "Mondo 47"
+		},
 		{
 			"key": "Jumble201801de-DE",
 			"group": "ProgressionMaps/Jumble",
@@ -5989,6 +6106,19 @@
 			"lang": "de-DE",
 			"index": 46,
 			"mapName": "Welt 46"
+		},
+        {
+			"key": "Jumble202111de-DE",
+			"group": "ProgressionMaps/Jumble",
+			"path": "external/SinglePlayer/Jumble/de-DE/Jumble_202111.bytes",
+			"compressed": true,
+			"encrypted": false,
+			"version": 1,
+			"mapId": "Jumble_202111",
+			"game": "Jumble",
+			"lang": "de-DE",
+			"index": 47,
+			"mapName": "Welt 47"
 		},
 		{
 			"key": "Crossword201801en-US",

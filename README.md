@@ -130,6 +130,7 @@ The game code is from the old version, but added some quality-of-life changes fr
 - **Chrome Dino**: https://github.com/chromium/chromium/tree/master/components/neterror/resources
 - **Temple Run 2**: https://gamemonetize.com
 - **Doodle Champion Island Games**: https://www.google.com/doodles/doodle-champion-island-games-september-05
+- **Vivaldia**: Porcelain Fortress, Vivaldi
 
 ## Issues, discussions and pull requests (PRs)
 Feel free to open an issue if you find some problems with the game, or make a PR if you know how to fix it.  
